@@ -12,8 +12,8 @@ ICML is one of the premier conferences on machine learning, and includes a wide 
  - Date:  June 14 or 15, 2019
  - Location:   Long Beach, California, USA
  - Submission deadline:  April 30, 11:59 PM Pacific Time
- - Submission website:  [https://cmt3.research.microsoft.com/CCAI2019]
- - Contact: [climatechangeai.icml2019@gmail.com]
+ - Submission website:  <https://cmt3.research.microsoft.com/CCAI2019>
+ - Contact: <climatechangeai.icml2019@gmail.com>
 
 ## Call For Papers
 We invite submission of extended abstracts on machine learning applied to problems in climate mitigation, adaptation, or modeling, including but not limited to the following topics:
@@ -31,7 +31,7 @@ We invite submission of extended abstracts on machine learning applied to proble
 
 Accepted submissions will be invited to give poster presentations at the workshop, of which some will be selected for spotlight talks.  Please contact climatechangeai.icml2019@gmail.com with questions, or if visa considerations make earlier notification important.
 
-Dual-submissions are allowed, and the workshop does not record proceedings. All submissions must be through the website [https://cmt3.research.microsoft.com/CCAI2019]. Submissions will be reviewed double-blind; do your best to anonymize your submission, and do not include identifying information for authors in the PDF. We encourage, but do not require, use of the (ICML style template)[https://icml.cc/Conferences/2019/StyleAuthorInstructions] (please do not use the “Accepted” format).
+Dual-submissions are allowed, and the workshop does not record proceedings. All submissions must be through the [website](https://cmt3.research.microsoft.com/CCAI2019). Submissions will be reviewed double-blind; do your best to anonymize your submission, and do not include identifying information for authors in the PDF. We encourage, but do not require, use of the [ICML style template](https://icml.cc/Conferences/2019/StyleAuthorInstructions) (please do not use the “Accepted” format as it will deanonymize your submission).
 
 ### Submission tracks
 
