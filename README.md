@@ -35,22 +35,19 @@ Dual-submissions are allowed, and the workshop does not record proceedings. All 
 
 ### Submission tracks
 
-#### DEPLOYED track
-
+#### DEPLOYED track  
 *Work that is already having an impact*
 
 Submissions for the Deployed track are intended for machine learning approaches which are impacting climate-relevant problems through consumers or partner institutions. This could include implementations of academic research that have moved beyond the testing phase, as well as results from startups/industry. Details of methodology need not be revealed if they are proprietary, though transparency is encouraged.
 
 #### RESEARCH track  
-
 *Work that will have an impact when deployed*
 
 Submissions for the Research track are intended for machine learning research applied to climate-relevant problems. Submissions should provide experimental or theoretical validation of the method proposed, as well as specifying what gap the method fills. Algorithms need not be novel from a machine learning perspective if they are applied in a novel setting.
 
 Datasets may be submitted to this track that are designed to permit machine learning research (e.g. formatted with clear benchmarks for evaluation). In this case, baseline experimental results on the dataset are preferred but not required.
 
-#### IDEAS track
-
+#### IDEAS track  
 *Future work that could have an impact*
 
 Submissions for the Ideas track are intended for proposed applications of machine learning to solve climate-relevant problems. While the least constrained, this track will be subject to a very high standard of review. No results need be demonstrated, but ideas should be justified as extensively as possible, including motivation for the problem being solved, an explanation of why current tools or methods are inadequate, and details of how tools from machine learning are proposed to fill the gap (i.e. it is important to justify the use of machine learning in your approach).
