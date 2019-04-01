@@ -73,16 +73,5 @@ We have categorized the areas in which we see machine learning playing a meaning
 - **Data communication**: Visualization and data interpretation, news recommendation
 - **Finance**: Cost/benefit analysis, financial instruments related to climate change, tools for climate-positive investment
 
- 
-## Confirmed Speakers
-- [Chad Frischmann]()
-- [Claire Monteleoni]()
-- [John Platt]()
-- [Karthik Mukkavalli]()
-- [Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/) (Mila, University of Montreal)
-
-## Schedule
-
-*TBA*
 
 
