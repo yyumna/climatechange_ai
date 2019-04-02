@@ -36,23 +36,23 @@ Accepted submissions will be invited to give poster presentations at the worksho
 
 Dual-submissions are allowed, and the workshop does not record proceedings. All submissions must be through the [website](https://cmt3.research.microsoft.com/CCAI2019). Submissions will be reviewed double-blind; do your best to anonymize your submission, and do not include identifying information for authors in the PDF. We encourage, but do not require, use of the [ICML style template](https://icml.cc/Conferences/2019/StyleAuthorInstructions) (please do not use the “Accepted” format as it will deanonymize your submission).
 
-### Submission tracks
+### Submission tracks  
 
 Extended abstracts are limited to 3 pages for the Deployed and Research tracks, and 2 pages for the Ideas track, in PDF format. An additional page may be used for references. All machine learning techniques are welcome, from kernel methods to deep learning. Each submission should make clear why the application has (or could have) positive impacts regarding climate change. There are three tracks for submissions:
 
-#### DEPLOYED track  (3 page max. extended abstract)
+#### DEPLOYED track  
 *Work that is already having an impact*
 
 Submissions for the Deployed track are intended for machine learning approaches which are impacting climate-relevant problems through consumers or partner institutions. This could include implementations of academic research that have moved beyond the testing phase, as well as results from startups/industry. Details of methodology need not be revealed if they are proprietary, though transparency is encouraged. 
 
-#### RESEARCH track   (3 page max. extended abstract)
+#### RESEARCH track  
 *Work that will have an impact when deployed*
 
 Submissions for the Research track are intended for machine learning research applied to climate-relevant problems. Submissions should provide experimental or theoretical validation of the method proposed, as well as specifying what gap the method fills. Algorithms need not be novel from a machine learning perspective if they are applied in a novel setting.
 
 Datasets may be submitted to this track that are designed to permit machine learning research (e.g. formatted with clear benchmarks for evaluation). In this case, baseline experimental results on the dataset are preferred but not required.
 
-#### IDEAS track   (2 page max. extended abstract)
+#### IDEAS track  
 *Future work that could have an impact*
 
 Submissions for the Ideas track are intended for proposed applications of machine learning to solve climate-relevant problems. While the least constrained, this track will be subject to a very high standard of review. No results need be demonstrated, but ideas should be justified as extensively as possible, including motivation for the problem being solved, an explanation of why current tools or methods are inadequate, and details of how tools from machine learning are proposed to fill the gap (i.e. it is important to justify the use of machine learning in your approach).
