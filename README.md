@@ -16,7 +16,7 @@ ICML is one of the premier conferences on machine learning, and includes a wide 
  - Submission website:  <https://cmt3.research.microsoft.com/CCAI2019>
  - Contact: <climatechangeai.icml2019@gmail.com>
 
-## Call For Papers
+## Call For Submissions
 We invite submission of extended abstracts on machine learning applied to problems in climate mitigation, adaptation, or modeling, including but not limited to the following topics:
  - Power generation and grids
  - Transportation
