@@ -58,7 +58,7 @@ Alexandre Lacoste (ElementAI)
 Tegan Maharaj (MILA)  
 Jennifer Chayes (Microsoft)  
 Yoshua Bengio (MILA)  
-\------- 
+\-------   
 Karthik Mukkavilli (MILA)  
 Narmada Balasooriya (ConscientAI)  
 Di Wu (MILA)  
