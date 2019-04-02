@@ -38,6 +38,8 @@ Dual-submissions are allowed, and the workshop does not record proceedings. All 
 
 ### Submission tracks
 
+Extended abstracts are limited to 3 pages for the Deployed and Research tracks, and 2 pages for the Ideas track, in PDF format. An additional page may be used for references. All machine learning techniques are welcome, from kernel methods to deep learning. Each submission should make clear why the application has (or could have) positive impacts regarding climate change. There are three tracks for submissions:
+
 #### DEPLOYED track  (3 page max. extended abstract)
 *Work that is already having an impact*
 
