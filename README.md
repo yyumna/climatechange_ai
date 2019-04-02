@@ -52,6 +52,20 @@ Datasets may be submitted to this track that are designed to permit machine lear
 
 Submissions for the Ideas track are intended for proposed applications of machine learning to solve climate-relevant problems. While the least constrained, this track will be subject to a very high standard of review. No results need be demonstrated, but ideas should be justified as extensively as possible, including motivation for the problem being solved, an explanation of why current tools or methods are inadequate, and details of how tools from machine learning are proposed to fill the gap (i.e. it is important to justify the use of machine learning in your approach).
 
+## Organizers
+David Rolnick (UPenn)  
+Alexandre Lacoste (ElementAI)  
+Tegan Maharaj (MILA)  
+Jennifer Chayes (Microsoft)  
+Yoshua Bengio (MILA)  
+____  
+Karthik Mukkavilli (MILA)  
+Narmada Balasooriya (ConscientAI)  
+Di Wu (MILA)  
+Priya Donti (CMU)  
+Lynn Kaack (CMU)  
+Manvitha Ponnapati (MIT)  
+
 ## Frequently Asked Questions
 
 **Q:** What is the date of the workshop / when will we know?  
