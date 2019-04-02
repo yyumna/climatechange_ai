@@ -13,12 +13,14 @@ We have categorized the areas in which we see machine learning playing a meaning
 <li><strong>Sequestration</strong>: Optimizing carbon-capture materials/methods, CO2 leak detection</li>
 <li><strong>Agriculture, Forestry and Other Land Use (AFOLU)</strong>:  Farming robots, sensing/interpreting data for precision agriculture, tools for farm management, methane capture, plant-based foods, tracking deforestation, automated afforestation, carbon stock estimation</li>
 </ul>
+
 **Adaptation**
 <ul>
 <li><strong>Climate models</strong>: Fine-grained and multi-resolution models (higher spatial &amp; temporal resolution), cross-domain interactions (e.g. atmospheric/coastal) and domain transfer, tracking ice</li>
 <li><strong>Societal impacts</strong>: Effects on agriculture, natural resources (fisheries, forestry, etc.), climate-informed disease models, analysis of water systems (rain, rivers, deltas, dams), migration patterns, ecosystem monitoring</li>
 <li><strong>Extreme events</strong>: Fire prediction and intervention, storm prediction, coastal engineering, lethal heat events</li>
 </ul>
+
 **Society**
 <ul>
 <li><strong>Tools for individuals</strong>: Cost/benefit analysis of personal power usage/renewables, impact calculation and recommendations, local resources (e.g. compost), voluntary carbon tax</li>
