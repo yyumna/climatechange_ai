@@ -17,7 +17,7 @@ ICML is one of the premier conferences on machine learning, and includes a wide 
 
 ## Call For Papers
 We invite submission of extended abstracts on machine learning applied to problems in climate mitigation, adaptation, or modeling, including but not limited to the following topics:
- - Electricity systems
+ - Power generation and grids
  - Transportation
  - Smart buildings and cities
  - Industrial optimization
@@ -25,7 +25,9 @@ We invite submission of extended abstracts on machine learning applied to proble
  - Agriculture, forestry and other land use
  - Climate modeling
  - Extreme weather events
+ - Disaster management and relief
  - Societal adaptation
+ - Ecosystems and natural resources
  - Data presentation and management
  - Climate finance
 
