@@ -2,7 +2,7 @@
 This paper is currently a work in progress.
 
 ## Areas of focus
-We have categorized the areas in which we see machine learning playing a meaningful role in the fight against climate change. For example, education of women has been ranked as one of the top ten most impactful actions on climate change. While not all of the areas listed below will be discussed in the workshop, we aim to cover as many as possible through talks and posters. A more detailed examination of all these topics will be provided in a white paper currently underway by the organizers. This will be complementary to the workshop and is intended to provide concrete steps to attendees and other members of the community who wish to be involved in climate-positive action.</p>
+We have categorized the areas in which we see machine learning playing a meaningful role in the fight against climate change. For example, education of women has been ranked as one of the top ten most impactful actions on climate change. While not all of the areas listed below will be discussed in the workshop, we aim to cover as many as possible through talks and posters. A more detailed examination of all these topics will be provided in a white paper currently underway by the organizers. This will be complementary to the workshop and is intended to provide concrete steps to attendees and other members of the community who wish to be involved in climate-positive action.
 
 **Mitigation**
 <ul>
