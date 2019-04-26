@@ -68,7 +68,7 @@ Karthik Mukkavilli (MILA)
 Narmada Balasooriya (ConscientAI)  
 Di Wu (MILA)  
 Priya Donti (CMU)  
-Lynn Kaack (CMU)  
+Lynn Kaack (ETH Zürich)  
 Manvitha Ponnapati (MIT)  
 
 ## Frequently Asked Questions
