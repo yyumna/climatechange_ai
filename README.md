@@ -101,4 +101,4 @@ Manvitha Ponnapati (MIT)
 **A:** No, although some initial experiments or citation of published results would strengthen your submission.
 
 **Q:** The submission website never sent me a confirmation email. Is this a problem?  
-**A:** No, the CMT system does not send automatic confirmation emails after a submission, though the submission should show up on the CMT page once submitted. If in any doubt regarding the submission process, please contact the organizers. Also please avoid making multiple submission of the same article to CMT.
+**A:** No, the CMT system does not send automatic confirmation emails after a submission, though the submission should show up on the CMT page once submitted. If in any doubt regarding the submission process, please contact the organizers. Also please avoid making multiple submissions of the same article to CMT.
