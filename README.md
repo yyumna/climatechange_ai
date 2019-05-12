@@ -21,7 +21,7 @@ ICML is one of the premier conferences on machine learning, and includes a wide 
  - Yoshua Bengio (Mila)
  - Chad Frischmann (Project Drawdown)
  - Jack Kelly (Open Climate Fix)
- - laire Monteleoni (UC Boulder)
+ - Claire Monteleoni (UC Boulder)
  - John Platt (Google)
  - Sims Witherspoon (DeepMind)
  - TBD
