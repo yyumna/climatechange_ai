@@ -9,12 +9,22 @@ Climate change is widely agreed to be one of the greatest challenges facing huma
 ICML is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting or attending the main ICML conference. Those interested should register for the Workshops component of ICML at https://icml.cc/ while tickets last (a number of spots will be reserved for accepted submissions).
 
 ## About the workshop
- - Date:  June 14 or 15, 2019
+ - Date:  Friday June 14, 2019
  - Location:   Long Beach, California, USA
- - Submission deadline:  April 30, 11:59 PM Pacific Time
+ - Submission deadline:  ~~April 30, 11:59 PM Pacific Time~~
  - Notification:  May 15 (early notification possible on request)
  - Submission website:  <https://cmt3.research.microsoft.com/CCAI2019>
  - Contact: <climatechangeai.icml2019@gmail.com>
+
+## Speakers
+
+ - Yoshua Bengio (Mila)
+ - Chad Frischmann (Project Drawdown)
+ - Jack Kelly (Open Climate Fix)
+ - laire Monteleoni (UC Boulder)
+ - John Platt (Google)
+ - Sims Witherspoon (DeepMind)
+ - TBD
 
 ## Call For Submissions
 We invite submission of extended abstracts on machine learning applied to problems in climate mitigation, adaptation, or modeling, including but not limited to the following topics:
@@ -74,7 +84,7 @@ Manvitha Ponnapati (MIT)
 ## Frequently Asked Questions
 
 **Q:** What is the date of the workshop / when will we know?  
-**A:** Unfortunately we do not know yet. This is decided by ICML and has not been announced for any of the workshops. We will update the call for papers as soon as we know.
+**A:** Friday, June 14 was recently confirmed as the date.
 
 **Q:** I’m not in machine learning. Can I still submit?  
 **A:** Yes, absolutely!  We welcome submissions from many fields. Do bear in mind, however, that the majority of attendees of the workshop will have a machine learning background; therefore, other fields should be introduced sufficiently to provide context for the work.
