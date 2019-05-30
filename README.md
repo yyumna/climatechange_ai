@@ -24,6 +24,7 @@ ICML is one of the premier conferences on machine learning, and includes a wide 
  - Claire Monteleoni (UC Boulder)
  - John Platt (Google)
  - Sims Witherspoon (DeepMind)
+ - Andrew Ng (Stanford)
  - TBD
 
 ## Call For Submissions
