@@ -12,7 +12,7 @@ ICML is one of the premier conferences on machine learning, and includes a wide 
  - Date:  Friday June 14, 2019
  - Location:   Long Beach, California, USA
  - Submission deadline:  ~~April 30, 11:59 PM Pacific Time~~
- - Notification:  May 15 (early notification possible on request)
+ - Notification:  ~~May 15 (early notification possible on request)~~
  - Submission website:  <https://cmt3.research.microsoft.com/CCAI2019>
  - Contact: <climatechangeai.icml2019@gmail.com>
 
