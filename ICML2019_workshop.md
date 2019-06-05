@@ -1,6 +1,8 @@
-# Climate Change: How Can AI Help?
-## Workshop at ICML2019 on applying machine learning to address the problems of climate change
-
+---
+layout: default
+title: CLimate Change: How Can AI Help?
+description: ICML 2019 Workshop
+---
 
 **Many in the ML community wish to take action on climate change, yet feel their skills are inapplicable.** This workshop will showcase the many settings in which machine learning can be applied to reducing greenhouse emissions and helping society adapt to the effects of climate change. Climate change is a complex problem requiring simultaneous action from many directions. While machine learning is not a silver bullet, this area promises significant impacts for research and implementation. 
 
