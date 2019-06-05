@@ -25,11 +25,11 @@ ICML is one of the premier conferences on machine learning, and includes a wide 
  - John Platt (Google)
  - Sims Witherspoon (DeepMind)
  - Andrew Ng (Stanford)
- - TBD
+ - Karthik Mukkavilli (Mila)   
  
 ## Schedule
 
-8:30-8:45 - Welcome and Opening Remarks 
+ 8:30 -  8:45 - Welcome and Opening Remarks   
  8:45 -  9:20 - John Platt (Google AI)   
  9:20 -  9:45 - Jack Kelly (Open Climate Fix)   
  9:45 - 10:00 - Karthik Mukkavilli (Mila)   
