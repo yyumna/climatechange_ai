@@ -26,6 +26,44 @@ ICML is one of the premier conferences on machine learning, and includes a wide 
  - Sims Witherspoon (DeepMind)
  - Andrew Ng (Stanford)
  - TBD
+ 
+## Schedule
+
+8:30-8:45 - Welcome and Opening Remarks
+8:45-9:20 - John Platt (Google AI)
+9:20-9:45 - Jack Kelly (Open Climate Fix)
+9:45-10:00 - Karthik Mukkavilli (Mila)
+10:00-10:30 - Spotlight presentations
+10:30-11:00 - Coffee break + Poster Session
+11:00-12:00 - Chad Frischmann (Project Drawdown)
+12:00-1:30 - Networking lunch (provided) + posters
+1:30-1:55 - Yoshua Bengio (Mila)
+1:55-2:30 - Claire Monteleoni (CU Boulder)
+2:30-3:00 - Spotlights
+3:00-3:30 - Coffee break + Poster Session
+3:30-3:55 - Andrew Ng (Stanford)
+3:55-4:30 - Sims Witherspoon (DeepMind)
+4:30-5:15 - Spotlight presentations
+5:15-6:00 - Panel discussion
+
+
+## Organizers
+David Rolnick (UPenn)  
+Alexandre Lacoste (ElementAI)  
+Tegan Maharaj (MILA)  
+Jennifer Chayes (Microsoft)  
+Yoshua Bengio (MILA)  
+\-------   
+Karthik Mukkavilli (MILA)  
+Narmada Balasooriya (ConscientAI)  
+Di Wu (MILA)  
+Priya Donti (CMU)  
+Lynn Kaack (ETH Zürich)  
+Manvitha Ponnapati (MIT)
+\-------
+Workshop generously supported by ElementAI
+[ElementAI logo]
+
 
 ## Call For Submissions
 We invite submission of extended abstracts on machine learning applied to problems in climate mitigation, adaptation, or modeling, including but not limited to the following topics:
@@ -68,19 +106,6 @@ Datasets may be submitted to this track that are designed to permit machine lear
 
 Submissions for the Ideas track are intended for proposed applications of machine learning to solve climate-relevant problems. While the least constrained, this track will be subject to a very high standard of review. No results need be demonstrated, but ideas should be justified as extensively as possible, including motivation for the problem being solved, an explanation of why current tools or methods are inadequate, and details of how tools from machine learning are proposed to fill the gap (i.e. it is important to justify the use of machine learning in your approach).
 
-## Organizers
-David Rolnick (UPenn)  
-Alexandre Lacoste (ElementAI)  
-Tegan Maharaj (MILA)  
-Jennifer Chayes (Microsoft)  
-Yoshua Bengio (MILA)  
-\-------   
-Karthik Mukkavilli (MILA)  
-Narmada Balasooriya (ConscientAI)  
-Di Wu (MILA)  
-Priya Donti (CMU)  
-Lynn Kaack (ETH Zürich)  
-Manvitha Ponnapati (MIT)  
 
 ## Frequently Asked Questions
 
