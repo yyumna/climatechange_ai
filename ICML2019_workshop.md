@@ -63,8 +63,9 @@ Priya Donti (CMU)
 Lynn Kaack (ETH Zürich)  
 Manvitha Ponnapati (MIT)
 \-------  
-Workshop generously supported by ElementAI  
-[ElementAI logo]  
+
+## Sponsored By
+![ElementAI logo](./images/elementai.png)  
 
 
 ## Call For Submissions
