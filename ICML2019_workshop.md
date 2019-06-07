@@ -17,7 +17,10 @@ ICML is one of the premier conferences on machine learning, and includes a wide 
  - Notification:  ~~May 15 (early notification possible on request)~~
  - Submission website:  <https://cmt3.research.microsoft.com/CCAI2019>
  - Contact: <climatechangeai.icml2019@gmail.com>
-
+ 
+ {: .gitlab-purple}**The workshop will be livestreamed and recorded**
+ 
+ 
 ## Speakers
 
  - Yoshua Bengio (Mila) 
