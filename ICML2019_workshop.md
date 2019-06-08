@@ -58,14 +58,14 @@ Alexandre Lacoste (ElementAI)
 Tegan Maharaj (MILA)  
 Jennifer Chayes (Microsoft)  
 Yoshua Bengio (MILA) <br> 
-\-------    
+  
 Karthik Mukkavilli (MILA)  
 Narmada Balasooriya (ConscientAI)  
 Di Wu (MILA)  
 Priya Donti (CMU)  
 Lynn Kaack (ETH Zürich)  
 Manvitha Ponnapati (MIT)<br>
-\-------  
+
 
 ## Sponsored By
 ![ElementAI logo](./images/elementai.png)  
