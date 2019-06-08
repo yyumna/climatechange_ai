@@ -72,7 +72,7 @@ Manvitha Ponnapati (MIT)<br>
 
 
 <br>
-## Call For Submissions
+## Call For Submissions<br>
 We invite submission of extended abstracts on machine learning applied to problems in climate mitigation, adaptation, or modeling, including but not limited to the following topics:
  - Power generation and grids
  - Transportation
