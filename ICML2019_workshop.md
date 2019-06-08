@@ -57,20 +57,21 @@ David Rolnick (UPenn)
 Alexandre Lacoste (ElementAI)  
 Tegan Maharaj (MILA)  
 Jennifer Chayes (Microsoft)  
-Yoshua Bengio (MILA)  
+Yoshua Bengio (MILA) <br> 
 \-------    
 Karthik Mukkavilli (MILA)  
 Narmada Balasooriya (ConscientAI)  
 Di Wu (MILA)  
 Priya Donti (CMU)  
 Lynn Kaack (ETH Zürich)  
-Manvitha Ponnapati (MIT)
+Manvitha Ponnapati (MIT)<br>
 \-------  
 
 ## Sponsored By
 ![ElementAI logo](./images/elementai.png)  
 
 
+<br>
 ## Call For Submissions
 We invite submission of extended abstracts on machine learning applied to problems in climate mitigation, adaptation, or modeling, including but not limited to the following topics:
  - Power generation and grids
