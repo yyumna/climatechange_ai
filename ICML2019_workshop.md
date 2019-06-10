@@ -37,8 +37,8 @@ ICML is one of the premier conferences on machine learning, and includes a wide 
  8:30 -  8:45 - Welcome and Opening Remarks   
  8:45 -  9:20 - John Platt (Google AI)   
  9:20 -  9:45 - Jack Kelly (Open Climate Fix)   
- 9:45 - 10:00 - Karthik Mukkavilli (Mila)   
-10:00 - 10:30 - Spotlight presentations   
+ 9:45 - 10:10 - Andrew Ng (Stanford)   
+10:10 - 10:30 - Spotlight presentations   
 10:30 - 11:00 - Coffee break + Poster Session   
 11:00 - 12:00 - Chad Frischmann (Project Drawdown)   
 12:00 -  1:30 - Networking lunch (provided) + posters   
@@ -46,9 +46,9 @@ ICML is one of the premier conferences on machine learning, and includes a wide 
  1:55 -  2:30 - Claire Monteleoni (CU Boulder)   
  2:30 -  3:00 - Spotlights   
  3:00 -  3:30 - Coffee break + Poster Session   
- 3:30 -  3:55 - Andrew Ng (Stanford)   
- 3:55 -  4:30 - Sims Witherspoon (DeepMind)   
- 4:30 -  5:15 - Spotlight presentations   
+ 3:30 -  3:45 - Karthik Mukkavilli (Mila)
+ 3:45 -  4:20 - Sims Witherspoon (DeepMind)   
+ 4:20 -  5:15 - Spotlight presentations   
  5:15 -  6:00 - Panel discussion   
 
 
