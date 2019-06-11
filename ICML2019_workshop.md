@@ -46,9 +46,9 @@ ICML is one of the premier conferences on machine learning, and includes a wide 
  1:55 -  2:30 - Claire Monteleoni (CU Boulder)   
  2:30 -  3:00 - Spotlights   
  3:00 -  3:30 - Coffee break + Poster Session   
- 3:30 -  3:45 - Karthik Mukkavilli (Mila)
- 3:45 -  4:20 - Sims Witherspoon (DeepMind)   
- 4:20 -  5:15 - Spotlight presentations   
+ 3:30 -  3:45 - Karthik Mukkavilli (Mila)    
+ 3:45 -  4:20 - Sims Witherspoon (DeepMind)     
+ 4:20 -  5:15 - Spotlight presentations    
  5:15 -  6:00 - Panel discussion   
 
 
