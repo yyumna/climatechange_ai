@@ -35,9 +35,9 @@ ICML is one of the premier conferences on machine learning, and includes a wide 
 ## Schedule
 
  8:30 -  8:45 - Welcome and Opening Remarks   
- 8:45 -  9:20 - John Platt (Google AI): ***Keynote talk*** 
+ 8:45 -  9:20 - John Platt (Google AI): ***Keynote talk***     
  9:20 -  9:45 - Jack Kelly (Open Climate Fix): **Why it's hard to mitigate climate change, and how to do better** *(Invited talk)*    
- 9:45 - 10:10 - Andrew Ng (Stanford): ***Invited talk***     
+ 9:45 - 10:10 - Andrew Ng (Stanford): ***Invited talk***      
 10:10 - 10:20 - Volodymyr Kuleshov: **Towards a Sustainable Food Supply Chain Powered by Artificial Intelligence**  *(Spotlight talk)*   
 10:20 - 10:30 -	Clement Duhart: **Deep Learning for Wildlife Conservation and Restoration Efforts**  *(Spotlight talk)*    
 10:30 - 11:00 - Coffee break + Poster Session   
