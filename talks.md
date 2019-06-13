@@ -8,9 +8,8 @@ description: ICML 2019 Workshop
 
 *Sandeep Manjanna (McGill University); Herke van Hoof (University of Amsterdam); Gregory Dudek (McGill University)*</summary>
 
-</details>
-
 Surveying fragile ecosystems like coral reefs is important to monitor the effects of climate change. We present an adaptive sampling technique that  generates efficient trajectories covering hotspots in the region of interest at a high rate. A key feature of our sampling algorithm is the ability to generate action plans for any new hotspot distribution using the parameters learned on other similar looking distributions.
+</details>
 
 <details>
 <summary>
@@ -18,9 +17,8 @@ Surveying fragile ecosystems like coral reefs is important to monitor the effect
 
 *Jussi Gillberg (Aalto University); Pekka Marttinen (Aalto University); Hiroshi Mamitsuka (Kyoto University); Samuel Kaski (Aalto University)*</summary>
 
-</details>
-
 Interaction between the genotype and the environment ($G \times E$) has a strong impact on the yield of major crop plants. Recently $G \times E$ has been predicted from environmental and genomic covariates, but existing works have not considered generalization to new environments and years without access to in-season data. We study \textit{in silico} the viability of $G \times E$ prediction under realistic constraints. We show that the environmental response of a new generation of untested Barley cultivars can be predicted in new locations and years using genomic data, machine learning and historical weather observations. Our results highlight the need for models of $G \times E$: non-linear effects clearly dominate linear ones and the interaction between the soil type and daily rain is identified as the main driver for $G \times E$. Our study implies that genomic selection can be used to capture the yield potential in $G \times E$ effects for future growth seasons, providing a possible means to achieve yield improvements. $G \times E$ models are also needed to select for varieties that react favourably to the altering climate conditions. For this purpose, the historical weather observations could be replaced by climate simulations to study the yield potential under various climate scenarios.This abstract summarizes the findings of a recently published article <anonymised>.
+</details>
 
 ### Machine Learning empowered Occupancy Sensing for Smart Buildings
 
