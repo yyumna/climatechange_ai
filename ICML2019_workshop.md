@@ -152,4 +152,4 @@ Submissions for the Ideas track are intended for proposed applications of machin
 **Q:** The submission website never sent me a confirmation email. Is this a problem?  
 **A:** No, the CMT system does not send automatic confirmation emails after a submission, though the submission should show up on the CMT page once submitted. If in any doubt regarding the submission process, please contact the organizers. Also please avoid making multiple submissions of the same article to CMT.
 
-[talks](./talks.html)
+[talks](talks.md)
