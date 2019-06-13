@@ -4,7 +4,7 @@ title: 'Climate Change: How Can AI Help?'
 description: ICML 2019 Workshop
 ---
 <details>
-<summary><h3>Policy Search with Non-uniform State Representations for Environmental Sampling</h3>
+<summary>### Policy Search with Non-uniform State Representations for Environmental Sampling
   
 *Sandeep Manjanna (McGill University); Herke van Hoof (University of Amsterdam); Gregory Dudek (McGill University)*</summary>
 
