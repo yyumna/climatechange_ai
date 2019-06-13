@@ -7,8 +7,10 @@ description: ICML 2019 Workshop
 <summary>
   
 ### Policy Search with Non-uniform State Representations for Environmental Sampling
-<br>  
+<br> 
+
 *Sandeep Manjanna (McGill University); Herke van Hoof (University of Amsterdam); Gregory Dudek (McGill University)*</summary>
+
 <br>
 Surveying fragile ecosystems like coral reefs is important to monitor the effects of climate change. We present an adaptive sampling technique that  generates efficient trajectories covering hotspots in the region of interest at a high rate. A key feature of our sampling algorithm is the ability to generate action plans for any new hotspot distribution using the parameters learned on other similar looking distributions.
 </details>
