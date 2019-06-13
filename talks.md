@@ -3,6 +3,7 @@ layout: default
 title: 'Climate Change: How Can AI Help?'
 description: ICML 2019 Workshop
 ---
+
 <details>
 <summary>
   
@@ -20,7 +21,10 @@ Surveying fragile ecosystems like coral reefs is important to monitor the effect
 
 ### Modelling GxE with historical weather information improves genomic prediction in new environments
 <br> 
-*Jussi Gillberg (Aalto University); Pekka Marttinen (Aalto University); Hiroshi Mamitsuka (Kyoto University); Samuel Kaski (Aalto University)*</summary>
+
+*Jussi Gillberg (Aalto University); Pekka Marttinen (Aalto University); Hiroshi Mamitsuka (Kyoto University); Samuel Kaski (Aalto University)*
+
+</summary>
 <br>
 Interaction between the genotype and the environment ($G \times E$) has a strong impact on the yield of major crop plants. Recently $G \times E$ has been predicted from environmental and genomic covariates, but existing works have not considered generalization to new environments and years without access to in-season data. We study \textit{in silico} the viability of $G \times E$ prediction under realistic constraints. We show that the environmental response of a new generation of untested Barley cultivars can be predicted in new locations and years using genomic data, machine learning and historical weather observations. Our results highlight the need for models of $G \times E$: non-linear effects clearly dominate linear ones and the interaction between the soil type and daily rain is identified as the main driver for $G \times E$. Our study implies that genomic selection can be used to capture the yield potential in $G \times E$ effects for future growth seasons, providing a possible means to achieve yield improvements. $G \times E$ models are also needed to select for varieties that react favourably to the altering climate conditions. For this purpose, the historical weather observations could be replaced by climate simulations to study the yield potential under various climate scenarios.This abstract summarizes the findings of a recently published article <anonymised>.
 
@@ -32,7 +36,10 @@ Interaction between the genotype and the environment ($G \times E$) has a strong
 
 ### Machine Learning empowered Occupancy Sensing for Smart Buildings
 <br>
-*Han Zou (UC Berkeley); Hari Prasanna Das  (UC Berkeley ); Jianfei Yang (Nanyang Technological University); Yuxun Zhou (UC Berkeley); Costas Spanos  (UC Berkeley)*</summary>
+
+*Han Zou (UC Berkeley); Hari Prasanna Das  (UC Berkeley ); Jianfei Yang (Nanyang Technological University); Yuxun Zhou (UC Berkeley); Costas Spanos  (UC Berkeley)*
+
+</summary>
 <br>
 Over half of the global electricity consumption is attributed to buildings, which are often operated poorly from an energy perspective. Significant improvements in energy efficiency can be achieved via intelligent building control techniques. To realize such advanced control schemes, accurate and robust occupancy information is highly valuable. In this work, we present a cutting-edge WiFi sensing platform and state-of-the-art machine learning methods to address longstanding occupancy sensing challenges in smart buildings. Our systematic solution provides comprehensive fine-grained occupancy information in a non-intrusive and privacy-preserving manner, which facilitates eco-friendly and sustainable buildings.
 </details>
@@ -43,7 +50,10 @@ Over half of the global electricity consumption is attributed to buildings, whic
   
 ### Focus and track: pixel-wise spatio-temporal hurricane tracking
 <br>
-*Sookyung Kim (Lawrence Livermore National Laboratory); Sunghyun  Park (Korea University); Sunghyo Chung (Korea University); Yunsung Lee (Korea University); Hyojin Kim (LLNL); Joonseok Lee (Google Research); Jaegul Choo (Korea University); Mr Prabhat (Lawrence Berkeley National Laboratory)*</summary>
+
+*Sookyung Kim (Lawrence Livermore National Laboratory); Sunghyun  Park (Korea University); Sunghyo Chung (Korea University); Yunsung Lee (Korea University); Hyojin Kim (LLNL); Joonseok Lee (Google Research); Jaegul Choo (Korea University); Mr Prabhat (Lawrence Berkeley National Laboratory)*
+
+</summary>
 <br>
 We tackle extreme climate event tracking problem. It has unique challenges to other visual object tracking problems, including wider range of spatio-temporal dynamics, blur boundary of the target, and shortage of labeled dataset. In this paper, we propose a simple but robust end-to-end model based on multi-layered ConvLSTM, suitable for the climate event tracking problem. It first learns to imprint location and appearance of the target at the first frame with one-shot auto-encoding fashion, and then, the learned feature is consumed by the tracking module to track the target in subsequent time frames. To tackle the data shortage problem, we propose data augmentation based on Social GAN. Extensive experiments show that the proposed framework significantly improves tracking performance on hurricane tracking task over several state-of-the-art methods.
 </details>
@@ -54,7 +64,10 @@ We tackle extreme climate event tracking problem. It has unique challenges to ot
 
 ### Recovering the parameters underlying the Lorenz-96 chaotic dynamics
 <br>
-*Soukayna Mouatadid (University of Toronto); Pierre Gentine (Columbia University); Wei Yu (University of Toronto); Steve Easterbrook (University of Toronto)*</summary>
+
+*Soukayna Mouatadid (University of Toronto); Pierre Gentine (Columbia University); Wei Yu (University of Toronto); Steve Easterbrook (University of Toronto)*
+
+</summary>
 <br>
 Climate projections suffer from uncertain equilibrium climate sensitivity. The reason behind this uncertainty is the resolution of global climate models, which is too coarse to resolve key processes such as clouds and convection. These processes are approximated using heuristics in a process called parameterization. The selection of these parameters can be subjective, leading to significant uncertainties in the way clouds are represented in global climate models. Here, we explore three deep network algorithms to infer these parameters in an objective and data-driven way. We compare the performance of a fully-connected network, a one-dimensional and, a two-dimensional convolutional networks to recover the underlying parameters of the Lorenz-96 model, a non-linear dynamical system that has similar behavior to the climate system.
 </details>
@@ -65,7 +78,10 @@ Climate projections suffer from uncertain equilibrium climate sensitivity. The r
   
 ### Using Bayesian Optimization to Improve Solar Panel Performance by Developing Antireflective, Superomniphobic Glass
 <br>
-*Sajad Haghanifar (University of Pittsburgh); Bolong Cheng (SigOpt); Mike Mccourt (SigOpt); Paul Leu (University of Pittsburgh)*</summary>
+
+*Sajad Haghanifar (University of Pittsburgh); Bolong Cheng (SigOpt); Mike Mccourt (SigOpt); Paul Leu (University of Pittsburgh)*
+
+</summary>
 <br>
 Photovoltaic solar panel efficiency is dependent on photons transmitting through the glass sheet covering and into the crystalline silicon solar cells within.  However, complications such as soiling and light reflection degrade performance. Our goal is to identify a fabrication process to produce glass which promotes photon transmission and is superomniphobic (repels fluids), for easier cleaning. In this paper, we propose adapting Bayesian optimization to efficiently search the space of possible glass fabrication strategies; in this search we balance three competing objectives (transmittance, haze and oil contact angle). We present the glass generated from this Bayesian optimization strategy and detail its properties relevant to photovoltaic solar power.
 </details>
