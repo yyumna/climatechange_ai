@@ -6,19 +6,7 @@ description: ICML 2019 Workshop
 
 **Many in the ML community wish to take action on climate change, yet feel their skills are inapplicable.** This workshop will showcase the many settings in which machine learning can be applied to reducing greenhouse emissions and helping society adapt to the effects of climate change. Climate change is a complex problem requiring simultaneous action from many directions. While machine learning is not a silver bullet, this area promises significant impacts for research and implementation. 
 
-
-## About ICML
-ICML is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting or attending the main ICML conference. Those interested should register for the Workshops component of ICML at https://icml.cc/ while tickets last (a number of spots will be reserved for accepted submissions).
-
-## About the workshop
- - Date:  Friday June 14, 2019
- - Location:   Long Beach, California, USA
- - Submission deadline:  ~~April 30, 11:59 PM Pacific Time~~
- - Notification:  ~~May 15 (early notification possible on request)~~
- - Submission website:  <https://cmt3.research.microsoft.com/CCAI2019>
- - Contact: <climatechangeai.icml2019@gmail.com>
- 
- **_The workshop will be livestreamed and recorded_**
+ **_The workshop will be livestreamed and recorded_: <slideslive.com/icml>**
  
  
 ## Speakers
@@ -78,6 +66,19 @@ Manvitha Ponnapati (MIT)<br>
 
 
 <br>
+
+## About ICML
+ICML is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting or attending the main ICML conference. Those interested should register for the Workshops component of ICML at https://icml.cc/ while tickets last (a number of spots will be reserved for accepted submissions).
+
+## About the workshop
+ - Date:  Friday June 14, 2019
+ - Location:   Long Beach, California, USA
+ - Submission deadline:  ~~April 30, 11:59 PM Pacific Time~~
+ - Notification:  ~~May 15 (early notification possible on request)~~
+ - Submission website:  <https://cmt3.research.microsoft.com/CCAI2019>
+ - Contact: <climatechangeai.icml2019@gmail.com>
+ 
+ 
 ## Call For Submissions<br>
 We invite submission of extended abstracts on machine learning applied to problems in climate mitigation, adaptation, or modeling, including but not limited to the following topics:
  - Power generation and grids
