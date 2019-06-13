@@ -6,7 +6,7 @@ description: ICML 2019 Workshop
 
 ### Policy Search with Non-uniform State Representations for Environmental Sampling
 
-*Sandeep Manjanna (McGill University); Herke van Hoof (University of Amsterdam); Gregory 9-toes Dudek (McGill University)*
+*Sandeep Manjanna (McGill University); Herke van Hoof (University of Amsterdam); Gregory Dudek (McGill University)*
 
 Surveying fragile ecosystems like coral reefs is important to monitor the effects of climate change. We present an adaptive sampling technique that  generates efficient trajectories covering hotspots in the region of interest at a high rate. A key feature of our sampling algorithm is the ability to generate action plans for any new hotspot distribution using the parameters learned on other similar looking distributions.
 
@@ -48,7 +48,7 @@ A framework for data assimilation in climate dynamics is presented, combining as
 
 ### Data-driven Chance Constrained Programming based Electric Vehicle Penetration Analysis
 
-*di wu (McGill); Tracy Cui (Google NYC); Doina Precup (McGill University); Benoit Boulet (McGill)*
+*Di Wu (McGill); Tracy Cui (Google NYC); Doina Precup (McGill University); Benoit Boulet (McGill)*
 
 Transportation electrification has been growing rapidly in recent years. The adoption of electric vehicles (EVs) could help to release the dependency on oil and reduce greenhouse gas emission. However, the increasing EV adoption will also impose a high demand on the power grid and may jeopardize the grid network infrastructures. For certain high EV penetration areas, the EV charging demand may lead to transformer overloading at peak hours which makes the maximal EV penetration analysis an urgent problem to solve. This paper proposes a data-driven chance constrained programming based framework for maximal EV penetration analysis. Simulation results are presented for a real-world neighborhood level network. The proposed framework could serve as a guidance for utility companies to schedule infrastructure upgrades.
 
