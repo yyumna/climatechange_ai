@@ -5,7 +5,7 @@ description: ICML 2019 Workshop
 ---
 <details>
 <summary>
-### Policy Search with Non-uniform State Representations for Environmental Sampling
+  <h3> Policy Search with Non-uniform State Representations for Environmental Sampling</h3>
   
 *Sandeep Manjanna (McGill University); Herke van Hoof (University of Amsterdam); Gregory Dudek (McGill University)*</summary>
 
