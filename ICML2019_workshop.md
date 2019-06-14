@@ -40,7 +40,7 @@ Ask and upvote questions during the workshop (if directed at a particular speake
  3:00 -  3:30 - Coffee break + Poster Session   
  3:30 -  3:45 - Karthik Mukkavilli (Mila): **Invited talk**      
  3:45 -  4:20 - Sims Witherspoon (DeepMind):  **ML vs. Climate Change, Applications in Energy at DeepMind**  *(Invited talk)*          
- 4:20 - 4:30  - Lynn Kaack: (Spotlight talk) **Truck Traffic Monitoring with Satellite Images**    *(Spotlight talk)*    
+ 4:20 - 4:30  - Lynn Kaack: **Truck Traffic Monitoring with Satellite Images**    *(Spotlight talk)*    
  4:30 - 4:50 - Neel Guha: **Machine Learning for AC Optimal Power Flow**     *(Spotlight talk)*    
  4:40 - 4:50 - Christian Clough, Gopal Erinjippurath: 	**Planetary Scale Monitoring of Urban Growth in High Flood Risk Areas**  *(Spotlight talk)*       
  4:50 - 5:15 - **"Ideas" mini-spotlights**   
