@@ -124,6 +124,7 @@ We tackle extreme climate event tracking problem. It has unique challenges to ot
 ### (5) Recovering the parameters underlying the Lorenz-96 chaotic dynamics [pdf](./CameraReady/70/Submission/ICML_CC_Workshop_2019_fv(1).pdf)
 
 *Soukayna Mouatadid (University of Toronto); Pierre Gentine (Columbia University); Wei Yu (University of Toronto); Steve Easterbrook (University of Toronto)*
+
 <details>
 <summary>
   Abstract: (click to expand)
@@ -286,7 +287,7 @@ Carbon capture and sequestration (CCS) is an essential climate change mitigation
 The road freight sector is responsible for a large and growing share of greenhouse gas emissions, but reliable data on the amount of freight that is moved on roads in many parts of the world are scarce.  Many low- and middle-income countries have limited ground-based traffic monitoring and freight surveying activities. In this proof of concept, we show that we can use an object detection network to count trucks in satellite images and predict average annual daily truck traffic from those counts. We describe a complete model, test the uncertainty of the estimation, and discuss the transfer to developing countries. </details>
 
 
-### (20) (Spotlight: 2:40PM) Evaluating aleatoric and epistemic uncertainties of time series deep learning models for soil moisture predictions
+### (20) (Spotlight: 2:40PM) Evaluating aleatoric and epistemic uncertainties of time series deep learning models for soil moisture predictions [pdf](http://arxiv.org/abs/1906.04595)
 
 *Chaopeng Shen (Pennsylvania State University)*
 <details>
