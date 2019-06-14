@@ -10,6 +10,7 @@ Works are submitted to one of three tracks: [Research](#Research-Track), [Deploy
 ### (1) Policy Search with Non-uniform State Representations for Environmental Sampling
 
 *Sandeep Manjanna (McGill University); Herke van Hoof (University of Amsterdam); Gregory Dudek (McGill University)*
+[pdf](./CameraReady/35/Submission/icml2019_workshop.pdf
 <details>
 <summary>
   Abstract: (click to expand)
