@@ -322,7 +322,7 @@ Understanding the effects of climate change relies on physics driven computation
 
 ### (23) Learning Radiative Transfer Models for Climate Change Applications in Imaging Spectroscopy [pdf](./CameraReady/58/Submission/ICML_2019_Submission.pdf)
 
-*Shubhankar V Deshpande (Carnegie Mellon University)*
+*Shubhankar V Deshpande (Carnegie Mellon University), Brian D Bue (NASA JPL/Caltech), David R Thompson (NASA JPL/Caltech), Vijay Natraj (NASA JPL/Caltech), Mario Parente (UMass Amherst)*
 <details>
 <summary>
   Abstract: (click to expand)
