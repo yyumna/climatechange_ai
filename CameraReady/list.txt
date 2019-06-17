@@ -1,0 +1,523 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 541E-237B
+
+ Directory of C:\Users\tegan\Downloads\CameraReady
+
+2019-06-16  21:10    <DIR>          .
+2019-06-16  21:10    <DIR>          ..
+2019-06-16  21:01    <DIR>          15
+2019-06-16  21:01    <DIR>          19
+2019-06-16  21:01    <DIR>          26
+2019-06-16  21:01    <DIR>          29
+2019-06-16  21:01    <DIR>          3
+2019-06-16  21:01    <DIR>          30
+2019-06-16  21:01    <DIR>          32
+2019-06-16  21:01    <DIR>          35
+2019-06-16  21:01    <DIR>          39
+2019-06-16  21:01    <DIR>          40
+2019-06-16  21:01    <DIR>          42
+2019-06-16  21:01    <DIR>          43
+2019-06-16  21:01    <DIR>          45
+2019-06-16  21:02    <DIR>          46
+2019-06-16  21:02    <DIR>          47
+2019-06-16  21:02    <DIR>          48
+2019-06-16  21:02    <DIR>          49
+2019-06-16  21:02    <DIR>          53
+2019-06-16  21:02    <DIR>          54
+2019-06-16  21:02    <DIR>          55
+2019-06-16  21:02    <DIR>          56
+2019-06-16  21:02    <DIR>          57
+2019-06-16  21:02    <DIR>          58
+2019-06-16  21:02    <DIR>          59
+2019-06-16  21:02    <DIR>          62
+2019-06-16  21:02    <DIR>          65
+2019-06-16  21:02    <DIR>          69
+2019-06-16  21:02    <DIR>          70
+2019-06-16  21:02    <DIR>          71
+2019-06-16  21:02    <DIR>          73
+2019-06-16  21:02    <DIR>          76
+2019-06-16  21:02    <DIR>          78
+2019-06-16  21:02    <DIR>          81
+2019-06-16  21:01    <DIR>          9
+2019-06-16  21:10                 0 list.txt
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\15
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\15\CameraReadySubmission
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01           111,205 camera_ready_zero_emissions_ammonia_production_materials.pdf
+               1 File(s)        111,205 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\19
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\19\CameraReadySubmission
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01         1,409,503 ICML_Workshop_TC_paper.pdf
+               1 File(s)      1,409,503 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\26
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\26\CameraReadySubmission
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01         2,289,874 TargetedMetaLearning_Workshop_ICML2019.pdf
+               1 File(s)      2,289,874 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\29
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\29\CameraReadySubmission
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01         3,991,024 icml_camera_ready.pdf
+               1 File(s)      3,991,024 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\3
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\3\CameraReadySubmission
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01         1,158,696 ICML_Ramea_2019.pdf
+               1 File(s)      1,158,696 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\30
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\30\CameraReadySubmission
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01         1,353,984 manuscript.pdf
+               1 File(s)      1,353,984 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\32
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\32\CameraReadySubmission
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01           101,699 Multi_Component_Predictive_Maintenance.pdf
+               1 File(s)        101,699 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\35
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\35\CameraReadySubmission
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01         4,549,076 policy_search_environmental_sampling.pdf
+               1 File(s)      4,549,076 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\39
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\39\CameraReadySubmission
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01           147,998 icml_ai_climatechange_TF.pdf
+               1 File(s)        147,998 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\40
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\40\CameraReadySubmission
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01           112,391 Yield_optimization.pdf
+               1 File(s)        112,391 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\42
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\42\CameraReadySubmission
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01         2,223,643 ICML_2019_Camera_Submission.pdf
+               1 File(s)      2,223,643 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\43
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\43\CameraReadySubmission
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01           208,937 icml_invenia_cameraready.pdf
+               1 File(s)        208,937 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\45
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\45\CameraReadySubmission
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:02         1,246,960 ccai19_f.pdf
+               1 File(s)      1,246,960 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\46
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\46\CameraReadySubmission
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02         1,198,336 main.pdf
+               1 File(s)      1,198,336 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\47
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\47\CameraReadySubmission
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02           483,957 CCAI2019 Submission (2).pdf
+               1 File(s)        483,957 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\48
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\48\CameraReadySubmission
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02         2,744,612 ICML_tidzam(2).pdf
+               1 File(s)      2,744,612 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\49
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\49\CameraReadySubmission
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02         2,983,144 example_paper.pdf
+               1 File(s)      2,983,144 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\53
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\53\CameraReadySubmission
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02           432,432 Beucler_et_al_ICML_AICC.pdf
+               1 File(s)        432,432 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\54
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\54\CameraReadySubmission
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02           200,594 _ICML_2019_Climate_Change__Deep_Learning_for_Optimal_Power_Flow.pdf
+               1 File(s)        200,594 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\55
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\55\CameraReadySubmission
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02           100,213 ICML_CCAI_NLP-CameraReady.pdf
+               1 File(s)        100,213 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\56
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\56\CameraReadySubmission
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02           764,595 icmlpaper.pdf
+               1 File(s)        764,595 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\57
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\57\CameraReadySubmission
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02           592,762 icml2019_ClimateAI_wkshp_cameraready.pdf
+               1 File(s)        592,762 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\58
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\58\CameraReadySubmission
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02           265,466 ICML_camera_ready.pdf
+               1 File(s)        265,466 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\59
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\59\CameraReadySubmission
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02           272,269 ICML_Climate_Change_Submission.pdf
+               1 File(s)        272,269 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\62
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\62\CameraReadySubmission
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02         1,107,040 Extended_abstract-v1.2-camera_ready.pdf
+               1 File(s)      1,107,040 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\65
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\65\CameraReadySubmission
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02         4,492,208 icml2019_planet_final.pdf
+               1 File(s)      4,492,208 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\69
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\69\CameraReadySubmission
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02           502,160 pvnet_3_pages (4).pdf
+               1 File(s)        502,160 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\70
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\70\CameraReadySubmission
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02           776,795 icml_l96_theta_edited_v5.pdf
+               1 File(s)        776,795 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\71
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\71\CameraReadySubmission
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02           399,424 Shen_linker.pdf
+               1 File(s)        399,424 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\73
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\73\CameraReadySubmission
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02         4,449,308 gainforest.pdf
+               1 File(s)      4,449,308 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\76
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\76\CameraReadySubmission
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02           234,683 ccp_final.pdf
+               1 File(s)        234,683 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\78
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\78\CameraReadySubmission
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02           509,806 ICML2019___Petuum_cr.pdf
+               1 File(s)        509,806 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\81
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\81\CameraReadySubmission
+
+2019-06-16  21:02    <DIR>          .
+2019-06-16  21:02    <DIR>          ..
+2019-06-16  21:02         1,279,235 CCA1_2019_DevelopmentSeed.pdf
+               1 File(s)      1,279,235 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\9
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01    <DIR>          CameraReadySubmission
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\tegan\Downloads\CameraReady\9\CameraReadySubmission
+
+2019-06-16  21:01    <DIR>          .
+2019-06-16  21:01    <DIR>          ..
+2019-06-16  21:01         1,537,061 ICML_Climate_Change_2019_1.pdf
+               1 File(s)      1,537,061 bytes
+
+     Total Files Listed:
+              35 File(s)     44,231,090 bytes
+             206 Dir(s)  24,108,646,400 bytes free
