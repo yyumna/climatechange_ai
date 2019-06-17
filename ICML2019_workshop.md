@@ -299,7 +299,7 @@ Soil moisture is an important variable that determines floods, vegetation health
 
 ### (21) (Spotlight: 2:30PM) Detecting anthropogenic cloud perturbations with deep learning  [pdf](./CameraReady/42/CameraReadySubmission/ICML_2019_Camera_Submission.pdf)
 
-*Duncan Watson-Parris (University of Oxford); Sam Sutherland (University of Oxford); Matthew Christensen (University of Oxford); Anthony Teh (University of Oxford); Dino Sejdinovic (University of Oxford); Philip Stier (University of Oxford)*
+*Duncan Watson-Parris (University of Oxford); Sam Sutherland (University of Oxford); Matthew Christensen (University of Oxford); Anthony Caterini (University of Oxford); Dino Sejdinovic (University of Oxford); Philip Stier (University of Oxford)*
 <details>
 <summary>
   Abstract: (click to expand)
