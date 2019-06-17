@@ -166,8 +166,7 @@ A framework for data assimilation in climate dynamics is presented, combining as
 Transportation electrification has been growing rapidly in recent years. The adoption of electric vehicles (EVs) could help to release the dependency on oil and reduce greenhouse gas emission. However, the increasing EV adoption will also impose a high demand on the power grid and may jeopardize the grid network infrastructures. For certain high EV penetration areas, the EV charging demand may lead to transformer overloading at peak hours which makes the maximal EV penetration analysis an urgent problem to solve. This paper proposes a data-driven chance constrained programming based framework for maximal EV penetration analysis. Simulation results are presented for a real-world neighborhood level network. The proposed framework could serve as a guidance for utility companies to schedule infrastructure upgrades. </details>
 
 
-### (9) (Spotlight: 4:30PM) Machine Learning for AC Optimal Power Flow [pdf](./CameraReady/54/CameraReadySubmission/_ICML_2019_Climate_Change__Deep_Learning_for_Optimal_Power_Flow.pdf)
-
+### (9) (Spotlight: 4:30PM) Machine Learning for AC Optimal Power Flow [pdf](./CameraReady/54/CameraReadySubmission/Optimal_Power_Flow.pdf)
 *Neel Guha (Carnegie Mellon University); Zhecheng Wang (Stanford University); Arun Majumdar (Stanford University)*
 <details>
 <summary>
@@ -529,7 +528,7 @@ Widespread climate action is urgently needed, but current solutions do not accou
 </details>
 
 
-### (41) The Grid Resilience & Intelligence Platform (GRIP) [pdf](./CameraReady/47/CameraReadySubmission/CCAI2019Submission2.pdf)
+### (41) The Grid Resilience & Intelligence Platform (GRIP) [pdf](./CameraReady/47/CameraReadySubmission/CCAI2019Submission.pdf)
 
 *Ashley Pilipiszyn (Stanford University)*
 <details>
