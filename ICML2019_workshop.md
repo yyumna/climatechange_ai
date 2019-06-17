@@ -76,7 +76,7 @@ Works are submitted to one of three tracks: [Research](#Research-Track), [Deploy
 
 ## Research Track
 
-### (1) Policy Search with Non-uniform State Representations for Environmental Sampling  [pdf](./CameraReady/35/Submission/policy_search_environmental_sampling.pdf)
+### (1) Policy Search with Non-uniform State Representations for Environmental Sampling  [pdf](./CameraReady/35/CameraReadySubmission/policy_search_environmental_sampling.pdf)
 
 *Sandeep Manjanna (McGill University); Herke van Hoof (University of Amsterdam); Gregory Dudek (McGill University)*
 
@@ -99,7 +99,7 @@ Surveying fragile ecosystems like coral reefs is important to monitor the effect
 Interaction between the genotype and the environment ($G \times E$) has a strong impact on the yield of major crop plants. Recently $G \times E$ has been predicted from environmental and genomic covariates, but existing works have not considered generalization to new environments and years without access to in-season data. We study \textit{in silico} the viability of $G \times E$ prediction under realistic constraints. We show that the environmental response of a new generation of untested Barley cultivars can be predicted in new locations and years using genomic data, machine learning and historical weather observations. Our results highlight the need for models of $G \times E$: non-linear effects clearly dominate linear ones and the interaction between the soil type and daily rain is identified as the main driver for $G \times E$. Our study implies that genomic selection can be used to capture the yield potential in $G \times E$ effects for future growth seasons, providing a possible means to achieve yield improvements. $G \times E$ models are also needed to select for varieties that react favourably to the altering climate conditions. For this purpose, the historical weather observations could be replaced by climate simulations to study the yield potential under various climate scenarios.This abstract summarizes the findings of a recently published article. </details>
 
 
-### (3) Machine Learning empowered Occupancy Sensing for Smart Buildings  [pdf](./CameraReady/45/Submission/ccai19_f.pdf)
+### (3) Machine Learning empowered Occupancy Sensing for Smart Buildings  [pdf](./CameraReady/45/CameraReadySubmission/ccai19_f.pdf)
 
 *Han Zou (UC Berkeley); Hari Prasanna Das  (UC Berkeley ); Jianfei Yang (Nanyang Technological University); Yuxun Zhou (UC Berkeley); Costas Spanos  (UC Berkeley)*
 <details>
@@ -110,7 +110,7 @@ Interaction between the genotype and the environment ($G \times E$) has a strong
 Over half of the global electricity consumption is attributed to buildings, which are often operated poorly from an energy perspective. Significant improvements in energy efficiency can be achieved via intelligent building control techniques. To realize such advanced control schemes, accurate and robust occupancy information is highly valuable. In this work, we present a cutting-edge WiFi sensing platform and state-of-the-art machine learning methods to address longstanding occupancy sensing challenges in smart buildings. Our systematic solution provides comprehensive fine-grained occupancy information in a non-intrusive and privacy-preserving manner, which facilitates eco-friendly and sustainable buildings. </details>
 
 
-### (4) Focus and track: pixel-wise spatio-temporal hurricane tracking  [pdf](./CameraReady/9/Submission/ICML_Climate_Change_2019_1.pdf)
+### (4) Focus and track: pixel-wise spatio-temporal hurricane tracking  [pdf](./CameraReady/9/CameraReadySubmission/ICML_Climate_Change_2019_1.pdf)
 
 *Sookyung Kim (Lawrence Livermore National Laboratory); Sunghyun  Park (Korea University); Sunghyo Chung (Korea University); Yunsung Lee (Korea University); Hyojin Kim (LLNL); Joonseok Lee (Google Research); Jaegul Choo (Korea University); Mr Prabhat (Lawrence Berkeley National Laboratory)*
 <details>
@@ -121,7 +121,7 @@ Over half of the global electricity consumption is attributed to buildings, whic
 We tackle extreme climate event tracking problem. It has unique challenges to other visual object tracking problems, including wider range of spatio-temporal dynamics, blur boundary of the target, and shortage of labeled dataset. In this paper, we propose a simple but robust end-to-end model based on multi-layered ConvLSTM, suitable for the climate event tracking problem. It first learns to imprint location and appearance of the target at the first frame with one-shot auto-encoding fashion, and then, the learned feature is consumed by the tracking module to track the target in subsequent time frames. To tackle the data shortage problem, we propose data augmentation based on Social GAN. Extensive experiments show that the proposed framework significantly improves tracking performance on hurricane tracking task over several state-of-the-art methods. </details>
 
 
-### (5) Recovering the parameters underlying the Lorenz-96 chaotic dynamics [pdf](./CameraReady/70/Submission/icml_l96_theta_edited_v5.pdf)
+### (5) Recovering the parameters underlying the Lorenz-96 chaotic dynamics [pdf](./CameraReady/70/CameraReadySubmission/icml_l96_theta_edited_v5.pdf)
 
 *Soukayna Mouatadid (University of Toronto); Pierre Gentine (Columbia University); Wei Yu (University of Toronto); Steve Easterbrook (University of Toronto)*
 
@@ -144,7 +144,7 @@ Climate projections suffer from uncertain equilibrium climate sensitivity. The r
 Photovoltaic solar panel efficiency is dependent on photons transmitting through the glass sheet covering and into the crystalline silicon solar cells within.  However, complications such as soiling and light reflection degrade performance. Our goal is to identify a fabrication process to produce glass which promotes photon transmission and is superomniphobic (repels fluids), for easier cleaning. In this paper, we propose adapting Bayesian optimization to efficiently search the space of possible glass fabrication strategies; in this search we balance three competing objectives (transmittance, haze and oil contact angle). We present the glass generated from this Bayesian optimization strategy and detail its properties relevant to photovoltaic solar power. </details>
 
 
-### (7) A quantum mechanical approach for data assimilation in climate dynamics [pdf](./CameraReady/30/Submission/manuscript.pdf)
+### (7) A quantum mechanical approach for data assimilation in climate dynamics [pdf](./CameraReady/30/CameraReadySubmission/manuscript.pdf)
 
 *Dimitrios Giannakis (Courant Institute of Mathematical Sciences, New York University); Joanna Slawinska (University of Wisconsin-Milwaukee); Abbas Ourmazd (University of Wisconsin-Milwaukee)*
 <details>
@@ -155,7 +155,7 @@ Photovoltaic solar panel efficiency is dependent on photons transmitting through
 A framework for data assimilation in climate dynamics is presented, combining aspects of quantum mechanics, Koopman operator theory, and kernel methods for machine learning. This approach adapts the Dirac-von Neumann formalism of quantum dynamics and measurement to perform data assimilation (filtering) of climate dynamics, using the Koopman operator governing the evolution of observables as an analog of the Heisenberg operator in quantum mechanics, and a quantum mechanical density operator to represent  the data assimilation state. The framework is implemented in a fully empirical, data-driven manner, using kernel methods for machine learning to represent the evolution and measurement operators via matrices in a basis learned from time-ordered observations. Applications to data assimilation of the Nino 3.4 index for the El Nino Southern Oscillation (ENSO) in a comprehensive climate model show promising results. </details>
 
 
-### (8) Data-driven Chance Constrained Programming based Electric Vehicle Penetration Analysis [pdf](./CameraReady/76/Submission/ccp_final.pdf)
+### (8) Data-driven Chance Constrained Programming based Electric Vehicle Penetration Analysis [pdf](./CameraReady/76/CameraReadySubmission/ccp_final.pdf)
 
 *Di Wu (McGill); Tracy Cui (Google NYC); Doina Precup (McGill University); Benoit Boulet (McGill)*
 <details>
@@ -166,7 +166,7 @@ A framework for data assimilation in climate dynamics is presented, combining as
 Transportation electrification has been growing rapidly in recent years. The adoption of electric vehicles (EVs) could help to release the dependency on oil and reduce greenhouse gas emission. However, the increasing EV adoption will also impose a high demand on the power grid and may jeopardize the grid network infrastructures. For certain high EV penetration areas, the EV charging demand may lead to transformer overloading at peak hours which makes the maximal EV penetration analysis an urgent problem to solve. This paper proposes a data-driven chance constrained programming based framework for maximal EV penetration analysis. Simulation results are presented for a real-world neighborhood level network. The proposed framework could serve as a guidance for utility companies to schedule infrastructure upgrades. </details>
 
 
-### (9) (Spotlight: 4:30PM) Machine Learning for AC Optimal Power Flow [pdf](./CameraReady/54/Submission/_ICML_2019_Climate_Change__Deep_Learning_for_Optimal_Power_Flow.pdf)
+### (9) (Spotlight: 4:30PM) Machine Learning for AC Optimal Power Flow [pdf](./CameraReady/54/CameraReadySubmission/_ICML_2019_Climate_Change__Deep_Learning_for_Optimal_Power_Flow.pdf)
 
 *Neel Guha (Carnegie Mellon University); Zhecheng Wang (Stanford University); Arun Majumdar (Stanford University)*
 <details>
@@ -177,7 +177,7 @@ Transportation electrification has been growing rapidly in recent years. The ado
 We explore machine learning methods for AC Optimal Powerflow (ACOPF) - the task of optimizing power generation in a transmission network according while respecting physical and engineering constraints. We present two formulations of ACOPF as a machine learning problem: 1) an end-to-end prediction task where we directly predict the optimal generator settings, and 2) a constraint prediction task where we predict the set of active constraints in the optimal solution. We validate these approaches on two benchmark grids.    </details>
 
 
-### (10)  (Spotlight: 2:50PM) Targeted Meta-Learning for Critical Incident Detection in Weather Data [pdf](./CameraReady/26/Submission/TargetedMetaLearning_Workshop_ICML2019.pdf)
+### (10)  (Spotlight: 2:50PM) Targeted Meta-Learning for Critical Incident Detection in Weather Data [pdf](./CameraReady/26/CameraReadySubmission/TargetedMetaLearning_Workshop_ICML2019.pdf)
 
 *Mohammad Mahdi Kamani (The Pennsylvania State University); Sadegh Farhang (Pennsylvania State University); Mehrdad Mahdavi (Penn State); James Z Wang (The Pennsylvania State University)*
 <details>
@@ -210,7 +210,7 @@ Pattern recognition tasks such as classification, object detection and segmentat
 Water managers in the western United States (U.S.) rely on longterm forecasts of temperature and precipitation to prepare for droughts and other wet weather extremes. To improve the accuracy of these long-term forecasts, the Bureau of Reclamation and the National Oceanic and Atmospheric Administration (NOAA) launched the Subseasonal Climate Forecast Rodeo, a year-long real-time forecasting challenge, in which participants aimed to skillfully predict temperature and precipitation in the western U.S. two to four weeks and four to six weeks in advance. We present and evaluate our machine learning approach to the Rodeo and release our SubseasonalRodeo dataset, collected to train and evaluate our forecasting system. Our predictive system is an ensemble of two regression models, and exceeds that of the top Rodeo competitor as well as the government baselines for each target variable and forecast horizon. </details>
 
 
-### (13) Unsupervised Temporal Clustering to Monitor the Performance of Alternative Fueling Infrastructure [pdf](./CameraReady/3/Submission/ICML_Ramea_2019.pdf)
+### (13) Unsupervised Temporal Clustering to Monitor the Performance of Alternative Fueling Infrastructure [pdf](./CameraReady/3/CameraReadySubmission/ICML_Ramea_2019.pdf)
 
 *Kalai Ramea (PARC)*
 <details>
@@ -221,7 +221,7 @@ Water managers in the western United States (U.S.) rely on longterm forecasts of
 Zero Emission Vehicles (ZEV) play an important role in the decarbonization of the transportation sector. For a wider adoption of ZEVs, providing a reliable infrastructure is critical. We present a machine learning approach that uses unsupervised temporal clustering algorithm along with survey analysis to determine infrastructure performance and reliability of alternative fuels. We illustrate this approach for the hydrogen fueling stations in California, but this can be generalized for other regions and fuels.  </details>
 
 
-### (14) A Flexible Pipeline for Prediction of Tropical Cyclone Paths [pdf](./CameraReady/19/Submission/ICML_Workshop_TC_paper.pdf)
+### (14) A Flexible Pipeline for Prediction of Tropical Cyclone Paths [pdf](./CameraReady/19/CameraReadySubmission/ICML_Workshop_TC_paper.pdf)
 
 *Niccolo Dalmasso (Carnegie Mellon University); Robin Dunn (Carnegie Mellon University); Benjamin LeRoy (Carnegie Mellon University); Chad Schafer (Carnegie Mellon University)*
 <details>
@@ -232,7 +232,7 @@ Zero Emission Vehicles (ZEV) play an important role in the decarbonization of th
 Hurricanes and, more generally, tropical cyclones (TCs) are rare, complex natural phenomena of both scientific and public interest. The importance of understanding TCs in a changing climate has increased as recent TCs have had devastating impacts on human lives and communities. Moreover, good prediction and understanding about the complex nature of TCs can mitigate some of these human and property losses. Though TCs have been studied from many different angles, more work is needed from a statistical approach of providing prediction regions. The current state-of-the-art in TC prediction bands comes from the National Hurricane Center at NOAA, whose proprietary model provides "cones of uncertainty" for TCs through an analysis of historical forecast errors. The contribution of this paper is twofold. We introduce a new pipeline that encourages transparent and adaptable prediction band development by streamlining cyclone track simulation and prediction band generation. We also provide updates to existing models and novel statistical methodologies in both areas of the pipeline respectively.  </details>
 
 
-### (15) Mapping land use and land cover changes faster and at scale with deep learning on the cloud [pdf](./CameraReady/81/Submission/CCA1_2019_DevelopmentSeed.pdf)
+### (15) Mapping land use and land cover changes faster and at scale with deep learning on the cloud [pdf](./CameraReady/81/CameraReadySubmission/CCA1_2019_DevelopmentSeed.pdf)
 
 *Zhuangfang Yi (Development Seed); Drew Bollinger (Development Seed); Devis Peressutti (Sinergise)*
 <details>
@@ -243,7 +243,7 @@ Hurricanes and, more generally, tropical cyclones (TCs) are rare, complex natura
 Policymakers rely on Land Use and Land Cover (LULC) maps for evaluation and planning. They use these maps to plan climate-smart agriculture policy, improve housing resilience (to earthquakes or other natural disasters), and understand how to grow commerce in small communities. A number of institutions have created global land use maps from historic satellite imagery. However, these maps can be outdated and are often inaccurate, particularly in their representation of developing countries. We worked with the European Space Agency (ESA) to develop a LULC deep learning workflow on the cloud that can ingest Sentinel-2 optical imagery for a large scale LULC change detection. It’s an end-to-end workflow that sits on top of two comprehensive tools, SentinelHub, and eo-learn, which seamlessly link earth observation data with machine learning libraries. It can take in the labeled LULC and associated AOI in shapefiles, set up a task to fetch cloud-free, time series imagery stacks within the defined time interval by the users. It will pair the satellite imagery tile with it’s labeled LULC mask for the supervised deep learning model training on the cloud. Once a well-performing model is trained, it can be exported as a Tensorflow/Pytorch serving docker image to work with our cloud-based model inference pipeline. The inference pipeline can automatically scale with the number of images to be processed.  Changes in land use are heavily influenced by human activities (e.g. agriculture, deforestation, human settlement expansion) and have been a great source of greenhouse gas emissions. Sustainable forest and land management practices vary from region to region, which means having flexible, scalable tools will be critical. With these tools, we can empower analysts, engineers, and decision-makers to see where contributions to climate-smart agricultural, forestry and urban resilience programs can be made.  </details>
 
 
-### (16) Achieving Conservation of Energy in Neural Network Emulators for Climate Modeling  [pdf](./CameraReady/53/Submission/Beucler_et_al_ICML_AICC.pdf)
+### (16) Achieving Conservation of Energy in Neural Network Emulators for Climate Modeling  [pdf](./CameraReady/53/CameraReadySubmission/Beucler_et_al_ICML_AICC.pdf)
 
 *Tom G Beucler (Columbia University & UCI); Stephan Rasp (Ludwig-Maximilian University of Munich); Michael Pritchard (UCI); Pierre Gentine (Columbia University)*
 <details>
@@ -254,7 +254,7 @@ Policymakers rely on Land Use and Land Cover (LULC) maps for evaluation and plan
 Artificial neural-networks have the potential to emulate cloud processes with higher accuracy than the semi-empirical emulators currently used in climate models. However, neural-network models do not intrinsically conserve energy and mass, which is an obstacle to using them for long-term climate predictions. Here, we propose two methods to enforce linear conservation laws in neural-network emulators of physical models: Constraining (1) the loss function or (2) the architecture of the network itself. Applied to the emulation of explicitly-resolved cloud processes in a prototype multi-scale climate model, we show that architecture constraints can enforce conservation laws to satisfactory numerical precision, while all constraints help the neural-network better generalize to conditions outside of its training set, such as global warming.  </details>
 
 
-### (17) The Impact of Feature Causality on Normal Behaviour Models for SCADA-based Wind Turbine Fault Detection [pdf](./CameraReady/39/Submission/icml_ai_climatechange_TF.pdf)
+### (17) The Impact of Feature Causality on Normal Behaviour Models for SCADA-based Wind Turbine Fault Detection [pdf](./CameraReady/39/CameraReadySubmission/icml_ai_climatechange_TF.pdf)
 
 *Telmo Felgueira (IST)*
 <details>
@@ -265,7 +265,7 @@ Artificial neural-networks have the potential to emulate cloud processes with hi
 The cost of wind energy can be reduced by using SCADA data to detect faults in wind turbine components. Normal behavior models are one of the main fault detection approaches, but there is a lack of work in how different input features affect the results. In this work, a new taxonomy based on the causal relations between the input features and the target is presented. Based on this taxonomy, the impact of different input feature configurations on the modelling and fault detection performance is evaluated. To this end, a framework that formulates the detection of faults as a classification problem is also presented. </details>
 
 
-### (18) Predicting CO2 Plume Migration using Deep Neural Networks [pdf](./CameraReady/56/Submission/icmlpaper.pdf)
+### (18) Predicting CO2 Plume Migration using Deep Neural Networks [pdf](./CameraReady/56/CameraReadySubmission/icmlpaper.pdf)
 
 *Gege Wen (Stanford University)*
 <details>
@@ -298,7 +298,7 @@ The road freight sector is responsible for a large and growing share of greenhou
 Soil moisture is an important variable that determines floods, vegetation health, agriculture productivity, and land surface feedbacks to the atmosphere, etc.. The recently available satellite-based observations give us a unique opportunity to directly build data-driven models to predict soil moisture instead of using land surface models, but previously there was no uncertainty estimate. We tested Monte Carlo dropout with an aleatoric term (MCD+A) for our long short-term memory models for this problem, and ask if the uncertainty terms behave as they were argued to. We show that MCD+A indeed gave a good estimate of our predictive error, provided we tune a hyperparameter and use a representative training dataset. The aleatoric term responded strongly to observational noise and the epistemic term clearly acted as a detector for physiographic dissimilarity from the training data. However, when the training and test data are characteristically different, the aleatoric term could be misled, undermining its reliability. We will also discuss some of the major challenges for which we anticipate the geoscientific communities will need help from computer scientists in applying AI to climate or hydrologic modeling. </details>
 
 
-### (21) (Spotlight: 2:30PM) Detecting anthropogenic cloud perturbations with deep learning  [pdf](./CameraReady/42/Submission/ICML_2019_Camera_Submission.pdf)
+### (21) (Spotlight: 2:30PM) Detecting anthropogenic cloud perturbations with deep learning  [pdf](./CameraReady/42/CameraReadySubmission/ICML_2019_Camera_Submission.pdf)
 
 *Duncan Watson-Parris (University of Oxford); Sam Sutherland (University of Oxford); Matthew Christensen (University of Oxford); Anthony Teh (University of Oxford); Dino Sejdinovic (University of Oxford); Philip Stier (University of Oxford)*
 <details>
@@ -309,7 +309,7 @@ Soil moisture is an important variable that determines floods, vegetation health
 One of the most pressing questions in climate science is that of the effect of anthropogenic aerosol on the Earth's energy balance. Aerosols provide the `seeds' on which cloud droplets form, and changes in the amount of aerosol available to a cloud can change its brightness and other physical properties such as optical thickness and spatial extent. Clouds play a critical role in moderating global temperatures and small perturbations can lead to significant amounts of cooling or warming. Uncertainty in this effect is so large it is not currently known if it is negligible, or provides a large enough cooling to largely negate present-day warming by CO2. This work uses deep convolutional neural networks to look for two particular perturbations in clouds due to anthropogenic aerosol and assess their properties and prevalence, providing valuable insights into their climatic effects. </details>
 
 
-### (22) Data-driven surrogate models for climate modeling: application of echo state networks, RNN-LSTM and ANN to the multi-scale Lorenz system as a test case [pdf](./CameraReady/49/Submission/example_paper.pdf)
+### (22) Data-driven surrogate models for climate modeling: application of echo state networks, RNN-LSTM and ANN to the multi-scale Lorenz system as a test case [pdf](./CameraReady/49/CameraReadySubmission/example_paper.pdf)
 
 *Ashesh K Chattopadhyay (Rice University); Pedram  Hassanzadeh (Rice University); Devika  Subramanian (Rice University); Krishna Palem (Rice University); Charles Jiang (Rice University); Adam  Subel (Rice University)*
 <details>
@@ -320,7 +320,7 @@ One of the most pressing questions in climate science is that of the effect of a
 Understanding the effects of climate change relies on physics driven computationally expensive climate models which are still imperfect owing to ineffective subgrid scale parametrization. An effective way to treat these ineffective parametrization of largely uncertain subgrid scale processes are data-driven surrogate models with machine learning techniques. These surrogate models train on observational data capturing either the embed- dings of their (subgrid scale processes’) underlying dynamics on the large scale processes or to simulate the subgrid processes accurately to be fed into the large scale processes. In this paper an extended version of the Lorenz 96 system is studied, which consists of three equations for a set of slow, intermediate, and fast variables, providing a fitting prototype for multi-scale, spatio-temporal chaos, and in particular, the complex dynamics of the climate system. In this work, we have built a data-driven model based on echo state net- works (ESN) aimed, specifically at climate modeling. This model can predict the spatio-temporal chaotic evolution of the Lorenz system for several Lyapunov timescales. We show that the ESN model outperforms, in terms of the prediction horizon, a deep learning technique based on recurrent neural network (RNN) with long short-term memory (LSTM) and an artificial neural network by factors between 3 and 10. The results suggest that ESN has the potential for being a powerful method for surrogate modeling and data-driven prediction for problems of interest to the climate community. </details>
 
 
-### (23) Learning Radiative Transfer Models for Climate Change Applications in Imaging Spectroscopy [pdf](./CameraReady/58/Submission/ICML_camera_ready.pdf)
+### (23) Learning Radiative Transfer Models for Climate Change Applications in Imaging Spectroscopy [pdf](./CameraReady/58/CameraReadySubmission/ICML_camera_ready.pdf)
 
 *Shubhankar V Deshpande (Carnegie Mellon University), Brian D Bue (NASA JPL/Caltech), David R Thompson (NASA JPL/Caltech), Vijay Natraj (NASA JPL/Caltech), Mario Parente (UMass Amherst)*
 <details>
@@ -331,7 +331,7 @@ Understanding the effects of climate change relies on physics driven computation
 According to a recent investigation, an estimated 33-50% of the world's coral reefs have undergone degradation, believed to be as a result of climate change. A strong driver of climate change and the subsequent environmental impact are greenhouse gases such as methane. However, the exact relation climate change has to the environmental condition cannot be easily established. Remote sensing methods are increasingly being used to quantify and draw connections between rapidly changing climatic conditions and environmental impact. A crucial part of this analysis is processing spectroscopy data using radiative transfer models (RTMs) which is a computationally expensive process and limits their use with high volume imaging spectrometers. This work presents an algorithm that can efficiently emulate RTMs using neural networks leading to a multifold speedup in processing time, and yielding multiple downstream benefits. </details>
 
 
-### (24)  (Spotlight: 4:40PM) Planetary Scale Monitoring of Urban Growth in High Flood Risk Areas [pdf](./CameraReady/65/Submission/icml2019_planet_final.pdf)
+### (24)  (Spotlight: 4:40PM) Planetary Scale Monitoring of Urban Growth in High Flood Risk Areas [pdf](./CameraReady/65/CameraReadySubmission/icml2019_planet_final.pdf)
 
 *Christian F Clough (Planet); Ramesh Nair (Planet); Gopal Erinjippurath (Planet); Matt George (Planet); Jesus Martinez Manso (Planet)*
 <details>
@@ -355,7 +355,7 @@ Globe crop analysis from plentiful satellite images yields state-of-the-art resu
 
 ## Deployed Track
 
-### (26) Autopilot of Cement Plants for Reduction of Fuel Consumption and Emissions [pdf](./CameraReady/78/Submission/ICML2019___Petuum_cr.pdf)
+### (26) Autopilot of Cement Plants for Reduction of Fuel Consumption and Emissions [pdf](./CameraReady/78/CameraReadySubmission/ICML2019___Petuum_cr.pdf)
 
 *Prabal Acharyya (Petuum Inc); Sean D Rosario (Petuum Inc); Roey Flor (Petuum Inc); Ritvik Joshi (Petuum Inc); Dian Li (Petuum Inc); Roberto Linares (Petuum Inc); Hongbao Zhang (Petuum Inc)*
 <details>
@@ -377,7 +377,7 @@ The cement manufacturing industry is an essential component of the global econom
 About 30-40% of food produced worldwide is wasted. This puts a severe strain on the environment and represents a $165B loss to the US economy. This paper explores how artificial intelligence can be used to automate decisions across the food supply chain in order to reduce waste and increase the quality and affordability of food. We focus our attention on supermarkets — combined with downstream consumer waste, these contribute to 40% of total US food losses — and we describe an intelligent decision support system for supermarket operators that optimizes purchasing decisions and minimizes losses. The core of our system is a model-based reinforcement learn- ing engine for perishable inventory management; in a real-world pilot with a US supermarket chain, our system reduced waste by up to 50%. We hope that this paper will bring the food waste problem to the attention of the broader machine learning research community. </details>
 
 
-### (28)  PVNet: A LRCN Architecture for Spatio-Temporal Photovoltaic Power Forecasting from Numerical Weather Prediction [pdf](./CameraReady/69/Submission/pvnet_3_pages.pdf)
+### (28)  PVNet: A LRCN Architecture for Spatio-Temporal Photovoltaic Power Forecasting from Numerical Weather Prediction [pdf](./CameraReady/69/CameraReadySubmission/pvnet_3_pages.pdf)
 
 *Johan Mathe (Frog Labs)*
 <details>
@@ -410,7 +410,7 @@ Ship-tracks appear as long winding linear features in satellite images and are p
 Highly accurate electricity demand forecasts represent a major opportunity to create grid stability in light of the concurrent deployment of distributed renewables and energy storage, as well as the increasing occurrence of extreme weather events caused by climate change. We present an overview of a deployed machine learning system that accomplishes this task by using smart meter data (AMI) within the region governed by the Electric Reliability Council of Texas (ERCOT). </details>
 
 
-### (31) (Spotlight: 10:30AM) Deep Learning for Wildlife Conservation and Restoration Efforts [pdf](./CameraReady/48/Submission/ICML_tidzam.pdf)
+### (31) (Spotlight: 10:30AM) Deep Learning for Wildlife Conservation and Restoration Efforts [pdf](./CameraReady/48/CameraReadySubmission/ICML_tidzam.pdf)
 
 *Clement Duhart (MIT Media Lab)*
 <details>
@@ -424,7 +424,7 @@ Climate change and environmental degradation are causing species extinction worl
 
 ## Ideas Track
 
-### (32)  (Spotlight: 4:50PM) Reinforcement Learning for Sustainable Agriculture  [pdf](./CameraReady/40/Submission/Yield_optimization.pdf)
+### (32)  (Spotlight: 4:50PM) Reinforcement Learning for Sustainable Agriculture  [pdf](./CameraReady/40/CameraReadySubmission/Yield_optimization.pdf)
 
 *Jonathan Binas (Mila, Montreal); Leonie Luginbuehl (Department of Plant Sciences, University of Cambridge); Yoshua Bengio (Mila)*
 <details>
@@ -435,7 +435,7 @@ Climate change and environmental degradation are causing species extinction worl
 The growing population and the changing climate will push modern agriculture to its limits in an increasing number of regions on earth. Establishing next-generation sustainable food supply systems will mean producing more food on less arable land, while keeping the environmental impact to a minimum. Modern machine learning methods have achieved super-human performance on a variety of tasks, simply learning from the outcomes of their actions. We propose a path towards more sustainable agriculture, considering plant development an optimization problem with respect to certain parameters, such as yield and environmental impact, which can be optimized in an automated way. Specifically, we propose to use reinforcement learning to autonomously explore and learn ways of influencing the development of certain types of plants, controlling environmental parameters, such as irrigation or nutrient supply, and receiving sensory feedback, such as camera images, humidity, and moisture measurements. The trained system will thus be able to provide instructions for optimal treatment of a local population of plants, based on non-invasive measurements, such as imaging. </details>
 
 
-### (33) (Spotlight: 4:55PM) Stratospheric Aerosol Injection as a Deep Reinforcement Learning Problem [pdf](./CameraReady/46/Submission/main.pdf)
+### (33) (Spotlight: 4:55PM) Stratospheric Aerosol Injection as a Deep Reinforcement Learning Problem [pdf](./CameraReady/46/CameraReadySubmission/main.pdf)
 
 *Christian A Schroeder (University of Oxford); Thomas Hornigold (University of Oxford)*
 <details>
@@ -446,7 +446,7 @@ The growing population and the changing climate will push modern agriculture to 
 As global greenhouse gas emissions continue to rise, the use of geoengineering in order to artificially mitigate climate change effects is increasingly considered. Stratospheric aerosol injection (SAI), which reduces solar radiative forcing and thus can be used to offset excess radiative forcing due to the greenhouse effect, is both technically and economically feasible. However, naive deployment of SAI has been shown in simulation to produce highly adversarial regional climatic effects in regions such as India and West Africa. Wealthy countries would most likely be able to trigger SAI unilaterally, i.e. China, Russia or US could decide to fix their own climates and, by collateral damage, drying India out by disrupting the monsoon or inducing termination effects with rapid warming. Understanding both how SAI can be optimised and how to best react to rogue injections is therefore of crucial geostrategic interest.  In this paper, we argue that optimal SAI control can be characterised as a high-dimensional Markov Decision Process. This motivates the use of deep reinforcement learning in order to automatically discover non-trivial, and potentially time-varying, optimal injection policies or identify catastrophic ones. To overcome the inherent sample inefficiency of deep reinforcement learning, we propose to emulate a Global Circulation Model using deep learning techniques. To our knowledge, this is the first proposed application of deep reinforcement learning to the climate sciences.  </details>
 
 
-### (34) (Spotlight: 5:00PM) Using Natural Language Processing to Analyze Financial Climate Disclosures [pdf](./CameraReady/55/Submission/ICML_CCAI_NLP-CameraReady.pdf)
+### (34) (Spotlight: 5:00PM) Using Natural Language Processing to Analyze Financial Climate Disclosures [pdf](./CameraReady/55/CameraReadySubmission/ICML_CCAI_NLP-CameraReady.pdf)
 
 
 *Sasha Luccioni (Mila); Hector Palacios (Element AI)*
@@ -458,7 +458,7 @@ As global greenhouse gas emissions continue to rise, the use of geoengineering i
 According to U.S. financial legislation, companies traded on the stock market are obliged to regularly disclose risks and uncertainties that are likely to affect their operations or financial position. Since 2010, these disclosures must also include climate-related risk projections. These disclosures therefore present a large quantity of textual information on which we can apply NLP techniques in order to pinpoint the companies that divulge their climate risks and those that do not, the types of vulnerabilities that are disclosed, and to follow the evolution of these risks over time. </details>
 
 
-### (35) Machine Learning-based Maintenance for Renewable Energy: The Case of Power Plants in Morocco [pdf](./CameraReady/32/Submission/Multi_Component_Predictive_Maintenance.pdf)
+### (35) Machine Learning-based Maintenance for Renewable Energy: The Case of Power Plants in Morocco [pdf](./CameraReady/32/CameraReadySubmission/Multi_Component_Predictive_Maintenance.pdf)
 
 *Kris Sankaran (Montreal Institute for Learning Algorithms); Zouheir Malki (Polytechnique Montréal); Loubna Benabou (UQAR); Hicham Bouzekri (MASEN)*
 <details>
@@ -469,7 +469,7 @@ According to U.S. financial legislation, companies traded on the stock market ar
 In this project, the focus will be on the reduction of the overall electricity cost by the reduction of operating expenditures, including maintenance costs. We propose a predictive maintenance (PdM) framework for multi-component systems in renewables power plants based on machine learning (ML) and optimization approaches. This project would benefit from a real database acquired from the Moroccan Agency Of Sustainable Energy (MASEN) that own and operate several wind, solar and hydro power plants spread over Moroccan territory. Morocco has launched an ambitious energy strategy since 2009 that aims to ensure the energy security of the country, diversify the source of energy and preserve the environment. Ultimately, Morocco has set the target of 52% of renewables by 2030 with a large capital investment of USD 30 billion. To this end, Morocco will install 10 GW allocated as follows: 45% for solar, 42% for wind and 13% for hydro. Through the commitment of many actors, in particular in Research and Development, Morocco intends to become a regional leader and a model to follow in its climate change efforts. MASEN is investing in several strategies to reduce the cost of renewables, including the cost of operations and maintenance. Our project will provide a ML predictive maintenance framework to support these efforts. </details>
 
 
-### (36) GainForest: Scaling Climate Finance for Forest Conservation using Interpretable Machine Learning on Satellite Imagery [pdf](./CameraReady/73/Submission/gainforest.pdf)
+### (36) GainForest: Scaling Climate Finance for Forest Conservation using Interpretable Machine Learning on Satellite Imagery [pdf](./CameraReady/73/CameraReadySubmission/gainforest.pdf)
 
 *David Dao (ETH); Ce Zhang (ETH); Nick Beglinger (Cleantech21); Catherine Cang (UC Berkeley); Reuven Gonzales (OasisLabs); Ming-Da Liu Zhang (ETHZ); Nick Pawlowski (Imperial College London); Clement Fung (University of British Columbia)*
 <details>
@@ -480,7 +480,7 @@ In this project, the focus will be on the reduction of the overall electricity c
 Designing effective REDD+ policies, assessing their GHG impact, and linking them with the corresponding payments, is a resource intensive and complex task. GainForest leverages video prediction with remote sensing to monitor and forecast forest change at high resolution. Furthermore, by viewing payment allocation as a feature selection problem, GainForest can efficiently design payment schemes based on the Shapley value. </details>
 
 
-### (37) Machine Intelligence for Floods and the Built Environment Under Climate Change [pdf](./CameraReady/57/Submission/icml2019_ClimateAI_wkshp_cameraready.pdf)
+### (37) Machine Intelligence for Floods and the Built Environment Under Climate Change [pdf](./CameraReady/57/CameraReadySubmission/icml2019_ClimateAI_wkshp_cameraready.pdf)
 
 *Kate Duffy (Northeastern University); Auroop Ganguly (Northeastern University)*
 <details>
@@ -517,7 +517,7 @@ Ammonia (NH3) production is an industrial process that consumes between 1-2% of 
 </details>
 
 
-### (40) (Spotlight: 5:10PM) Low-carbon urban planning with machine learning [pdf](./CameraReady/29/Submission/icml_camera_ready.pdf)
+### (40) (Spotlight: 5:10PM) Low-carbon urban planning with machine learning [pdf](./CameraReady/29/CameraReadySubmission/icml_camera_ready.pdf)
 
 *Nikola Milojevic-Dupont (Mercator Research Institute on Global Commons and Climate Change (MCC)); Felix Creutzig (Mercator Research Institute on Global Commons and Climate Change (MCC))*
 <details>
@@ -529,7 +529,7 @@ Widespread climate action is urgently needed, but current solutions do not accou
 </details>
 
 
-### (41) The Grid Resilience & Intelligence Platform (GRIP) [pdf](./CameraReady/47/SubmissionCCAI2019Submission2.pdf)
+### (41) The Grid Resilience & Intelligence Platform (GRIP) [pdf](./CameraReady/47/CameraReadySubmission/CCAI2019Submission2.pdf)
 
 *Ashley Pilipiszyn (Stanford University)*
 <details>
@@ -541,7 +541,7 @@ Extreme weather events pose an enormous and increasing threat to the nation’s 
 </details>
 
 
-### (42) Meta-Optimization of Optimal Power Flow [pdf](./CameraReady/43/Submission/icml_invenia_cameraready.pdf)
+### (42) Meta-Optimization of Optimal Power Flow [pdf](./CameraReady/43/CameraReadySubmission/icml_invenia_cameraready.pdf)
 
 *Mahdi Jamei (Invenia Labs); Letif Mones (Invenia Labs); Alex Robson (Invenia Labs); Lyndon White (Invenia Labs); James Requeima (Invenia Labs); Cozmin Ududec (Invenia Labs)*
 <details>
