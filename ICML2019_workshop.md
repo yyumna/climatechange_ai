@@ -8,10 +8,10 @@ description: ICML 2019 Workshop
 
  **_A recording of the workshop (split into 4 sessions) is available at_:** 
  
-<https://slideslive.com/38917142/> <br>
+<https://slideslive.com/38917142> <br>
 <https://slideslive.com/38917143> <br>
-<https://slideslive.com/38917144><br>
-<https://slideslive.com/38917145><br>
+<https://slideslive.com/38917144> <br>
+<https://slideslive.com/38917145> <br>
  
 Ask and upvote questions during the workshop (if directed at a particular speaker, write @SpeakerName at the beginning of your question): <https://tinyurl.com/ICMLClimateQA>
  
