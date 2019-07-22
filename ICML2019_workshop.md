@@ -171,7 +171,7 @@ A framework for data assimilation in climate dynamics is presented, combining as
 Transportation electrification has been growing rapidly in recent years. The adoption of electric vehicles (EVs) could help to release the dependency on oil and reduce greenhouse gas emission. However, the increasing EV adoption will also impose a high demand on the power grid and may jeopardize the grid network infrastructures. For certain high EV penetration areas, the EV charging demand may lead to transformer overloading at peak hours which makes the maximal EV penetration analysis an urgent problem to solve. This paper proposes a data-driven chance constrained programming based framework for maximal EV penetration analysis. Simulation results are presented for a real-world neighborhood level network. The proposed framework could serve as a guidance for utility companies to schedule infrastructure upgrades. </details>
 
 
-### (9) (Spotlight: 4:30PM) Machine Learning for AC Optimal Power Flow [pdf](./CameraReady/54/CameraReadySubmission/Optimal_Power_Flow.pdf)
+### (9) (Spotlight: 4:30PM) Machine Learning for AC Optimal Power Flow [pdf](./CameraReady/54/CameraReadySubmission/Optimal_Power_Flow.pdf) <span class='badge'>Honorable Mention</span>
 *Neel Guha (Carnegie Mellon University); Zhecheng Wang (Stanford University); Arun Majumdar (Stanford University)*
 <details>
 <summary>
@@ -302,7 +302,7 @@ The road freight sector is responsible for a large and growing share of greenhou
 Soil moisture is an important variable that determines floods, vegetation health, agriculture productivity, and land surface feedbacks to the atmosphere, etc.. The recently available satellite-based observations give us a unique opportunity to directly build data-driven models to predict soil moisture instead of using land surface models, but previously there was no uncertainty estimate. We tested Monte Carlo dropout with an aleatoric term (MCD+A) for our long short-term memory models for this problem, and ask if the uncertainty terms behave as they were argued to. We show that MCD+A indeed gave a good estimate of our predictive error, provided we tune a hyperparameter and use a representative training dataset. The aleatoric term responded strongly to observational noise and the epistemic term clearly acted as a detector for physiographic dissimilarity from the training data. However, when the training and test data are characteristically different, the aleatoric term could be misled, undermining its reliability. We will also discuss some of the major challenges for which we anticipate the geoscientific communities will need help from computer scientists in applying AI to climate or hydrologic modeling. </details>
 
 
-### (21) (Spotlight: 2:30PM) Detecting anthropogenic cloud perturbations with deep learning  [pdf](./CameraReady/42/CameraReadySubmission/ICML_2019_Camera_Submission.pdf)
+### (21) (Spotlight: 2:30PM) Detecting anthropogenic cloud perturbations with deep learning  [pdf](./CameraReady/42/CameraReadySubmission/ICML_2019_Camera_Submission.pdf) <span class='badge'>Best Paper Award</span>
 
 *Duncan Watson-Parris (University of Oxford); Sam Sutherland (University of Oxford); Matthew Christensen (University of Oxford); Anthony Caterini (University of Oxford); Dino Sejdinovic (University of Oxford); Philip Stier (University of Oxford)*
 <details>
@@ -370,7 +370,7 @@ Globe crop analysis from plentiful satellite images yields state-of-the-art resu
 The cement manufacturing industry is an essential component of the global economy and infrastructure. However, cement plants inevitably produce hazardous air pollutants, including greenhouse gases, and heavy metal emissions as byproducts of the process. Byproducts from cement manufacturing alone accounts for approximately 5% of global carbon dioxide (CO2) emissions. We have developed "Autopilot" - a machine learning based Software as a Service (SaaS) to learn manufacturing process dynamics and optimize the operation of cement plants - in order to reduce the overall fuel consumption and emissions of cement production.  Autopilot is able to increase the ratio of alternative fuels (including biowaste and tires) to Petroleum coke, while optimizing operation of pyro, the core process of cement production that includes the preheater, kiln and cooler. Emissions of gases such as NOx and SOx, and heavy metals such as mercury and lead which are generated through burning petroleum coke can be reduced through the use of Autopilot. Our system has been proven to work in real world deployments and an analysis of cement plant performance with Autopilot enabled shows energy consumption savings and a  decrease of up to 28,000 metric tons of CO2 produced per year. </details>
 
 
-### (27) (Spotlight: 10:10AM) Towards a Sustainable Food Supply Chain Powered by Artificial Intelligence
+### (27) (Spotlight: 10:10AM) Towards a Sustainable Food Supply Chain Powered by Artificial Intelligence <span class='badge'>Honorable Mention</span>
 
 *Volodymyr Kuleshov (Stanford University)*
 <details>
@@ -439,7 +439,7 @@ Climate change and environmental degradation are causing species extinction worl
 The growing population and the changing climate will push modern agriculture to its limits in an increasing number of regions on earth. Establishing next-generation sustainable food supply systems will mean producing more food on less arable land, while keeping the environmental impact to a minimum. Modern machine learning methods have achieved super-human performance on a variety of tasks, simply learning from the outcomes of their actions. We propose a path towards more sustainable agriculture, considering plant development an optimization problem with respect to certain parameters, such as yield and environmental impact, which can be optimized in an automated way. Specifically, we propose to use reinforcement learning to autonomously explore and learn ways of influencing the development of certain types of plants, controlling environmental parameters, such as irrigation or nutrient supply, and receiving sensory feedback, such as camera images, humidity, and moisture measurements. The trained system will thus be able to provide instructions for optimal treatment of a local population of plants, based on non-invasive measurements, such as imaging. </details>
 
 
-### (33) (Spotlight: 4:55PM) Stratospheric Aerosol Injection as a Deep Reinforcement Learning Problem [pdf](./CameraReady/46/CameraReadySubmission/main.pdf)
+### (33) (Spotlight: 4:55PM) Stratospheric Aerosol Injection as a Deep Reinforcement Learning Problem [pdf](./CameraReady/46/CameraReadySubmission/main.pdf) <span class='badge'>Honorable Mention</span>
 
 *Christian A Schroeder (University of Oxford); Thomas Hornigold (University of Oxford)*
 <details>
