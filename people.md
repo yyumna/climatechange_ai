@@ -1,5 +1,7 @@
 ---
 layout: default
+title: 'People involved in CCAI'
+description: CCAI People
 ---
 
 
