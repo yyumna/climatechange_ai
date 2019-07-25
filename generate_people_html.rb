@@ -9,15 +9,15 @@ web_team = people.select { |p| p['committees'].include? 'web' }
 
 def to_html(p)
   <<-HTML
-<div class="person__item">
+<a class="person__item" href="#{p['website_url']}" target="_blank">
   <div class="person__pic-wrapper">
     <img class="person__pic" src="#{p['image_url']}">
   </div>
-  <a class="person__name" href="#{p['website_url']}" target="_blank">
+  <span class="person__name">
     #{p['name']} (#{p['affiliation']})
-  </a>
+  </span>
   <div class="person__spacer"></div>
-</div>
+</a>
   HTML
 end
 

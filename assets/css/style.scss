@@ -80,6 +80,17 @@ html, body {
   margin-right: 1rem;
   margin-bottom: 1rem;
   position: relative;
+  display: block;
+}
+
+.person__item:hover .person__name {
+  text-decoration: underline;
+}
+
+.person__name {
+  color: rgb(96, 108, 113);
+  display: inline-block;
+  margin-top: 1rem;
 }
 
 .person__spacer {
@@ -103,9 +114,4 @@ html, body {
   display: block;
   height: auto;
   box-shadow: 0 2px 3px 0 rgba(0,0,0,.15);
-}
-
-.person__name {
-  display: inline-block;
-  margin-top: 1rem;
 }
