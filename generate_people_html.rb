@@ -11,7 +11,7 @@ def to_html(p)
   <<-HTML
 <a class="person__item" href="#{p['website_url']}" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="#{p['image_url']}">
+    <img class="person__pic" src="#{p['image_url'].split(".")[0]}_200x200.jpg">
   </div>
   <span class="person__name">
     #{p['name']} (#{p['affiliation']})
