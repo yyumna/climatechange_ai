@@ -6,14 +6,7 @@ description: ICML 2019 Workshop
 
 **Many in the ML community wish to take action on climate change, yet feel their skills are inapplicable.** This workshop aims to show that in fact the opposite is true: while no silver bullet, ML can be an invaluable tool both in reducing greenhouse gas emissions and in helping society adapt to the effects of climate change. Climate change is a complex problem, for which action takes many forms - from designing smart electrical grids to tracking deforestation in satellite imagery. Many of these actions represent high-impact opportunities for real-world change, as well as being interesting problems for ML research.
 
- **_A recording of the workshop (split into 4 sessions) is available at_:** 
- 
-<https://slideslive.com/38917142> <br>
-<https://slideslive.com/38917143> <br>
-<https://slideslive.com/38917144> <br>
-<https://slideslive.com/38917145> <br>
- 
-Ask and upvote questions during the workshop (if directed at a particular speaker, write @SpeakerName at the beginning of your question): <https://tinyurl.com/ICMLClimateQA>
+ **_Recordings of the workshop are linked to in the schedule._** 
  
 ## Speakers
 
@@ -29,28 +22,27 @@ Ask and upvote questions during the workshop (if directed at a particular speake
 ## Schedule
 
  8:30 -  8:45 - Welcome and Opening Remarks   
- 8:45 -  9:20 - John Platt (Google AI): **AI for Climate Change: the Context** *(Keynote talk)*     
- 9:20 -  9:45 - Jack Kelly (Open Climate Fix): **Why it's hard to mitigate climate change, and how to do better** *(Invited talk)*    
- 9:45 - 10:10 - Andrew Ng (Stanford): **Tackling climate change challenges with AI through collaboration** *(Invited talk)*      
-10:10 - 10:20 - Volodymyr Kuleshov: **Towards a Sustainable Food Supply Chain Powered by Artificial Intelligence**  *(Spotlight talk)*   
-10:20 - 10:30 -	Clement Duhart: **Deep Learning for Wildlife Conservation and Restoration Efforts**  *(Spotlight talk)*     
+ 8:45 -  9:20 - John Platt (Google AI): [**AI for Climate Change: the Context**](https://slideslive.com/38917851){:target="_blank"} *(Keynote talk)*     
+ 9:20 -  9:45 - Jack Kelly (Open Climate Fix): [**Why it's hard to mitigate climate change, and how to do better**](https://slideslive.com/38917850){:target="_blank"} *(Invited talk)*    
+ 9:45 - 10:10 - Andrew Ng (Stanford): [**Tackling climate change challenges with AI through collaboration**](https://slideslive.com/38917852){:target="_blank"} *(Invited talk)*      
+10:10 - 10:20 - Volodymyr Kuleshov: [**Towards a Sustainable Food Supply Chain Powered by Artificial Intelligence**](https://slideslive.com/38917853){:target="_blank"}  *(Spotlight talk)*   
+10:20 - 10:30 -	Clement Duhart: [**Deep Learning for Wildlife Conservation and Restoration Efforts**](https://slideslive.com/38917860){:target="_blank"}  *(Spotlight talk)*     
 10:30 - 11:00 - Coffee break + Poster Session   
-11:00 - 12:00 - Chad Frischmann (Project Drawdown): **Achieving Drawdown** *(Keynote talk)*    
+11:00 - 12:00 - Chad Frischmann (Project Drawdown): [**Achieving Drawdown**](https://slideslive.com/38917854){:target="_blank"} *(Keynote talk)*    
 12:00 -  1:30 - Networking lunch (provided) + Poster Session   
- 1:30 -  1:55 - Yoshua Bengio (Mila):  **Personalized Visualization of the Impact of Climate Change** *(Invited talk)*     
- 1:55 -  2:30 - Claire Monteleoni (CU Boulder): **Advances in Climate Informatics: Machine Learning for the Study of Climate Change** *(Invited talk)*      
- 2:30 -  2:40 -	Duncan Watson-Parris:   **Detecting anthropogenic cloud perturbations with deep learning**    *(Spotlight talk)*     
- 2:40 -  2:50 - Chaopeng Shen:  **Evaluating aleatoric and epistemic uncertainties of time series deep learning models for soil moisture predictions**    *(Spotlight talk)*     
- 2:50 -  3:00 -	Mohammad Mahdi Kamani: **Targeted Meta-Learning for Critical Incident Detection in Weather Data**    *(Spotlight talk)*     
+ 1:30 -  1:55 - Yoshua Bengio (Mila):  [**Personalized Visualization of the Impact of Climate Change**](https://slideslive.com/38917858){:target="_blank"} *(Invited talk)*     
+ 1:55 -  2:30 - Claire Monteleoni (CU Boulder): [**Advances in Climate Informatics: Machine Learning for the Study of Climate Change**](https://slideslive.com/38917856){:target="_blank"} *(Invited talk)*      
+ 2:30 -  2:40 -	Duncan Watson-Parris:   [**Detecting anthropogenic cloud perturbations with deep learning**](https://slideslive.com/38917855){:target="_blank"}    *(Spotlight talk)*     
+ 2:40 -  2:50 - Chaopeng Shen:  [**Evaluating aleatoric and epistemic uncertainties of time series deep learning models for soil moisture predictions**](https://slideslive.com/38917857){:target="_blank"}    *(Spotlight talk)*     
+ 2:50 -  3:00 -	Mohammad Mahdi Kamani: [**Targeted Meta-Learning for Critical Incident Detection in Weather Data**](https://slideslive.com/38917859){:target="_blank"}   *(Spotlight talk)*     
  3:00 -  3:30 - Coffee break + Poster Session   
- 3:30 -  3:45 - Karthik Mukkavilli (Mila): **Geoscience data and models for the Climate Change AI community** *(Invited talk)*       
- 3:45 -  4:20 - Sims Witherspoon (DeepMind):  **ML vs. Climate Change, Applications in Energy at DeepMind**  *(Invited talk)*           
- 4:20 - 4:30  - Lynn Kaack: **Truck Traffic Monitoring with Satellite Images**   *(Spotlight talk)*    
- 4:30 - 4:50 - Neel Guha: **Machine Learning for AC Optimal Power Flow**     *(Spotlight talk)*    
- 4:40 - 4:50 - Christian Clough, Gopal Erinjippurath: 	**Planetary Scale Monitoring of Urban Growth in High Flood Risk Areas**  *(Spotlight talk)*       
- 4:50 - 5:15 - **"Ideas" mini-spotlights**    
- 5:15 -  6:00 - Yoshua Bengio, Andrew Ng, Raia Hadsell, John Platt, Claire Monteleoni  
-**Panel discussion**   
+ 3:30 -  3:45 - Karthik Mukkavilli (Mila): [**Geoscience data and models for the Climate Change AI community**](https://slideslive.com/38917843){:target="_blank"} *(Invited talk)*       
+ 3:45 -  4:20 - Sims Witherspoon (DeepMind):  [**ML vs. Climate Change, Applications in Energy at DeepMind**](https://slideslive.com/38917842){:target="_blank"}  *(Invited talk)*           
+ 4:20 - 4:30  - Lynn Kaack: [**Truck Traffic Monitoring with Satellite Images**](https://slideslive.com/38917841){:target="_blank"}   *(Spotlight talk)*    
+ 4:30 - 4:50 - Neel Guha: [**Machine Learning for AC Optimal Power Flow**](https://slideslive.com/38917844){:target="_blank"}     *(Spotlight talk)*    
+ 4:40 - 4:50 - Christian Clough, Gopal Erinjippurath: 	[**Planetary Scale Monitoring of Urban Growth in High Flood Risk Areas**](https://slideslive.com/38917845){:target="_blank"}  *(Spotlight talk)*       
+ 4:50 - 5:15 - [**"Ideas" mini-spotlights**](https://slideslive.com/38917846){:target="_blank"}  
+ 5:15 -  6:00 - Yoshua Bengio, Andrew Ng, Raia Hadsell, John Platt, Claire Monteleoni: [**Panel discussion**](https://slideslive.com/38917847){:target="_blank"}
 
 
 ## Organizers
