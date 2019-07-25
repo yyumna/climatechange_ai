@@ -1,14 +1,14 @@
 ---
 layout: default
 title: 'Climate Change: How Can AI Help?'
-description: ICML 2019 Workshop
+description: NeurIPS 2019 Workshop
 ---
 
 **Many in the ML community wish to take action on climate change, yet feel their skills are inapplicable.** This workshop aims to show that in fact the opposite is true: while no silver bullet, ML can be an invaluable tool both in reducing greenhouse gas emissions and in helping society adapt to the effects of climate change. Climate change is a complex problem, for which action takes many forms - from designing smart electrical grids to tracking deforestation in satellite imagery. Many of these actions represent high-impact opportunities for real-world change, as well as being interesting problems for ML research.
 
 
 ## About NeurIPS
-NeurIPS (formerly written "NIPS") is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting or attending the main NeurIPS conference. Those interested should register for the Workshops component of NeurIPS at https://nips.cc/Register/view-registration. Note that in past years registration has sold out quickly; we suggest monitoring the website to ensure you get a ticket if you are sure you want to go. A number of spots will be reserved for accepted submissions.
+NeurIPS (formerly written "NIPS") is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting at or attending the main NeurIPS conference. Those interested should register for the Workshops component of NeurIPS at https://neurips.cc/Register/view-registration. Note that in past years registration has sold out quickly; we suggest monitoring the website to ensure you get a ticket if you would like to attend. A number of spots will be reserved for accepted submissions.
 
 ## About the workshop
  - Date:  Friday, December 13 or Saturday, December 14, 2019
@@ -16,7 +16,7 @@ NeurIPS (formerly written "NIPS") is one of the premier conferences on machine l
  - Submission deadline:  September 11, 11:59 PM Pacific Time
  - Notification:  October 1 (early notification possible on request)
  - Submission website:  <https://cmt3.research.microsoft.com/CCAI-Neurips2019>
- - Contact: <climatechangeai.icml2019@gmail.com>
+ - Contact: <climatechangeai.neurips2019@gmail.com>
  
  
 ## Call For Submissions<br>
@@ -35,9 +35,9 @@ We invite submission of extended abstracts on machine learning applied to proble
  - Data presentation and management
  - Climate finance
 
-Accepted submissions will be invited to give poster presentations at the workshop, of which some will be selected for spotlight talks.  Please contact climatechangeai.icml2019@gmail.com with questions, or if visa considerations make earlier notification important.
+Accepted submissions will be invited to give poster presentations at the workshop, of which some will be selected for spotlight talks.  Please contact climatechangeai.neurips2019@gmail.com with questions, or if visa considerations make earlier notification important.
 
-Dual-submissions are allowed, and the workshop does not record proceedings. All submissions must be through the [website](https://cmt3.research.microsoft.com/CCAI-Neurips2019). Submissions will be reviewed double-blind; do your best to anonymize your submission, and do not include identifying information for authors in the PDF. We encourage, but do not require, use of the [ICML style template](https://icml.cc/Conferences/2019/StyleAuthorInstructions) (please do not use the “Accepted” format as it will deanonymize your submission).
+Dual-submissions are allowed, and the workshop does not record proceedings. All submissions must be through the [website](https://cmt3.research.microsoft.com/CCAI-Neurips2019). Submissions will be reviewed double-blind; do your best to anonymize your submission, and do not include identifying information for authors in the PDF. We encourage, but do not require, use of the [NeurIPS style template](https://media.neurips.cc/Conferences/NeurIPS2019/Styles/neurips_2019.pdf) (please do not use the “Accepted” format as it will deanonymize your submission).
 
 ### Submission tracks  
 
@@ -64,7 +64,7 @@ Submissions for the Ideas track are intended for proposed applications of machin
 ## Frequently Asked Questions
 
 **Q:** How can I keep up to date on this kind of stuff?
-**A:** Sign up to our mailing list! <https://www.climatechange.ai/Mailing_list.html>
+**A:** Sign up for our mailing list! <https://www.climatechange.ai/Mailing_list.html>
 
 **Q:** What is the date of the workshop / when will we know?  
 **A:** The workshop will be either Friday, December 13 or Saturday, December 14. We will update this page when the date is confirmed; according to the NeurIPS organizers this should be in the next few weeks.
@@ -75,11 +75,11 @@ Submissions for the Ideas track are intended for proposed applications of machin
 **Q:** What if my submission is accepted but I can’t attend the workshop?  
 **A:** You may ask someone else to present your work in your stead, or we can also print a poster for you and put it up during the poster session.
 
-**Q:** Do I need to use LaTeX or the ICML style files?  
+**Q:** Do I need to use LaTeX or the NeurIPS style files?  
 **A:** No, although we encourage it. 
 
 **Q:** What do I do if I need an earlier decision for visa reasons?  
-**A:** Contact us at climatechangeai.neurips2019@gmail.com and explain your situation and the date by which you require a decision and we will do our best to be accomodating.
+**A:** Contact us at climatechangeai.neurips2019@gmail.com and explain your situation and the date by which you require a decision and we will do our best to be accommodating.
 
 **Q:** Can I send submissions directly by email?  
 **A:** No, please use the CMT website to make submissions.
