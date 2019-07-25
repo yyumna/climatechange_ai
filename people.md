@@ -259,4 +259,4 @@ description: Climate Change + AI Organizers
   </span>
   <div class="person__spacer"></div>
 </a>
-
+</div>

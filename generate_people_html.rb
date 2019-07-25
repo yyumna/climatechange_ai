@@ -42,3 +42,5 @@ puts <<-HTML
 HTML
 
 puts web_team.map { |p| to_html(p) }.join("\n")
+
+puts "</div>"
