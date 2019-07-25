@@ -1,5 +1,4 @@
 require 'json'
-require 'pry'
 
 people = JSON.parse(File.read('people.json'))
 
