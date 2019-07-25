@@ -5,7 +5,6 @@ description: CCAI People
 ---
 
 ## Steering Committee
-
 <div class="person__list">
 <div class="person__item">
   <div class="person__pic-wrapper">
@@ -127,9 +126,7 @@ description: CCAI People
   <div class="person__spacer"></div>
 </div>
 </div>
-
 ## Advisory Committee
-
 <div class="person__list">
 <div class="person__item">
   <div class="person__pic-wrapper">
@@ -193,6 +190,16 @@ description: CCAI People
 
 <div class="person__item">
   <div class="person__pic-wrapper">
+    <img class="person__pic" src="images/people/karthikmukkavili.png">
+  </div>
+  <a class="person__name" href="https://www.linkedin.com/in/karthikmukkavilli" target="_blank">
+    S. Karthik Mukkavilli (Mila, Université de Montréal)
+  </a>
+  <div class="person__spacer"></div>
+</div>
+
+<div class="person__item">
+  <div class="person__pic-wrapper">
     <img class="person__pic" src="images/people/andrewng.jpg">
   </div>
   <a class="person__name" href="https://www.andrewng.org/" target="_blank">
@@ -211,10 +218,46 @@ description: CCAI People
   <div class="person__spacer"></div>
 </div>
 </div>
-
 ## Webmasters
-* Tegan Maharaj (Mila, Université de Montréal)
-* Narmada Balasooriya (ConscientAI)
-* Andrew Slavin Ross (Harvard University)
-* Sasha Luccioni (Mila, Université de Montréal)
+<div class="person__list">
+<div class="person__item">
+  <div class="person__pic-wrapper">
+    <img class="person__pic" src="images/people/narmadabalasooriya.jpeg">
+  </div>
+  <a class="person__name" href="https://scholar.google.com/citations?user=gYRSXpsAAAAJ" target="_blank">
+    Narmada Balasooriya (ConscientAI)
+  </a>
+  <div class="person__spacer"></div>
+</div>
+
+<div class="person__item">
+  <div class="person__pic-wrapper">
+    <img class="person__pic" src="images/people/andrew_ross.jpg">
+  </div>
+  <a class="person__name" href="https://scholar.google.com/citations?user=Lf-StbQAAAAJ" target="_blank">
+    Andrew Slavin Ross (Harvard University)
+  </a>
+  <div class="person__spacer"></div>
+</div>
+
+<div class="person__item">
+  <div class="person__pic-wrapper">
+    <img class="person__pic" src="images/people/sashaluccioni.jpg">
+  </div>
+  <a class="person__name" href="https://www.sashaluccioni.com/" target="_blank">
+    Sasha Luccioni (Mila, Université de Montréal)
+  </a>
+  <div class="person__spacer"></div>
+</div>
+
+<div class="person__item">
+  <div class="person__pic-wrapper">
+    <img class="person__pic" src="images/people/teganmaharaj.png">
+  </div>
+  <a class="person__name" href="http://www.teganmaharaj.com" target="_blank">
+    Tegan Maharaj (Mila, Université de Montréal)
+  </a>
+  <div class="person__spacer"></div>
+</div>
+
 

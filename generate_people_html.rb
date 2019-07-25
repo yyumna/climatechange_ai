@@ -3,8 +3,9 @@ require 'pry'
 
 people = JSON.parse(File.read('people.json'))
 
-steering = people.select { |p| p['committee'] == 'steering' }
-advisory = people.select { |p| p['committee'] == 'advisory' }
+steering = people.select { |p| p['committees'].include? 'steering' }
+advisory = people.select { |p| p['committees'].include? 'advisory' }
+web_team = people.select { |p| p['committees'].include? 'web' }
 
 def to_html(p)
   <<-HTML
@@ -22,7 +23,6 @@ end
 
 puts <<-HTML
 ## Steering Committee
-
 <div class="person__list">
 HTML
 
@@ -30,9 +30,7 @@ puts steering.map { |p| to_html(p) }.join("\n")
 
 puts <<-HTML
 </div>
-
 ## Advisory Committee
-
 <div class="person__list">
 HTML
 
@@ -40,10 +38,8 @@ puts advisory.map { |p| to_html(p) }.join("\n")
 
 puts <<-HTML
 </div>
-
 ## Webmasters
-* Tegan Maharaj (Mila, Université de Montréal)
-* Narmada Balasooriya (ConscientAI)
-* Andrew Slavin Ross (Harvard University)
-* Sasha Luccioni (Mila, Université de Montréal)
+<div class="person__list">
 HTML
+
+puts web_team.map { |p| to_html(p) }.join("\n")
