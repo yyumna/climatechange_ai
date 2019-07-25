@@ -31,7 +31,7 @@ description: Climate Change AI Organizers
     <img class="person__pic" src="images/people/lynnkaack_200x200.jpg">
   </div>
   <span class="person__name">
-    Lynn H. Kaack (ETH Zurich)
+    Lynn H. Kaack (ETH Zürich)
   </span>
   <div class="person__spacer"></div>
 </a>
@@ -183,7 +183,7 @@ description: Climate Change AI Organizers
     <img class="person__pic" src="images/people/konradkording_200x200.jpg">
   </div>
   <span class="person__name">
-    Konrad P. Kording (University of Pennsylvania)
+    Konrad P. Körding (University of Pennsylvania)
   </span>
   <div class="person__spacer"></div>
 </a>
