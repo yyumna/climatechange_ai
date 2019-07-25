@@ -1,0 +1,142 @@
+[
+  {
+    "website_url": "http://www.davidrolnick.com",
+    "image_url": "images/people/davidrolnick.jpg",
+    "name": "David Rolnick",
+    "affiliation": "University of Pennsylvania",
+    "committee": "steering"
+  },
+  {
+    "website_url": "https://priyadonti.com/",
+    "image_url": "images/people/priyadonti.jpg",
+    "name": "Priya L. Donti",
+    "affiliation": "Carnegie Mellon University",
+    "committee": "steering"
+  },
+  {
+    "website_url": "https://scholar.google.fr/citations?user=jsy-VxMAAAAJ",
+    "image_url": "images/people/lynnkaack.jpeg",
+    "name": "Lynn H. Kaack",
+    "affiliation": "ETH Zurich",
+    "committee": "steering"
+  },
+  {
+    "website_url": "http://www.kochanski.org/kelly/",
+    "image_url": "images/people/kellykochanski.jpg",
+    "name": "Kelly Kochanski",
+    "affiliation": "University of Colorado at Boulder",
+    "committee": "steering"
+  },
+  {
+    "website_url": "https://scholar.google.com/citations?user=71a2-WMAAAAJ&hl=en",
+    "image_url": "images/people/Alexandre_Lacoste.jpg",
+    "name": "Alexandre Lacoste",
+    "affiliation": "Element AI",
+    "committee": "steering"
+  },
+  {
+    "website_url": "https://mila.quebec/en/person/kris-sankaran/",
+    "image_url": "images/people/krissankaran.jpg",
+    "name": "Kris Sankaran",
+    "affiliation": "Mila, Université de Montréal",
+    "committee": "steering"
+  },
+  {
+    "website_url": "https://scholar.google.com/citations?user=Lf-StbQAAAAJ",
+    "image_url": "images/people/andrew_ross.jpg",
+    "name": "Andrew Slavin Ross",
+    "affiliation": "Harvard University",
+    "committee": "steering"
+  },
+  {
+    "website_url": "https://www.mcc-berlin.net/en/about/team/milojevic-dupont-nikola.html",
+    "image_url": "images/people/nikolamilojevicdupont.jpg",
+    "name": "Nikola Milojevic-Dupont",
+    "affiliation": "Mercator Research Institute",
+    "committee": "steering"
+  },
+  {
+    "website_url": "https://www.media.mit.edu/people/jaquesn/overview/",
+    "image_url": "images/people/natashajaques.jpeg",
+    "name": "Natasha Jaques",
+    "affiliation": "MIT",
+    "committee": "steering"
+  },
+  {
+    "website_url": "https://www.annawab.com/",
+    "image_url": "images/people/annawb.jpg",
+    "name": "Anna Waldman-Brown",
+    "affiliation": "MIT",
+    "committee": "steering"
+  },
+  {
+    "website_url": "https://www.sashaluccioni.com/",
+    "image_url": "images/people/sashaluccioni.jpg",
+    "name": "Sasha Luccioni",
+    "affiliation": "Mila, Université de Montréal",
+    "committee": "steering"
+  },
+  {
+    "website_url": "http://www.teganmaharaj.com",
+    "image_url": "images/people/teganmaharaj.png",
+    "name": "Tegan Maharaj",
+    "affiliation": "Mila, Université de Montréal",
+    "committee": "steering"
+  },
+  {
+    "website_url": "https://mila.quebec/en/yoshua-bengio/",
+    "image_url": "images/people/yb.jpg",
+    "name": "Yoshua Bengio",
+    "affiliation": "Mila, Université de Montréal",
+    "committee": "advisory"
+  },
+  {
+    "website_url": "https://www.microsoft.com/en-us/research/people/jchayes/",
+    "image_url": "images/people/jenniferchayes.jpg",
+    "name": "Jennifer Chayes",
+    "affiliation": "Microsoft Research",
+    "committee": "advisory"
+  },
+  {
+    "website_url": "https://www.mcc-berlin.net/en/about/team/creutzig-felix.html",
+    "image_url": "images/people/felixcreuzig.jpg",
+    "name": "Felix Creutzig",
+    "affiliation": "Mercator Research Institute",
+    "committee": "advisory"
+  },
+  {
+    "website_url": "https://www.cs.cornell.edu/gomes/",
+    "image_url": "images/people/carlagomes.jpg",
+    "name": "Carla Gomes",
+    "affiliation": "Cornell University",
+    "committee": "advisory"
+  },
+  {
+    "website_url": "https://en.wikipedia.org/wiki/Demis_Hassabis",
+    "image_url": "images/people/Demis_Hassabis.jpg",
+    "name": "Demis Hassabis",
+    "affiliation": "DeepMind",
+    "committee": "advisory"
+  },
+  {
+    "website_url": "http://koerding.com/",
+    "image_url": "images/people/konradkording.jpg",
+    "name": "Konrad P. Kording",
+    "affiliation": "University of Pennsylvania",
+    "committee": "advisory"
+  },
+  {
+    "website_url": "https://www.andrewng.org/",
+    "image_url": "images/people/andrewng.jpg",
+    "name": "Andrew Y. Ng",
+    "affiliation": "Stanford University",
+    "committee": "advisory"
+  },
+  {
+    "website_url": "https://ai.google/research/people/JohnPlatt",
+    "image_url": "images/people/johnplatt.jpeg",
+    "name": "John C. Platt",
+    "affiliation": "Google AI",
+    "committee": "advisory"
+  }
+]

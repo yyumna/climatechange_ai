@@ -65,3 +65,47 @@ html, body {
   font-size: 1rem;
   white-space: nowrap;
 }
+
+.person__list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.person__item {
+  border: 2px solid rgba(96, 108, 113, 0.75);
+  border-radius: 0.3rem;
+  padding: 1rem;
+  text-align: center;
+  width: calc(14rem + 3px);
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  position: relative;
+}
+
+.person__spacer {
+  position: absolute;
+  bottom: -0.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 7rem;
+  height: 1rem;
+  background-color: #fff;
+}
+
+.person__pic-wrapper {
+  width: 12rem;
+  height: 12rem;
+  overflow: hidden;
+}
+
+.person__pic {
+  width: 100%;
+  display: block;
+  height: auto;
+  box-shadow: 0 2px 3px 0 rgba(0,0,0,.15);
+}
+
+.person__name {
+  display: inline-block;
+  margin-top: 1rem;
+}
