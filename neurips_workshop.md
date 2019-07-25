@@ -63,7 +63,7 @@ Submissions for the Ideas track are intended for proposed applications of machin
 
 ## Frequently Asked Questions
 
-**Q:** How can I keep up to date on this kind of stuff?
+**Q:** How can I keep up to date on this kind of stuff?   
 **A:** Sign up for our mailing list! <https://www.climatechange.ai/Mailing_list.html>
 
 **Q:** What is the date of the workshop / when will we know?  
