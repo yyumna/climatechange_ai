@@ -15,7 +15,7 @@ NeurIPS (formerly written "NIPS") is one of the premier conferences on machine l
  - Location:   Vancouver, British Columbia, Canada
  - Submission deadline:  September 10, 11:59 PM Pacific Time
  - Notification:  October 1
- - Submission website: <https://cmt3.research.microsoft.com/CCAINeurips2019>
+ - Submission website: <https://cmt3.research.microsoft.com/CCAINeurIPS2019>
  - Contact: <climatechangeai.neurips2019@gmail.com>
  
  
@@ -39,7 +39,7 @@ Accepted submissions will be invited to give poster presentations at the worksho
 
 The workshop does not record proceedings, and all submissions are non-archival. Submission to this workshop does not preclude future publication. Previously published work may be submitted under certain circumstances (see the [FAQ](#frequently-asked-questions)).
 
-All submissions must be through the [website](https://cmt3.research.microsoft.com/CCAINeurips2019). Submissions will be reviewed double-blind; do your best to anonymize your submission, and do not include identifying information for authors in the PDF. We encourage, but do not require, use of the [NeurIPS style template](https://media.neurips.cc/Conferences/NeurIPS2019/Styles/neurips_2019.pdf) (please do not use the “Accepted” format as it will deanonymize your submission).
+All submissions must be through the [website](https://cmt3.research.microsoft.com/CCAINeurIPS2019). Submissions will be reviewed double-blind; do your best to anonymize your submission, and do not include identifying information for authors in the PDF. We encourage, but do not require, use of the [NeurIPS style template](https://media.neurips.cc/Conferences/NeurIPS2019/Styles/neurips_2019.pdf) (please do not use the “Accepted” format as it will deanonymize your submission).
 
 ### Submission tracks  
 
