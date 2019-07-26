@@ -63,13 +63,13 @@ Submissions creating novel datasets are welcomed. Datasets should be designed to
 Submissions for the Proposals track should describe detailed ideas for how machine learning can be used to solve climate-relevant problems. While less constrained than the Papers track, Proposals will be subject to a very high standard of review. No results need to be demonstrated, but ideas should be justified as extensively as possible, including motivation for why the problem being solved is important in tackling climate change, discussion of why current methods are inadequate, and explanation of the proposed method.
 
 
-
-
 ### Tips for submissions
 
 - For examples of typical formatting and content, see submissions from [our previous workshop](https://www.climatechange.ai/ICML2019_workshop).
 - Be explicit: Describe how your proposed approach addresses climate change, demonstrating an understanding of the application area.
 - Frame your work: The specific problem and/or data proposed should be contextualized in terms of prior work.
+
+
 - Address the impact: Describe the practical ramifications of your method in addressing the problem you identify, as well as any relevant societal impacts or potential side-effects.
 - Explain the ML: Readers may not be familiar with the exact techniques you are using or may desire further detail.
 - Justify the ML: Describe why the ML method involved is needed, and why it is a good match for the problem.
