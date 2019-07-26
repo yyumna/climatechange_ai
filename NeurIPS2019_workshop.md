@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Climate Change: How Can AI Help?'
+title: 'Tackling Climate Change<br>with Machine Learning'
 description: NeurIPS 2019 Workshop
 ---
 
@@ -8,19 +8,19 @@ description: NeurIPS 2019 Workshop
 
 
 ## About NeurIPS
-NeurIPS (formerly written "NIPS") is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting at or attending the main NeurIPS conference. Those interested should register for the Workshops component of NeurIPS at https://neurips.cc/Register/view-registration. Note that in past years registration has sold out quickly; we suggest monitoring the website to ensure you get a ticket if you would like to attend. A number of spots will be reserved for accepted submissions.
+NeurIPS (formerly written "NIPS") is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting at or attending the main NeurIPS conference. Those interested should register for the Workshops component of NeurIPS at <https://neurips.cc/Register/view-registration>. Note that in past years registration has sold out quickly; we suggest monitoring the website to ensure you get a ticket if you would like to attend. A number of spots will be reserved for accepted submissions.
 
 ## About the workshop
  - Date:  Friday, December 13 or Saturday, December 14, 2019
  - Location:   Vancouver, British Columbia, Canada
- - Submission deadline:  September 11, 11:59 PM Pacific Time
- - Notification:  October 1 (early notification possible on request)
- - Submission website:  <https://cmt3.research.microsoft.com/CCAI-Neurips2019>
+ - Submission deadline:  September 10, 11:59 PM Pacific Time
+ - Notification:  October 1
+ - Submission website: <https://cmt3.research.microsoft.com/CCAINeurips2019>
  - Contact: <climatechangeai.neurips2019@gmail.com>
  
  
 ## Call For Submissions<br>
-We invite submission of extended abstracts on machine learning applied to problems in climate mitigation, adaptation, or modeling, including but not limited to the following topics:
+We invite submissions of extended abstracts on machine learning applied to problems in climate mitigation, adaptation, or modeling, including but not limited to the following topics:
  - Power generation and grids
  - Transportation
  - Smart buildings and cities
@@ -35,9 +35,11 @@ We invite submission of extended abstracts on machine learning applied to proble
  - Data presentation and management
  - Climate finance
 
-Accepted submissions will be invited to give poster presentations at the workshop, of which some will be selected for spotlight talks.  Please contact climatechangeai.neurips2019@gmail.com with questions, or if visa considerations make earlier notification important.
+Accepted submissions will be invited to give poster presentations at the workshop, of which some will be selected for spotlight talks.  Please contact <climatechangeai.neurips2019@gmail.com> with questions, or if visa considerations make earlier notification important.
 
-Dual-submissions are allowed, and the workshop does not record proceedings. All submissions must be through the [website](https://cmt3.research.microsoft.com/CCAI-Neurips2019). Submissions will be reviewed double-blind; do your best to anonymize your submission, and do not include identifying information for authors in the PDF. We encourage, but do not require, use of the [NeurIPS style template](https://media.neurips.cc/Conferences/NeurIPS2019/Styles/neurips_2019.pdf) (please do not use the “Accepted” format as it will deanonymize your submission).
+The workshop does not record proceedings, and all submissions are non-archival. Submission to this workshop does not preclude future publication. Previously published work may be submitted under certain circumstances (see the [FAQ](#frequently-asked-questions)).
+
+All submissions must be through the [website](https://cmt3.research.microsoft.com/CCAINeurips2019). Submissions will be reviewed double-blind; do your best to anonymize your submission, and do not include identifying information for authors in the PDF. We encourage, but do not require, use of the [NeurIPS style template](https://media.neurips.cc/Conferences/NeurIPS2019/Styles/neurips_2019.pdf) (please do not use the “Accepted” format as it will deanonymize your submission).
 
 ### Submission tracks  
 
@@ -79,7 +81,7 @@ Submissions for the Ideas track are intended for proposed applications of machin
 **A:** No, although we encourage it. 
 
 **Q:** What do I do if I need an earlier decision for visa reasons?  
-**A:** Contact us at climatechangeai.neurips2019@gmail.com and explain your situation and the date by which you require a decision and we will do our best to be accommodating.
+**A:** Contact us at <climatechangeai.neurips2019@gmail.com> and explain your situation and the date by which you require a decision and we will do our best to be accommodating.
 
 **Q:** Can I send submissions directly by email?  
 **A:** No, please use the CMT website to make submissions.
@@ -95,4 +97,7 @@ Submissions for the Ideas track are intended for proposed applications of machin
 
 **Q:** The submission website never sent me a confirmation email. Is this a problem?  
 **A:** No, the CMT system does not send automatic confirmation emails after a submission, though the submission should show up on the CMT page once submitted. If in any doubt regarding the submission process, please contact the organizers. Also please avoid making multiple submissions of the same article to CMT.
+
+**Q:** Can I submit previously published work to this workshop?   
+**A:** As stated in the [NeurIPS workshop guidelines](https://nips.cc/Conferences/2019/CallForWorkshops): "Workshops are not a venue for work that has been previously published in other conferences on machine learning or related fields. Work that is presented at the main NeurIPS conference should not appear in a workshop, including as part of an invited talk. Organizers should make this clear in their calls and explain in their proposal how they will discourage presentation of already finalized machine learning work.  (Presenting work that has been published in other fields is, however, encouraged!)"
 
