@@ -87,7 +87,7 @@ Submissions for the Proposals track should describe detailed ideas for how machi
 **A:** Yes, absolutely!  We welcome submissions from many fields. Do bear in mind, however, that the majority of attendees of the workshop will have a machine learning background; therefore, other fields should be introduced sufficiently to provide context for the work.
 
 **Q:** What if my submission is accepted but I can’t attend the workshop?  
-**A:** You may ask someone else to present your work in your stead, or we can also print a poster for you and put it up during the poster session.
+**A:** You may ask someone else to present your work in your stead.
 
 **Q:** Do I need to use LaTeX or the NeurIPS style files?  
 **A:** No, although we encourage it. 
