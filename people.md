@@ -81,7 +81,7 @@ description: Climate Change AI Organizers
     <img class="person__pic" src="images/people/nikolamilojevicdupont_200x200.jpg">
   </div>
   <span class="person__name">
-    Nikola Milojevic-Dupont (Mercator Research Institute)
+    Nikola Milojevic-Dupont (MCC Berlin)
   </span>
   <div class="person__spacer"></div>
 </a>
@@ -153,7 +153,7 @@ description: Climate Change AI Organizers
     <img class="person__pic" src="images/people/felixcreuzig_200x200.jpg">
   </div>
   <span class="person__name">
-    Felix Creutzig (Mercator Research Institute)
+    Felix Creutzig (MCC Berlin)
   </span>
   <div class="person__spacer"></div>
 </a>

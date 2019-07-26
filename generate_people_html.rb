@@ -21,6 +21,12 @@ def to_html(p)
 end
 
 puts <<-HTML
+---
+layout: default
+title: 'People'
+description: Climate Change AI Organizers
+---
+
 ## Steering Committee
 <div class="person__list">
 HTML
