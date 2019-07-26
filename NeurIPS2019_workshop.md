@@ -45,7 +45,7 @@ All submissions must be through the [website](https://cmt3.research.microsoft.co
 
 ### Submission tracks  
 
-There are two tracks for submissions. Extended abstracts are limited to 3 pages for the Papers track, and 2 pages for the Proposals track, in PDF format (see examples [here](https://www.climatechange.ai/NeurIPS2019_workshop)). An additional page may be used for references only. Submissions for both tracks *must* explain why the proposed work has (or could have) positive impacts regarding climate change. 
+There are two tracks for submissions. Extended abstracts are limited to 3 pages for the Papers track, and 2 pages for the Proposals track, in PDF format (see examples [here](https://www.climatechange.ai/ICML2019_workshop)). An additional page may be used for references only. Submissions for both tracks *must* explain why the proposed work has (or could have) positive impacts regarding climate change. 
 
 #### PAPERS track  
 *Work that is in progress, published, and/or deployed*
@@ -65,15 +65,13 @@ Submissions for the Proposals track should describe detailed ideas for how machi
 
 ### Tips for submissions
 
-- For examples of typical formatting and content, see submissions from [our previous workshop](https://www.climatechange.ai/ICML2019_workshop).
-- Be explicit: Describe how your proposed approach addresses climate change, demonstrating an understanding of the application area.
-- Frame your work: The specific problem and/or data proposed should be contextualized in terms of prior work.
-
-
-- Address the impact: Describe the practical ramifications of your method in addressing the problem you identify, as well as any relevant societal impacts or potential side-effects.
-- Explain the ML: Readers may not be familiar with the exact techniques you are using or may desire further detail.
-- Justify the ML: Describe why the ML method involved is needed, and why it is a good match for the problem.
-- Avoid jargon: Jargon is sometimes unavoidable but should be minimized. Ideal submissions will be accessible both to an ML audience and to experts in other relevant fields, without the need for field-specific knowledge. Feel free to direct readers to accessible overviews or review articles for background, where it is impossible to include context directly.
+- **For examples** of typical formatting and content, see submissions from [our previous workshop](https://www.climatechange.ai/ICML2019_workshop).
+- **Be explicit:** Describe how your proposed approach addresses climate change, demonstrating an understanding of the application area.
+- **Frame your work:** The specific problem and/or data proposed should be contextualized in terms of prior work.
+- **Address the impact:** Describe the practical ramifications of your method in addressing the problem you identify, as well as any relevant societal impacts or potential side-effects.
+- **Explain the ML:** Readers may not be familiar with the exact techniques you are using or may desire further detail.
+- **Justify the ML:** Describe why the ML method involved is needed, and why it is a good match for the problem.
+- **Avoid jargon:** Jargon is sometimes unavoidable but should be minimized. Ideal submissions will be accessible both to an ML audience and to experts in other relevant fields, without the need for field-specific knowledge. Feel free to direct readers to accessible overviews or review articles for background, where it is impossible to include context directly.
 
 
 
