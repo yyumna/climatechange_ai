@@ -27,7 +27,7 @@ We invite submissions of extended abstracts on machine learning applied to probl
  - Industrial optimization
  - Carbon capture and sequestration
  - Agriculture, forestry and other land use
- - Climate modeling
+ - Climate science
  - Extreme weather events
  - Disaster management and relief
  - Societal adaptation
@@ -35,32 +35,46 @@ We invite submissions of extended abstracts on machine learning applied to probl
  - Data presentation and management
  - Climate finance
 
-Accepted submissions will be invited to give poster presentations at the workshop, of which some will be selected for spotlight talks.  Please contact <climatechangeai.neurips2019@gmail.com> with questions, or if visa considerations make earlier notification important.
+All machine learning techniques are welcome, from kernel methods to deep learning. Each submission should make clear why the application has (or could have) positive impacts regarding climate change. We highly encourage submissions which make their data publically available.
 
-The workshop does not record proceedings, and all submissions are non-archival. Submission to this workshop does not preclude future publication. Previously published work may be submitted under certain circumstances (see the [FAQ](#frequently-asked-questions)).
+Accepted submissions will be invited to give poster presentations, of which some will be selected for spotlight talks.  Please contact <climatechangeai.neurips2019@gmail.com> with questions.
 
-All submissions must be through the [website](https://cmt3.research.microsoft.com/CCAINeurIPS2019). Submissions will be reviewed double-blind; do your best to anonymize your submission, and do not include identifying information for authors in the PDF. We encourage, but do not require, use of the [NeurIPS style template](https://media.neurips.cc/Conferences/NeurIPS2019/Styles/neurips_2019.pdf) (please do not use the “Accepted” format as it will deanonymize your submission).
+The workshop does not record proceedings, and submissions are non-archival. Submission to this workshop does not preclude future publication. Previously published work may be submitted under certain circumstances (see the [FAQ](#frequently-asked-questions)).
+
+All submissions must be through the [website](https://cmt3.research.microsoft.com/CCAINeurIPS2019). Submissions will be reviewed double-blind; do your best to anonymize your submission, and do not include identifying information for authors in the PDF. We encourage, but do not require, use of the [NeurIPS style template](https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles) (please **do not** use the “Accepted” format as it will deanonymize your submission).
 
 ### Submission tracks  
 
-Extended abstracts are limited to 3 pages for the Deployed and Research tracks, and 2 pages for the Ideas track, in PDF format. An additional page may be used for references. All machine learning techniques are welcome, from kernel methods to deep learning. Each submission should make clear why the application has (or could have) positive impacts regarding climate change. There are three tracks for submissions:
+There are two tracks for submissions. Extended abstracts are limited to 3 pages for the Papers track, and 2 pages for the Proposals track, in PDF format (see examples [here](https://www.climatechange.ai/NeurIPS2019_workshop)). An additional page may be used for references only. Submissions for both tracks *must* explain why the proposed work has (or could have) positive impacts regarding climate change. 
 
-#### DEPLOYED track  
-*Work that is already having an impact*
+#### PAPERS track  
+*Work that is in progress, published, and/or deployed*
 
-Submissions for the Deployed track are intended for machine learning approaches which are impacting climate-relevant problems through consumers or partner institutions. This could include implementations of academic research that have moved beyond the testing phase, as well as results from startups/industry. Details of methodology need not be revealed if they are proprietary, though transparency is encouraged. 
+Submissions for the Papers track should describe projects relevant to climate change that involve machine learning. These may include (but are not limited to) academic research; deployed results from startups, industry, public institutions, etc.; and climate-relevant datasets. 
 
-#### RESEARCH track  
-*Work that will have an impact when deployed*
+Submissions should provide experimental or theoretical validation of the method presented, as well as specifying what gap the method fills. Algorithms need not be novel from a machine learning perspective if they are applied in a novel setting. Details of methodology need not be revealed if they are proprietary, though transparency is highly encouraged. 
 
-Submissions for the Research track are intended for machine learning research applied to climate-relevant problems. Submissions should provide experimental or theoretical validation of the method proposed, as well as specifying what gap the method fills. Algorithms need not be novel from a machine learning perspective if they are applied in a novel setting.
+Submissions creating novel datasets are welcomed. Datasets should be designed to permit machine learning research (e.g. formatted with clear benchmarks for evaluation). In this case, baseline experimental results on the dataset are preferred, but not required.
 
-Datasets may be submitted to this track that are designed to permit machine learning research (e.g. formatted with clear benchmarks for evaluation). In this case, baseline experimental results on the dataset are preferred but not required.
 
-#### IDEAS track  
-*Future work that could have an impact*
+#### PROPOSALS track  
+*Detailed descriptions of ideas for future work*
 
-Submissions for the Ideas track are intended for proposed applications of machine learning to solve climate-relevant problems. While the least constrained, this track will be subject to a very high standard of review. No results need be demonstrated, but ideas should be justified as extensively as possible, including motivation for the problem being solved, an explanation of why current tools or methods are inadequate, and details of how tools from machine learning are proposed to fill the gap (i.e. it is important to justify the use of machine learning in your approach).
+Submissions for the Proposals track should describe detailed ideas for how machine learning can be used to solve climate-relevant problems. While less constrained than the Papers track, Proposals will be subject to a very high standard of review. No results need to be demonstrated, but ideas should be justified as extensively as possible, including motivation for why the problem being solved is important in tackling climate change, discussion of why current methods are inadequate, and explanation of the proposed method.
+
+
+
+
+### Tips for submissions
+
+- For examples of typical formatting and content, see submissions from [our previous workshop](https://www.climatechange.ai/ICML2019_workshop).
+- Be explicit: Describe how your proposed approach addresses climate change, demonstrating an understanding of the application area.
+- Frame your work: The specific problem and/or data proposed should be contextualized in terms of prior work.
+- Address the impact: Describe the practical ramifications of your method in addressing the problem you identify, as well as any relevant societal impacts or potential side-effects.
+- Explain the ML: Readers may not be familiar with the exact techniques you are using or may desire further detail.
+- Justify the ML: Describe why the ML method involved is needed, and why it is a good match for the problem.
+- Avoid jargon: Jargon is sometimes unavoidable but should be minimized. Ideal submissions will be accessible both to an ML audience and to experts in other relevant fields, without the need for field-specific knowledge. Feel free to direct readers to accessible overviews or review articles for background, where it is impossible to include context directly.
+
 
 
 ## Frequently Asked Questions
