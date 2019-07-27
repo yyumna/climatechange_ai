@@ -101,15 +101,12 @@ Submissions for the Proposals track should describe detailed ideas for how machi
 **Q:** The submission website is asking for my name. Is this a problem for anonymization?  
 **A:** You should fill out your name and other info when asked on the submission website; CMT will keep your submission anonymous to reviewers.
 
-**Q:** I don’t know whether to submit my work in the Deployed or Research track. What’s the difference?  
-**A:** Deployed means it’s “really being used” in a real-world setting (i.e. not just that you verify your method on real-world data). If you are still unsure, just pick whichever track you prefer your method be evaluated as.
-
-**Q:** Do submissions for the Ideas track need to have experimental validation?  
+**Q:** Do submissions for the Proposals track need to have experimental validation?  
 **A:** No, although some initial experiments or citation of published results would strengthen your submission.
 
 **Q:** The submission website never sent me a confirmation email. Is this a problem?  
 **A:** No, the CMT system does not send automatic confirmation emails after a submission, though the submission should show up on the CMT page once submitted. If in any doubt regarding the submission process, please contact the organizers. Also please avoid making multiple submissions of the same article to CMT.
 
 **Q:** Can I submit previously published work to this workshop?   
-**A:** As stated in the [NeurIPS workshop guidelines](https://nips.cc/Conferences/2019/CallForWorkshops): "Workshops are not a venue for work that has been previously published in other conferences on machine learning or related fields. Work that is presented at the main NeurIPS conference should not appear in a workshop, including as part of an invited talk. Organizers should make this clear in their calls and explain in their proposal how they will discourage presentation of already finalized machine learning work.  (Presenting work that has been published in other fields is, however, encouraged!)"
+**A:** If it was previously published in a non-ML venue, YES! If it was previously published in an ML venue, NO! If you are unsure, contact <climatechangeai.neurips2019@gmail.com>.  This policy is as per the [NeurIPS workshop guidelines](https://nips.cc/Conferences/2019/CallForWorkshops): "Workshops are not a venue for work that has been previously published in other conferences on machine learning or related fields. Work that is presented at the main NeurIPS conference should not appear in a workshop, including as part of an invited talk. Organizers should make this clear in their calls and explain in their proposal how they will discourage presentation of already finalized machine learning work.  (Presenting work that has been published in other fields is, however, encouraged!)"
 
