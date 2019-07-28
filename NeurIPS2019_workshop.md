@@ -41,7 +41,7 @@ The workshop does not record proceedings, and submissions are non-archival. Subm
 
 All submissions must be through the [website](https://cmt3.research.microsoft.com/CCAINeurIPS2019). Submissions will be reviewed double-blind; do your best to anonymize your submission, and do not include identifying information for authors in the PDF. We encourage, but do not require, use of the [NeurIPS style template](https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles) (please **do not** use the “Accepted” format as it will deanonymize your submission).
 
-Please see the [Tips For Submissions](#tips-for-submissions),  [FAQ](#frequently-asked-questions), and contact <climatechangeai.neurips2019@gmail.com> with questions.
+Please see the [Tips For Submissions](#tips-for-submissions) and [FAQ](#frequently-asked-questions), and contact <climatechangeai.neurips2019@gmail.com> with questions.
 
 ### Submission tracks  
 
