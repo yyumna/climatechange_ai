@@ -13,7 +13,7 @@ NeurIPS (formerly written "NIPS") is one of the premier conferences on machine l
 ## About the workshop
  - Date:  Friday, December 13 or Saturday, December 14, 2019
  - Location:   Vancouver, British Columbia, Canada
- - Submission deadline:  September 10, 11:59 PM Pacific Time
+ - Submission deadline:  September 11, 11:59 PM Pacific Time
  - Notification:  October 1
  - Submission website: <https://cmt3.research.microsoft.com/CCAINeurIPS2019>
  - Contact: <climatechangeai.neurips2019@gmail.com>
@@ -35,13 +35,13 @@ We invite submissions of extended abstracts on machine learning applied to probl
  - Data presentation and management
  - Climate finance
 
-All machine learning techniques are welcome, from kernel methods to deep learning. Each submission should make clear why the application has (or could have) positive impacts regarding climate change. We highly encourage submissions which make their data publically available.
-
-Accepted submissions will be invited to give poster presentations, of which some will be selected for spotlight talks.  Please contact <climatechangeai.neurips2019@gmail.com> with questions.
+All machine learning techniques are welcome, from kernel methods to deep learning. Each submission should make clear why the application has (or could have) positive impacts regarding climate change. We highly encourage submissions which make their data publically available. Accepted submissions will be invited to give poster presentations, of which some will be selected for spotlight talks.  
 
 The workshop does not record proceedings, and submissions are non-archival. Submission to this workshop does not preclude future publication. Previously published work may be submitted under certain circumstances (see the [FAQ](#frequently-asked-questions)).
 
 All submissions must be through the [website](https://cmt3.research.microsoft.com/CCAINeurIPS2019). Submissions will be reviewed double-blind; do your best to anonymize your submission, and do not include identifying information for authors in the PDF. We encourage, but do not require, use of the [NeurIPS style template](https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles) (please **do not** use the “Accepted” format as it will deanonymize your submission).
+
+Please see the [Tips For Submissions](#tips-for-submissions),  [FAQ](#frequently-asked-questions), and contact <climatechangeai.neurips2019@gmail.com> with questions.
 
 ### Submission tracks  
 
