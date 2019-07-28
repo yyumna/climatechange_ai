@@ -121,12 +121,12 @@ description: Climate Change AI Organizers
     <img class="person__pic" src="images/people/teganmaharaj_200x200.jpg">
   </div>
   <span class="person__name">
-    Tegan Maharaj (Mila, Université de Montréal)
+    Tegan Maharaj (Mila, Polytechnique Montréal)
   </span>
   <div class="person__spacer"></div>
 </a>
 </div>
-## Advisory Committee
+## Advisors
 <div class="person__list">
 <a class="person__item" href="https://mila.quebec/en/yoshua-bengio/" target="_blank">
   <div class="person__pic-wrapper">
@@ -255,7 +255,7 @@ description: Climate Change AI Organizers
     <img class="person__pic" src="images/people/teganmaharaj_200x200.jpg">
   </div>
   <span class="person__name">
-    Tegan Maharaj (Mila, Université de Montréal)
+    Tegan Maharaj (Mila, Polytechnique Montréal)
   </span>
   <div class="person__spacer"></div>
 </a>

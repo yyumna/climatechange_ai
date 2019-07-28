@@ -1,5 +1,8 @@
 require 'json'
 
+# This file regenerates the people page html using the data encoded in `people.json`.
+# To use, run `ruby generate_people_html.rb > people.md`
+
 people = JSON.parse(File.read('people.json'))
 
 steering = people.select { |p| p['committees'].include? 'steering' }
@@ -35,7 +38,7 @@ puts steering.map { |p| to_html(p) }.join("\n")
 
 puts <<-HTML
 </div>
-## Advisory Committee
+## Advisors
 <div class="person__list">
 HTML
 
