@@ -20,7 +20,7 @@ NeurIPS (formerly written "NIPS") is one of the premier conferences on machine l
  
  
 ## Call For Submissions<br>
-We invite submissions of extended abstracts on machine learning applied to problems in climate mitigation, adaptation, or modeling, including but not limited to the following topics:
+We invite submissions of short papers on machine learning applied to problems in climate mitigation, adaptation, or modeling, including but not limited to the following topics:
  - Power generation and grids
  - Transportation
  - Smart buildings and cities
@@ -45,7 +45,7 @@ Please see the [Tips For Submissions](#tips-for-submissions) and [FAQ](#frequent
 
 ### Submission tracks  
 
-There are two tracks for submissions. Extended abstracts are limited to 3 pages for the Papers track, and 2 pages for the Proposals track, in PDF format (see examples [here](https://www.climatechange.ai/ICML2019_workshop)). An additional page may be used for references only. Submissions for both tracks *must* explain why the proposed work has (or could have) positive impacts regarding climate change. 
+There are two tracks for submissions. Submissions are limited to 3 pages for the Papers track, and 2 pages for the Proposals track, in PDF format (see examples [here](https://www.climatechange.ai/ICML2019_workshop)). An additional page may be used for references only. Submissions for both tracks *must* explain why the proposed work has (or could have) positive impacts regarding climate change. 
 
 #### PAPERS track  
 *Work that is in progress, published, and/or deployed*
