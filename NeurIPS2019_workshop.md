@@ -45,7 +45,7 @@ Please see the [Tips For Submissions](#tips-for-submissions) and [FAQ](#frequent
 
 ### Submission tracks  
 
-There are two tracks for submissions. Submissions are limited to 3 pages for the Papers track, and 2 pages for the Proposals track, in PDF format (see examples [here](https://www.climatechange.ai/ICML2019_workshop)). An additional page may be used for references only. Submissions for both tracks *must* explain why the proposed work has (or could have) positive impacts regarding climate change. 
+There are two tracks for submissions. Submissions are limited to 3 pages for the Papers track, and 2 pages for the Proposals track, in PDF format (see examples [here](https://www.climatechange.ai/ICML2019_workshop)). An additional page may be used for references only. All submissions *must* explain why the proposed work has (or could have) positive impacts regarding climate change. 
 
 #### PAPERS track  
 *Work that is in progress, published, and/or deployed*
