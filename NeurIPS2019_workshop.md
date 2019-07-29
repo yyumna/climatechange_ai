@@ -20,7 +20,7 @@ NeurIPS (formerly written "NIPS") is one of the premier conferences on machine l
  
  
 ## Call For Submissions<br>
-We invite submissions of short papers on machine learning applied to problems in climate mitigation, adaptation, or modeling, including but not limited to the following topics:
+We invite submissions of short papers using machine learning to address problems in climate mitigation, adaptation, or modeling, including but not limited to the following topics:
  - Power generation and grids
  - Transportation
  - Smart buildings and cities
@@ -109,4 +109,3 @@ Submissions for the Proposals track should describe detailed ideas for how machi
 
 **Q:** Can I submit previously published work to this workshop?   
 **A:** If it was previously published in a non-ML venue, YES! If it was previously published in an ML venue, NO! If you are unsure, contact <climatechangeai.neurips2019@gmail.com>.  This policy is as per the [NeurIPS workshop guidelines](https://nips.cc/Conferences/2019/CallForWorkshops): "Workshops are not a venue for work that has been previously published in other conferences on machine learning or related fields. Work that is presented at the main NeurIPS conference should not appear in a workshop, including as part of an invited talk. Organizers should make this clear in their calls and explain in their proposal how they will discourage presentation of already finalized machine learning work.  (Presenting work that has been published in other fields is, however, encouraged!)"
-
