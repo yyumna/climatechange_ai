@@ -18,7 +18,6 @@ def to_html(p)
   <span class="person__name">
     #{p['name']} (#{p['affiliation']})
   </span>
-  <div class="person__spacer"></div>
 </a>
   HTML
 end
