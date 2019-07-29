@@ -37,9 +37,10 @@ $section-headings-color: #04587B !default;
   }
 }
 
-.custom-github-button{
-  //color:black;
-  border:2px solid white;
+.btn:focus{
+  border:2px solid black;
+  background-color: white;
+  color: black;
 }
 
 
