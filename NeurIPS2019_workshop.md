@@ -35,7 +35,7 @@ We invite submissions of short papers on machine learning applied to problems in
  - Data presentation and management
  - Climate finance
 
-All machine learning techniques are welcome, from kernel methods to deep learning. Each submission should make clear why the application has (or could have) positive impacts regarding climate change. We highly encourage submissions which make their data publically available. Accepted submissions will be invited to give poster presentations, of which some will be selected for spotlight talks.  
+All machine learning techniques are welcome, from kernel methods to deep learning. Each submission should make clear why the application has (or could have) positive impacts regarding climate change. We highly encourage submissions which make their data publicly available. Accepted submissions will be invited to give poster presentations, of which some will be selected for spotlight talks.  
 
 The workshop does not record proceedings, and submissions are non-archival. Submission to this workshop does not preclude future publication. Previously published work may be submitted under certain circumstances (see the [FAQ](#frequently-asked-questions)).
 
