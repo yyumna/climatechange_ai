@@ -74,6 +74,16 @@ Submissions for the Proposals track should describe detailed ideas for how machi
 - **Avoid jargon:** Jargon is sometimes unavoidable but should be minimized. Ideal submissions will be accessible both to an ML audience and to experts in other relevant fields, without the need for field-specific knowledge. Feel free to direct readers to accessible overviews or review articles for background, where it is impossible to include context directly.
 
 
+## Organizers
+David Rolnick (UPenn) <br>
+Alexandre Lacoste (Element AI) <br>
+Tegan Maharaj (Mila) <br>
+Priya Donti (CMU) <br>
+Lynn Kaack (ETH Zürich) <br>
+John Platt (Google AI) <br>
+Jennifer Chayes (Microsoft Research) <br>
+Yoshua Bengio (Mila) <br>
+
 
 ## Frequently Asked Questions
 
