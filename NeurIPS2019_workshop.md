@@ -39,7 +39,7 @@ All machine learning techniques are welcome, from kernel methods to deep learnin
 
 The workshop does not record proceedings, and submissions are non-archival. Submission to this workshop does not preclude future publication. Previously published work may be submitted under certain circumstances (see the [FAQ](#frequently-asked-questions)).
 
-All submissions must be through the [submission site](https://cmt3.research.microsoft.com/CCAINeurIPS2019). Submissions will be reviewed double-blind; do your best to anonymize your submission, and do not include identifying information for authors in the PDF. We encourage, but do not require, use of the [NeurIPS style template](https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles) (please **do not** use the “Accepted” format as it will deanonymize your submission).
+All submissions must be through the [submission website](https://cmt3.research.microsoft.com/CCAINeurIPS2019). Submissions will be reviewed double-blind; do your best to anonymize your submission, and do not include identifying information for authors in the PDF. We encourage, but do not require, use of the [NeurIPS style template](https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles) (please **do not** use the “Accepted” format as it will deanonymize your submission).
 
 Please see the [Tips for Submissions](#tips-for-submissions) and [FAQ](#frequently-asked-questions), and contact <climatechangeai.neurips2019@gmail.com> with questions.
 
