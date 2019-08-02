@@ -21,7 +21,7 @@ description: ICML 2019 Workshop
  
 ## Schedule
 
- 8:30 -  8:45 - Welcome and Opening Remarks   
+ 8:30 -  8:45 - [**Welcome and Opening Remarks**](https://slideslive.com/38918275)   
  8:45 -  9:20 - John Platt (Google AI): [**AI for Climate Change: the Context**](https://slideslive.com/38917851){:target="_blank"} *(Keynote talk)*     
  9:20 -  9:45 - Jack Kelly (Open Climate Fix): [**Why it's hard to mitigate climate change, and how to do better**](https://slideslive.com/38917850){:target="_blank"} *(Invited talk)*    
  9:45 - 10:10 - Andrew Ng (Stanford): [**Tackling climate change challenges with AI through collaboration**](https://slideslive.com/38917852){:target="_blank"} *(Invited talk)*      
