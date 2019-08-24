@@ -91,6 +91,13 @@
     "committees": ["steering", "web"]
   },
   {
+    "website_url": "https://www.evansherwin.com/",
+    "image_url": "images/people/evansherwin.png",
+    "name": "Evan D. Sherwin",
+    "affiliation": "Stanford University",
+    "committees": ["steering"]
+  },
+  {
     "website_url": "https://mila.quebec/en/yoshua-bengio/",
     "image_url": "images/people/yb.jpg",
     "name": "Yoshua Bengio",

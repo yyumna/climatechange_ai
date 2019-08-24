@@ -113,6 +113,15 @@ description: Climate Change AI Organizers
     Tegan Maharaj (Mila, Polytechnique Montréal)
   </span>
 </a>
+
+<a class="person__item" href="https://www.evansherwin.com/" target="_blank">
+  <div class="person__pic-wrapper">
+    <img class="person__pic" src="images/people/evansherwin_200x200.jpg">
+  </div>
+  <span class="person__name">
+    Evan D. Sherwin (Stanford University)
+  </span>
+</a>
 </div>
 ## Advisors
 <div class="person__list">
