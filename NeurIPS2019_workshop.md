@@ -118,7 +118,7 @@ Yoshua Bengio (Mila) <br>
 **Q:** Do I need to use LaTeX or the NeurIPS style files?  
 **A:** No, although we encourage it. 
 
-**Q:** It’s hard for me to fit my submission on 2 or 3 pages.  What should I do?
+**Q:** It’s hard for me to fit my submission on 2 or 3 pages.  What should I do?   
 **A:** Feel free to include appendices with additional material (these should be part of the same PDF file as the main submission).  Do not, however, put essential material in an appendix, as it will be read at the discretion of the reviewers.
 
 **Q:** What do I do if I need an earlier decision for visa reasons?  
