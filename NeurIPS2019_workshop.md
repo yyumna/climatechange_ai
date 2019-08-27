@@ -4,6 +4,13 @@ title: 'Tackling Climate Change <br>with Machine Learning'
 description: NeurIPS 2019 Workshop
 ---
 
+<center> <h3>Announcements</h3> </center>
+* Limited **travel grants** are now available! Travel grant applications will be accepted until October 3. More information [here](#travel-grants).
+* We will be awarding **$30K in prizes** to top workshop submissions! More information [here](#call-for-submissions).
+* Authors may include appendices in their paper submissions. See the [FAQ](#frequently-asked-questions) for important details.
+
+***
+
 Many in the ML community wish to take action on climate change, yet feel their skills are inapplicable. This workshop aims to show that in fact the opposite is true: while no silver bullet, **ML can be an invaluable tool both in reducing greenhouse gas emissions and in helping society adapt to the effects of climate change**. Climate change is a complex problem, for which action takes many forms - from designing smart electrical grids to tracking deforestation in satellite imagery. Many of these actions represent high-impact opportunities for real-world change, as well as being interesting problems for ML research.
 
 
@@ -41,11 +48,13 @@ The workshop does not record proceedings, and submissions are non-archival. Subm
 
 All submissions must be through the [submission website](https://cmt3.research.microsoft.com/CCAINeurIPS2019). Submissions will be reviewed double-blind; do your best to anonymize your submission, and do not include identifying information for authors in the PDF. We encourage, but do not require, use of the [NeurIPS style template](https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles) (please **do not** use the “Accepted” format as it will deanonymize your submission).
 
+We will be awarding $30K in cloud computing credits, sponsored by Microsoft AI for Earth, as prizes for top submissions. Winners will be announced at the workshop.
+
 Please see the [Tips for Submissions](#tips-for-submissions) and [FAQ](#frequently-asked-questions), and contact <climatechangeai.neurips2019@gmail.com> with questions.
 
 ### Submission tracks  
 
-There are two tracks for submissions. Submissions are limited to 3 pages for the Papers track, and 2 pages for the Proposals track, in PDF format (see examples [here](https://www.climatechange.ai/ICML2019_workshop)). An additional page may be used for references only. All submissions *must* explain why the proposed work has (or could have) positive impacts regarding climate change. 
+There are two tracks for submissions. Submissions are limited to 3 pages for the Papers track, and 2 pages for the Proposals track, in PDF format (see examples [here](https://www.climatechange.ai/ICML2019_workshop)). References do not count towards this total. Supplementary appendices are allowed but will be read at the discretion of the reviewers. All submissions *must* explain why the proposed work has (or could have) positive impacts regarding climate change. 
 
 #### PAPERS track  
 *Work that is in progress, published, and/or deployed*
@@ -74,12 +83,19 @@ Submissions for the Proposals track should describe detailed ideas for how machi
 - **Avoid jargon:** Jargon is sometimes unavoidable but should be minimized. Ideal submissions will be accessible both to an ML audience and to experts in other relevant fields, without the need for field-specific knowledge. Feel free to direct readers to accessible overviews or review articles for background, where it is impossible to include context directly.
 
 
+## Travel Grants
+
+We are excited to announce limited travel grants, sponsored by Microsoft Research. Travel grant applications can be submitted at <a href="https://forms.gle/Aq8EcV2VLD13LUov5" target="_blank">https://forms.gle/Aq8EcV2VLD13LUov5</a>, and are due October 3.
+
+We also encourage workshop participants to apply for <a href="https://neurips.cc/TravelApplication" target="_blank">NeurIPS 2019 travel grants</a> and other grants (e.g. <a href="https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/" target="_blank">Google Conference and Travel Scholarships</a>) for which they may be eligible. If you are aware of additional scholarships that may be relevant to workshop attendees, please contact the workshop organizers so we can make this information available.
+
+
 ## Organizers
 David Rolnick (UPenn) <br>
-Alexandre Lacoste (Element AI) <br>
-Tegan Maharaj (Mila) <br>
 Priya Donti (CMU) <br>
 Lynn Kaack (ETH Zürich) <br>
+Alexandre Lacoste (Element AI) <br>
+Tegan Maharaj (Mila) <br>
 John Platt (Google AI) <br>
 Jennifer Chayes (Microsoft Research) <br>
 Yoshua Bengio (Mila) <br>
@@ -102,6 +118,9 @@ Yoshua Bengio (Mila) <br>
 **Q:** Do I need to use LaTeX or the NeurIPS style files?  
 **A:** No, although we encourage it. 
 
+**Q:** It’s hard for me to fit my submission on 2 or 3 pages.  What should I do?
+**A:** Feel free to include appendices with additional material (these should be part of the same PDF file as the main submission).  Do not, however, put essential material in an appendix, as it will be read at the discretion of the reviewers.
+
 **Q:** What do I do if I need an earlier decision for visa reasons?  
 **A:** Contact us at <climatechangeai.neurips2019@gmail.com> and explain your situation and the date by which you require a decision and we will do our best to be accommodating.
 
@@ -118,4 +137,4 @@ Yoshua Bengio (Mila) <br>
 **A:** No, the CMT system does not send automatic confirmation emails after a submission, though the submission should show up on the CMT page once submitted. If in any doubt regarding the submission process, please contact the organizers. Also please avoid making multiple submissions of the same article to CMT.
 
 **Q:** Can I submit previously published work to this workshop?   
-**A:** If it was previously published in a non-ML venue, YES! If it was previously published in an ML venue, NO! If you are unsure, contact <climatechangeai.neurips2019@gmail.com>.  This policy is as per the [NeurIPS workshop guidelines](https://nips.cc/Conferences/2019/CallForWorkshops): "Workshops are not a venue for work that has been previously published in other conferences on machine learning or related fields. Work that is presented at the main NeurIPS conference should not appear in a workshop, including as part of an invited talk. Organizers should make this clear in their calls and explain in their proposal how they will discourage presentation of already finalized machine learning work.  (Presenting work that has been published in other fields is, however, encouraged!)"
+**A:** If it was previously published in a non-ML venue, YES! If it was previously published in an ML venue, NO! If you are unsure, contact <climatechangeai.neurips2019@gmail.com>.  This policy is as per the [NeurIPS workshop guidelines](https://nips.cc/Conferences/2019/CallForWorkshops): "Workshops are not a venue for work that has been previously published in other conferences on machine learning or related fields. Work that is presented at the main NeurIPS conference should not appear in a workshop, including as part of an invited talk... (Presenting work that has been published in other fields is, however, encouraged!)"
