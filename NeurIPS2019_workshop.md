@@ -76,10 +76,10 @@ Submissions for the Proposals track should describe detailed ideas for how machi
 
 ## Organizers
 David Rolnick (UPenn) <br>
-Alexandre Lacoste (Element AI) <br>
-Tegan Maharaj (Mila) <br>
 Priya Donti (CMU) <br>
 Lynn Kaack (ETH Zürich) <br>
+Alexandre Lacoste (Element AI) <br>
+Tegan Maharaj (Mila) <br>
 John Platt (Google AI) <br>
 Jennifer Chayes (Microsoft Research) <br>
 Yoshua Bengio (Mila) <br>
