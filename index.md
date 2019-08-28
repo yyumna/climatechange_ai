@@ -10,8 +10,8 @@ Climate change is one of the greatest problems society has ever faced, with incr
       <div class='panel-heading'>LEARN</div>
       <div class='panel-block'>
         <ul>
-          <li><a href='https://arxiv.org/abs/1906.05433' target='_blank'>Read the paper</a></li>
-          <li><a href='./ICML2019_workshop.html'>Watch recordings and read abstracts from ICML 2019</a></li>
+          <li><a href='https://arxiv.org/abs/1906.05433' target='_blank'>Read</a> the paper</li>
+          <li><a href='./ICML2019_workshop#schedule'>Watch</a> recordings and <a href='./ICML2019_workshop#research-track'>read</a> abstracts from ICML 2019</li>
         </ul>
       </div>
     </div>
@@ -21,8 +21,8 @@ Climate change is one of the greatest problems society has ever faced, with incr
       <div class='panel-heading'>ENGAGE</div>
       <div class='panel-block'>
         <ul>
-          <li><a href='./Mailing_list.html'>Sign up for our newsletter</a></li>
-          <li><a href='./NeurIPS2019_workshop.html'>Submit to our workshop at NeurIPS 2019</a></li>
+          <li><a href='./Mailing_list.html'>Sign up</a> for our newsletter</li>
+          <li><a href='./NeurIPS2019_workshop.html'>Submit</a> to our workshop at NeurIPS 2019</li>
         </ul>
       </div>
     </div>
