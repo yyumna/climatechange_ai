@@ -8,39 +8,33 @@ $header-bg-color-secondary: #155799 !default;
 // Text
 $section-headings-color: #04587B !default;
 
+$dark: black;
 
 @import 'jekyll-theme-cayman';
+@import "bulma-scss/utilities/_all";
+@import "bulma-scss/grid/columns";
+@import "bulma-scss/components/_navbar";
+@import "bulma-scss/components/_panel";
 
-.page-header {
-  overflow: hidden;
-  width: 100%;
-  padding: 40 40;
-  background-position: center center;
-  background-size: cover;
-  background-image: url('https://eoimages.gsfc.nasa.gov/images/imagerecords/90000/90008/asia_vir_2016.jpg');
-  .project-tagline
-  {
-    font-weight: 600;
-    font-size: 22px;
-    max-width: 600px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
+.panel ul {
+  padding-left: 1.5rem;
+  margin: 0;
 }
 
-@media screen and (max-width: 500px) {
-  .page-header a {
-    float: none;
-    display: block;
+body {
+  padding-top: 5rem;
+}
+
+.navbar-brand {
+  h1 {
+    margin: .5rem 0;
+  }
+  &, .navbar-item:hover {
+    background-position: center center;
+    background-size: cover;
+    background-image: url('https://eoimages.gsfc.nasa.gov/images/imagerecords/90000/90008/asia_vir_2016.jpg');
   }
 }
-
-.custom-github-button{
-  border:2px solid white;
-}
-
 
 html, body {
     height:100%;
