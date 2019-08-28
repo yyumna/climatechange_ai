@@ -128,6 +128,9 @@ We also encourage workshop participants to apply for <a href="https://neurips.cc
 **Q:** Can I submit previously published work to this workshop?   
 **A:** If it was previously published in a non-ML venue, YES! If it was previously published in an ML venue, NO! If you are unsure, contact <climatechangeai.neurips2019@gmail.com>.  This policy is as per the [NeurIPS workshop guidelines](https://nips.cc/Conferences/2019/CallForWorkshops): "Workshops are not a venue for work that has been previously published in other conferences on machine learning or related fields. Work that is presented at the main NeurIPS conference should not appear in a workshop, including as part of an invited talk... (Presenting work that has been published in other fields is, however, encouraged!)"
 
+**Q:** Can I submit work to this workshop if I am also submitting to another NeurIPS 2019 workshop?   
+**A:** Yes. We cannot, however, guarantee that you will not be expected to present the material at a time that conflicts with the other workshop.
+
 ## Organizers
 <a href="http://www.davidrolnick.com" target="_blank">David Rolnick (UPenn)</a> <br>
 <a href="https://priyadonti.com/" target="_blank">Priya Donti (CMU)</a> <br>
