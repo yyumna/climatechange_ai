@@ -20,35 +20,80 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <!--<a id="skip-to-content" href="#content">Skip to the content.</a>-->
+    <nav class="navbar is-dark is-fixed-top" role="navigation" aria-label="main navigation">
+      <div class="navbar-brand">
+        <a class="navbar-item" href="./index.html">
+          <h1>
+            Climate Change AI
+          </h1>
+        </a>
 
-    <header class="page-header" role="banner">      
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <a href="./index.html" class="btn custom-github-button">HOME</a>
-      <a href="https://arxiv.org/abs/1906.05433" class="btn custom-github-button" target="_blank">THE PAPER</a>
-      <a href="./NeurIPS2019_workshop.html" class="btn custom-github-button">NeurIPS 2019 WORKSHOP</a>
-      <a href="./ICML2019_workshop.html" class="btn custom-github-button">ICML 2019 WORKSHOP</a>
-      <a href="./Mailing_list.html" class="btn custom-github-button">MAILING LIST</a> 
-      {% if site.github.is_project_page %}
-        <!--<a href="{{ site.github.repository_url }}" class="btn custom-github-button">View on GitHub</a> -->
-      {% endif %}
-      <!--{% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %} -->
-    </header>
+        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbar-menu">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+
+      <div id="navbar-menu" class="navbar-menu">
+        <div class="navbar-start">
+
+          <a class="navbar-item" href="https://arxiv.org/abs/1906.05433" target="_blank">
+            The Paper
+          </a>
+
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              Workshops
+            </a>
+
+            <div class="navbar-dropdown">
+              <a class="navbar-item" href="./NeurIPS2019_workshop.html">
+                NeurIPS 2019
+              </a>
+              <a class="navbar-item" href="./ICML2019_workshop.html">
+                ICML 2019
+              </a>
+            </div>
+          </div>
+
+          <a class="navbar-item" href="./About.html">
+            About
+          </a>
+
+          <a class="navbar-item" href="./Mailing_list.html">
+            Mailing List
+          </a>
+        </div>
+
+      </div>
+    </nav>
 
     <main id="content" class="main-content" role="main">
+      {% if page.description %}
+        <h1>{{ page.description }}</h1>
+      {% endif %}
       {{ content }}
 
       <footer class="site-footer">
         <span class="site-footer-credits">Contact us at: <a href="mailto:climatechangeai@gmail.com">climatechangeai@gmail.com</a>.</span>
-        <!--{% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="https://github.com/NarmadaBalasooriya">narmadabalasooriya</a> and <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        {% endif %}-->
-        
       </footer>
     </main>
   </body>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+      if ($navbarBurgers.length > 0) {
+        $navbarBurgers.forEach( el => {
+          el.addEventListener('click', () => {
+            const target = el.dataset.target;
+            const $target = document.getElementById(target);
+            el.classList.toggle('is-active');
+            $target.classList.toggle('is-active');
+          });
+        });
+      }
+    });
+  </script>
 </html>
