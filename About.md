@@ -1,3 +1,7 @@
+---
+description: About Climate Change AI
+---
+
 Climate Change AI is a group of volunteers from academia and industry who believe in using machine learning, where it is relevant, to help tackle the climate crisis.  We aim to facilitate meaningful action by a range of stakeholders &mdash; researchers and engineers, entrepreneurs and investors, established businesses, the public sector, and more.
 
 We believe that:

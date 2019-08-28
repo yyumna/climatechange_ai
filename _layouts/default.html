@@ -70,6 +70,9 @@
     </nav>
 
     <main id="content" class="main-content" role="main">
+      {% if page.description %}
+        <h1>{{ page.description }}</h1>
+      {% endif %}
       {{ content }}
 
       <footer class="site-footer">
