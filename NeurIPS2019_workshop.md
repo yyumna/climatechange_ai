@@ -90,17 +90,6 @@ We are excited to announce limited travel grants, sponsored by Microsoft Researc
 We also encourage workshop participants to apply for <a href="https://neurips.cc/TravelApplication" target="_blank">NeurIPS 2019 travel grants</a> and other grants (e.g. <a href="https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/" target="_blank">Google Conference and Travel Scholarships</a>) for which they may be eligible. If you are aware of additional scholarships that may be relevant to workshop attendees, please contact the workshop organizers so we can make this information available.
 
 
-## Organizers
-David Rolnick (UPenn) <br>
-Priya Donti (CMU) <br>
-Lynn Kaack (ETH Zürich) <br>
-Alexandre Lacoste (Element AI) <br>
-Tegan Maharaj (Mila) <br>
-John Platt (Google AI) <br>
-Jennifer Chayes (Microsoft Research) <br>
-Yoshua Bengio (Mila) <br>
-
-
 ## Frequently Asked Questions
 
 **Q:** How can I keep up to date on this kind of stuff?   
@@ -138,3 +127,55 @@ Yoshua Bengio (Mila) <br>
 
 **Q:** Can I submit previously published work to this workshop?   
 **A:** If it was previously published in a non-ML venue, YES! If it was previously published in an ML venue, NO! If you are unsure, contact <climatechangeai.neurips2019@gmail.com>.  This policy is as per the [NeurIPS workshop guidelines](https://nips.cc/Conferences/2019/CallForWorkshops): "Workshops are not a venue for work that has been previously published in other conferences on machine learning or related fields. Work that is presented at the main NeurIPS conference should not appear in a workshop, including as part of an invited talk... (Presenting work that has been published in other fields is, however, encouraged!)"
+
+## Organizers
+<a href="http://www.davidrolnick.com" target="_blank">David Rolnick (UPenn)</a> <br>
+<a href="https://priyadonti.com/" target="_blank">Priya Donti (CMU)</a> <br>
+<a href="https://scholar.google.fr/citations?user=jsy-VxMAAAAJ" target="_blank">Lynn Kaack (ETH Zürich)</a> <br>
+<a href="https://scholar.google.com/citations?user=71a2-WMAAAAJ&hl=en" target="_blank">Alexandre Lacoste (Element AI)</a> <br>
+<a href="http://www.teganmaharaj.com" target="_blank">Tegan Maharaj (Mila)</a> <br>
+<a href="https://ai.google/research/people/JohnPlatt" target="_blank">John Platt (Google AI)</a> <br>
+<a href="https://www.microsoft.com/en-us/research/people/jchayes/" target="_blank">Jennifer Chayes (Microsoft Research)</a> <br>
+<a href="https://mila.quebec/en/yoshua-bengio/" target="_blank">Yoshua Bengio (Mila)</a> <br>
+
+## Program Committee
+Andrew Ross (Harvard) <br>
+Aneesh Rangnekar (RIT) <br>
+Ashesh Chattopadhyay (Rice) <br>
+Ashley Pilipiszyn (Stanford) <br>
+Bolong Cheng (SigOpt) <br>
+Christian Schroeder (Oxford) <br>
+Clement Duhart (MIT) <br>
+Dali Wang (Oak Ridge National Lab) <br>
+David Dao (ETH) <br>
+Duncan Watson-Parris (Oxford) <br>
+Gege Wen (Stanford) <br>
+George Chen (CMU) <br>
+Han Zou (UC Berkeley) <br>
+Hari Prasanna Das (UC Berkeley) <br>
+Hillary Scannell (University of Washington) <br>
+Joanna Slawinska (University of Wisconsin-Milwaukee) <br>
+Jonathan Binas (Mila, Montreal) <br>
+Kalai Ramea (PARC) <br>
+Kate Duffy (Northeastern) <br>
+Lea Boche (EPRI) <br>
+Max Callaghan (MCC Berlin) <br>
+Melrose Roderick (CMU) <br>
+Mohammad Mahdi Kamani (Penn State) <br>
+Natasha Jaques (MIT) <br>
+Neel Guha (CMU) <br>
+Niccolo Dalmasso (CMU) <br>
+Nikola Milojevic-Dupont (MCC Berlin) <br>
+Pedram Hassanzadeh (Rice) <br>
+Robin Dunn (CMU) <br>
+Sajad Haghanifar (University of Pittsburgh) <br>
+Sanam Mirzazad (EPRI) <br>
+Sandeep Manjanna (McGill) <br>
+Sharon Zhou (Stanford) <br>
+Shubhankar Deshpande (CMU) <br>
+Surya Karthik Mukkavili (Mila) <br>
+Thomas Hornigold (Oxford) <br>
+Tianle Yuan (NASA) <br>
+Tom Beucler (Columbia & UCI) <br>
+Volodymyr Kuleshov (Stanford) <br>
+Yang Song (Oak Ridge National Lab) <br>
