@@ -153,6 +153,7 @@ Christian Schroeder (Oxford) <br>
 Clement Duhart (MIT) <br>
 Dali Wang (Oak Ridge National Lab) <br>
 David Dao (ETH) <br>
+Di Wu (McGill) <br>
 Duncan Watson-Parris (Oxford) <br>
 Gege Wen (Stanford) <br>
 George Chen (CMU) <br>
@@ -164,6 +165,7 @@ Jonathan Binas (Mila, Montreal) <br>
 Kalai Ramea (PARC) <br>
 Kate Duffy (Northeastern) <br>
 Lea Boche (EPRI) <br>
+Loubna	Benabbou (Mohammadia School of Engineering, Mohammed V University) <br>
 Max Callaghan (MCC Berlin) <br>
 Melrose Roderick (CMU) <br>
 Mohammad Mahdi Kamani (Penn State) <br>
@@ -178,9 +180,11 @@ Sanam Mirzazad (EPRI) <br>
 Sandeep Manjanna (McGill) <br>
 Sharon Zhou (Stanford) <br>
 Shubhankar Deshpande (CMU) <br>
+Soukayna Mouatadid (University of Toronto) <br>
 Surya Karthik Mukkavili (Mila) <br>
 Thomas Hornigold (Oxford) <br>
 Tianle Yuan (NASA) <br>
 Tom Beucler (Columbia & UCI) <br>
 Volodymyr Kuleshov (Stanford) <br>
 Yang Song (Oak Ridge National Lab) <br>
+Ydo Wexler (Amperon) <br>
