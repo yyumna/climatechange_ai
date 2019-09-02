@@ -15,7 +15,9 @@ Many in the ML community wish to take action on climate change, yet feel their s
 
 
 ## About NeurIPS
-NeurIPS (formerly written "NIPS") is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting at or attending the main NeurIPS conference. Those interested should register for the Workshops component of NeurIPS at <https://neurips.cc/Register/view-registration>. Note that in past years registration has sold out quickly; we suggest monitoring the website to ensure you get a ticket if you would like to attend. A number of spots will be reserved for accepted submissions.
+NeurIPS (formerly written "NIPS") is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting at or attending the main NeurIPS conference. Those interested should register for the Workshops component of NeurIPS at <https://neurips.cc/Register/view-registration>. 
+
+**NeurIPS registration opens Sept. 6 at 8am Pacific Time**. Note that in past years registration has sold out extremely quickly; we suggest monitoring the website to ensure you get a ticket if you would like to attend. A full refund is available until Nov. 28. In addition, a number of spots will be reserved for accepted submissions.
 
 ## About the workshop
  - Date:  Friday, December 13 or Saturday, December 14, 2019
