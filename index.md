@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Climate change is one of the greatest problems society has ever faced, with increasingly severe consequences for humanity as natural disasters multiply, sea levels rise, and ecosystems falter. While no silver bullet, machine learning can be an invaluable tool in fighting climate change via a wide array of applications and techniques.
+Climate change is one of the greatest problems society has ever faced, with increasingly severe consequences for humanity as natural disasters multiply, sea levels rise, and ecosystems falter. While no silver bullet, machine learning can be an invaluable tool in fighting climate change via a wide array of applications and techniques. Climate Change AI aims to facilitate work at the nexus of climate change and machine learning.
 
 <div class='columns'>
   <div class='column'>
