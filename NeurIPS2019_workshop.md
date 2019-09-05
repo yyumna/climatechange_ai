@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Tackling Climate Change <br>with Machine Learning'
-description: NeurIPS 2019 Workshop: Tackling Climate Change with Machine Learning
+description: NeurIPS 2019 Workshop
 ---
 
 <center> <h3>Announcements</h3> </center>
