@@ -160,18 +160,27 @@ Dali Wang (Oak Ridge National Lab) <br>
 David Dao (ETH) <br>
 Di Wu (McGill) <br>
 Duncan Watson-Parris (Oxford) <br>
+Evan Sherwin (Stanford) <br>
+Femke van Geffen (FU Berlin) <br>
 Gege Wen (Stanford) <br>
 George Chen (CMU) <br>
 Han Zou (UC Berkeley) <br>
 Hari Prasanna Das (UC Berkeley) <br>
 Hillary Scannell (University of Washington) <br>
 Joanna Slawinska (University of Wisconsin-Milwaukee) <br>
+Johan Mathe (Frog Labs) <br>
 Jonathan Binas (Mila, Montreal) <br>
+Jussi Gillberg (Aalto University) <br>
 Kalai Ramea (PARC) <br>
+Karthik Kashinath (Lawrence Berkeley National Lab) <br>
 Kate Duffy (Northeastern) <br>
+Kelly Kochanski (CU Boulder) <br>
+Kevin McCloskey (Google) <br>
+Kris Sankaran (Mila) <br>
 Lea Boche (EPRI) <br>
 Loubna	Benabbou (Mohammadia School of Engineering, Mohammed V University) <br>
 Max Callaghan (MCC Berlin) <br>
+Mayur Mudigonda (UC Berkeley) <br>
 Melrose Roderick (CMU) <br>
 Mohammad Mahdi Kamani (Penn State) <br>
 Natasha Jaques (MIT) <br>
@@ -183,13 +192,19 @@ Robin Dunn (CMU) <br>
 Sajad Haghanifar (University of Pittsburgh) <br>
 Sanam Mirzazad (EPRI) <br>
 Sandeep Manjanna (McGill) <br>
+Sasha Luccioni (Mila) <br>
 Sharon Zhou (Stanford) <br>
 Shubhankar Deshpande (CMU) <br>
+Sookyung Kim (Lawrence Livermore National Lab) <br>
 Soukayna Mouatadid (University of Toronto) <br>
 Surya Karthik Mukkavili (Mila) <br>
+Telmo Felgueira (IST) <br>
 Thomas Hornigold (Oxford) <br>
 Tianle Yuan (NASA) <br>
 Tom Beucler (Columbia & UCI) <br>
+Vikram Voleti (Mila, Montreal) <br>
 Volodymyr Kuleshov (Stanford) <br>
 Yang Song (Oak Ridge National Lab) <br>
 Ydo Wexler (Amperon) <br>
+Zhecheng Wang (Stanford) <br>
+Zhuangfang Yi (Development Seed) <br>
