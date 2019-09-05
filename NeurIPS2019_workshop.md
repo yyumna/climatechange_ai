@@ -15,9 +15,11 @@ Many in the ML community wish to take action on climate change, yet feel their s
 
 
 ## About NeurIPS
-NeurIPS (formerly written "NIPS") is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting at or attending the main NeurIPS conference. Those interested should register for the Workshops component of NeurIPS at <https://neurips.cc/Register/view-registration>. 
+NeurIPS (formerly written "NIPS") is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting at or attending the main NeurIPS conference. 
 
-**NeurIPS registration opens Sept. 6 at 8am Pacific Time**. Note that in past years registration has sold out extremely quickly; we suggest monitoring the website to ensure you get a ticket if you would like to attend. A full refund is available until Nov. 28. In addition, a number of spots will be reserved for accepted submissions.
+### Registration
+Those interested in attending the "Tackling Climate Change with Machine Learning" workshop should register for the "Workshops" component of NeurIPS at <https://neurips.cc/Register/view-registration>. 
+Registration for NeurIPS will be based on a <a href="https://neurips.cc/Conferences/2019/Press?article=2299" target="_blank">lottery</a> -- entry to the lottery must be made **between Sept. 6 and Sept. 20**.  In addition, a limited number of tickets will be reserved for accepted submissions to the workshop. A full refund is available until Nov. 28.
 
 ## About the workshop
  - Date:  Friday, December 13 or Saturday, December 14, 2019
@@ -25,6 +27,7 @@ NeurIPS (formerly written "NIPS") is one of the premier conferences on machine l
  - Submission deadline:  September 11, 11:59 PM Pacific Time
  - Notification:  October 1
  - Submission website: <https://cmt3.research.microsoft.com/CCAINeurIPS2019>
+ - Registration: <https://neurips.cc/Register/view-registration> ("Workshops" component)
  - Contact: <climatechangeai.neurips2019@gmail.com>
  
  
