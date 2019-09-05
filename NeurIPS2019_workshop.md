@@ -4,6 +4,8 @@ title: 'Tackling Climate Change <br>with Machine Learning'
 description: 'NeurIPS 2019 Workshop <br>Tackling Climate Change with Machine Learning'
 ---
 
+***
+
 <center> <h3>Announcements</h3> </center>
 * Limited **travel grants** are now available! Travel grant applications will be accepted until October 3. More information [here](#travel-grants).
 * We will be awarding **$30K in prizes** to top workshop submissions! More information [here](#call-for-submissions).
