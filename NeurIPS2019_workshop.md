@@ -161,6 +161,7 @@ Clement Duhart (MIT) <br>
 Dali Wang (Oak Ridge National Lab) <br>
 David Dao (ETH) <br>
 Di Wu (McGill) <br>
+Dimitrios Giannakis (Courant Institute, NYU) <br>
 Duncan Watson-Parris (Oxford) <br>
 Evan Sherwin (Stanford) <br>
 Femke van Geffen (FU Berlin) <br>
