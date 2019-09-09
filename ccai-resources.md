@@ -4,9 +4,9 @@ For an overall introduction to the topic of climate change, we provide a (non-ex
 
 ### Background Reading
 
-10 high-level, and sometimes classic, academic references
+#### 10 high-level, and sometimes classic, academic references
 
-On why acting against climate change:
+#### On why acting against climate change:
 
 - Steffen, Will, et al. "Trajectories of the Earth System in the Anthropocene." Proceedings of the National Academy of Sciences (2018) 
 - Rockström, Johan, et al. "A safe operating space for humanity." Nature (2009) 
@@ -14,7 +14,7 @@ On why acting against climate change:
 - Mann, Michael E. et al. "Global-scale temperature patterns and climate forcing over the past six centuries." Nature (1998) 
   
 
-On how to tackle climate change:
+#### On how to tackle climate change:
 
 - Davis, Steven J., et al. "Net-zero emissions energy systems." Science (2018) 
 - Geels, Frank W., et al. "Sociotechnical transitions for deep decarbonization." Science (2017) 
@@ -23,7 +23,7 @@ On how to tackle climate change:
 - Stern, Nicholas. "The economics of climate change." American Economic Review (2008) 
 - High-Level Commission on Carbon Prices. “Report of the High-Level Commission on Carbon Prices.” World Bank (2017) 
 
-IPCC AR5 Synthesis Report: [https://www.ipcc.ch/report/ar5/syr/](https://www.ipcc.ch/report/ar5/syr/)
+[IPCC AR5 Synthesis Report](https://www.ipcc.ch/report/ar5/syr/)
 
 ##### Interactive Resources
 
