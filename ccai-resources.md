@@ -119,14 +119,14 @@ See Table 1 of this [survey of hyperspectral earth observation satellites](https
 ### Events, Conferences and Journals
 
 #### Major Conferences 
-    - [IEEE Power & Energy Society General Meeting](https://pes-gm.org/2020/) 
-    - [Power Systems Computation Conference](https://pscc2020.pt/) 
-    - [IEEE Power & Energy Society’s PowerTech](https://attend.ieee.org/powertech-2019/) 
-    - Also see additional conferences by [IEEE](https://www.ieee.org/conferences/index.html) and the [IEEE Power & Energy Society](https://www.ieee-pes.org/meetings-and-conferences) 
+- [IEEE Power & Energy Society General Meeting](https://pes-gm.org/2020/) 
+- [Power Systems Computation Conference](https://pscc2020.pt/) 
+- [IEEE Power & Energy Society’s PowerTech](https://attend.ieee.org/powertech-2019/) 
+- Also see additional conferences by [IEEE](https://www.ieee.org/conferences/index.html) and the [IEEE Power & Energy Society](https://www.ieee-pes.org/meetings-and-conferences) 
 
 #### Major Journals 
-    - [IEEE Transactions on Power Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59) 
-    - [IEEE Transactions on Smart Grid](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411) 
+- [IEEE Transactions on Power Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59) 
+- [IEEE Transactions on Smart Grid](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411) 
 
 
 #### Groups
@@ -137,23 +137,21 @@ See Table 1 of this [survey of hyperspectral earth observation satellites](https
 
 ### Background Reading
 
-[IPCC AR5 Chapter on Transportation](https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_chapter8.pdf)
+- [IPCC AR5 Chapter on Transportation](https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_chapter8.pdf)
 
-R. Schaeffer, R. Sims, J. Corfee-Morlot, F. Creutzig, X. Cruz-Nunez, D. Dimitriu, and M. et al. D’Agosto. Transport, in IPCC, Working Group III contribution to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, Climate Change 2014: Mitigation of Climate Change, chapter 8. Geneva (O. Edenhofer, R. Pichs-Madruga, Y. Sokona, E. Farahani, S. Kadner, K. Seyboth, A. Adler, I. Baum, S. Brunner, P. Eickemeier, B. Kriemann, J. Savolainen, S. Schlömer, C. von Stechow, T. Zwickel, J.C. Minx, (eds.)). Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 2014.
+- R. Schaeffer, R. Sims, J. Corfee-Morlot, F. Creutzig, X. Cruz-Nunez, D. Dimitriu, and M. et al. D’Agosto. Transport, in IPCC, Working Group III contribution to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, Climate Change 2014: Mitigation of Climate Change, chapter 8. Geneva (O. Edenhofer, R. Pichs-Madruga, Y. Sokona, E. Farahani, S. Kadner, K. Seyboth, A. Adler, I. Baum, S. Brunner, P. Eickemeier, B. Kriemann, J. Savolainen, S. Schlömer, C. von Stechow, T. Zwickel, J.C. Minx, (eds.)). Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 2014.
 
-Creutzig, F., Franzen, M., Moeckel, R., Heinrichs, D., Nagel, K., Nieland, S., & Weisz, H. (2019). [Leveraging digitalization for sustainability in urban transport.](https://www.cambridge.org/core/journals/global-sustainability/article/leveraging-digitalization-for-sustainability-in-urban-transport/9322C52E379793B7C4A41682EC99DB6A) Global Sustainability,2, E14. doi:10.1017/sus.2019.11
+- Creutzig, F., Franzen, M., Moeckel, R., Heinrichs, D., Nagel, K., Nieland, S., & Weisz, H. (2019). [Leveraging digitalization for sustainability in urban transport.](https://www.cambridge.org/core/journals/global-sustainability/article/leveraging-digitalization-for-sustainability-in-urban-transport/9322C52E379793B7C4A41682EC99DB6A) Global Sustainability,2, E14. doi:10.1017/sus.2019.11
 
-Lynn H Kaack, Parth Vaishnav, M Granger Morgan, Inês L Azevedo, and Srijana Rai.[Decarbonizing intraregional freight systems with a focus on modal shift.](https://iopscience.iop.org/article/10.1088/1748-9326/aad56c/meta) Environmental Research Letters, 13(8):083001, 2018.
+- Lynn H Kaack, Parth Vaishnav, M Granger Morgan, Inês L Azevedo, and Srijana Rai.[Decarbonizing intraregional freight systems with a focus on modal shift.](https://iopscience.iop.org/article/10.1088/1748-9326/aad56c/meta) Environmental Research Letters, 13(8):083001, 2018.
 
-Jacob Teter, Pierpaolo Cazzola, and Timur Gül. [The Future of Trucks](https://www.iea.org/publications/freepublications/publication/TheFutureofTrucksImplicationsforEnergyandtheEnvironment.pdf) International Energy Agency, 2017.
+- Jacob Teter, Pierpaolo Cazzola, and Timur Gül. [The Future of Trucks](https://www.iea.org/publications/freepublications/publication/TheFutureofTrucksImplicationsforEnergyandtheEnvironment.pdf) International Energy Agency, 2017.
   
 ### Events, Conferences and Journals
 
-[Transportation Research Board](http://www.trb.org/Main/Home.aspx)(conference and journal, division of the National Academy of Sciences)
-
-[International Transport Forum](https://www.itf-oecd.org/decarbonising-transport) (inter-governmental organisation)
-
-[International Transport Energy Modeling (iTEM)](https://transportenergy.org)  (convenes members from the transport-energy modelling community)
+- [Transportation Research Board](http://www.trb.org/Main/Home.aspx)(conference and journal, division of the National Academy of Sciences)
+- [International Transport Forum](https://www.itf-oecd.org/decarbonising-transport) (inter-governmental organisation)
+- [International Transport Energy Modeling (iTEM)](https://transportenergy.org)  (convenes members from the transport-energy modelling community)
 
 
 ## 3. Buildings and cities
@@ -185,8 +183,6 @@ Jacob Teter, Pierpaolo Cazzola, and Timur Gül. [The Future of Trucks](https://w
 #### Buildings energy use.
 
 - [New York City lists municipal buildings over 10,000 square feet identifying each building's energy intensity, and available GHG emissions for the calendar years 2010-2014](https://data.cityofnewyork.us/City-Government/NYC-Municipal-Building-Energy-Benchmarking-Results/hpid-63r5) 
-  
-
 - [The Commercial Buildings Energy Consumption Survey (CBECS)](https://catalog.data.gov/dataset/commercial-buildings-energy-consumption-survey) is a national sample survey that collects information on the stock of U.S. commercial buildings, their energy-related building characteristics, and their energy consumption and expenditures. 
 
 
@@ -194,8 +190,7 @@ Jacob Teter, Pierpaolo Cazzola, and Timur Gül. [The Future of Trucks](https://w
 #### City metabolism.
 
 The ‘’metabolism’’ of a city includes the electricity used, waste generated, and GHG emitted. 
-
--  Metabolism data for 150 cities is listed at [https://metabolismofcities.org/resources/data/datasets](https://metabolismofcities.org/resources/data/datasets).  
+- Metabolism data for 150 cities is listed at [https://metabolismofcities.org/resources/data/datasets](https://metabolismofcities.org/resources/data/datasets).  
 - The China Emission Accounts & Datasets provides energy, emission and socio-economic accounting inventories for China [https:/ceads.net](http://www.ceads.net/). 
 - First attempts of global databases on cities emissions and relevant ancillary metrics include [https://www.nature.com/articles/sdata2018280](https://www.nature.com/articles/sdata2018280). 
   
@@ -225,7 +220,6 @@ The ‘’metabolism’’ of a city includes the electricity used, waste genera
 - [Inorganic Crystal Structure Database](http://www2.fiz-karlsruhe.de/icsd_home.html) 
 - [SciFinder (paid)](https://www.cas.org/products/scifinder) 
 - [UCI Machine Learning Repository datasets, e.g. “Concrete Compressive Strength”](https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength)  
-**
 
 ### Events, Conferences and Journals
 
@@ -287,12 +281,12 @@ The ‘’metabolism’’ of a city includes the electricity used, waste genera
 The largest climate prediction datasets are ensembles of many climate simulations. These include simulations with varied physics, architectures, or initial conditions, and they are used to explore the range of possible climate futures. The largest ensembles include:
 
 - [The Coupled Model Intercomparison Project (CMIP)](https://esgf-node.llnl.gov/projects/cmip5/) 
-    - CMIP is associated with the Earth System Grid Federation, which also provides data analysis tools and tutorials: [https://esgf.llnl.gov/](https://esgf.llnl.gov/) 
+	- CMIP is associated with the Earth System Grid Federation, which also provides data analysis tools and tutorials: [https://esgf.llnl.gov/](https://esgf.llnl.gov/) 
 
 - [The CESM Large Ensemble,](http://www.cesm.ucar.edu/experiments/cesm1.1/LE/) 
-    - Read about it in [https://journals.ametsoc.org/doi/full/10.1175/BAMS-D-13-00255.1](https://journals.ametsoc.org/doi/full/10.1175/BAMS-D-13-00255.1) 
+	- Read about it in [https://journals.ametsoc.org/doi/full/10.1175/BAMS-D-13-00255.1](https://journals.ametsoc.org/doi/full/10.1175/BAMS-D-13-00255.1) 
 
-Climate model data is typically presented in netcdf4 format. These may be smoothly converted to csv files or [pandas dataframes](https://stackoverflow.com/questions/14035148/import-netcdf-file-to-pandas-dataframe), but be aware that the data lies on irregular 3D spherical grids.
+**N.B.** Climate model data is typically presented in netcdf4 format. These may be smoothly converted to csv files or [pandas dataframes](https://stackoverflow.com/questions/14035148/import-netcdf-file-to-pandas-dataframe), but be aware that the data lies on irregular 3D spherical grids.
 
 The Earth and climate science community is also working to create benchmark datasets: [https://is-geo.org/benchmarks/](https://is-geo.org/benchmarks/) 
 
@@ -344,11 +338,9 @@ Improved disease surveillance and response is an important part of adaptation --
  
 ### Events, Conferences and Journals
 
-[PLOS Responding to Climate Change](https://channels.plos.org/rtcc)
-
-[ACM Compass](https://acmcompass.org/)
-
-[AI for Good Global Summit](https://www.itu.int/en/ITU-T/AI/2018/Pages/default.aspx)
+- [PLOS Responding to Climate Change](https://channels.plos.org/rtcc)
+- [ACM Compass](https://acmcompass.org/)
+- [AI for Good Global Summit](https://www.itu.int/en/ITU-T/AI/2018/Pages/default.aspx)
 
 
 ## 9. Solar Geoengineering 
@@ -376,6 +368,8 @@ Improved disease surveillance and response is an important part of adaptation --
 ## 10. Tools for Individuals
 
 ### Background Reading
+
+*Coming soon*
 
 #### Overall
 
@@ -418,10 +412,6 @@ Improved disease surveillance and response is an important part of adaptation --
 ### Datasets and Tools
 
 - [Vulnerability to Climate Change Dataset](https://www.cgdev.org/publication/dataset-vulnerability-climate-change) 
-
-### Interactive Resources
-
-### Events, Conferences and Journals
 
 ## 12. Education
 
