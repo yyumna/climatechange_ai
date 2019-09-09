@@ -237,7 +237,7 @@ The ‘’metabolism’’ of a city includes the electricity used, waste genera
 
 ### Background Reading
 
-Coming soon
+*Coming soon*
 
 ### Datasets and Tools
 
@@ -413,7 +413,7 @@ Improved disease surveillance and response is an important part of adaptation --
 ## 11. Tools for Society
 
 ### Background Reading
-Coming soon
+*Coming soon*
 
 ### Datasets and Tools
 
