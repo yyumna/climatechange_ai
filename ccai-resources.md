@@ -64,7 +64,7 @@ For an overall introduction to the topic of climate change, we provide a (non-ex
 - [The Materials Project](https://materialsproject.org/) 
 - [Inorganic Crystal Structure Database](http://www2.fiz-karlsruhe.de/icsd_home.html) 
 - [SciFinder (paid)](https://www.cas.org/products/scifinder) 
-- [UCI Machine Learning Repository datasets, e.g. “Concrete Compressive Strength”](https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength)  
+- [UCI Machine Learning Repository datasets, e.g. “Concrete Compressive Strength”](https://archive.ics.uci.edu/ml/datasets/)  
  
 
 #### Reducing Life-cycle Fossil Fuel Emissions
@@ -369,8 +369,6 @@ Improved disease surveillance and response is an important part of adaptation --
 
 ### Background Reading
 
-*Coming soon*
-
 #### Overall
 
 - K. Williamson, A. Satre-Meloy, K. Velasco, and K. Green. [Climate Change Needs Behavior Change: Making the case for behavioral solutions to reduce global warming.](https://rare.org/wp-content/uploads/2019/02/2018-CCNBC-Report.pdf) Technical report, Center for Behavior and the Environment, 2018. 
@@ -406,12 +404,76 @@ Improved disease surveillance and response is an important part of adaptation --
 
 ## 11. Tools for Society
 
-### Background Reading
-*Coming soon*
+### Background Reading 
+
+#### General
+
+- Resources for Effective Climate Decisions. (Ch. 4) [Informing an Effective Response to Climate Change.](https://www.nap.edu/read/12784/chapter/6#126) National Research Council of the National Academies. National Academies Press, Washington, D.C. 2010.
+- John S. Dryzek, Richard B. Norgaard, and David Schlosberg. [Climate Change and Society: Approaches and Responses. The Oxford Handbook of Climate Change and Society.](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199566600.001.0001/oxfordhb-9780199566600-e-1) 2011.
+- R.F. Holt, R.P.Bio., G. Utzig, P.Ag., C. Pearce, R.P.F.  [Assessment and Decision-making for Climate Change: An Overview of Four Approaches.  Report #2 of the West Kootenay Climate Vulnerability and Resilience Project.](https://www2.gov.bc.ca/assets/gov/environment/natural-resource-stewardship/nrs-climate-change/applied-science/holtreport2assess4approaches.pdf)  2012. 
+- W Neil Adger. [Social Capital, Collective Action, and Adaptation to Climate Change.](https://www.crcresearch.org/files-crcresearch/File/adger_03.pdf) Economic Geography. 2003.
+- Intergovernmental Panel on Climate Change (IPCC). [Social, Economic, and Ethical Concepts and Methods. (Ch. 3).](https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_chapter3.pdf) Annual Report 5. Climate Change 2014: Mitigation of Climate Change. 2014. 
+  
+
+#### Modeling collective behaviour
+
+- Elizabeth Bruch and Fred Feinberg. [Decision-Making Processes in Social Contexts.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543983/) Annual Review of Sociology. 2017. 
+- Rajiv Jhangiani and Hammond Tarry. [Principles of Social Psychology.](https://opentextbc.ca/socialpsychology/chapter/group-decision-making/) 2014. 
+- F.K. Diekert. [The Tragedy of the Commons from a Game-Theoretic Perspective.](https://www.mdpi.com/2071-1050/4/8/1776/pdf)  Sustainability.  2012.
+  
+#### Policy design
+
+- World Health Organizaition. From Science to Policy: Developing Responses to Climate Change. (Ch. 12). [Climate Change and Human Health - Risks and Responses.](https://www.who.int/globalchange/climate/en/chapter12.pdf) 1996
+- Katy Roelich and Jannik Giesekam. [Decision making under uncertainty in climate change mitigation: introducing multiple actor motivations, agency and influence.](https://www.tandfonline.com/doi/full/10.1080/14693062.2018.1479238) Climate Policy, 2018.
+- Carolina Zambrano-Barragán. [Decision Making and Climate Change Uncertainty: Setting the Foundations for Informed and Consistent Strategic Decisions.](https://www.wri.org/our-work/project/world-resources-report/decision-making-and-climate-change-uncertainty-setting)  World Resources Report. 2019.
+- [Climate change policies. European Environmental Agency.](https://www.eea.europa.eu/themes/climate/policy-context) 2016. 
+
+#### Markets and pricing
+
+- Ans Kolk, Jonatan Pinkse. [Market Strategies for Climate Change.](https://www.sciencedirect.com/science/article/abs/pii/S0263237304000453) European Management Journal. 2004.
+- Sarah E. Anderson, Terry L. Anderson, Alice C. Hill, Matthew E. Kahn, Howard Kunreuther, Gary D. Libecap, Hari Mantripragada, Pierre Mérel, Andrew Plantinga, V. Kerry Smith. [The Critical Role of Markets in Climate Change Adaptation.](https://www.nber.org/papers/w24645) National Bureau of Economics Research Working Paper No. 24645. 2018. 
+- Market-based strategies. [Center for Climate and Energy Solutions.](https://www.c2es.org/content/market-based-strategies/) 2019.
+  
+####Managing tradeoffs
+
+- Behnam Malakooti. Operations and Production Systems with Multiple Objectives. John Wiley & Sons. 2014.   
+- Kaisa M. Miettinen. Nonlinear Multiobjective Optimization. Operations Research Management Science International Series, Kluwer Academic Publishers. 2004.  
+- An exploratory approach for adaptive policymaking by using multi-objective robust optimization. Caner Hamarat, Jan H. Kwakkel, Erik Pruyt, Erwin T. Loonen. Simulation Modelling Practice and Theory. 2014. 
 
 ### Datasets and Tools
 
-- [Vulnerability to Climate Change Dataset](https://www.cgdev.org/publication/dataset-vulnerability-climate-change) 
+#### Datasets 
+    - [World Bank ClimateSmart data portal](https://www.climatesmartplanning.org/data.html) 
+    - [Environmental Treaty Status Data Set, 2012 Release (1940 – 2012)](https://sedac.ciesin.columbia.edu/data/set/entri-treaty-status-2012) 
+    - [Vulnerability to Climate Change Dataset](https://www.cgdev.org/publication/dataset-vulnerability-climate-change) 
+    - [CO2 “price” in European ETS](http://datahub.io/core/eu-emissions-trading-system) (European Union Emissions Trading System (EU ETS) data from EUTL) 
+    - [IPCC Socio-Economic Baseline Data, v1 (1980, 1990, 1991, 1992, 1993, 1994, 1995, 2025)](https://sedac.ciesin.columbia.edu/data/set/ipcc-socio-economic-baseline) 
+    - IPCC Fourth Assessment Report (AR4) Observed Climate Change Impacts, v1 (1970 – 2004)](https://sedac.ciesin.columbia.edu/data/set/ipcc-ar4-observed-climate-impacts) 
+
+#### Software 
+    - [Carbon market simulation tool](https://www.carbonpricingleadership.org/calendar/2019/1/18/carbonsim-edfs-carbon-market-simulation-tool) 
+    - Python packages for multi-objective optimization:  
+        - [https://projects.g-node.org/emoo/](https://projects.g-node.org/emoo/) 
+        - [https://platypus.readthedocs.io/](https://platypus.readthedocs.io/en/latest/getting-started.html#a-simple-example) 
+    - [Matlab package for multi-objective optimization](https://www.mathworks.com/discovery/multiobjective-optimization.html) 
+
+#### Interactive Resources
+
+- [Policy Guide on Climate Change](https://www.planning.org/policy/guides/adopted/climatechange.htm) 
+- [New York Times interactive website for managing global tradeoffs related to climate](https://www.climateinteractive.org/media-coverage/you-fix-the-climate-new-york-times-feature-uses-climate-interactive-design-and-data/) 
+- [Web portal with information on many socioeconomic climate datasets](https://sedac.ciesin.columbia.edu/theme/climate/) 
+#### Games  
+    - [In-person role-playing games for societal planning related to climate change](https://climate-change-initiative.org/research/simulation-games) 
+    - [Role-playing video game for groups which simulates the UN climate change negotiations](http://climateinteractive.org/simulations/world-climate) 
+    - [Global strategy video game](https://store.steampowered.com/app/80200/Fate_of_the_World/)   
+    - [Tragedy of the Commons flash game](https://blossoms.mit.edu/legacy/tragedy/index.htm)
+    - [Carbon trading game night using CarbonSim](https://energy.duke.edu/events/carbon-trading-simulation)   
+
+### Events, Conferences and Journals
+
+- [Webinars, discussions, and conferences on the topic of societal-level climate action](https://www.c2es.org/events/) 
+- [United Nations Climate Summit 2019](https://www.un.org/en/climatechange/un-climate-summit-2019.shtml) 
+- [Bonn Climate Change Conference](https://unfccc.int/SB-50)
 
 ## 12. Education
 
