@@ -1,3 +1,8 @@
+
+This page presents some readings, datasets and tools that are related to sections of the "Tackling Climate Change with Machine Learning" paper, organized by section of the paper (plus general readings).
+
+If you find that we are missing some important resources, please submit them [here](https://forms.gle/BEhx2XobiyP7nNh28)!
+
 ## 0.General
 
 For an overall introduction to the topic of climate change, we provide a (non-exhaustive) list of reports, academic papers, and conference proceedings below:
