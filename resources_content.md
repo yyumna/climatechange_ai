@@ -24,7 +24,7 @@ For an overall introduction to the topic of climate change, we provide a (non-ex
 
 - [UN Climate Change E-Learning](https://unccelearn.org/course/)
 
-## 1. Electricity systems
+## 1. Electricity Systems
 
 ### Background Reading
 

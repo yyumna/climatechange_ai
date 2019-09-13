@@ -51,7 +51,7 @@ If you find that we are missing some important resources, please submit them [he
 
 <div class='card collapsible'>
   <header class='card-header collapsible-header'>
-    <p class='card-header-title'>1. Electricity systems</p>
+    <p class='card-header-title'>1. Electricity Systems</p>
   </header>
   <div class='card-content collapsible-content'>
     <div class='content collapsible-content-inner'>
