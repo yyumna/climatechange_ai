@@ -15,6 +15,12 @@ description: 'NeurIPS 2019 Workshop <br>Tackling Climate Change with Machine Lea
 
 Many in the ML community wish to take action on climate change, yet feel their skills are inapplicable. This workshop aims to show that in fact the opposite is true: while no silver bullet, **ML can be an invaluable tool both in reducing greenhouse gas emissions and in helping society adapt to the effects of climate change**. Climate change is a complex problem, for which action takes many forms - from designing smart electrical grids to tracking deforestation in satellite imagery. Many of these actions represent high-impact opportunities for real-world change, as well as being interesting problems for ML research.
 
+## Speakers
+**Jeff Dean** (Google AI)  
+**Carla Gomes** (Cornell)  
+**Felix Creutzig** (MCC Berlin, TU Berlin)  
+**Lester Mackey** (Microsoft Research, Stanford)  
+*additional speakers to be announced*
 
 ## About NeurIPS
 NeurIPS (formerly written "NIPS") is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting at or attending the main NeurIPS conference. 
@@ -28,7 +34,7 @@ In addition, a limited number of tickets will be reserved for accepted submissio
 ## About the workshop
  - Date:  Friday, December 13 or Saturday, December 14, 2019
  - Location:   Vancouver, British Columbia, Canada
- - Submission deadline:  September 11, 11:59 PM Pacific Time
+ - Submission deadline:  ~September 11, 11:59 PM Pacific Time~
  - Notification:  October 1
  - Submission website: <https://cmt3.research.microsoft.com/CCAINeurIPS2019>
  - Registration: <https://neurips.cc/Register/view-registration> ("Workshops" component)
