@@ -548,7 +548,7 @@ If you find that we are missing some important resources, please submit them [he
   <li>Harvard Project on Climate Agreements. <a href="https://www.c2g2.net/wp-content/uploads/Harvard-Project-Solar-Geo-Governance-Briefs-181126.pdf">Governance of the Deployment of Solar Geoengineering.</a></li>
   <li><a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/wcc.423">An overview of the Earth system science of geoengineering</a></li>
   <li>Irvine, P.J. <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016EF000389">Towards a comprehensive climate impacts assessment of solar geoengineering</a> (2016)</li>
-  <li>MacMartin, D.G. <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-control-053018-023725">The engineering of climate engineering</a> (2019)</li>
+  <li>MacMartin, D.G. and Kravitz, B. <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-control-053018-023725">The engineering of climate engineering</a> (2019)</li>
 </ul>
 
 <h3 id="datasets-and-tools">Datasets and Tools</h3>

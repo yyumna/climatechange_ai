@@ -326,7 +326,7 @@ Improved disease surveillance and response is an important part of adaptation --
 - Harvard Project on Climate Agreements. [Governance of the Deployment of Solar Geoengineering.](https://www.c2g2.net/wp-content/uploads/Harvard-Project-Solar-Geo-Governance-Briefs-181126.pdf)
 - [An overview of the Earth system science of geoengineering](https://onlinelibrary.wiley.com/doi/pdf/10.1002/wcc.423)
 - Irvine, P.J. [Towards a comprehensive climate impacts assessment of solar geoengineering](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016EF000389) (2016)
-- MacMartin, D.G. [The engineering of climate engineering](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-053018-023725) (2019)
+- MacMartin, D.G. and Kravitz, B. [The engineering of climate engineering](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-053018-023725) (2019)
 
 ### Datasets and Tools
 
