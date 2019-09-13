@@ -10,9 +10,6 @@ $section-headings-color: #04587B !default;
 
 $dark: black;
 
-$border-color: rgba(96, 108, 113, 0.5);
-$border: 2px solid $border-color;
-
 @import 'jekyll-theme-cayman';
 @import "bulma-scss/utilities/_all";
 @import "bulma-scss/grid/columns";
@@ -76,7 +73,7 @@ html, body {
 }
 
 .person__item {
-  border: $border;
+  border: 2px solid rgba(96, 108, 113, 0.5);
   border-radius: 0.3rem;
   padding: 1rem;
   text-align: center;
