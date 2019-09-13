@@ -18,6 +18,7 @@ $border: 2px solid $border-color;
 @import "bulma-scss/grid/columns";
 @import "bulma-scss/components/_navbar";
 @import "bulma-scss/components/_panel";
+@import "bulma-scss/components/_card";
 
 .panel ul {
   padding-left: 1.5rem;
@@ -132,53 +133,29 @@ html, body {
 }
 
 .collapsible-header {
-  border-top: $border;
-  border-bottom: $border;
-}
-
-.collapsible + .collapsible {
-  .collapsible-header {
-    border-top: none;
-  }
-}
-
-
-$collapsible-header-bg: rgba($section-headings-color, 0.1);
-$collapsible-content-bg: rgba($section-headings-color, 0.01);
-
-.collapsible-header {
-  border-left: $border;
-  border-right: $border;
   cursor: pointer;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
 
-  h2 {
+  h2, p {
     margin: 0;
   }
 
   &:hover {
-    background-color: $collapsible-header-bg;
-
-    h2 {
+    h2, p {
       text-decoration: underline;
     }
   }
 
   &:before {
     content: "+";
-    font-size: 1.5em;
-    line-height: 1.5em;
+    font-size: 1.8em;
     margin-left: 0.5em;
     margin-right: 0.5em;
     float: left; 
-    transition: transform 0.25s ease-in-out;
+    transition: transform 0.33s ease-in-out;
   }
 }
 
 .collapsible.is-expanded .collapsible-header {
-  background-color: $collapsible-header-bg;
-
   &:before {
     transform: rotate(-225deg);
   }
@@ -188,16 +165,14 @@ $collapsible-content-bg: rgba($section-headings-color, 0.01);
   max-height: 0;
   height: auto;
   overflow: hidden;
-  transition: max-height 0.25s;
-  border-left: $border;
-  border-right: $border;
-}
+  transition: max-height 0.33s;
+  padding: 0;
 
-.collapsible-content-inner {
-  padding: 1rem;
+  .collapsible-content-inner {
+    padding: 1.5rem;
+  }
 }
 
 .collapsible.is-expanded .collapsible-content {
-  border-bottom: $border;
   max-height: 10000em;
 }

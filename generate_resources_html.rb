@@ -28,12 +28,12 @@ html = sections.map do |s|
   body = lines[1..-1].join("\n")
 
   <<-HTML
-<div class='collapsible'>
-  <div class='collapsible-header'>
-    <h2>#{title}</h2>
-  </div>
-  <div class='collapsible-content'>
-    <div class='collapsible-content-inner'>
+<div class='card collapsible'>
+  <header class='card-header collapsible-header'>
+    <p class='card-header-title'>#{title}</p>
+  </header>
+  <div class='card-content collapsible-content'>
+    <div class='content collapsible-content-inner'>
 
 #{to_html(body)}
 

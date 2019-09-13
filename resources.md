@@ -6,12 +6,12 @@ description: 'Climate Change AI Resources'
 This page presents some readings, datasets and tools that are related to sections of the "Tackling Climate Change with Machine Learning" paper, organized by section of the paper (plus general readings).
 
 If you find that we are missing some important resources, please submit them [here](https://forms.gle/BEhx2XobiyP7nNh28)!
-<div class='collapsible'>
-  <div class='collapsible-header'>
-    <h2>0. General</h2>
-  </div>
-  <div class='collapsible-content'>
-    <div class='collapsible-content-inner'>
+<div class='card collapsible'>
+  <header class='card-header collapsible-header'>
+    <p class='card-header-title'>0. General</p>
+  </header>
+  <div class='card-content collapsible-content'>
+    <div class='content collapsible-content-inner'>
 
 
 <p>For an overall introduction to the topic of climate change, we provide a (non-exhaustive) list of reports, academic papers, and conference proceedings below:</p>
@@ -49,12 +49,12 @@ If you find that we are missing some important resources, please submit them [he
   </div>
 </div>
 
-<div class='collapsible'>
-  <div class='collapsible-header'>
-    <h2>1. Electricity systems</h2>
-  </div>
-  <div class='collapsible-content'>
-    <div class='collapsible-content-inner'>
+<div class='card collapsible'>
+  <header class='card-header collapsible-header'>
+    <p class='card-header-title'>1. Electricity systems</p>
+  </header>
+  <div class='card-content collapsible-content'>
+    <div class='content collapsible-content-inner'>
 
 
 <h3 id="background-reading">Background Reading</h3>
@@ -202,12 +202,12 @@ If you find that we are missing some important resources, please submit them [he
   </div>
 </div>
 
-<div class='collapsible'>
-  <div class='collapsible-header'>
-    <h2>2. Transportation</h2>
-  </div>
-  <div class='collapsible-content'>
-    <div class='collapsible-content-inner'>
+<div class='card collapsible'>
+  <header class='card-header collapsible-header'>
+    <p class='card-header-title'>2. Transportation</p>
+  </header>
+  <div class='card-content collapsible-content'>
+    <div class='content collapsible-content-inner'>
 
 
 <h3 id="background-reading">Background Reading</h3>
@@ -233,12 +233,12 @@ If you find that we are missing some important resources, please submit them [he
   </div>
 </div>
 
-<div class='collapsible'>
-  <div class='collapsible-header'>
-    <h2>3. Buildings and cities</h2>
-  </div>
-  <div class='collapsible-content'>
-    <div class='collapsible-content-inner'>
+<div class='card collapsible'>
+  <header class='card-header collapsible-header'>
+    <p class='card-header-title'>3. Buildings and cities</p>
+  </header>
+  <div class='card-content collapsible-content'>
+    <div class='content collapsible-content-inner'>
 
 
 <h3 id="background-reading">Background Reading</h3>
@@ -300,12 +300,12 @@ If you find that we are missing some important resources, please submit them [he
   </div>
 </div>
 
-<div class='collapsible'>
-  <div class='collapsible-header'>
-    <h2>4. Industry</h2>
-  </div>
-  <div class='collapsible-content'>
-    <div class='collapsible-content-inner'>
+<div class='card collapsible'>
+  <header class='card-header collapsible-header'>
+    <p class='card-header-title'>4. Industry</p>
+  </header>
+  <div class='card-content collapsible-content'>
+    <div class='content collapsible-content-inner'>
 
 
 <h3 id="background-reading">Background Reading</h3>
@@ -341,12 +341,12 @@ If you find that we are missing some important resources, please submit them [he
   </div>
 </div>
 
-<div class='collapsible'>
-  <div class='collapsible-header'>
-    <h2>5. Farms and Forests</h2>
-  </div>
-  <div class='collapsible-content'>
-    <div class='collapsible-content-inner'>
+<div class='card collapsible'>
+  <header class='card-header collapsible-header'>
+    <p class='card-header-title'>5. Farms and Forests</p>
+  </header>
+  <div class='card-content collapsible-content'>
+    <div class='content collapsible-content-inner'>
 
 
 <h3 id="background-reading">Background Reading</h3>
@@ -381,12 +381,12 @@ If you find that we are missing some important resources, please submit them [he
   </div>
 </div>
 
-<div class='collapsible'>
-  <div class='collapsible-header'>
-    <h2>6. CO2 Removal</h2>
-  </div>
-  <div class='collapsible-content'>
-    <div class='collapsible-content-inner'>
+<div class='card collapsible'>
+  <header class='card-header collapsible-header'>
+    <p class='card-header-title'>6. CO2 Removal</p>
+  </header>
+  <div class='card-content collapsible-content'>
+    <div class='content collapsible-content-inner'>
 
 
 <h3 id="background-reading">Background Reading</h3>
@@ -413,12 +413,12 @@ If you find that we are missing some important resources, please submit them [he
   </div>
 </div>
 
-<div class='collapsible'>
-  <div class='collapsible-header'>
-    <h2>7. Climate Prediction</h2>
-  </div>
-  <div class='collapsible-content'>
-    <div class='collapsible-content-inner'>
+<div class='card collapsible'>
+  <header class='card-header collapsible-header'>
+    <p class='card-header-title'>7. Climate Prediction</p>
+  </header>
+  <div class='card-content collapsible-content'>
+    <div class='content collapsible-content-inner'>
 
 
 <h3 id="background-reading">Background Reading</h3>
@@ -468,12 +468,12 @@ If you find that we are missing some important resources, please submit them [he
   </div>
 </div>
 
-<div class='collapsible'>
-  <div class='collapsible-header'>
-    <h2>8. Societal Impacts</h2>
-  </div>
-  <div class='collapsible-content'>
-    <div class='collapsible-content-inner'>
+<div class='card collapsible'>
+  <header class='card-header collapsible-header'>
+    <p class='card-header-title'>8. Societal Impacts</p>
+  </header>
+  <div class='card-content collapsible-content'>
+    <div class='content collapsible-content-inner'>
 
 
 <h3 id="background-reading">Background Reading</h3>
@@ -534,12 +534,12 @@ If you find that we are missing some important resources, please submit them [he
   </div>
 </div>
 
-<div class='collapsible'>
-  <div class='collapsible-header'>
-    <h2>9. Solar Geoengineering</h2>
-  </div>
-  <div class='collapsible-content'>
-    <div class='collapsible-content-inner'>
+<div class='card collapsible'>
+  <header class='card-header collapsible-header'>
+    <p class='card-header-title'>9. Solar Geoengineering</p>
+  </header>
+  <div class='card-content collapsible-content'>
+    <div class='content collapsible-content-inner'>
 
 
 <h3 id="background-reading">Background Reading</h3>
@@ -572,12 +572,12 @@ If you find that we are missing some important resources, please submit them [he
   </div>
 </div>
 
-<div class='collapsible'>
-  <div class='collapsible-header'>
-    <h2>10. Tools for Individuals</h2>
-  </div>
-  <div class='collapsible-content'>
-    <div class='collapsible-content-inner'>
+<div class='card collapsible'>
+  <header class='card-header collapsible-header'>
+    <p class='card-header-title'>10. Tools for Individuals</p>
+  </header>
+  <div class='card-content collapsible-content'>
+    <div class='content collapsible-content-inner'>
 
 
 <h3 id="background-reading">Background Reading</h3>
@@ -626,12 +626,12 @@ If you find that we are missing some important resources, please submit them [he
   </div>
 </div>
 
-<div class='collapsible'>
-  <div class='collapsible-header'>
-    <h2>11. Tools for Society</h2>
-  </div>
-  <div class='collapsible-content'>
-    <div class='collapsible-content-inner'>
+<div class='card collapsible'>
+  <header class='card-header collapsible-header'>
+    <p class='card-header-title'>11. Tools for Society</p>
+  </header>
+  <div class='card-content collapsible-content'>
+    <div class='content collapsible-content-inner'>
 
 
 <h3 id="background-reading">Background Reading</h3>
@@ -732,12 +732,12 @@ If you find that we are missing some important resources, please submit them [he
   </div>
 </div>
 
-<div class='collapsible'>
-  <div class='collapsible-header'>
-    <h2>12. Education</h2>
-  </div>
-  <div class='collapsible-content'>
-    <div class='collapsible-content-inner'>
+<div class='card collapsible'>
+  <header class='card-header collapsible-header'>
+    <p class='card-header-title'>12. Education</p>
+  </header>
+  <div class='card-content collapsible-content'>
+    <div class='content collapsible-content-inner'>
 
 
 <h3 id="background-reading">Background Reading</h3>
@@ -784,12 +784,12 @@ If you find that we are missing some important resources, please submit them [he
   </div>
 </div>
 
-<div class='collapsible'>
-  <div class='collapsible-header'>
-    <h2>13. Finance</h2>
-  </div>
-  <div class='collapsible-content'>
-    <div class='collapsible-content-inner'>
+<div class='card collapsible'>
+  <header class='card-header collapsible-header'>
+    <p class='card-header-title'>13. Finance</p>
+  </header>
+  <div class='card-content collapsible-content'>
+    <div class='content collapsible-content-inner'>
 
 
 <h3 id="background-reading">Background Reading</h3>
