@@ -34,7 +34,7 @@ In addition, a limited number of tickets will be reserved for accepted submissio
 ## About the workshop
  - Date:  Friday, December 13 or Saturday, December 14, 2019
  - Location:   Vancouver, British Columbia, Canada
- - Submission deadline:  ~September 11, 11:59 PM Pacific Time~
+ - Submission deadline:  <s>September 11, 11:59 PM Pacific Time</s>
  - Notification:  October 1
  - Submission website: <https://cmt3.research.microsoft.com/CCAINeurIPS2019>
  - Registration: <https://neurips.cc/Register/view-registration> ("Workshops" component)
