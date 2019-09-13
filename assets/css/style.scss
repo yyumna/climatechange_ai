@@ -191,17 +191,6 @@ $collapsible-content-bg: rgba($section-headings-color, 0.01);
   transition: max-height 0.25s;
   border-left: $border;
   border-right: $border;
-
-  h4,h5,h6 {
-    margin: 0;
-    margin-bottom: 5px;
-  }
-
-  h3 {
-    border-bottom: 1px solid $border-color;
-    margin: 0;
-    margin-bottom: 1rem;
-  }
 }
 
 .collapsible-content-inner {
