@@ -10,6 +10,9 @@ $section-headings-color: #04587B !default;
 
 $dark: black;
 
+$border-color: rgba(96, 108, 113, 0.5);
+$border: 2px solid $border-color;
+
 @import 'jekyll-theme-cayman';
 @import "bulma-scss/utilities/_all";
 @import "bulma-scss/grid/columns";
@@ -72,7 +75,7 @@ html, body {
 }
 
 .person__item {
-  border: 2px solid rgba(96, 108, 113, 0.75);
+  border: $border;
   border-radius: 0.3rem;
   padding: 1rem;
   text-align: center;
@@ -126,4 +129,86 @@ html, body {
   display: block;
   height: auto;
   box-shadow: 0 2px 3px 0 rgba(0,0,0,.15);
+}
+
+.collapsible-header {
+  border-top: $border;
+  border-bottom: $border;
+}
+
+.collapsible + .collapsible {
+  .collapsible-header {
+    border-top: none;
+  }
+}
+
+
+$collapsible-header-bg: rgba($section-headings-color, 0.1);
+$collapsible-content-bg: rgba($section-headings-color, 0.01);
+
+.collapsible-header {
+  border-left: $border;
+  border-right: $border;
+  cursor: pointer;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+
+  h2 {
+    margin: 0;
+  }
+
+  &:hover {
+    background-color: $collapsible-header-bg;
+
+    h2 {
+      text-decoration: underline;
+    }
+  }
+
+  &:before {
+    content: "+";
+    font-size: 1.5em;
+    line-height: 1.5em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    float: left; 
+    transition: transform 0.25s ease-in-out;
+  }
+}
+
+.collapsible.is-expanded .collapsible-header {
+  background-color: $collapsible-header-bg;
+
+  &:before {
+    transform: rotate(-225deg);
+  }
+}
+
+.collapsible-content {
+  max-height: 0;
+  height: auto;
+  overflow: hidden;
+  transition: max-height 0.25s;
+  border-left: $border;
+  border-right: $border;
+
+  h4,h5,h6 {
+    margin: 0;
+    margin-bottom: 5px;
+  }
+
+  h3 {
+    border-bottom: 1px solid $border-color;
+    margin: 0;
+    margin-bottom: 1rem;
+  }
+}
+
+.collapsible-content-inner {
+  padding: 1rem;
+}
+
+.collapsible.is-expanded .collapsible-content {
+  border-bottom: $border;
+  max-height: 10000em;
 }
