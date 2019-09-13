@@ -18,26 +18,24 @@ If you find that we are missing some important resources, please submit them [he
 
 <h3 id="background-reading">Background Reading</h3>
 
-<h4 id="high-level-and-sometimes-classic-academic-references">10 high-level, and sometimes classic, academic references</h4>
-
-<h4 id="on-why-acting-against-climate-change">On why acting against climate change:</h4>
+<h4 id="on-reasons-for-acting-against-climate-change">On reasons for acting against climate change:</h4>
 
 <ul>
-  <li>Steffen, Will, et al. “Trajectories of the Earth System in the Anthropocene.” Proceedings of the National Academy of Sciences (2018)</li>
-  <li>Rockström, Johan, et al. “A safe operating space for humanity.” Nature (2009)</li>
-  <li>Lenton, Timothy M., et al. “Tipping elements in the Earth’s climate system.” Proceedings of the National Academy of Sciences (2008)</li>
-  <li>Mann, Michael E. et al. “Global-scale temperature patterns and climate forcing over the past six centuries.” Nature (1998)</li>
+  <li>Steffen, W., et al. <a href="https://www.pnas.org/content/pnas/115/33/8252.full.pdf">Trajectories of the Earth System in the Anthropocene.</a> (2018)</li>
+  <li>Rockström, J., et al. <a href="https://www.nature.com/articles/461472a">A safe operating space for humanity.</a> (2009)</li>
+  <li>Lenton, T. M., et al. <a href="https://www.pnas.org/content/pnas/105/6/1786.full.pdf">Tipping elements in the Earth’s climate system.</a> (2008)</li>
+  <li>Mann, M.E. et al. <a href="https://www.nature.com/articles/33859">Global-scale temperature patterns and climate forcing over the past six centuries.</a> (1998)</li>
 </ul>
 
 <h4 id="on-how-to-tackle-climate-change">On how to tackle climate change:</h4>
 
 <ul>
-  <li>Davis, Steven J., et al. “Net-zero emissions energy systems.” Science (2018)</li>
-  <li>Geels, Frank W., et al. “Sociotechnical transitions for deep decarbonization.” Science (2017)</li>
-  <li>Creutzig, Felix, et al. “Towards demand-side solutions for mitigating climate change.” Nature Climate Change  (2018)</li>
-  <li>Sterner, Thomas, et al. “Policy design for the Anthropocene.” Nature Sustainability (2019)</li>
-  <li>Stern, Nicholas. “The economics of climate change.” American Economic Review (2008)</li>
-  <li>High-Level Commission on Carbon Prices. “Report of the High-Level Commission on Carbon Prices.” World Bank (2017)</li>
+  <li>Davis, S.J., et al. <a href="https://science.sciencemag.org/content/sci/360/6396/eaas9793.full.pdf">Net-zero emissions energy systems.</a> (2018)</li>
+  <li>Geels, F. W., et al. <a href="http://sro.sussex.ac.uk/id/eprint/70398/3/Geels-et-al-Accelerating%20transitions%20SECOND%20SUBMISSION%20FINAL.pdf">Sociotechnical transitions for deep decarbonization.</a> (2017)</li>
+  <li>Creutzig, F.,, et al. <a href="https://www.nature.com/articles/s41558-018-0121-1">Towards demand-side solutions for mitigating climate change.</a> (2018)</li>
+  <li>Sterner, T., et al. <a href="https://www.nature.com/articles/s41893-018-0194-x">Policy design for the Anthropocene.</a> (2019)</li>
+  <li>Stern, N. <a href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.98.2.1">The economics of climate change.</a> (2008)</li>
+  <li>High-Level Commission on Carbon Prices. <a href="https://static1.squarespace.com/static/54ff9c5ce4b0a53decccfb4c/t/59b7f2409f8dce5316811916/1505227332748/CarbonPricing_FullReport.pdf">Report of the High-Level Commission on Carbon Prices.</a> (2017)</li>
 </ul>
 
 <h3 id="interactive-resources">Interactive Resources</h3>
@@ -64,16 +62,16 @@ If you find that we are missing some important resources, please submit them [he
 <h4 id="papers-and-primers">Papers and primers</h4>
 
 <ul>
-  <li><a href="https://www.ipcc.ch/report/ar5/wg3/energy-systems/">IPCC chapter on energy systems</a> </li>
+  <li><a href="https://www.ipcc.ch/report/ar5/wg3/energy-systems/">IPCC chapter on energy systems</a></li>
   <li><a href="https://www.ferc.gov/market-oversight/guide/energy-primer.pdf">Energy Primer by US Federal Energy Regulatory Commission</a></li>
 </ul>
 
 <h4 id="textbooks">Textbooks</h4>
 
 <ul>
-  <li>Alexandra Von Meier. Electric Power Systems: A Conceptual Introduction. Wiley Online Library, 2006.</li>
-  <li>Allen J Wood, Bruce F Wollenberg, and Gerald B Sheblé. Power Generation, Operation, and Control. John Wiley &amp; Sons, 2013.</li>
-  <li>Daniel Sadi Kirschen and Goran Strbac. Fundamentals of Power System Economics, volume 1.  Wiley Online Library, 2004.</li>
+  <li>Von Meier, A. <a href="https://www.personal.psu.edu/sab51/vls/vonmeier.pdf">Electric Power Systems: A Conceptual Introduction.</a> (2006)</li>
+  <li>Wood, A.J. et al., <a href="https://www.wiley.com/en-ca/Power+Generation%2C+Operation%2C+and+Control%2C+3rd+Edition-p-9780471790556">Power Generation, Operation, and Control.</a> (2013)</li>
+  <li>Kirschen,D D.S., and Strbac, G. <a href="https://www.academia.edu/8171173/Fundamentals_of_power_system_economics">Fundamentals of Power System Economics, Volume 1</a> (2004).</li>
 </ul>
 
 <h4 id="subtopic-specific-resources">Subtopic-specific resources:</h4>
@@ -83,7 +81,7 @@ If you find that we are missing some important resources, please submit them [he
   <li>Accelerated science: <em>coming soon</em></li>
 </ul>
 
-<h3 id="datasets-and-tools">Datasets and Tools </h3>
+<h3 id="datasets-and-tools">Datasets and Tools</h3>
 
 <h4 id="variable-generation-and-demand-forecasting">Variable Generation and Demand Forecasting</h4>
 
@@ -99,28 +97,28 @@ If you find that we are missing some important resources, please submit them [he
   <li><a href="https://materialsproject.org/">The Materials Project</a></li>
   <li><a href="http://www2.fiz-karlsruhe.de/icsd_home.html">Inorganic Crystal Structure Database</a></li>
   <li><a href="https://www.cas.org/products/scifinder">SciFinder (paid)</a></li>
-  <li><a href="https://archive.ics.uci.edu/ml/datasets/">UCI Machine Learning Repository datasets, e.g. “Concrete Compressive Strength”</a> </li>
+  <li><a href="https://archive.ics.uci.edu/ml/datasets/">UCI Machine Learning Repository datasets, e.g. “Concrete Compressive Strength”</a></li>
 </ul>
 
 <h4 id="reducing-life-cycle-fossil-fuel-emissions">Reducing Life-cycle Fossil Fuel Emissions</h4>
 
 <ul>
   <li><a href="https://cds.climate.copernicus.eu/cdsapp#!/dataset/satellite-methane?tab=overview">Global methane data</a></li>
-  <li>Also see satellite imagery listings under low-data settings</li>
+  <li><em>Also see satellite imagery listings under low-data settings</em></li>
 </ul>
 
 <h4 id="modeling-emissions">Modeling Emissions</h4>
 
 <ul>
   <li><a href="https://catalyst.coop/pudl/">Public Utility Data Liberation (PUDL) Project</a></li>
-  <li><a href="https://ampd.epa.gov/ampd/">US Environmental Protection Agency’s Continuous Emissions Monitoring data</a> or <a href="ftp://newftp.epa.gov/DMDnLoad/emissions/">ftp://newftp.epa.gov/DMDnLoad/emissions/</a> </li>
+  <li><a href="https://ampd.epa.gov/ampd/">US Environmental Protection Agency’s Continuous Emissions Monitoring data</a> or <a href="ftp://newftp.epa.gov/DMDnLoad/emissions/">ftp://newftp.epa.gov/DMDnLoad/emissions/</a></li>
   <li><a href="https://github.com/tmrowco/electricitymap-contrib#data-sources">ElectricityMap data source</a></li>
 </ul>
 
 <h4 id="low-data-settings">Low-data Settings:</h4>
 
 <ul>
-  <li>High-resolution RGB satellite images (for visual predictions): 
+  <li><strong>High-resolution RGB satellite images (for visual predictions)</strong>:
     <ul>
       <li>Public
         <ul>
@@ -142,7 +140,7 @@ If you find that we are missing some important resources, please submit them [he
       </li>
     </ul>
   </li>
-  <li>Multispectral satellite images (5-13 visible and infrared bands):
+  <li><strong>Multispectral satellite images (5-13 visible and infrared bands)</strong>:
     <ul>
       <li>Public
         <ul>
@@ -157,15 +155,14 @@ If you find that we are missing some important resources, please submit them [he
       </li>
     </ul>
   </li>
-  <li>Hyperspectral satellite images (up to a few hundred visible and infrared bands):</li>
-</ul>
-
-<p>See Table 1 of this <a href="https://www.mdpi.com/2072-4292/10/2/157/pdf">survey of hyperspectral earth observation satellites</a> for comparisons between sources.</p>
-
-<ul>
-  <li>Public
+  <li><strong>Hyperspectral satellite images (up to a few hundred visible and infrared bands)</strong>:
     <ul>
-      <li><a href="https://earthexplorer.usgs.gov/">United States Geological Survey (Hyperion data)</a></li>
+      <li>See Table 1 of this <a href="https://www.mdpi.com/2072-4292/10/2/157/pdf">survey of hyperspectral earth observation satellites</a> for comparisons between sources.</li>
+      <li>Public
+        <ul>
+          <li><a href="https://earthexplorer.usgs.gov/">United States Geological Survey (Hyperion data)</a></li>
+        </ul>
+      </li>
     </ul>
   </li>
 </ul>
@@ -216,27 +213,17 @@ If you find that we are missing some important resources, please submit them [he
 <h3 id="background-reading">Background Reading</h3>
 
 <ul>
-  <li>
-    <p><a href="https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_chapter8.pdf">IPCC AR5 Chapter on Transportation</a></p>
-  </li>
-  <li>
-    <p>R. Schaeffer, R. Sims, J. Corfee-Morlot, F. Creutzig, X. Cruz-Nunez, D. Dimitriu, and M. et al. D’Agosto. Transport, in IPCC, Working Group III contribution to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, Climate Change 2014: Mitigation of Climate Change, chapter 8. Geneva (O. Edenhofer, R. Pichs-Madruga, Y. Sokona, E. Farahani, S. Kadner, K. Seyboth, A. Adler, I. Baum, S. Brunner, P. Eickemeier, B. Kriemann, J. Savolainen, S. Schlömer, C. von Stechow, T. Zwickel, J.C. Minx, (eds.)). Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 2014.</p>
-  </li>
-  <li>
-    <p>Creutzig, F., Franzen, M., Moeckel, R., Heinrichs, D., Nagel, K., Nieland, S., &amp; Weisz, H. (2019). <a href="https://www.cambridge.org/core/journals/global-sustainability/article/leveraging-digitalization-for-sustainability-in-urban-transport/9322C52E379793B7C4A41682EC99DB6A">Leveraging digitalization for sustainability in urban transport.</a> Global Sustainability,2, E14. doi:10.1017/sus.2019.11</p>
-  </li>
-  <li>
-    <p>Lynn H Kaack, Parth Vaishnav, M Granger Morgan, Inês L Azevedo, and Srijana Rai.<a href="https://iopscience.iop.org/article/10.1088/1748-9326/aad56c/meta">Decarbonizing intraregional freight systems with a focus on modal shift.</a> Environmental Research Letters, 13(8):083001, 2018.</p>
-  </li>
-  <li>
-    <p>Jacob Teter, Pierpaolo Cazzola, and Timur Gül. <a href="https://www.iea.org/publications/freepublications/publication/TheFutureofTrucksImplicationsforEnergyandtheEnvironment.pdf">The Future of Trucks</a> International Energy Agency, 2017.</p>
-  </li>
+  <li><a href="https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_chapter8.pdf">IPCC AR5 Chapter on Transportation</a></li>
+  <li>Schaeffer, R. et al. <a href="https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_chapter8.pdf">Transport</a> (Fifth Assessment Report of the Intergovernmental Panel on Climate Change) (2014)</li>
+  <li>Creutzig, F. et al. <a href="https://www.cambridge.org/core/journals/global-sustainability/article/leveraging-digitalization-for-sustainability-in-urban-transport/9322C52E379793B7C4A41682EC99DB6A">Leveraging digitalization for sustainability in urban transport.</a> (2019)</li>
+  <li>Kaack L. et al. <a href="https://iopscience.iop.org/article/10.1088/1748-9326/aad56c/meta">Decarbonizing intraregional freight systems with a focus on modal shift.</a> 2018.</li>
+  <li>Teter, J. et al. <a href="https://www.iea.org/publications/freepublications/publication/TheFutureofTrucksImplicationsforEnergyandtheEnvironment.pdf">The Future of Trucks</a> (2017)</li>
 </ul>
 
 <h3 id="events-conferences-and-journals">Events, Conferences and Journals</h3>
 
 <ul>
-  <li><a href="http://www.trb.org/Main/Home.aspx">Transportation Research Board</a>(conference and journal, division of the National Academy of Sciences)</li>
+  <li><a href="http://www.trb.org/Main/Home.aspx">Transportation Research Board</a>(conference and journal)</li>
   <li><a href="https://www.itf-oecd.org/decarbonising-transport">International Transport Forum</a> (inter-governmental organisation)</li>
   <li><a href="https://transportenergy.org">International Transport Energy Modeling (iTEM)</a>  (convenes members from the transport-energy modelling community)</li>
 </ul>
@@ -256,21 +243,21 @@ If you find that we are missing some important resources, please submit them [he
 
 <h3 id="background-reading">Background Reading</h3>
 
-<h4 id="ipcc-chapters">IPCC Chapters </h4>
+<h4 id="ipcc-chapters">IPCC Chapters</h4>
 
 <ul>
-  <li>Lucon O., D. Ürge-Vorsatz, A. Zain Ahmed, H. Akbari, P. Bertoldi, L. F. Cabeza, N. Eyre, A. Gadgil, L. D. D. Harvey, Y. Jiang, E. Liphoto, S. Mirasgedis, S. Murakami, J. Parikh, C. Pyke, and M. V. Vilariño. “Buildings.” In: Climate Change 2014: Mitigation of Climate Change. Contribution of Working Group III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (Edenhofer, O., R. Pichs-Madruga, Y. Sokona, E. Farahani, S. Kadner, K. Seyboth, A. Adler, I. Baum, S. Brunner, P. Eickemeier, B. Kriemann, J. Savolainen, S. Schlömer, C. von Stechow, T. Zwickel and J.C. Minx (eds.)). (2014)</li>
-  <li>Seto, K. C., Dhakal, S., Bigio, A., Blanco, H., Delgado, G. C., Dewar, D., … Ramaswami, A.  “Human Settlements, Infrastructure and Spatial Planning”. In: Id. (2014)</li>
+  <li>Lucon, O. et. al <a href="https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_chapter9.pdf">Buildings</a>  (Fifth Assessment Report of the Intergovernmental Panel on Climate Change) (2014)</li>
+  <li>Seto, K. et al. <a href="https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_chapter12.pdf">Human Settlements, Infrastructure and Spatial Planning</a> (Fifth Assessment Report of the Intergovernmental Panel on Climate Change) (2014)</li>
 </ul>
 
 <h4 id="academic-perspectives">Academic perspectives</h4>
 
 <ul>
-  <li>Bai, Xuemei, et al. “Six research priorities for cities and climate change.” Nature (2018)</li>
-  <li>Seto, Karen C., et al. “Sustainability in an urbanizing planet.” PNAS (2017)</li>
-  <li>Seto, Karen C., et al. “Carbon lock-in: types, causes, and policy implications.” Annual Review of Environment and Resources 41 (2016)</li>
-  <li>Nagendra, Harini, et al. “The urban south and the predicament of global sustainability.” Nature Sustainability (2018)</li>
-  <li>Hittinger, Eric, and Paulina Jaramillo. “Internet of Things: Energy boon or bane?.” Science (2019)</li>
+  <li>Bai, X., et al. <a href="https://www.nature.com/articles/d41586-018-02409-z">Six research priorities for cities and climate change.</a> (2018)</li>
+  <li>Seto, K C., et al. <a href="https://www.pnas.org/content/pnas/114/34/8935.full.pdf">Sustainability in an urbanizing planet.</a> (2017)</li>
+  <li>Seto, K,C., et al. <a href="https://www.semanticscholar.org/paper/Carbon-Lock-In%3A-Types%2C-Causes%2C-and-Policy-Seto-Davis/4ff57e5d97b44f8ef06e71fc34cd945cb2f0629a">Carbon lock-in: types, causes, and policy implications.</a> (2016)</li>
+  <li>Nagendra, H,, et al. <a href="https://www.nature.com/articles/s41893-018-0101-5">The urban south and the predicament of global sustainability.</a> (2018)</li>
+  <li>Hittinger, E,, and Jaramillo, P. <a href="https://science.sciencemag.org/content/364/6438/326.full.pdf">Internet of Things: Energy boon or bane?</a> (2019)</li>
 </ul>
 
 <h4 id="journalistic-perspectives">Journalistic perspectives</h4>
@@ -281,27 +268,30 @@ If you find that we are missing some important resources, please submit them [he
 
 <h3 id="datasets-and-tools">Datasets and Tools</h3>
 
-<h4 id="buildings-energy-use">Buildings energy use.</h4>
+<h4 id="buildings-energy-use">Buildings Energy Use</h4>
 
 <ul>
-  <li><a href="https://data.cityofnewyork.us/City-Government/NYC-Municipal-Building-Energy-Benchmarking-Results/hpid-63r5">New York City lists municipal buildings over 10,000 square feet identifying each building’s energy intensity, and available GHG emissions for the calendar years 2010-2014</a></li>
+  <li><a href="https://data.cityofnewyork.us/City-Government/NYC-Municipal-Building-Energy-Benchmarking-Results/hpid-63r5">New York City  municipal buildings</a> for buildings over 10,000 square feet, identifying each building’s energy intensity, and available GHG emissions for the calendar years 2010-2014.</li>
   <li><a href="https://catalog.data.gov/dataset/commercial-buildings-energy-consumption-survey">The Commercial Buildings Energy Consumption Survey (CBECS)</a> is a national sample survey that collects information on the stock of U.S. commercial buildings, their energy-related building characteristics, and their energy consumption and expenditures.</li>
 </ul>
 
-<h4 id="city-metabolism">City metabolism.</h4>
+<h4 id="city-metabolism">City Metabolism</h4>
 
-<p>The ‘’metabolism’’ of a city includes the electricity used, waste generated, and GHG emitted. 
-- Metabolism data for 150 cities is listed at <a href="https://metabolismofcities.org/resources/data/datasets">https://metabolismofcities.org/resources/data/datasets</a>. 
-- The China Emission Accounts &amp; Datasets provides energy, emission and socio-economic accounting inventories for China <a href="http://www.ceads.net/">https:/ceads.net</a>.
-- First attempts of global databases on cities emissions and relevant ancillary metrics include <a href="https://www.nature.com/articles/sdata2018280">https://www.nature.com/articles/sdata2018280</a>.</p>
+<p>The ‘’metabolism’’ of a city includes the electricity used, waste generated, and GHG emitted.</p>
 
-<h4 id="urban-land-use-infrastructure-data">Urban land use, infrastructure data.</h4>
+<ul>
+  <li>Metabolism data for 150 cities is listed at <a href="https://metabolismofcities.org/resources/data/datasets">https://metabolismofcities.org/resources/data/datasets</a>.</li>
+  <li>The China Emission Accounts &amp; Datasets provides energy, emission and socio-economic accounting inventories for China <a href="http://www.ceads.net/">https:/ceads.net</a>.</li>
+  <li>First attempts of global databases on cities emissions and relevant ancillary metrics include <a href="https://www.nature.com/articles/sdata2018280">https://www.nature.com/articles/sdata2018280</a>.</li>
+</ul>
+
+<h4 id="urban-land-use-infrastructure-data">Urban Land Use, Infrastructure Data</h4>
 
 <ul>
   <li><a href="https://www.openstreetmap.org/">OpenStreetMap</a> is a cooperative alternative to Google Maps where all the data is open access.</li>
   <li><a href="http://atlasofurbanexpansion.org/">NYU’s Atlas of Urban Expansion</a> contains historical data on 200 cities worldwide.</li>
-  <li><a href="http://www.citygmlwiki.org/index.php?title=Open_Data_Initiatives">Open 3D models</a> are available for a few cities. </li>
-  <li><a href="https://land.copernicus.eu/local/urban-atlas">The Urban Atlas of the European Union agency Copernicus</a> includes information on urban land use types. </li>
+  <li><a href="http://www.citygmlwiki.org/index.php?title=Open_Data_Initiatives">Open 3D models</a> are available for a few cities.</li>
+  <li><a href="https://land.copernicus.eu/local/urban-atlas">The Urban Atlas of the European Union agency Copernicus</a> includes information on urban land use types.</li>
   <li><a href="http://episcope.eu/building-typology/overview">The TABULA project</a> combines data on building types across all of Europe.</li>
 </ul>
 
@@ -321,10 +311,10 @@ If you find that we are missing some important resources, please submit them [he
 <h3 id="background-reading">Background Reading</h3>
 
 <ul>
-  <li><a href="https://www.sciencedirect.com/science/article/pii/S0160412003002459">Intro to life-cycle analysis</a></li>
-  <li><a href="https://docs.google.com/a/google.com/viewer?url=www.google.com/about/datacenters/efficiency/internal/assets/machine-learning-applicationsfor-datacenter-optimization-finalv2.pdf">Google’s white paper on ML for data center optimization</a></li>
-  <li><a href="http://scholar.google.com/scholar_url?url=http://www.madr.ro/docs/ind-alimentara/risipa_alimentara/presentation_food_waste.pdf&amp;hl=en&amp;sa=X&amp;scisig=AAGBfm2VYTRqgnFJYpHaUwXt7KIjTDiQkQ&amp;nossl=1&amp;oi=scholarr">Intro to food waste</a> </li>
-  <li><a href="https://en.wikipedia.org/wiki/Industry_4.0">Intro to Industry 4.0</a> </li>
+  <li>Rebitzer, G. et al. <a href="https://www.sciencedirect.com/science/article/pii/S0160412003002459">Intro to life-cycle analysis</a> (2004)</li>
+  <li>Gao, J. et al. <a href="https://docs.google.com/a/google.com/viewer?url=www.google.com/about/datacenters/efficiency/internal/assets/machine-learning-applicationsfor-datacenter-optimization-finalv2.pdf">Google’s white paper on ML for data center optimization</a></li>
+  <li>Gustavsson, J. et al. <a href="http://www.madr.ro/docs/ind-alimentara/risipa_alimentara/presaentation_food_waste.pdf">Intro to food waste</a> (2011)</li>
+  <li>Wikipedia - <a href="https://en.wikipedia.org/wiki/Industry_4.0">Intro to Industry 4.0</a></li>
 </ul>
 
 <h3 id="datasets-and-tools">Datasets and Tools</h3>
@@ -335,15 +325,15 @@ If you find that we are missing some important resources, please submit them [he
   <li><a href="https://materialsproject.org/">The Materials Project</a></li>
   <li><a href="http://www2.fiz-karlsruhe.de/icsd_home.html">Inorganic Crystal Structure Database</a></li>
   <li><a href="https://www.cas.org/products/scifinder">SciFinder (paid)</a></li>
-  <li><a href="https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength">UCI Machine Learning Repository datasets, e.g. “Concrete Compressive Strength”</a> </li>
+  <li><a href="https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength">UCI Machine Learning Repository datasets, e.g. “Concrete Compressive Strength”</a></li>
 </ul>
 
 <h3 id="events-conferences-and-journals">Events, Conferences and Journals</h3>
 
 <ul>
-  <li><a href="https://www.sciencedirect.com/journal/journal-of-cleaner-production">Journal of Cleaner Production</a> </li>
+  <li><a href="https://www.sciencedirect.com/journal/journal-of-cleaner-production">Journal of Cleaner Production</a></li>
   <li><a href="https://www.springer.com/engineering/industrial+management/journal/170">Industrial Management Journal</a></li>
-  <li><a href="https://www.journals.elsevier.com/energy-and-buildings">Energy and Buildings</a> </li>
+  <li><a href="https://www.journals.elsevier.com/energy-and-buildings">Energy and Buildings</a></li>
 </ul>
 
 
@@ -353,7 +343,7 @@ If you find that we are missing some important resources, please submit them [he
 
 <div class='collapsible'>
   <div class='collapsible-header'>
-    <h2>5. Farms and Forests </h2>
+    <h2>5. Farms and Forests</h2>
   </div>
   <div class='collapsible-content'>
     <div class='collapsible-content-inner'>
@@ -393,7 +383,7 @@ If you find that we are missing some important resources, please submit them [he
 
 <div class='collapsible'>
   <div class='collapsible-header'>
-    <h2>6. CO2 Removal </h2>
+    <h2>6. CO2 Removal</h2>
   </div>
   <div class='collapsible-content'>
     <div class='collapsible-content-inner'>
@@ -402,10 +392,10 @@ If you find that we are missing some important resources, please submit them [he
 <h3 id="background-reading">Background Reading</h3>
 
 <ul>
-  <li>Committee on Developing a Research Agenda for Carbon Dioxide Removal and Reliable Sequestration et al. <a href="https://www.nap.edu/catalog/25259">Negative Emissions Technologies and Reliable Sequestration: A Research Agenda</a>. (National Academies Press, 2018). doi:10.17226/25259.</li>
-  <li>Sandalow, D., Friedmann, J. &amp; McCormick, C. <a href="https://www.icef-forum.org/pdf2018/roadmap/ICEF2018_Roadmap_Draft_for_Comment_20181012.pdf">Direct Air Capture of Carbon Dioxide: ICEF Roadmap 2018</a>. (2018).</li>
-  <li>Negative emissions – Parts <a href="http://stacks.iop.org/1748-9326/13/i=6/a=063001?key=crossref.9b8e1db79e5bb89326008b4b6859ede0">1</a>, <a href="http://stacks.iop.org/1748-9326/13/i=6/a=063002?key=crossref.280beee8a19ff00042252ae3ce163a06">2</a>, <a href="http://stacks.iop.org/1748-9326/13/i=6/a=063003?key=crossref.a329c88fc7b90b61b136cf0c66c67240">3</a></li>
-  <li><a href="http://www.carbon180.org">www.Carbon180.org</a>. Environmental Research Letters.</li>
+  <li>Committee on Developing a Research Agenda for Carbon Dioxide Removal and Reliable Sequestration et al. <a href="https://www.nap.edu/catalog/25259">Negative Emissions Technologies and Reliable Sequestration: A Research Agenda</a> (2018)</li>
+  <li>Sandalow D. et al. <a href="https://www.icef-forum.org/pdf2018/roadmap/ICEF2018_Roadmap_Draft_for_Comment_20181012.pdf">Direct Air Capture of Carbon Dioxide: ICEF Roadmap 2018</a>. (2018).</li>
+  <li>Minx F. et. al. - Negative emissions – Parts <a href="http://stacks.iop.org/1748-9326/13/i=6/a=063001?key=crossref.9b8e1db79e5bb89326008b4b6859ede0">1</a>, <a href="http://stacks.iop.org/1748-9326/13/i=6/a=063002?key=crossref.280beee8a19ff00042252ae3ce163a06">2</a>, <a href="http://stacks.iop.org/1748-9326/13/i=6/a=063003?key=crossref.a329c88fc7b90b61b136cf0c66c67240">3</a> (2018)</li>
+  <li><a href="http://www.carbon180.org">www.Carbon180.org</a></li>
 </ul>
 
 <h3 id="events-conferences-and-journals">Events, Conferences and Journals</h3>
@@ -415,7 +405,7 @@ If you find that we are missing some important resources, please submit them [he
   <li><a href="https://pubs.acs.org/journal/esthag">Environmental Science and Technology.</a></li>
   <li><a href="https://www.nature.com/ngeo/">Nature Geoscience</a></li>
   <li><a href="https://iopscience.iop.org/journal/1748-9326">Environmental Research Letters</a></li>
-  <li><a href="https://www.wplgroup.com/aci/event/co2-canada/">Carbon Dioxide Utilization Summit.</a> September 11-12, 2019. Calgary, Alberta, Canada.</li>
+  <li><a href="https://www.wplgroup.com/aci/event/co2-canada/">Carbon Dioxide Utilization Summit.</a></li>
 </ul>
 
 
@@ -434,8 +424,7 @@ If you find that we are missing some important resources, please submit them [he
 <h3 id="background-reading">Background Reading</h3>
 
 <ul>
-  <li><a href="http://www.climate.be/textbook/">Online climate science textbook</a></li>
-  <li><a href="https://youtu.be/XGi2a0tNjOo">Online video lectures: Climate Literacy</a></li>
+  <li>Goosse H. et al. <a href="http://www.climate.be/textbook/">Online climate science textbook</a> (2008-2010)</li>
 </ul>
 
 <h3 id="datasets-and-tools">Datasets and Tools</h3>
@@ -469,6 +458,11 @@ If you find that we are missing some important resources, please submit them [he
 
 <p>Climate science is a journal field. Noteworthy research appears in journals such as the Bulletin of the American Meteorological Society, Geophysical Research Letters and the Proceedings of the National Academy of Sciences.</p>
 
+<h3 id="interactive-resources">Interactive Resources</h3>
+<ul>
+  <li><a href="https://youtu.be/XGi2a0tNjOo">Online video lectures: Climate Literacy</a></li>
+</ul>
+
 
     </div>
   </div>
@@ -476,7 +470,7 @@ If you find that we are missing some important resources, please submit them [he
 
 <div class='collapsible'>
   <div class='collapsible-header'>
-    <h2>8. Societal Impacts </h2>
+    <h2>8. Societal Impacts</h2>
   </div>
   <div class='collapsible-content'>
     <div class='collapsible-content-inner'>
@@ -487,36 +481,36 @@ If you find that we are missing some important resources, please submit them [he
 <h4 id="general">General</h4>
 
 <ul>
-  <li>Quinn, J., Frias-Martinez, V., &amp; Subramanian, L. (2014). Computational sustainability and artificial intelligence in the developing world. AI Magazine, 35(3), 36.</li>
-  <li>Gomes, C., Dietterich, T., Barrett, C., Conrad, J., Dilkina, B., Ermon, S., … &amp; Fink, D. (2019). Computational sustainability: Computing for a better world and a sustainable future. Communications of the ACM, 62(9), 56-65.</li>
-  <li>Agrawal, A., &amp; Perrin, N. (2009). Climate adaptation, local institutions and rural livelihoods. Adapting to climate change: thresholds, values, governance, 350-367.</li>
-  <li>Shi, L., Chu, E., Anguelovski, I., Aylett, A., Debats, J., Goh, K., … &amp; Roberts, J. T. (2016). Roadmap towards justice in urban climate adaptation research. Nature Climate Change, 6(2), 131.</li>
+  <li>Quinn, J. et al. <a href="https://cs.nyu.edu/~lakshmi/Lakshmi/Pubs/Computational%20Sustainability%20and%20Artificial%20Intelligence%20in%20the%20developing%20world.pdf">Computational sustainability and artificial intelligence in the developing world</a> (2014).</li>
+  <li>Gomes, C. et al., <a href="http://delivery.acm.org/10.1145/3340000/3339399/p56-gomes.pdf?ip=69.28.236.4&amp;id=3339399&amp;acc=OA&amp;key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2EFDD192CA5628EE6F&amp;__acm__=1568400309_b0b3d4cc7b328718cf2bb0cf7f763e91">Computational sustainability: Computing for a better world and a sustainable future.</a> (2019)</li>
+  <li>Agrawal, A., and Perrin, N. <a href="https://pdfs.semanticscholar.org/07ce/a6ad719bc097442b1683bd74426a16a618cb.pdf">Climate adaptation, local institutions and rural livelihoods.</a> (2009)</li>
+  <li>Shi, L. et al. <a href="https://www.nature.com/articles/nclimate2841">Roadmap towards justice in urban climate adaptation research.</a> (2016)</li>
 </ul>
 
 <h4 id="ecology">Ecology</h4>
 
 <ul>
-  <li><a href="https://collections.plos.org/eco-climate-change">Ecological Impacts of Climate Change Collection</a></li>
+  <li>PLOS Collections - <a href="https://collections.plos.org/eco-climate-change">Ecological Impacts of Climate Change Collection</a></li>
 </ul>
 
 <h4 id="infrastructure">Infrastructure</h4>
 
 <ul>
-  <li>Kazmierczak, A., &amp; Carter, J. (2010). Adaptation to climate change using green and blue infrastructure. A database of case studies.</li>
+  <li>Kazmierczak, A., and Carter, J. <a href="https://climate-adapt.eea.europa.eu/metadata/publications/adaptation-to-climate-change-using-green-and-blue-infrastructure-a-database-of-case-studies">Adaptation to climate change using green and blue infrastructure. A database of case studies.</a> (2010).</li>
 </ul>
 
 <h4 id="social-systems">Social Systems</h4>
 
 <ul>
-  <li>Burke, M., &amp; Lobell, D. (2010). Food security and adaptation to climate change: What do we know?. In Climate change and food security (pp. 133-153). Springer, Dordrecht.</li>
-  <li><a href="https://www.frontiersin.org/research-topics/7374/climate-change-and-society">Climate Change and Society Research Topic</a></li>
+  <li>Burke, M., and Lobell, D. Food security and adaptation to climate change: What do we know? <a href="https://www.springer.com/gp/book/9783642646874">Climate change and food security</a> (2010)</li>
+  <li><a href="https://www.frontiersin.org/research-topics/7374/climate-change-and-society">Frontiers - Climate Change and Society Research Topic</a></li>
 </ul>
 
 <h4 id="crisis">Crisis</h4>
 
 <ul>
-  <li>Meier, P. (2015). Digital humanitarians: how big data is changing the face of humanitarian response. Routledge.</li>
-  <li>Anderson, G. B., Barnes, E. A., Bell, M. L., &amp; Dominici, F. (2019). The future of climate epidemiology: opportunities for advancing health research in the context of climate change. American journal of epidemiology, 188(5), 866-872.</li>
+  <li>Meier, P. <a href="https://link.springer.com/article/10.1007/s11673-017-9807-8">Digital humanitarians: how big data is changing the face of humanitarian response.</a> (2015)</li>
+  <li>Anderson, G. B. et al. <a href="https://academic.oup.com/aje/article-abstract/188/5/866/5381895">The future of climate epidemiology: opportunities for advancing health research in the context of climate change.</a> (2019)</li>
 </ul>
 
 <h3 id="datasets-and-tools">Datasets and Tools</h3>
@@ -542,7 +536,7 @@ If you find that we are missing some important resources, please submit them [he
 
 <div class='collapsible'>
   <div class='collapsible-header'>
-    <h2>9. Solar Geoengineering </h2>
+    <h2>9. Solar Geoengineering</h2>
   </div>
   <div class='collapsible-content'>
     <div class='collapsible-content-inner'>
@@ -551,16 +545,16 @@ If you find that we are missing some important resources, please submit them [he
 <h3 id="background-reading">Background Reading</h3>
 
 <ul>
-  <li><a href="https://www.c2g2.net/wp-content/uploads/Harvard-Project-Solar-Geo-Governance-Briefs-181126.pdf#page=7">The Science and Technology of Solar Geoengineering: A Compact Summary (very high-level overview)</a></li>
+  <li>Harvard Project on Climate Agreements. <a href="https://www.c2g2.net/wp-content/uploads/Harvard-Project-Solar-Geo-Governance-Briefs-181126.pdf">Governance of the Deployment of Solar Geoengineering.</a></li>
   <li><a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/wcc.423">An overview of the Earth system science of geoengineering</a></li>
-  <li><a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016EF000389">Towards a comprehensive climate impacts assessment of solar geoengineering</a></li>
-  <li><a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-control-053018-023725">The engineering of climate engineering</a></li>
+  <li>Irvine, P.J. <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016EF000389">Towards a comprehensive climate impacts assessment of solar geoengineering</a> (2016)</li>
+  <li>MacMartin, D.G. <a href="https://www.annualreviews.org/doi/abs/10.1146/annurev-control-053018-023725">The engineering of climate engineering</a> (2019)</li>
 </ul>
 
 <h3 id="datasets-and-tools">Datasets and Tools</h3>
 
 <ul>
-  <li>(<a href="http://climate.envsci.rutgers.edu/GeoMIP/">The Geoengineering Model Intercomparison Project</a>) is a good starting resource for digging into solar geoengineering simulations.</li>
+  <li><a href="http://climate.envsci.rutgers.edu/GeoMIP/">The Geoengineering Model Intercomparison Project</a> -  is a good starting resource for digging into solar geoengineering simulations.</li>
 </ul>
 
 <h3 id="events-conferences-and-journals">Events, Conferences and Journals</h3>
@@ -571,7 +565,6 @@ If you find that we are missing some important resources, please submit them [he
   <li><a href="https://agupubs.onlinelibrary.wiley.com/journal/23284277">Earth’s Future</a></li>
   <li><a href="https://agupubs.onlinelibrary.wiley.com/journal/21698996">Journal of Geophysical Research: Atmospheres</a></li>
   <li><a href="https://www.atmospheric-chemistry-and-physics.net/">Atmospheric Chemistry and Physics</a></li>
-  <li>Nature Climate Change / Nature Geoscience</li>
 </ul>
 
 
@@ -592,30 +585,30 @@ If you find that we are missing some important resources, please submit them [he
 <h4 id="overall">Overall</h4>
 
 <ul>
-  <li>K. Williamson, A. Satre-Meloy, K. Velasco, and K. Green. <a href="https://rare.org/wp-content/uploads/2019/02/2018-CCNBC-Report.pdf">Climate Change Needs Behavior Change: Making the case for behavioral solutions to reduce global warming.</a> Technical report, Center for Behavior and the Environment, 2018.</li>
+  <li>K. Williamson, A. <a href="https://rare.org/wp-content/uploads/2019/02/2018-CCNBC-Report.pdf">Climate Change Needs Behavior Change: Making the case for behavioral solutions to reduce global warming.</a> 2018.</li>
 </ul>
 
-<h4 id="individual-and-household-consumption">Individual and household consumption:</h4>
+<h4 id="individual-and-household-consumption">Individual and Household Consumption</h4>
 
 <ul>
-  <li>Lukas G Swan and V Ismet Ugursal. Modeling of end-use energy consumption in the residential sector: A review of modeling techniques. Renewable and sustainable energy reviews, 13(8):1819–1835, 2009.</li>
-  <li>Christopher M Jones and Daniel M Kammen. Quantifying carbon footprint reduction opportunities for US households and communities. Environmental science &amp; technology, 45(9):4088–4095, 2011.</li>
-  <li>T Remani, EA Jasmin, and TP Imthias Ahamed. Residential load scheduling with renewable generation in the smart grid: A reinforcement learning approach. IEEE Systems Journal, (99):1–12, 2018.</li>
+  <li>Swan, L.J. et al., <a href="https://www.sciencedirect.com/science/article/pii/S1364032108001949">Modeling of end-use energy consumption in the residential sector: A review of modeling techniques.</a> (2009)</li>
+  <li>Jones, C.M. et al., <a href="https://pubs.acs.org/doi/abs/10.1021/es102221h">Quantifying carbon footprint reduction opportunities for US households and communities.</a> (2011)</li>
+  <li>Remani, T. et. al., <a href="https://ieeexplore.ieee.org/document/8426048">Residential load scheduling with renewable generation in the smart grid: A reinforcement learning approach.</a> (2018)</li>
 </ul>
 
-<h4 id="behavior-change">Behavior change:</h4>
+<h4 id="behavior-change">Behavior Change</h4>
 
 <ul>
-  <li>David Klenert, Linus Mattauch, Emmanuel Combet, Ottmar Edenhofer, Cameron Hepburn, Ryan Rafaty, and Nicholas Stern. Making carbon pricing work for citizens. Nature Climate Change, 8(8):669–677, 2018.</li>
-  <li>Charlotte Jones, Donald W Hine, and Anthony DG Marks. The future is now: reducing psychological distance to increase public engagement with climate change. Risk Analysis, 37(2):331–341, 2017.</li>
-  <li>Adrian Albert and Mehdi Maasoumy. Predictive segmentation of energy consumers. Applied energy, 177:435– 448, 2016.</li>
+  <li>Klenert, D. et al., <a href="https://www.nature.com/articles/s41558-018-0201-2">Making carbon pricing work for citizens.</a> (2018)</li>
+  <li>Jones, C. et al., <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.12601">The future is now: reducing psychological distance to increase public engagement with climate change.</a> (2017)</li>
+  <li>Albert, A. and Maasoumy, M.  <a href="https://www.researchgate.net/profile/Mehdi_Maasoumy/publication/303895476_PredictiveSegmentationOfEnergyConsumers/links/575b0b9e08aed884620d990a/PredictiveSegmentationOfEnergyConsumers.pdf">Predictive segmentation of energy consumers.</a>  (2016)</li>
 </ul>
 
 <h3 id="datasets-and-tools">Datasets and Tools</h3>
 
 <ul>
   <li><a href="https://data.world/footprint">Global Footprint Data</a></li>
-  <li><a href="https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption">Individual household electric power consumption Data Set, UCI ML repository</a> </li>
+  <li><a href="https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption">Individual household electric power consumption Data Set, UCI ML repository</a></li>
   <li><a href="https://openei.org/datasets/dataset/residential-energy-consumption-survey-results-total-energy-consumption-expenditures-and-intensiti">Residential energy use survey results</a></li>
   <li><a href="https://openei.org/datasets/dataset/commercial-and-residential-hourly-load-profiles-for-all-tmy3-locations-in-the-united-states">Commercial and Residential Hourly Load Profiles</a></li>
   <li><a href="https://openei.org/datasets/dataset/doe-buildings-performance-database-sample-residential-data">Buildings Performance Database, sample Residential data</a></li>
@@ -641,85 +634,89 @@ If you find that we are missing some important resources, please submit them [he
     <div class='collapsible-content-inner'>
 
 
-<h3 id="background-reading">Background Reading </h3>
+<h3 id="background-reading">Background Reading</h3>
 
 <h4 id="general">General</h4>
 
 <ul>
-  <li>Resources for Effective Climate Decisions. (Ch. 4) <a href="https://www.nap.edu/read/12784/chapter/6#126">Informing an Effective Response to Climate Change.</a> National Research Council of the National Academies. National Academies Press, Washington, D.C. 2010.</li>
-  <li>John S. Dryzek, Richard B. Norgaard, and David Schlosberg. <a href="https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199566600.001.0001/oxfordhb-9780199566600-e-1">Climate Change and Society: Approaches and Responses. The Oxford Handbook of Climate Change and Society.</a> 2011.</li>
-  <li>R.F. Holt, R.P.Bio., G. Utzig, P.Ag., C. Pearce, R.P.F.  <a href="https://www2.gov.bc.ca/assets/gov/environment/natural-resource-stewardship/nrs-climate-change/applied-science/holtreport2assess4approaches.pdf">Assessment and Decision-making for Climate Change: An Overview of Four Approaches.  Report #2 of the West Kootenay Climate Vulnerability and Resilience Project.</a>  2012.</li>
-  <li>W Neil Adger. <a href="https://www.crcresearch.org/files-crcresearch/File/adger_03.pdf">Social Capital, Collective Action, and Adaptation to Climate Change.</a> Economic Geography. 2003.</li>
-  <li>Intergovernmental Panel on Climate Change (IPCC). <a href="https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_chapter3.pdf">Social, Economic, and Ethical Concepts and Methods. (Ch. 3).</a> Annual Report 5. Climate Change 2014: Mitigation of Climate Change. 2014.</li>
+  <li>Resources for Effective Climate Decisions. (Ch. 4) <a href="https://www.nap.edu/read/12784/chapter/6#126">Informing an Effective Response to Climate Change.</a> (2010)</li>
+  <li>Dryzek, J.S. et al., <a href="https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199566600.001.0001/oxfordhb-9780199566600-e-1">Climate Change and Society: Approaches and Responses.</a> (2011)</li>
+  <li>Holt, R.F. et al., <a href="https://www2.gov.bc.ca/assets/gov/environment/natural-resource-stewardship/nrs-climate-change/applied-science/holtreport2assess4approaches.pdf">Assessment and Decision-making for Climate Change: An Overview of Four Approaches</a> (2012)</li>
+  <li>Adge, N.W., <a href="https://www.crcresearch.org/files-crcresearch/File/adger_03.pdf">Social Capital, Collective Action, and Adaptation to Climate Change.</a> (2003)</li>
+  <li>Intergovernmental Panel on Climate Change (IPCC). <a href="https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_chapter3.pdf">Social, Economic, and Ethical Concepts and Methods. (Ch. 3).</a> (2014)</li>
 </ul>
 
-<h4 id="modeling-collective-behaviour">Modeling collective behaviour</h4>
+<h4 id="modeling-collective-behaviour">Modeling Collective Behaviour</h4>
 
 <ul>
-  <li>Elizabeth Bruch and Fred Feinberg. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543983/">Decision-Making Processes in Social Contexts.</a> Annual Review of Sociology. 2017.</li>
-  <li>Rajiv Jhangiani and Hammond Tarry. <a href="https://opentextbc.ca/socialpsychology/chapter/group-decision-making/">Principles of Social Psychology.</a> 2014.</li>
-  <li>F.K. Diekert. <a href="https://www.mdpi.com/2071-1050/4/8/1776/pdf">The Tragedy of the Commons from a Game-Theoretic Perspective.</a>  Sustainability.  2012.</li>
+  <li>Bruch, E., and Feinberg, F. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543983/">Decision-Making Processes in Social Contexts.</a> (2017)</li>
+  <li>Jhangiani, R., and Tarry., H. <a href="https://opentextbc.ca/socialpsychology/chapter/group-decision-making/">Principles of Social Psychology.</a> (2014)</li>
+  <li>Diekert, F.K. <a href="https://www.mdpi.com/2071-1050/4/8/1776/pdf">The Tragedy of the Commons from a Game-Theoretic Perspective.</a> (2012)</li>
 </ul>
 
-<h4 id="policy-design">Policy design</h4>
+<h4 id="policy-design">Policy Design</h4>
 
 <ul>
-  <li>World Health Organizaition. From Science to Policy: Developing Responses to Climate Change. (Ch. 12). <a href="https://www.who.int/globalchange/climate/en/chapter12.pdf">Climate Change and Human Health - Risks and Responses.</a> 1996</li>
-  <li>Katy Roelich and Jannik Giesekam. <a href="https://www.tandfonline.com/doi/full/10.1080/14693062.2018.1479238">Decision making under uncertainty in climate change mitigation: introducing multiple actor motivations, agency and influence.</a> Climate Policy, 2018.</li>
-  <li>Carolina Zambrano-Barragán. <a href="https://www.wri.org/our-work/project/world-resources-report/decision-making-and-climate-change-uncertainty-setting">Decision Making and Climate Change Uncertainty: Setting the Foundations for Informed and Consistent Strategic Decisions.</a>  World Resources Report. 2019.</li>
-  <li><a href="https://www.eea.europa.eu/themes/climate/policy-context">Climate change policies. European Environmental Agency.</a> 2016.</li>
+  <li>World Health Organizaition. From Science to Policy: Developing Responses to Climate Change. (Ch. 12). <a href="https://www.who.int/globalchange/climate/en/chapter12.pdf">Climate Change and Human Health - Risks and Responses.</a> (1996)</li>
+  <li>Roelich, K. and Giesekam, J. <a href="https://www.tandfonline.com/doi/full/10.1080/14693062.2018.1479238">Decision making under uncertainty in climate change mitigation: introducing multiple actor motivations, agency and influence.</a> (2018)</li>
+  <li>Zambrano-Barragán, C. <a href="https://www.wri.org/our-work/project/world-resources-report/decision-making-and-climate-change-uncertainty-setting">Decision Making and Climate Change Uncertainty: Setting the Foundations for Informed and Consistent Strategic Decisions.</a> (2019)</li>
+  <li>European Environmental Agency <a href="https://www.eea.europa.eu/themes/climate/policy-context">Climate change policies</a> (2016)</li>
 </ul>
 
-<h4 id="markets-and-pricing">Markets and pricing</h4>
+<h4 id="markets-and-pricing">Markets and Pricing</h4>
 
 <ul>
-  <li>Ans Kolk, Jonatan Pinkse. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0263237304000453">Market Strategies for Climate Change.</a> European Management Journal. 2004.</li>
-  <li>Sarah E. Anderson, Terry L. Anderson, Alice C. Hill, Matthew E. Kahn, Howard Kunreuther, Gary D. Libecap, Hari Mantripragada, Pierre Mérel, Andrew Plantinga, V. Kerry Smith. <a href="https://www.nber.org/papers/w24645">The Critical Role of Markets in Climate Change Adaptation.</a> National Bureau of Economics Research Working Paper No. 24645. 2018.</li>
-  <li>Market-based strategies. <a href="https://www.c2es.org/content/market-based-strategies/">Center for Climate and Energy Solutions.</a> 2019.</li>
+  <li>Kolk, K., Pinkse, J. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0263237304000453">Market Strategies for Climate Change.</a> (2004)</li>
+  <li>Anderson, S.E. et al. <a href="https://www.nber.org/papers/w24645">The Critical Role of Markets in Climate Change Adaptation.</a> (2018)</li>
+  <li>Center for Climate and Energy Solutions. <a href="https://www.c2es.org/content/market-based-strategies/">Market-based strategies.</a> 2019.</li>
 </ul>
 
-<h4 id="managing-tradeoffs">Managing tradeoffs</h4>
+<h4 id="managing-tradeoffs">Managing Tradeoffs</h4>
 
 <ul>
-  <li>Behnam Malakooti. Operations and Production Systems with Multiple Objectives. John Wiley &amp; Sons. 2014.  </li>
-  <li>Kaisa M. Miettinen. Nonlinear Multiobjective Optimization. Operations Research Management Science International Series, Kluwer Academic Publishers. 2004. </li>
-  <li>An exploratory approach for adaptive policymaking by using multi-objective robust optimization. Caner Hamarat, Jan H. Kwakkel, Erik Pruyt, Erwin T. Loonen. Simulation Modelling Practice and Theory. 2014.</li>
+  <li>Malakooti, B. <a href="https://www.wiley.com/en-ca/Operations+and+Production+Systems+with+Multiple+Objectives-p-9780470037324">Operations and Production Systems with Multiple Objectives</a> 2014.</li>
+  <li>Miettinen, K.M. et al., <a href="https://www.springer.com/gp/book/9780792382782">Nonlinear Multiobjective Optimization</a> (2004)</li>
+  <li>Hamarat, C., et al. <a href="https://www.sciencedirect.com/science/article/pii/S1569190X14000380">An exploratory approach for adaptive policymaking by using multi-objective robust optimization</a> (2014)</li>
 </ul>
 
 <h3 id="datasets-and-tools">Datasets and Tools</h3>
 
 <h4 id="datasets">Datasets</h4>
-<pre><code>- [World Bank ClimateSmart data portal](https://www.climatesmartplanning.org/data.html)
-- [Environmental Treaty Status Data Set, 2012 Release (1940 – 2012)](https://sedac.ciesin.columbia.edu/data/set/entri-treaty-status-2012)
-- [Vulnerability to Climate Change Dataset](https://www.cgdev.org/publication/dataset-vulnerability-climate-change)
-- [CO2 “price” in European ETS](http://datahub.io/core/eu-emissions-trading-system) (European Union Emissions Trading System (EU ETS) data from EUTL)
-- [IPCC Socio-Economic Baseline Data, v1 (1980, 1990, 1991, 1992, 1993, 1994, 1995, 2025)](https://sedac.ciesin.columbia.edu/data/set/ipcc-socio-economic-baseline)
-- IPCC Fourth Assessment Report (AR4) Observed Climate Change Impacts, v1 (1970 – 2004)](https://sedac.ciesin.columbia.edu/data/set/ipcc-ar4-observed-climate-impacts)
-</code></pre>
+<ul>
+  <li><a href="https://www.climatesmartplanning.org/data.html">World Bank ClimateSmart data portal</a></li>
+  <li><a href="https://sedac.ciesin.columbia.edu/data/set/entri-treaty-status-2012">Environmental Treaty Status Data Set, 2012 Release (1940–2012)</a></li>
+  <li><a href="https://www.cgdev.org/publication/dataset-vulnerability-climate-change">Vulnerability to Climate Change Dataset</a></li>
+  <li><a href="http://datahub.io/core/eu-emissions-trading-system">CO2 “price” in European ETS</a> (European Union Emissions Trading System (EU ETS) data from EUTL)</li>
+  <li><a href="https://sedac.ciesin.columbia.edu/data/set/ipcc-socio-economic-baseline">IPCC Socio-Economic Baseline Data, v1 (1980, 1990, 1991, 1992, 1993, 1994, 1995, 2025)</a></li>
+  <li>IPCC Fourth Assessment Report (AR4) Observed Climate Change Impacts, v1 (1970–2004)](https://sedac.ciesin.columbia.edu/data/set/ipcc-ar4-observed-climate-impacts)</li>
+</ul>
 
 <h4 id="software">Software</h4>
-<pre><code>- [Carbon market simulation tool](https://www.carbonpricingleadership.org/calendar/2019/1/18/carbonsim-edfs-carbon-market-simulation-tool)
-- Python packages for multi-objective optimization: 
-    - [https://projects.g-node.org/emoo/](https://projects.g-node.org/emoo/)
-    - [https://platypus.readthedocs.io/](https://platypus.readthedocs.io/en/latest/getting-started.html#a-simple-example)
-- [Matlab package for multi-objective optimization](https://www.mathworks.com/discovery/multiobjective-optimization.html)
-</code></pre>
+<ul>
+  <li><a href="https://www.carbonpricingleadership.org/calendar/2019/1/18/carbonsim-edfs-carbon-market-simulation-tool">Carbon market simulation tool</a></li>
+  <li>Python packages for multi-objective optimization:
+    <ul>
+      <li><a href="https://projects.g-node.org/emoo/">https://projects.g-node.org/emoo/</a></li>
+      <li><a href="https://platypus.readthedocs.io/en/latest/getting-started.html#a-simple-example">https://platypus.readthedocs.io/</a></li>
+    </ul>
+  </li>
+  <li><a href="https://www.mathworks.com/discovery/multiobjective-optimization.html">Matlab package for multi-objective optimization</a></li>
+</ul>
 
-<h4 id="interactive-resources">Interactive Resources</h4>
-
+<h3 id="interactive-resources">Interactive Resources</h3>
 <ul>
   <li><a href="https://www.planning.org/policy/guides/adopted/climatechange.htm">Policy Guide on Climate Change</a></li>
   <li><a href="https://www.climateinteractive.org/media-coverage/you-fix-the-climate-new-york-times-feature-uses-climate-interactive-design-and-data/">New York Times interactive website for managing global tradeoffs related to climate</a></li>
-  <li><a href="https://sedac.ciesin.columbia.edu/theme/climate/">Web portal with information on many socioeconomic climate datasets</a>
-#### Games 
-    <ul>
-      <li><a href="https://climate-change-initiative.org/research/simulation-games">In-person role-playing games for societal planning related to climate change</a></li>
-      <li><a href="http://climateinteractive.org/simulations/world-climate">Role-playing video game for groups which simulates the UN climate change negotiations</a></li>
-      <li><a href="https://store.steampowered.com/app/80200/Fate_of_the_World/">Global strategy video game</a>  </li>
-      <li><a href="https://blossoms.mit.edu/legacy/tragedy/index.htm">Tragedy of the Commons flash game</a></li>
-      <li><a href="https://energy.duke.edu/events/carbon-trading-simulation">Carbon trading game night using CarbonSim</a>  </li>
-    </ul>
-  </li>
+  <li><a href="https://sedac.ciesin.columbia.edu/theme/climate/">Web portal with information on many socioeconomic climate datasets</a></li>
+</ul>
+
+<h4 id="games">Games</h4>
+<ul>
+  <li><a href="https://climate-change-initiative.org/research/simulation-games">In-person role-playing games for societal planning related to climate change</a></li>
+  <li><a href="http://climateinteractive.org/simulations/world-climate">Role-playing video game for groups which simulates the UN climate change negotiations</a></li>
+  <li><a href="https://store.steampowered.com/app/80200/Fate_of_the_World/">Global strategy video game</a></li>
+  <li><a href="https://blossoms.mit.edu/legacy/tragedy/index.htm">Tragedy of the Commons flash game</a></li>
+  <li><a href="https://energy.duke.edu/events/carbon-trading-simulation">Carbon trading game night using CarbonSim</a></li>
 </ul>
 
 <h3 id="events-conferences-and-journals">Events, Conferences and Journals</h3>
@@ -746,9 +743,9 @@ If you find that we are missing some important resources, please submit them [he
 <h3 id="background-reading">Background Reading</h3>
 
 <ul>
-  <li>Roger Nkambou, Riichiro Mizoguchi, and Jacqueline Bourdeau. Advances In Intelligent Tutoring Systems, Volume 308. Springer Science &amp; Business Media, 2010.</li>
-  <li>Niels Pinkwart. Another 25 Years of AIED? Challenges and Opportunities for Intelligent Educational Technologies Of The Future. International Journal of Artificial Intelligence in Education, 26(2):771–783, 2016.</li>
-  <li>UNESCO. Not Just Hot Air: Putting Climate Change Education Into Practice. United Nations Educational, Scientific and Cultural Organization, 2015.</li>
+  <li>Nkambou, et al., <a href="http://gdac.uqam.ca/inf7470/LivreVersionFinal/">Advances In Intelligent Tutoring Systems</a> (2010)</li>
+  <li>Pinkwart, N. <a href="https://link.springer.com/content/pdf/10.1007%2Fs40593-016-0099-7.pdf">Another 25 Years of AIED? Challenges and Opportunities for Intelligent Educational Technologies Of The Future</a> (2016)</li>
+  <li>UNESCO <a href="https://unesdoc.unesco.org/ark:/48223/pf0000233083">Not Just Hot Air: Putting Climate Change Education Into Practice</a> (2015)</li>
 </ul>
 
 <h3 id="datasets-and-tools">Datasets and Tools</h3>
@@ -756,9 +753,9 @@ If you find that we are missing some important resources, please submit them [he
 <h4 id="datasets">Datasets</h4>
 
 <ul>
-  <li><a href="https://pslcdatashop.web.cmu.edu/index.jsp">Datashop</a> </li>
-  <li><a href="https://archive.ics.uci.edu/ml/datasets/ser+Knowledge+Modeling+Data+%28Students%27+Knowledge+Levels+on+DC+Electrical+Machines%29">User Knowledge Modeling Data (Students’ Knowledge Levels on DC Electrical Machines) Data Set</a> </li>
-  <li><a href="https://github.com/bkoester/PLA">University of Michigan source code and data associated with Practical Learning Analytics course</a> </li>
+  <li><a href="https://pslcdatashop.web.cmu.edu/index.jsp">Datashop</a></li>
+  <li><a href="https://archive.ics.uci.edu/ml/datasets/ser+Knowledge+Modeling+Data+%28Students%27+Knowledge+Levels+on+DC+Electrical+Machines%29">User Knowledge Modeling Data (Students’ Knowledge Levels on DC Electrical Machines) Data Set</a></li>
+  <li><a href="https://github.com/bkoester/PLA">University of Michigan source code and data associated with Practical Learning Analytics course</a></li>
 </ul>
 
 <h4 id="tools">Tools</h4>
@@ -771,15 +768,15 @@ If you find that we are missing some important resources, please submit them [he
 <h3 id="interactive-resources">Interactive Resources</h3>
 
 <ul>
-  <li><a href="https://www.edx.org/course/climate-change-education-0">Banco Interamericano de Desarollo - Climate Change Education</a> </li>
+  <li><a href="https://www.edx.org/course/climate-change-education-0">Banco Interamericano de Desarollo - Climate Change Education</a></li>
 </ul>
 
 <h3 id="events-conferences-and-journals">Events, Conferences and Journals</h3>
 
 <ul>
   <li><a href="https://iaied.org/">International Educational Data Mining Society</a></li>
-  <li><a href="http://educationaldatamining.org/">International Artificial Intelligence in Education Society (IAIED)</a> </li>
-  <li><a href="http://www.unesco.org/education/tlsf/">UNESCO Teaching and Learning for a Sustainable Future</a> </li>
+  <li><a href="http://educationaldatamining.org/">International Artificial Intelligence in Education Society (IAIED)</a></li>
+  <li><a href="http://www.unesco.org/education/tlsf/">UNESCO Teaching and Learning for a Sustainable Future</a></li>
 </ul>
 
 
@@ -798,9 +795,9 @@ If you find that we are missing some important resources, please submit them [he
 <h3 id="background-reading">Background Reading</h3>
 
 <ul>
-  <li>Jean Boissinot, Doryane Huber, and Gildas Lame. Finance and climate: The transition to a low-carbon and climate-resilient economy from a financial sector perspective. OECD Journal: Financial Market Trends, 2016.</li>
-  <li>Stefano Battiston, Antoine Mandel, Irene Monasterolo, Franziska Sch ̈utze, and Gabriele Visentin. A climate stress-test of the financial system.Nature Climate Change, 7(4):283, 2017.</li>
-  <li>Emanuele Campiglio, Yannis Dafermos, Pierre Monnin,Josh Ryan-Collins, Guido Schotten, and Misa Tanaka.Climate change challenges for central banks and financial regulators.Nature Climate Change, 8(6):462, 2018.</li>
+  <li>Boissinot, J., et al., <a href="https://www.oecd-ilibrary.org/finance-and-investment/finance-and-climate_fmt-2015-5jrrz76d5td5?crawler=true">Finance and climate: The transition to a low-carbon and climate-resilient economy from a financial sector perspective.</a> (2016)</li>
+  <li>Battiston, B., et al., <a href="https://www.nature.com/articles/nclimate3255"> A climate stress-test of the financial system.</a> (2017)</li>
+  <li>Campiglio, E. <a href="http://eprints.lse.ac.uk/88364/1/Campiglio_Climate%20change_2018.pdf">Climate change challenges for central banks and financial regulators</a> (2018)</li>
 </ul>
 
 <h3 id="datasets-and-tools">Datasets and Tools</h3>
@@ -811,16 +808,16 @@ If you find that we are missing some important resources, please submit them [he
 
 <ul>
   <li><a href="https://unfccc.int/climatefinance/gef/gef_data">United Nations Framework Convention on Climate Change (UNFCCC) Climate Finance Data Portal</a></li>
-  <li><a href="https://www.oecd.org/dac/financing-sustainable-development/development-finance-data/">OECD Development finance data</a> </li>
-  <li><a href="https://www.worldbank.org/en/publication/gfdr/data/global-financial-development-database">Global Financial Development Database</a> </li>
-  <li><a href="https://publications.iadb.org/en/idbg-climate-finance-2017-dataset">Inter-American Development Bank Climate Finance 2017 Dataset</a> </li>
+  <li><a href="https://www.oecd.org/dac/financing-sustainable-development/development-finance-data/">OECD Development finance data</a></li>
+  <li><a href="https://www.worldbank.org/en/publication/gfdr/data/global-financial-development-database">Global Financial Development Database</a></li>
+  <li><a href="https://publications.iadb.org/en/idbg-climate-finance-2017-dataset">Inter-American Development Bank Climate Finance 2017 Dataset</a></li>
 </ul>
 
-<h4 id="tools">Tools </h4>
+<h4 id="tools">Tools</h4>
 
 <ul>
   <li><a href="http://global-climatescope.org/results">ClimateScope</a>: a country-by-country assessment that provides an interactive report and index indicating suitability for climate-related investment</li>
-  <li><a href="https://www.re-explorer.org/">Renewable Energy (RE) Data Explorer</a> (to inform vital renewable energy investment and deployment decisions </li>
+  <li><a href="https://www.re-explorer.org/">Renewable Energy (RE) Data Explorer</a> (to inform vital renewable energy investment and deployment decisions</li>
 </ul>
 
 <h3 id="interactive-resources">Interactive Resources</h3>
@@ -828,7 +825,7 @@ If you find that we are missing some important resources, please submit them [he
 <ul>
   <li><a href="https://olc.worldbank.org/content/climate-finance-innovative-approaches-supporting-climate-action">World Bank Group - Climate Finance: Innovative Approaches in Supporting Climate Action</a></li>
   <li><a href="https://www.edx.org/course/climate-change-financial-risks-and-opportunities">Imperial College London - Climate Change: Financial Risks and Opportunities</a></li>
-  <li><a href="https://unccelearn.org/course/view.php?id=59&amp;page=overview">UN Climate Change E-Learn - Introduction to Sustainable Finance</a> </li>
+  <li><a href="https://unccelearn.org/course/view.php?id=59&amp;page=overview">UN Climate Change E-Learn - Introduction to Sustainable Finance</a></li>
 </ul>
 
 <h3 id="events-conferences-and-journals">Events, Conferences and Journals</h3>
@@ -836,7 +833,7 @@ If you find that we are missing some important resources, please submit them [he
 <ul>
   <li><a href="https://www.fsb-tcfd.org/">Task Force on Climate-related Financial Disclosures</a></li>
   <li><a href="https://climatepolicyinitiative.org/">Climate Policy Initiative</a></li>
-  <li><a href="https://www.oecd.org/cgfi/">OECD Center on Green Finance and Investment</a> </li>
+  <li><a href="https://www.oecd.org/cgfi/">OECD Center on Green Finance and Investment</a></li>
 </ul>
 
 
