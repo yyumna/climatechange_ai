@@ -220,7 +220,6 @@ The ‘’metabolism’’ of a city includes the electricity used, waste genera
 #### Kaggle:
 
 - [Planet: Understanding the Amazon from space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)
-- [Forest Cover Type](https://www.kaggle.com/c/forest-cover-type-prediction) (doesn’t look super interesting)
 
 ### Interactive Resources
 
