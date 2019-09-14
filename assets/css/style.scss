@@ -15,6 +15,7 @@ $dark: black;
 @import "bulma-scss/grid/columns";
 @import "bulma-scss/components/_navbar";
 @import "bulma-scss/components/_panel";
+@import "bulma-scss/components/_card";
 
 .panel ul {
   padding-left: 1.5rem;
@@ -72,7 +73,7 @@ html, body {
 }
 
 .person__item {
-  border: 2px solid rgba(96, 108, 113, 0.75);
+  border: 2px solid rgba(96, 108, 113, 0.5);
   border-radius: 0.3rem;
   padding: 1rem;
   text-align: center;
@@ -126,4 +127,49 @@ html, body {
   display: block;
   height: auto;
   box-shadow: 0 2px 3px 0 rgba(0,0,0,.15);
+}
+
+.collapsible-header {
+  cursor: pointer;
+
+  h2, p {
+    margin: 0;
+  }
+
+  &:hover {
+    h2, p {
+      text-decoration: underline;
+    }
+  }
+
+  &:before {
+    content: "+";
+    font-size: 1.8em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    float: left; 
+    transition: transform 0.33s ease-in-out;
+  }
+}
+
+.collapsible.is-expanded .collapsible-header {
+  &:before {
+    transform: rotate(-225deg);
+  }
+}
+
+.collapsible-content {
+  max-height: 0;
+  height: auto;
+  overflow: hidden;
+  transition: max-height 0.33s;
+  padding: 0;
+
+  .collapsible-content-inner {
+    padding: 1.5rem;
+  }
+}
+
+.collapsible.is-expanded .collapsible-content {
+  max-height: 10000em;
 }
