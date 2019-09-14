@@ -5,6 +5,8 @@ description: 'Climate Change AI Resources'
 
 This page presents some readings, datasets, and tools for the areas outlined in our paper, <a href='https://arxiv.org/abs/1906.05433' target='_blank'>"Tackling Climate Change with Machine Learning."</a> These resources include general references about climate change, as well as resources organized by section of the paper.
 
+Note that most areas of impact do not yet have datasets publicly available. This represents a significant opportunity for work in acquiring applicable data and/or making it accessible.
+
 If you find that we are missing some important resources, please submit them through <a href='https://forms.gle/BEhx2XobiyP7nNh28' target='_blank'>this form</a>!
 <div class='card collapsible'>
   <header class='card-header collapsible-header'>
