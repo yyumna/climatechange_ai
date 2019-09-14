@@ -102,21 +102,17 @@ html, body {
   }
 }
 
-.person__item {
-  text-decoration: none !important;
-}
-
-.person__item:hover .person__name {
-  text-decoration: underline;
+.person__affil, .person__title {
+  font-size: small;
 }
 
 .person__title {
-  font-size: small;
-  text-decoration: none !important;
+  font-style: italic;
 }
 
 .person__item span {
   color: rgb(96, 108, 113);
+  display: block;
 }
 
 .person__name {
