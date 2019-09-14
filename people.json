@@ -1,16 +1,10 @@
 [
   {
-    "website_url": "https://scholar.google.com/citations?user=gYRSXpsAAAAJ",
-    "image_url": "images/people/narmadabalasooriya.jpeg",
-    "name": "Narmada Balasooriya",
-    "affiliation": "ConscientAI",
-    "committees": ["web"]
-  },
-  {
     "website_url": "http://www.davidrolnick.com",
     "image_url": "images/people/davidrolnick.jpg",
     "name": "David Rolnick",
     "affiliation": "University of Pennsylvania",
+    "title": "Chair",
     "committees": ["steering"]
   },
   {
@@ -18,6 +12,7 @@
     "image_url": "images/people/priyadonti.jpg",
     "name": "Priya L. Donti",
     "affiliation": "Carnegie Mellon University",
+    "title": "Co-Chair",
     "committees": ["steering"]
   },
   {
@@ -25,6 +20,7 @@
     "image_url": "images/people/lynnkaack.jpeg",
     "name": "Lynn H. Kaack",
     "affiliation": "ETH Zürich",
+    "title": "Co-Chair",
     "committees": ["steering"]
   },
   {
@@ -45,6 +41,7 @@
     "website_url": "https://mila.quebec/en/person/kris-sankaran/",
     "image_url": "images/people/krissankaran.jpg",
     "name": "Kris Sankaran",
+    "title": "Partnerships Chair",
     "affiliation": "Mila, Université de Montréal",
     "committees": ["steering"]
   },
@@ -52,8 +49,9 @@
     "website_url": "https://scholar.google.com/citations?user=Lf-StbQAAAAJ",
     "image_url": "images/people/andrew_ross.jpg",
     "name": "Andrew Slavin Ross",
+    "title": "Web Chair",
     "affiliation": "Harvard University",
-    "committees": ["steering", "web"]
+    "committees": ["steering"]
   },
   {
     "website_url": "https://www.mcc-berlin.net/en/about/team/milojevic-dupont-nikola.html",
@@ -70,25 +68,19 @@
     "committees": ["steering"]
   },
   {
-    "website_url": "https://www.annawab.com/",
-    "image_url": "images/people/annawb.jpg",
-    "name": "Anna Waldman-Brown",
-    "affiliation": "MIT",
-    "committees": ["steering"]
-  },
-  {
     "website_url": "https://www.sashaluccioni.com/",
     "image_url": "images/people/sashaluccioni.jpg",
     "name": "Sasha Luccioni",
+    "title": "Partnerships Chair",
     "affiliation": "Mila, Université de Montréal",
-    "committees": ["steering", "web"]
+    "committees": ["steering"]
   },
   {
     "website_url": "http://www.teganmaharaj.com",
     "image_url": "images/people/teganmaharaj.png",
     "name": "Tegan Maharaj",
     "affiliation": "Mila, Polytechnique Montréal",
-    "committees": ["steering", "web"]
+    "committees": ["steering"]
   },
   {
     "website_url": "https://www.evansherwin.com/",
@@ -126,13 +118,6 @@
     "committees": ["advisory"]
   },
   {
-    "website_url": "https://en.wikipedia.org/wiki/Demis_Hassabis",
-    "image_url": "images/people/Demis_Hassabis.jpg",
-    "name": "Demis Hassabis",
-    "affiliation": "DeepMind",
-    "committees": ["advisory"]
-  },
-  {
     "website_url": "http://koerding.com/",
     "image_url": "images/people/konradkording.jpg",
     "name": "Konrad P. Körding",
@@ -140,10 +125,10 @@
     "committees": ["advisory"]
   },
   {
-    "website_url": "https://www.linkedin.com/in/karthikmukkavilli",
-    "image_url": "images/people/karthikmukkavili.png",
-    "name": "S. Karthik Mukkavilli",
-    "affiliation": "Mila, Université de Montréal",
+    "website_url": "https://www.eye-on.ai",
+    "image_url": "images/people/craigsmith.jpg",
+    "name": "Craig Smith",
+    "affiliation": "Eye on AI",
     "committees": ["advisory"]
   },
   {

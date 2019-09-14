@@ -7,7 +7,6 @@ people = JSON.parse(File.read('people.json'))
 
 steering = people.select { |p| p['committees'].include? 'steering' }
 advisory = people.select { |p| p['committees'].include? 'advisory' }
-web_team = people.select { |p| p['committees'].include? 'web' }
 
 def to_html(p)
   <<-HTML
@@ -17,6 +16,10 @@ def to_html(p)
   </div>
   <span class="person__name">
     #{p['name']} (#{p['affiliation']})
+  </span>
+  #{'<br/>' if p['title']}
+  <span class="person__title">
+    #{p['title'] || ''}
   </span>
 </a>
   HTML
@@ -42,13 +45,5 @@ puts <<-HTML
 HTML
 
 puts advisory.map { |p| to_html(p) }.join("\n")
-
-puts <<-HTML
-</div>
-## Webmasters
-<div class="person__list">
-HTML
-
-puts web_team.map { |p| to_html(p) }.join("\n")
 
 puts "</div>"
