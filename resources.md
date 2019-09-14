@@ -3,9 +3,10 @@ layout: default
 description: 'Climate Change AI Resources'
 ---
 
-This page presents some readings, datasets and tools that are related to sections of the "Tackling Climate Change with Machine Learning" paper, organized by section of the paper (plus general readings).
+This page presents some readings, datasets, and tools for the areas outlined in our paper, <a href='https://arxiv.org/abs/1906.05433' target='_blank'>"Tackling Climate Change with Machine Learning."</a> These resources include general references about climate change, as well as resources organized by section of the paper.
 
-If you find that we are missing some important resources, please submit them [here](https://forms.gle/BEhx2XobiyP7nNh28)!
+If you find that we are missing some important resources, please submit them through <a href='https://forms.gle/BEhx2XobiyP7nNh28' target='_blank'>this form</a>!
+
 <div class='card collapsible'>
   <header class='card-header collapsible-header'>
     <p class='card-header-title'>0. General</p>
@@ -104,7 +105,7 @@ If you find that we are missing some important resources, please submit them [he
 
 <ul>
   <li><a href="https://cds.climate.copernicus.eu/cdsapp#!/dataset/satellite-methane?tab=overview">Global methane data</a></li>
-  <li><em>Also see satellite imagery listings under low-data settings</em></li>
+  <li><em>Also see satellite imagery listings under <a href="#low-data-settings">low-data settings</a></em></li>
 </ul>
 
 <h4 id="modeling-emissions">Modeling Emissions</h4>
@@ -268,7 +269,7 @@ If you find that we are missing some important resources, please submit them [he
 
 <h3 id="datasets-and-tools">Datasets and Tools</h3>
 
-<h4 id="buildings-energy-use">Buildings Energy Use</h4>
+<h4 id="buildings-energy-use">Building Energy Use</h4>
 
 <ul>
   <li><a href="https://data.cityofnewyork.us/City-Government/NYC-Municipal-Building-Energy-Benchmarking-Results/hpid-63r5">New York City  municipal buildings</a> for buildings over 10,000 square feet, identifying each building’s energy intensity, and available GHG emissions for the calendar years 2010-2014.</li>
