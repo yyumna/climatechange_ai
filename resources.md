@@ -366,7 +366,6 @@ If you find that we are missing some important resources, please submit them thr
 
 <ul>
   <li><a target="_blank" href="https://www.kaggle.com/c/planet-understanding-the-amazon-from-space">Planet: Understanding the Amazon from space</a></li>
-  <li><a target="_blank" href="https://www.kaggle.com/c/forest-cover-type-prediction">Forest Cover Type</a> (doesn’t look super interesting)</li>
 </ul>
 
 <h3 id="interactive-resources">Interactive Resources</h3>
