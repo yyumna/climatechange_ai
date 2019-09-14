@@ -4,7 +4,7 @@ For an overall introduction to the topic of climate change, we provide a (non-ex
 
 ### Background Reading
 
-#### On reasons for acting against climate change:
+#### On the problem of climate change:
 
 - Steffen, W., et al. [Trajectories of the Earth System in the Anthropocene.](https://www.pnas.org/content/pnas/115/33/8252.full.pdf) (2018)
 - Rockström, J., et al. [A safe operating space for humanity.](https://www.nature.com/articles/461472a) (2009)
