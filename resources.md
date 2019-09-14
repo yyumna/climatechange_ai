@@ -18,7 +18,7 @@ If you find that we are missing some important resources, please submit them thr
 
 <h3 id="background-reading">Background Reading</h3>
 
-<h4 id="on-reasons-for-acting-against-climate-change">On reasons for acting against climate change:</h4>
+<h4 id="on-the-problem-of-climate-change">On the problem of climate change:</h4>
 
 <ul>
   <li>Steffen, W., et al. <a target="_blank" href="https://www.pnas.org/content/pnas/115/33/8252.full.pdf">Trajectories of the Earth System in the Anthropocene.</a> (2018)</li>
