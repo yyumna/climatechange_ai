@@ -4,7 +4,7 @@ require 'kramdown'
 # To use, run `bundle exec ruby generate_resources_html.rb  > resources.md`
 
 def to_html(text)
-  Kramdown::Document.new(text).to_html
+  Kramdown::Document.new(text).to_html.gsub(/<a href="h/, '<a target="_blank" href="h')
 end
 
 intro = <<-HTML
@@ -13,9 +13,9 @@ layout: default
 description: 'Climate Change AI Resources'
 ---
 
-This page presents some readings, datasets and tools that are related to sections of the "Tackling Climate Change with Machine Learning" paper, organized by section of the paper (plus general readings).
+This page presents some readings, datasets, and tools for the areas outlined in our paper, <a href='https://arxiv.org/abs/1906.05433' target='_blank'>"Tackling Climate Change with Machine Learning."</a> These resources include general references about climate change, as well as resources organized by section of the paper.
 
-If you find that we are missing some important resources, please submit them [here](https://forms.gle/BEhx2XobiyP7nNh28)!
+If you find that we are missing some important resources, please submit them through <a href='https://forms.gle/BEhx2XobiyP7nNh28' target='_blank'>this form</a>!
 HTML
 
 f = File.read('resources_content.md')

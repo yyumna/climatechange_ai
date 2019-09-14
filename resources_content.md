@@ -62,7 +62,7 @@ For an overall introduction to the topic of climate change, we provide a (non-ex
 #### Reducing Life-cycle Fossil Fuel Emissions
 
 - [Global methane data](https://cds.climate.copernicus.eu/cdsapp#!/dataset/satellite-methane?tab=overview)
-- *Also see satellite imagery listings under low-data settings*
+- *Also see satellite imagery listings under [low-data settings](#low-data-settings)*
 
 #### Modeling Emissions
 
@@ -159,7 +159,7 @@ For an overall introduction to the topic of climate change, we provide a (non-ex
 
 ### Datasets and Tools
 
-#### Buildings Energy Use
+#### Building Energy Use
 
 - [New York City  municipal buildings](https://data.cityofnewyork.us/City-Government/NYC-Municipal-Building-Energy-Benchmarking-Results/hpid-63r5) for buildings over 10,000 square feet, identifying each building's energy intensity, and available GHG emissions for the calendar years 2010-2014.
 - [The Commercial Buildings Energy Consumption Survey (CBECS)](https://catalog.data.gov/dataset/commercial-buildings-energy-consumption-survey) is a national sample survey that collects information on the stock of U.S. commercial buildings, their energy-related building characteristics, and their energy consumption and expenditures.
