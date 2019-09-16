@@ -43,3 +43,21 @@ HTML
 puts advisory.map { |p| to_html(p) }.join("\n")
 
 puts "</div>"
+
+puts <<-HTML
+<div>
+  <button id='easter-egg' style='position: absolute; cursor: pointer; background: transparent; border: none !important; font-size:0; padding: 1rem; left: calc(100% - 2rem);'>easter egg!</button>
+
+  <script type='text/javascript'>
+    function anonymize(i) {
+      var img = document.getElementsByTagName('img')[i];
+      img.src = 'https://thispersondoesnotexist.com/image?dummy='+Math.random();
+      setTimeout(() => { anonymize(i+1) }, 3000)
+    }
+
+    document.getElementById('easter-egg').onclick = function() {
+      anonymize(0);
+    }
+  </script>
+</div>
+HTML
