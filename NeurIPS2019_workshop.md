@@ -102,7 +102,7 @@ Submissions for the Proposals track should describe detailed ideas for how machi
 
 We are excited to announce limited travel grants, sponsored by Microsoft Research. Travel grant applications can be submitted at <a href="https://forms.gle/Aq8EcV2VLD13LUov5" target="_blank">https://forms.gle/Aq8EcV2VLD13LUov5</a>, and are due October 3.
 
-We also encourage workshop participants to apply for <a href="https://neurips.cc/TravelApplication" target="_blank">NeurIPS 2019 travel grants</a> and other grants (e.g. <a href="https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/" target="_blank">Google Conference and Travel Scholarships</a>) for which they may be eligible. If you are aware of additional scholarships that may be relevant to workshop attendees, please contact the workshop organizers so we can make this information available.
+We also encourage workshop participants to apply for <a href="https://neurips.cc/" target="_blank">NeurIPS 2019 travel grants</a> and other grants (e.g. <a href="https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/" target="_blank">Google Conference and Travel Scholarships</a>) for which they may be eligible. If you are aware of additional scholarships that may be relevant to workshop attendees, please contact the workshop organizers so we can make this information available.
 
 
 ## Frequently Asked Questions
