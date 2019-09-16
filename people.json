@@ -27,7 +27,7 @@
     "website_url": "https://mila.quebec/en/person/kris-sankaran/",
     "image_url": "images/people/krissankaran.jpg",
     "name": "Kris Sankaran",
-    "title": "Partnerships Chair",
+    "title": "Partnerships",
     "affiliation": "Mila, U. de Montréal",
     "committees": ["steering"]
   },
@@ -35,7 +35,7 @@
     "website_url": "https://www.sashaluccioni.com/",
     "image_url": "images/people/sashaluccioni.jpg",
     "name": "Sasha Luccioni",
-    "title": "Partnerships Chair",
+    "title": "Partnerships",
     "affiliation": "Mila, U. de Montréal",
     "committees": ["steering"]
   },
@@ -43,7 +43,7 @@
     "website_url": "https://scholar.google.com/citations?user=Lf-StbQAAAAJ",
     "image_url": "images/people/andrew_ross.jpg",
     "name": "Andrew Slavin Ross",
-    "title": "Web Chair",
+    "title": "Website",
     "affiliation": "Harvard University",
     "committees": ["steering"]
   },

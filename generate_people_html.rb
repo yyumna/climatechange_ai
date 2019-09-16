@@ -14,9 +14,9 @@ def to_html(p)
   <div class="person__pic-wrapper">
     <img class="person__pic" src="#{p['image_url'].split(".")[0]}_200x200.jpg">
   </div>
-  <span class="person__name">#{p['name']}</span>
-  <span class="person__affil">#{p['affiliation']}</span>
-  <span class="person__title">#{p['title']}</span>
+  <div class="person__name">#{p['name']}</div>
+  <div class="person__affil">#{p['affiliation']}</div>
+  <div class="person__title">#{p['title']}</div>
 </a>
   HTML
 end
