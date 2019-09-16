@@ -27,7 +27,7 @@ NeurIPS (formerly written "NIPS") is one of the premier conferences on machine l
 
 ### Registration
 Those interested in attending the "Tackling Climate Change with Machine Learning" workshop should register for the "Workshops" component of NeurIPS at <https://neurips.cc/Register/view-registration>. 
-Registration for NeurIPS will be based on a <a href="https://neurips.cc/Conferences/2019/Press?article=2299" target="_blank">lottery</a> -- entry to the lottery must be made **between Sept. 6 and Sept. 20**. We encourage all workshop participants to register for this lottery, regardless of whether they are submitting. A full refund is available until Nov. 28.
+Registration for NeurIPS will be based on a <a href="https://neurips.cc/Conferences/2019/Press?article=2299" target="_blank">lottery</a> -- entry to the lottery must be made **between Sept. 6 and Sept. 25**. We encourage all workshop participants to register for this lottery, regardless of whether they are submitting. A full refund is available until Nov. 28.
 
 In addition, a limited number of tickets will be reserved for accepted submissions to the workshop. We will make these available to accepted authors who are not selected in the NeurIPS registration lottery.
 
