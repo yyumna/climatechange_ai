@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'People'
-description: Climate Change AI Organizers
+description: People
 ---
 
 ## Steering Committee
