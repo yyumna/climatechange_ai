@@ -32,7 +32,7 @@ Registration for NeurIPS will be based on a <a href="https://neurips.cc/Conferen
 In addition, a limited number of tickets will be reserved for accepted submissions to the workshop. We will make these available to accepted authors who are not selected in the NeurIPS registration lottery.
 
 ## About the workshop
- - Date:  Friday, December 13 or Saturday, December 14, 2019
+ - Date:  Saturday, December 14, 2019
  - Location:   Vancouver, British Columbia, Canada
  - Submission deadline:  <s>September 11, 11:59 PM Pacific Time</s>
  - Notification:  October 1
