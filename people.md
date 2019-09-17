@@ -24,7 +24,7 @@ description: Climate Change AI Organizers
   <div class="person__title">Co-Chair</div>
 </a>
 
-<a class="person__item" href="https://scholar.google.fr/citations?user=jsy-VxMAAAAJ" target="_blank">
+<a class="person__item" href="https://epg.ethz.ch/people/senior-researchers/dr--lynn-kaack.html" target="_blank">
   <div class="person__pic-wrapper">
     <img class="person__pic" src="images/people/lynnkaack_200x200.jpg">
   </div>
