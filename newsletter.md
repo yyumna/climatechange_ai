@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Climate Change AI Newsletter
+# Newsletter
 
 <a href='./mailing_list'>Sign up</a> to receive our newsletter and important updates by email.
 
