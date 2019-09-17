@@ -170,6 +170,7 @@ Evan Sherwin (Stanford) <br>
 Femke van Geffen (FU Berlin) <br>
 Gege Wen (Stanford) <br>
 George Chen (CMU) <br>
+Greg Schivley (Carbon Impact Consulting) <br>
 Han Zou (UC Berkeley) <br>
 Hari Prasanna Das (UC Berkeley) <br>
 Hillary Scannell (University of Washington) <br>
@@ -185,6 +186,7 @@ Kevin McCloskey (Google) <br>
 Kris Sankaran (Mila) <br>
 Lea Boche (EPRI) <br>
 Loubna	Benabbou (Mohammadia School of Engineering, Mohammed V University) <br>
+Mahdi Jamei (Invenia Labs) <br>
 Max Callaghan (MCC Berlin) <br>
 Mayur Mudigonda (UC Berkeley) <br>
 Melrose Roderick (CMU) <br>
