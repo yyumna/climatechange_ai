@@ -110,9 +110,6 @@ We also encourage workshop participants to apply for <a href="https://neurips.cc
 **Q:** How can I keep up to date on this kind of stuff?   
 **A:** Sign up for our mailing list! <https://www.climatechange.ai/mailing_list.html>
 
-**Q:** What is the date of the workshop / when will we know?  
-**A:** The workshop will be either Friday, December 13 or Saturday, December 14. We will update this page when the date is confirmed; according to the NeurIPS organizers this should be in the next few weeks.
-
 **Q:** I’m not in machine learning. Can I still submit?  
 **A:** Yes, absolutely!  We welcome submissions from many fields. Do bear in mind, however, that the majority of attendees of the workshop will have a machine learning background; therefore, other fields should be introduced sufficiently to provide context for the work.
 
