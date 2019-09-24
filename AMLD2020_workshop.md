@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Tackling Climate Change <br>with Machine Learning'
-description: 'Applied Machine Learning Days 2020 Conference Track <br>AI & Climate Change'
+description: 'Applied Machine Learning Days 2020:<br>AI & Climate Change Conference Track'
 ---
 
 
