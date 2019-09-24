@@ -46,6 +46,11 @@ For an overall introduction to the topic of climate change, we provide a (non-ex
 
 ### Datasets and Tools
 
+#### General
+
+- [Public Utility Data Liberation (PUDL) Project](https://catalyst.coop/pudl/)
+- US independent system operators/regional transmission organizations (ISOs/RTOs): [CAISO](http://www.caiso.com/TodaysOutlook/Pages/prices.aspx), [ERCOT](http://www.ercot.com/gridinfo), [ISO-NE](https://www.iso-ne.com/markets-operations), [MISO](https://www.misoenergy.org/markets-and-operations/), [NYISO](https://www.nyiso.com/energy-market-operational-data), [PJM](https://dataminer2.pjm.com/list), and [SPP](https://marketplace.spp.org/)  
+
 #### Variable Generation and Demand Forecasting
 
 - [Global Energy Forecasting Competition](http://www.drhongtao.com/gefcom)
@@ -66,7 +71,6 @@ For an overall introduction to the topic of climate change, we provide a (non-ex
 
 #### Modeling Emissions
 
-- [Public Utility Data Liberation (PUDL) Project](https://catalyst.coop/pudl/)
 - [US Environmental Protection Agency's Continuous Emissions Monitoring data](https://ampd.epa.gov/ampd/) or [ftp://newftp.epa.gov/DMDnLoad/emissions/](ftp://newftp.epa.gov/DMDnLoad/emissions/)
 - [ElectricityMap data source](https://github.com/tmrowco/electricitymap-contrib#data-sources)
 

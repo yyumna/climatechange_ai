@@ -5,8 +5,6 @@ description: 'Climate Change AI Resources'
 
 This page presents some readings, datasets, and tools for the areas outlined in our paper, <a href='https://arxiv.org/abs/1906.05433' target='_blank'>"Tackling Climate Change with Machine Learning."</a> These resources include general references about climate change, as well as resources organized by section of the paper.
 
-Note that most areas of impact do not yet have datasets publicly available. This represents a significant opportunity for work in acquiring applicable data and/or making it accessible.
-
 If you find that we are missing some important resources, please submit them through <a href='https://forms.gle/BEhx2XobiyP7nNh28' target='_blank'>this form</a>!
 <div class='card collapsible'>
   <header class='card-header collapsible-header'>
@@ -85,6 +83,13 @@ If you find that we are missing some important resources, please submit them thr
 
 <h3 id="datasets-and-tools">Datasets and Tools</h3>
 
+<h4 id="general">General</h4>
+
+<ul>
+  <li><a target="_blank" href="https://catalyst.coop/pudl/">Public Utility Data Liberation (PUDL) Project</a></li>
+  <li>US independent system operators/regional transmission organizations (ISOs/RTOs): <a target="_blank" href="http://www.caiso.com/TodaysOutlook/Pages/prices.aspx">CAISO</a>, <a target="_blank" href="http://www.ercot.com/gridinfo">ERCOT</a>, <a target="_blank" href="https://www.iso-ne.com/markets-operations">ISO-NE</a>, <a target="_blank" href="https://www.misoenergy.org/markets-and-operations/">MISO</a>, <a target="_blank" href="https://www.nyiso.com/energy-market-operational-data">NYISO</a>, <a target="_blank" href="https://dataminer2.pjm.com/list">PJM</a>, and <a target="_blank" href="https://marketplace.spp.org/">SPP</a></li>
+</ul>
+
 <h4 id="variable-generation-and-demand-forecasting">Variable Generation and Demand Forecasting</h4>
 
 <ul>
@@ -112,7 +117,6 @@ If you find that we are missing some important resources, please submit them thr
 <h4 id="modeling-emissions">Modeling Emissions</h4>
 
 <ul>
-  <li><a target="_blank" href="https://catalyst.coop/pudl/">Public Utility Data Liberation (PUDL) Project</a></li>
   <li><a target="_blank" href="https://ampd.epa.gov/ampd/">US Environmental Protection Agency’s Continuous Emissions Monitoring data</a> or <a href="ftp://newftp.epa.gov/DMDnLoad/emissions/">ftp://newftp.epa.gov/DMDnLoad/emissions/</a></li>
   <li><a target="_blank" href="https://github.com/tmrowco/electricitymap-contrib#data-sources">ElectricityMap data source</a></li>
 </ul>
