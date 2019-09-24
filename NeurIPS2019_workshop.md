@@ -27,12 +27,12 @@ NeurIPS (formerly written "NIPS") is one of the premier conferences on machine l
 
 ### Registration
 Those interested in attending the "Tackling Climate Change with Machine Learning" workshop should register for the "Workshops" component of NeurIPS at <https://neurips.cc/Register/view-registration>. 
-Registration for NeurIPS will be based on a <a href="https://neurips.cc/Conferences/2019/Press?article=2299" target="_blank">lottery</a> -- entry to the lottery must be made **between Sept. 6 and Sept. 20**. We encourage all workshop participants to register for this lottery, regardless of whether they are submitting. A full refund is available until Nov. 28.
+Registration for NeurIPS will be based on a <a href="https://neurips.cc/Conferences/2019/Press?article=2299" target="_blank">lottery</a> -- entry to the lottery must be made **between Sept. 6 and Sept. 25**. We encourage all workshop participants to register for this lottery, regardless of whether they are submitting. A full refund is available until Nov. 28.
 
 In addition, a limited number of tickets will be reserved for accepted submissions to the workshop. We will make these available to accepted authors who are not selected in the NeurIPS registration lottery.
 
 ## About the workshop
- - Date:  Friday, December 13 or Saturday, December 14, 2019
+ - Date:  Saturday, December 14, 2019
  - Location:   Vancouver, British Columbia, Canada
  - Submission deadline:  <s>September 11, 11:59 PM Pacific Time</s>
  - Notification:  October 1
@@ -102,16 +102,13 @@ Submissions for the Proposals track should describe detailed ideas for how machi
 
 We are excited to announce limited travel grants, sponsored by Microsoft Research. Travel grant applications can be submitted at <a href="https://forms.gle/Aq8EcV2VLD13LUov5" target="_blank">https://forms.gle/Aq8EcV2VLD13LUov5</a>, and are due October 3.
 
-We also encourage workshop participants to apply for <a href="https://neurips.cc/TravelApplication" target="_blank">NeurIPS 2019 travel grants</a> and other grants (e.g. <a href="https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/" target="_blank">Google Conference and Travel Scholarships</a>) for which they may be eligible. If you are aware of additional scholarships that may be relevant to workshop attendees, please contact the workshop organizers so we can make this information available.
+We also encourage workshop participants to apply for <a href="https://neurips.cc/" target="_blank">NeurIPS 2019 travel grants</a> and other grants (e.g. <a href="https://buildyourfuture.withgoogle.com/scholarships/google-travel-scholarships/" target="_blank">Google Conference and Travel Scholarships</a>) for which they may be eligible. If you are aware of additional scholarships that may be relevant to workshop attendees, please contact the workshop organizers so we can make this information available.
 
 
 ## Frequently Asked Questions
 
 **Q:** How can I keep up to date on this kind of stuff?   
 **A:** Sign up for our mailing list! <https://www.climatechange.ai/mailing_list.html>
-
-**Q:** What is the date of the workshop / when will we know?  
-**A:** The workshop will be either Friday, December 13 or Saturday, December 14. We will update this page when the date is confirmed; according to the NeurIPS organizers this should be in the next few weeks.
 
 **Q:** I’m not in machine learning. Can I still submit?  
 **A:** Yes, absolutely!  We welcome submissions from many fields. Do bear in mind, however, that the majority of attendees of the workshop will have a machine learning background; therefore, other fields should be introduced sufficiently to provide context for the work.
@@ -173,6 +170,7 @@ Evan Sherwin (Stanford) <br>
 Femke van Geffen (FU Berlin) <br>
 Gege Wen (Stanford) <br>
 George Chen (CMU) <br>
+Greg Schivley (Carbon Impact Consulting) <br>
 Han Zou (UC Berkeley) <br>
 Hari Prasanna Das (UC Berkeley) <br>
 Hillary Scannell (University of Washington) <br>
@@ -188,6 +186,7 @@ Kevin McCloskey (Google) <br>
 Kris Sankaran (Mila) <br>
 Lea Boche (EPRI) <br>
 Loubna	Benabbou (Mohammadia School of Engineering, Mohammed V University) <br>
+Mahdi Jamei (Invenia Labs) <br>
 Max Callaghan (MCC Berlin) <br>
 Mayur Mudigonda (UC Berkeley) <br>
 Melrose Roderick (CMU) <br>
