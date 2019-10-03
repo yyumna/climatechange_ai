@@ -129,7 +129,6 @@ For an overall introduction to the topic of climate change, we provide a (non-ex
 ### Background Reading
 
 - [IPCC AR5 Chapter on Transportation](https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_chapter8.pdf)
-- Schaeffer, R. et al. [Transport](https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_chapter8.pdf) (Fifth Assessment Report of the Intergovernmental Panel on Climate Change) (2014)
 - Creutzig, F. et al. [Leveraging digitalization for sustainability in urban transport.](https://www.cambridge.org/core/journals/global-sustainability/article/leveraging-digitalization-for-sustainability-in-urban-transport/9322C52E379793B7C4A41682EC99DB6A) (2019)
 - Kaack L. et al. [Decarbonizing intraregional freight systems with a focus on modal shift.](https://iopscience.iop.org/article/10.1088/1748-9326/aad56c/meta) 2018.
 - Teter, J. et al. [The Future of Trucks](https://www.iea.org/publications/freepublications/publication/TheFutureofTrucksImplicationsforEnergyandtheEnvironment.pdf) (2017)

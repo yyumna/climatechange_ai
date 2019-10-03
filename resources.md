@@ -220,7 +220,6 @@ If you find that we are missing some important resources, please submit them thr
 
 <ul>
   <li><a target="_blank" href="https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_chapter8.pdf">IPCC AR5 Chapter on Transportation</a></li>
-  <li>Schaeffer, R. et al. <a target="_blank" href="https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_chapter8.pdf">Transport</a> (Fifth Assessment Report of the Intergovernmental Panel on Climate Change) (2014)</li>
   <li>Creutzig, F. et al. <a target="_blank" href="https://www.cambridge.org/core/journals/global-sustainability/article/leveraging-digitalization-for-sustainability-in-urban-transport/9322C52E379793B7C4A41682EC99DB6A">Leveraging digitalization for sustainability in urban transport.</a> (2019)</li>
   <li>Kaack L. et al. <a target="_blank" href="https://iopscience.iop.org/article/10.1088/1748-9326/aad56c/meta">Decarbonizing intraregional freight systems with a focus on modal shift.</a> 2018.</li>
   <li>Teter, J. et al. <a target="_blank" href="https://www.iea.org/publications/freepublications/publication/TheFutureofTrucksImplicationsforEnergyandtheEnvironment.pdf">The Future of Trucks</a> (2017)</li>
