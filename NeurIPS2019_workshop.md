@@ -35,7 +35,7 @@ In addition, a limited number of tickets will be reserved for accepted submissio
  - Date:  Saturday, December 14, 2019
  - Location:   Vancouver, British Columbia, Canada
  - Submission deadline:  <s>September 11, 11:59 PM Pacific Time</s>
- - Notification:  October 1
+ - Notification:  <s>October 1</s>
  - Submission website: <https://cmt3.research.microsoft.com/CCAINeurIPS2019>
  - Registration: <https://neurips.cc/Register/view-registration> ("Workshops" component)
  - Contact: <climatechangeai.neurips2019@gmail.com>
@@ -149,6 +149,7 @@ We also encourage workshop participants to apply for <a href="https://neurips.cc
 <a href="https://scholar.google.fr/citations?user=jsy-VxMAAAAJ" target="_blank">Lynn Kaack (ETH Zürich)</a> <br>
 <a href="https://scholar.google.com/citations?user=71a2-WMAAAAJ&hl=en" target="_blank">Alexandre Lacoste (Element AI)</a> <br>
 <a href="http://www.teganmaharaj.com" target="_blank">Tegan Maharaj (Mila)</a> <br>
+<a href="http://www.robotics.stanford.edu/~ang/index.html" target="_blank">Andrew Ng (Stanford)</a> <br>
 <a href="https://ai.google/research/people/JohnPlatt" target="_blank">John Platt (Google AI)</a> <br>
 <a href="https://www.microsoft.com/en-us/research/people/jchayes/" target="_blank">Jennifer Chayes (Microsoft Research)</a> <br>
 <a href="https://mila.quebec/en/yoshua-bengio/" target="_blank">Yoshua Bengio (Mila)</a> <br>
