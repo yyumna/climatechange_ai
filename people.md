@@ -188,6 +188,33 @@ description: People
   <div class="person__title"></div>
 </a>
 
+<a class="person__item" href="http://zicokolter.com/" target="_blank">
+  <div class="person__pic-wrapper">
+    <img class="person__pic" src="images/people/zicokolter_200x200.jpg">
+  </div>
+  <div class="person__name">Zico Kolter</div>
+  <div class="person__affil">Carnegie Mellon</div>
+  <div class="person__title"></div>
+</a>
+
+<a class="person__item" href="https://ines.stanford.edu" target="_blank">
+  <div class="person__pic-wrapper">
+    <img class="person__pic" src="images/people/inesazevedo_200x200.jpg">
+  </div>
+  <div class="person__name">Inês Azevedo</div>
+  <div class="person__affil">Stanford University</div>
+  <div class="person__title"></div>
+</a>
+
+<a class="person__item" href="https://epg.ethz.ch/people/group-head/prof--dr--tobias-schmidt.html" target="_blank">
+  <div class="person__pic-wrapper">
+    <img class="person__pic" src="images/people/tobiasschmidt_200x200.jpg">
+  </div>
+  <div class="person__name">Tobias Schmidt</div>
+  <div class="person__affil">ETH Zürich</div>
+  <div class="person__title"></div>
+</a>
+
 <a class="person__item" href="https://www.eye-on.ai" target="_blank">
   <div class="person__pic-wrapper">
     <img class="person__pic" src="images/people/craigsmith_200x200.jpg">
