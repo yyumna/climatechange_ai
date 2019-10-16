@@ -146,6 +146,27 @@
     "committees": ["advisory"]
   },
   {
+    "name": "Zico Kolter",
+    "website_url":"http://zicokolter.com/",
+    "image_url": "images/people/zicokolter.jpg",
+    "affiliation": "Carnegie Mellon",
+    "committees": ["advisory"]
+  },
+  {
+    "name": "Inês Azevedo",
+    "website_url": "https://ines.stanford.edu",
+    "image_url": "images/people/inesazevedo.jpg",
+    "affiliation": "Stanford University",
+    "committees": ["advisory"]
+  },
+  {
+    "name": "Tobias Schmidt",
+    "website_url": "https://epg.ethz.ch/people/group-head/prof--dr--tobias-schmidt.html",
+    "image_url": "images/people/tobiasschmidt.jpg",
+    "affiliation": "ETH Zürich",
+    "committees": ["advisory"]
+  },
+  {
     "website_url": "https://www.eye-on.ai",
     "image_url": "images/people/craigsmith.jpg",
     "name": "Craig Smith",
