@@ -24,7 +24,7 @@ AMLD is a five-day conference of talks, tutorials & workshops on applied machine
 ## About the track
 - Date: January 27 (afternoon) and 28 (morning), 2020
 - Location: SwissTech Convention Center, Lausanne, Switzerland
-- Submission site (through AMLD): <https://www.appliedmldays.org/call-presentations-posters>
+- Submission site (through AMLD): <https://appliedmldays.org/calls/presentations-posters>
 - Submission deadline: Friday November 1st, 2019, 23:59 UTC
 - Contact: <lynn.kaack@gess.ethz.ch> and <milojevic@mcc-berlin.net>
 
