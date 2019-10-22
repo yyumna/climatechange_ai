@@ -30,7 +30,7 @@ AMLD is a five-day conference of talks, tutorials & workshops on applied machine
 
 
 ## Call for submissions through the AMLD conference
-The call for submissions of presentations and posters through the AMLD conference is now open. You can submit directly to our track by choosing it from the dropdown menu on the AMLD submission <a href="https://www.appliedmldays.org/call-presentations-posters" target="_blank">website</a>. We invite submissions of work using machine learning to address problems in climate mitigation, adaptation, or modeling, including but not limited to the following topics:
+The call for submissions of presentations and posters through the AMLD conference is now open. You can submit directly to our track by choosing it from the dropdown menu on the AMLD submission <a href="https://appliedmldays.org/calls/presentations-posters" target="_blank">website</a>. We invite submissions of work using machine learning to address problems in climate mitigation, adaptation, or modeling, including but not limited to the following topics:
 
  - Power generation and grids
  - Transportation
