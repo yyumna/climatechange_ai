@@ -17,7 +17,6 @@ layout: default
 <div id="mc_embed_signup">
 <form action="https://climatechange.us3.list-manage.com/subscribe/post?u=a5463f28627a77a4b2a79e7d0&amp;id=e28537c7a1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Mailing list for Climate Change AI</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group field">
 	<label for="mce-MMERGE7" class="label">Name (optional) </label>
@@ -307,3 +306,7 @@ layout: default
 </div>
 
 <!--End mc_embed_signup-->
+
+<p>
+If the sign-up form isn't appearing above this message, you can also sign up <a href='https://climatechange.us3.list-manage.com/subscribe?u=a5463f28627a77a4b2a79e7d0&id=e28537c7a1' target='_blank'>here</a>.
+</p>
