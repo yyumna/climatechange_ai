@@ -5,33 +5,43 @@ layout: default
 # Newsletter Sign Up
 
 <!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	#mc_embed_signup form, #mc_embed_signup .mc-field-group{ padding: 0; }
-  #mc_embed_signup input[type='checkbox']{ margin-right: 5px; }
-  #mc_embed_signup .indicates-required { float: right; }
-	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+#mc_embed_signup .indicates-required {text-align:right; font-size:11px; margin-right:4%;}
+#mc_embed_signup .asterisk {color:#e85c41; font-size:150%; font-weight:normal; position:relative; top:5px;}
+#mc_embed_signup div#mce-responses {float:left; top:-1.4em; padding:0em .5em 0em .5em; overflow:hidden; width:90%; margin: 0 5%; clear: both;}
+#mc_embed_signup div.response {margin:1em 0; padding:1em .5em .5em 0; font-weight:bold; float:left; top:-1.5em; z-index:1; width:80%;}
+#mc_embed_signup #mce-error-response {display:none;}
+#mc_embed_signup #mce-success-response {color:#529214; display:none;}
+#mc_embed_signup label.error {display:block; float:none; width:auto; margin-left:1.05em; text-align:left; padding:.5em 0;}
+#mc_embed_signup .clear {clear:both;}
+#mc_embed_signup #num-subscribers {font-size:1.1em;}
+#mc_embed_signup #num-subscribers span {padding:.5em; border:1px solid #ccc; margin-right:.5em; font-weight:bold;}
+#mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {display:inline-block; margin:2px 0 1em 0; padding:5px 10px; background-color:rgba(255,255,255,0.85); -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; font-size:14px; font-weight:normal; z-index:1; color:#e85c41;}
+#mc_embed_signup #mc-embedded-subscribe-form input.mce_inline_error {border:2px solid #e85c41;}
+#mc_embed_signup form, #mc_embed_signup .mc-field-group{ padding: 0; }
+#mc_embed_signup input[type='checkbox']{ margin-right: 5px; }
+#mc_embed_signup .indicates-required { float: right; }
 </style>
+
 <div id="mc_embed_signup">
 <form action="https://climatechange.us3.list-manage.com/subscribe/post?u=a5463f28627a77a4b2a79e7d0&amp;id=e28537c7a1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group field">
-	<label for="mce-MMERGE7" class="label">Name (optional) </label>
-	<input type="text" value="" name="MMERGE7" class="input" id="mce-MMERGE7">
+    <label for="mce-MMERGE7" class='label'>Name (optional) </label>
+    <input type="text" value="" name="MMERGE7" class="input" id="mce-MMERGE7">
 </div>
 <div class="mc-field-group field">
-	<label for="mce-EMAIL" class="label">Email Address  <span class="asterisk">*</span>
+    <label for="mce-EMAIL" class='label'>Email Address  <span class="asterisk">*</span>
 </label>
-	<input type="email" value="" name="EMAIL" class="required email input" id="mce-EMAIL">
+    <input type="email" value="" name="EMAIL" class="required email input" id="mce-EMAIL">
 </div>
 <div class="mc-field-group field">
-	<label for="mce-MMERGE3" class="label">Location (optional) </label>
-	<select name="MMERGE3" class="select" id="mce-MMERGE3">
-	<option value=""></option>
-	<option value="- Select an option -">- Select an option -</option>
+    <label for="mce-MMERGE3" class='label'>Location (optional) </label>
+    <div class='select'>
+    <select name="MMERGE3" class="" id="mce-MMERGE3">
+    <option value=""></option>
+    <option value="- Select an option -">- Select an option -</option>
 <option value="United States of America">United States of America</option>
 <option value="Aaland Islands">Aaland Islands</option>
 <option value="Afghanistan">Afghanistan</option>
@@ -283,28 +293,30 @@ layout: default
 <option value="Yemen">Yemen</option>
 <option value="Zambia">Zambia</option>
 <option value="Zimbabwe">Zimbabwe</option>
-
-	</select>
+    </select></div>
+</div>
+<div class="mc-field-group field">
+    <label for="mce-MMERGE1" class="label">Affiliation (optional) </label>
+    <input type="text" value="" name="MMERGE1" class="input" id="mce-MMERGE1">
 </div>
 <div class="mc-field-group input-group field">
     <label class='label'>Background (optional) </label>
     <ul><li><input type="checkbox" value="1" name="group[25441][1]" id="mce-group[25441]-25441-0"><label for="mce-group[25441]-25441-0">Machine learning / AI / tech</label></li>
-<li><input type="checkbox" value="2" name="group[25441][2]" id="mce-group[25441]-25441-1"><label class='checkbox' for="mce-group[25441]-25441-1">Climate science / mitigation / adaptation</label></li>
-<li><input type="checkbox" value="4" name="group[25441][4]" id="mce-group[25441]-25441-2"><label class='checkbox' for="mce-group[25441]-25441-2">Other science / engineering</label></li>
-<li><input type="checkbox" value="8" name="group[25441][8]" id="mce-group[25441]-25441-3"><label class='checkbox' for="mce-group[25441]-25441-3">Economics / finance / public policy</label></li>
-<li><input type="checkbox" value="16" name="group[25441][16]" id="mce-group[25441]-25441-4"><label class='checkbox' for="mce-group[25441]-25441-4">Other</label></li>
+<li><input type="checkbox" value="2" name="group[25441][2]" id="mce-group[25441]-25441-1"><label for="mce-group[25441]-25441-1">Climate science / mitigation / adaptation</label></li>
+<li><input type="checkbox" value="4" name="group[25441][4]" id="mce-group[25441]-25441-2"><label for="mce-group[25441]-25441-2">Other science / engineering</label></li>
+<li><input type="checkbox" value="8" name="group[25441][8]" id="mce-group[25441]-25441-3"><label for="mce-group[25441]-25441-3">Economics / finance / public policy</label></li>
+<li><input type="checkbox" value="16" name="group[25441][16]" id="mce-group[25441]-25441-4"><label for="mce-group[25441]-25441-4">Other</label></li>
 </ul>
 </div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div id="mce-responses" class="clear">
+        <div class="response" id="mce-error-response" style="display:none"></div>
+        <div class="response" id="mce-success-response" style="display:none"></div>
+    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a5463f28627a77a4b2a79e7d0_e28537c7a1" tabindex="-1" value=""></div>
     <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
-
 <!--End mc_embed_signup-->
 
 <p>
