@@ -64,6 +64,20 @@ body {
   background-image: url('https://eoimages.gsfc.nasa.gov/images/imagerecords/90000/90008/asia_vir_2016.jpg');
 }
 
+@media screen and (max-width: 1023px) {
+ .navbar.is-fixed-top .navbar-menu, .navbar.is-fixed-top-touch .navbar-menu {
+   max-height: calc(100vh - 68px - 2rem);
+ }
+
+ .navbar-brand h1 {
+   font-size: 1.5rem;
+ }
+
+ body {
+   padding-top: calc(5rem - 12px);
+ }
+}
+
 html, body {
     height:100%;
     width:100%;
