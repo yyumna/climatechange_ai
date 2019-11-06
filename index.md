@@ -32,7 +32,7 @@ Climate change is one of the greatest problems society has ever faced, with incr
   <div class='column'>
     <div class='panel'>
       <div class='panel-heading'>TEAM UP</div>
-      <div class='panel-block' style='display: block'>Looking for opportunities, have opportunities to share, or want to sponsor Climate Change AI? <a href='mailto:climatechangeai@gmail.com'>Email us!</a>
+      <div class='panel-block' style='display: block'>Looking for opportunities, have opportunities to share, or want to sponsor Climate Change AI? <a href='mailto:info@climatechange.ai'>Email us!</a>
     </div>
   </div>
 </div>
