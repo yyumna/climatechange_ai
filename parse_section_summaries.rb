@@ -24,6 +24,10 @@ data = f.split(/^#/m)[1..-1].map(&:strip).map { |section|
         key = key_dict.fetch(key.strip, key.strip.downcase.gsub(/\s+/, '_'))
         if key.include?('_keywords') || key.include?('_flags')
           val = val.to_s.split(', ').map(&:strip)
+        elsif key == 'pdf_location' && val.start_with?('page=')
+          page, zoom = val.split('&')
+          z1, z2, z3 = zoom.split('=')[1].split(',')
+          val = "#{page}&zoom=auto,0,#{(800-0.75*z3.to_i).to_i}"
         else
           val = val.to_s.strip
         end

@@ -97,15 +97,15 @@ $(document).ready(function() {
 
         let pdfLink;
         if (ss.pdf_location) {
-          pdfLink = `https://arxiv.org/pdf/1906.05433.pdf#${ss.pdf_location.replace(/&zoom=.*$/gi, "")}`;
+          pdfLink = `/paper.html#${ss.pdf_location}`;
         } else if (ss.section_number) {
           const level = ss.section_number.split(".").length;
           if (level == 3) {
-            pdfLink = `https://arxiv.org/pdf/1906.05433.pdf#subsubsection.${ss.section_number}`;
+            pdfLink = `/paper.html#subsubsection.${ss.section_number}`;
           } else if (level == 2) {
-            pdfLink = `https://arxiv.org/pdf/1906.05433.pdf#subsection.${ss.section_number}`;
+            pdfLink = `/paper.html#subsection.${ss.section_number}`;
           } else if (level == 1) {
-            pdfLink = `https://arxiv.org/pdf/1906.05433.pdf#section.${ss.section_number}`;
+            pdfLink = `/paper.html#section.${ss.section_number}`;
           } else {
             console.log(`WARNING: missing pdf link for ${s.title} > ${ss.title}`);
           }
