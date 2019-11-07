@@ -247,7 +247,7 @@ function getViewerConfiguration() {
     },
     printContainer: document.getElementById('printContainer'),
     openFileInputName: 'fileInput',
-    debuggerScriptPath: './debugger.js'
+    debuggerScriptPath: '/pdfjs/web/debugger.js'
   };
 }
 
@@ -4247,7 +4247,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: 'compressed.tracemonkey-pldi-09.pdf',
+    value: '/paper.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
@@ -4287,7 +4287,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   imageResourcesPath: {
-    value: './images/',
+    value: '/pdfjs/web/images/',
     kind: OptionKind.VIEWER
   },
   maxCanvasPixels: {
@@ -4336,7 +4336,7 @@ var defaultOptions = {
     kind: OptionKind.API
   },
   cMapUrl: {
-    value: '../web/cmaps/',
+    value: '/pdfjs/web/cmaps/',
     kind: OptionKind.API
   },
   disableAutoFetch: {
@@ -4385,7 +4385,7 @@ var defaultOptions = {
     kind: OptionKind.WORKER
   },
   workerSrc: {
-    value: '../build/pdf.worker.js',
+    value: '/pdfjs/build/pdf.worker.js',
     kind: OptionKind.WORKER
   }
 };
@@ -4493,7 +4493,7 @@ var pdfjsLib;
 if (typeof window !== 'undefined' && window['pdfjs-dist/build/pdf']) {
   pdfjsLib = window['pdfjs-dist/build/pdf'];
 } else {
-  pdfjsLib = require('../build/pdf.js');
+  pdfjsLib = require('/pdfjs/build/pdf.js');
 }
 
 module.exports = pdfjsLib;
