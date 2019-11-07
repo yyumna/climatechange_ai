@@ -113,6 +113,22 @@ $(document).ready(function() {
           console.log(`WARNING: missing pdf link for ${s.title} > ${ss.title}`);
         }
 
+        function documentWidth() {
+          return Math.max(
+            document.body.scrollWidth,
+            document.documentElement.scrollWidth,
+            document.body.offsetWidth,
+            document.documentElement.offsetWidth,
+            document.documentElement.clientWidth
+          );
+        }
+
+        try {
+          if (pdfLink && documentWidth() <= 650) {
+            pdfLink += "&pagemode=none";
+          }
+        } catch {}
+
         html += `
           <div class="subsection card clearfix"
             data-section='${JSON.stringify([s.title])}'
