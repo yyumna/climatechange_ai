@@ -7,7 +7,7 @@ description: 'Get Involved'
 Want to get involved in tackling climate change with machine learning? Check out our recommendations below.
 
 ### Learn more
-* Read our <a href="https://arxiv.org/pdf/1906.05433.pdf" target="_blank">paper</a> and/or the <a href="https://www.climatechange.ai/summaries.html" target="_blank">interactive summary</a>.
+* Read our <a href="/paper" target="_blank">paper</a> and/or the <a href="https://www.climatechange.ai/summaries.html" target="_blank">interactive summary</a>.
 * Check out our <a href="https://www.climatechange.ai/resources.html" target="_blank">resources page</a> for background materials and datasets to explore.
 * Start a reading group at your institution.
 
