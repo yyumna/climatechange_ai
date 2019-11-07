@@ -3,4 +3,4 @@ description: Tackling climate change with machine learning
 theme: jekyll-theme-cayman
 google_analytics: UA-142136893-1
 exclude: resources_content.md
-
+paper_url: /paper

@@ -3,7 +3,7 @@ layout: default
 description: 'Resources'
 ---
 
-This page presents some readings, datasets, and tools for the areas outlined in our paper, <a href='https://arxiv.org/abs/1906.05433' target='_blank'>"Tackling Climate Change with Machine Learning."</a> These resources include general references about climate change, as well as resources organized by section of the paper.
+This page presents some readings, datasets, and tools for the areas outlined in our paper, <a href='{{ site.paper_url }}' target='_blank'>"Tackling Climate Change with Machine Learning."</a> These resources include general references about climate change, as well as resources organized by section of the paper.
 
 If you find that we are missing some important resources, please submit them through <a href='https://forms.gle/BEhx2XobiyP7nNh28' target='_blank'>this form</a>!
 <div class='card collapsible'>
