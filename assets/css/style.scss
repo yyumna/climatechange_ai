@@ -216,6 +216,14 @@ html, body {
   }
 }
 
+@media screen and (max-width: 650px) {
+  .collapsible-header {
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+
 .is-expanded .collapsible-header {
   &:before {
     transform: rotate(-225deg);
