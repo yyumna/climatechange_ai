@@ -19,6 +19,14 @@ $dark: black;
 @import "bulma-scss/elements/_button";
 @import "bulma-scss/elements/_tag";
 @import "bulma-scss/form/_all";
+@import "chosen";
+
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 
 .navbar-item.with-tag {
   &:hover {
@@ -194,9 +202,7 @@ html, body {
   }
 
   &:hover {
-    h2, p {
-      text-decoration: underline;
-    }
+    text-decoration: underline;
   }
 
   &:before {
@@ -206,10 +212,11 @@ html, body {
     margin-right: 0.5em;
     float: left; 
     transition: transform 0.33s ease-in-out;
+    transform-origin: 50% 24px;
   }
 }
 
-.collapsible.is-expanded .collapsible-header {
+.is-expanded .collapsible-header {
   &:before {
     transform: rotate(-225deg);
   }
@@ -229,4 +236,100 @@ html, body {
 
 .collapsible.is-expanded .collapsible-content {
   max-height: 10000em;
+}
+
+#sections .subsection {
+  float: left;
+
+  .card-content, .card-footer {
+    display: none;
+  }
+}
+
+#sections .subsection.is-expanded {
+  .card-content, .card-footer {
+    display: block;
+  }
+}
+
+#sections .subsection {
+  margin-bottom: 1rem;
+  width: 100%;
+}
+
+#sections #reset {
+  display: none;
+}
+
+#sections.ml-filtering {
+  #reset { display: initial; }
+  .ml-filtered { display: none; }
+}
+
+#sections.topic-filtering {
+  #reset { display: initial; }
+  .topic-filtered { display: none; }
+}
+
+#sections.thematic-filtering {
+  #reset { display: initial; }
+  .thematic-filtered { display: none; }
+}
+
+#sections.section-filtering {
+  #reset { display: initial; }
+  .section-filtered { display: none; }
+}
+
+.all-filtered {
+  display: none;
+}
+
+.keywords.field {
+  display: inline-block;
+  margin-right: 1rem;
+  vertical-align: top;
+}
+
+#sections .card-footer-item p {
+  margin-bottom: 0;
+  .tag:hover {
+    cursor: pointer;
+  }
+}
+
+#sections .card-header-title {
+  display: block;
+}
+
+.paper-flags {
+  float: right;
+  white-space: nowrap;
+}
+
+@media screen and (max-width: 650px) {
+  .paper-flags {
+    float: none;
+  }
+}
+
+.tag.paper-flag {
+  background: white;
+  border: 1px solid;
+  margin-top: 1px;
+  vertical-align: text-top;
+}
+
+.tag.is-high-leverage {
+  color: rgb(3,117,180);
+}
+.tag.is-long-term {
+  color: rgb(0,120,73);
+}
+.tag.is-uncertain-impact {
+  color: rgb(219,175,0);
+}
+
+#section-select {
+  font-size: 0.85rem;
 }
