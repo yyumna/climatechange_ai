@@ -1,3 +1,7 @@
+---
+title: Climate Change AI - Section Summaries
+---
+
 # Section Summaries
 
 Climate change is one of the greatest challenges facing humanity, and we, as machine learning experts, may wonder how we can help. In our paper “Tackling Climate Change with Machine Learning,” we describe how machine learning can be a powerful tool in reducing greenhouse gas emissions and helping society adapt to a changing climate. Specifically, we identify high impact problems where existing gaps can be filled by machine learning, in collaboration with other fields.
