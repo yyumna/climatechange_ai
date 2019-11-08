@@ -1,9 +1,10 @@
 ---
 layout: default
-title: 'Tackling Climate Change <br>with Machine Learning'
-description: 'Applied Machine Learning Days 2020:<br>AI & Climate Change Conference Track'
+title: 'Tackling Climate Change with Machine Learning'
+description: 'Applied Machine Learning Days 2020: AI & Climate Change Conference Track'
 ---
 
+<h1>Applied Machine Learning Days 2020:<br>AI & Climate Change Conference Track</h1>
 
 Climate change is one of the greatest problems society has ever faced, with increasingly severe consequences for humanity. While no silver bullet, machine learning can be an invaluable tool in tackling climate change via a wide array of applications and techniques. These applications require close collaboration with diverse fields and practitioners, and many call for algorithmic innovations in machine learning. We are organizing a conference track at the <a href="https://www.appliedmldays.org/" target="_blank">Applied Machine Learning Days</a> (AMLD) at EPFL as a forum for work at the intersection of machine learning and climate change.
 

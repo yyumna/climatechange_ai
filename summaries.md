@@ -1,5 +1,6 @@
 ---
 title: Climate Change AI - Section Summaries
+description: Tackling Climate Change with Machine Learning
 ---
 
 # Section Summaries

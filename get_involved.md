@@ -1,8 +1,9 @@
 ---
-layout: default
-title: 'Get Involved'
-description: 'Get Involved'
+title: Climate Change AI - Get Involved
+description: Want to get involved in tackling climate change with machine learning? Check out our recommendations below.
 ---
+
+# Get Involved
 
 Want to get involved in tackling climate change with machine learning? Check out our recommendations below.
 

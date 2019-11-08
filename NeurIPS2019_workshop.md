@@ -1,8 +1,10 @@
 ---
 layout: default
-title: 'Tackling Climate Change <br>with Machine Learning'
-description: 'NeurIPS 2019 Workshop <br>Tackling Climate Change with Machine Learning'
+title: 'Tackling Climate Change with Machine Learning'
+description: 'NeurIPS 2019 Workshop: Tackling Climate Change with Machine Learning'
 ---
+
+<h1>NeurIPS 2019 Workshop <br> Tackling Climate Change with Machine Learning</h1>
 
 ***
 

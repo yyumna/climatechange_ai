@@ -1,8 +1,9 @@
 ---
-layout: default
-title: 'FAQ'
-description: 'Frequently Asked Questions'
+title: Climate Change AI - FAQ
+description: Frequently asked questions about Climate Change AI
 ---
+
+# Frequently Asked Questions
 
 ### I want to learn more about climate change and machine learning. Where can I start?
 We encourage you to check out our <a href="{{ site.paper_url }}" target="_blank">paper</a>, which provides a detailed guide of ways machine learning can be used to tackle climate change, as well as the accompanying [resources](https://www.climatechange.ai/resources.html) on our website.
