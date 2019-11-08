@@ -1,7 +1,9 @@
 ---
-layout: default
-description: 'Resources'
+title: Climate Change AI - Resources
+description: This page presents some readings, datasets, and tools for the areas outlined in our paper, "Tackling Climate Change with Machine Learning."
 ---
+
+# Resources
 
 This page presents some readings, datasets, and tools for the areas outlined in our paper, <a href='{{ site.paper_url }}' target='_blank'>"Tackling Climate Change with Machine Learning."</a> These resources include general references about climate change, as well as resources organized by section of the paper.
 
