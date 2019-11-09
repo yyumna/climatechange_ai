@@ -8,7 +8,16 @@ description: 'ICML 2019 Workshop: Climate Change: How Can AI Help?'
 
 **Many in the ML community wish to take action on climate change, yet feel their skills are inapplicable.** This workshop aims to show that in fact the opposite is true: while no silver bullet, ML can be an invaluable tool both in reducing greenhouse gas emissions and in helping society adapt to the effects of climate change. Climate change is a complex problem, for which action takes many forms - from designing smart electrical grids to tracking deforestation in satellite imagery. Many of these actions represent high-impact opportunities for real-world change, as well as being interesting problems for ML research.
 
- **_Recordings of the workshop are linked to in the schedule._** 
+ **_Recordings of the workshop are linked in the schedule._** 
+
+
+## About the workshop
+ - Date:  Friday June 14, 2019
+ - Location:   Long Beach, California, USA
+ - ~~Submission deadline: April 30, 11:59 PM Pacific Time~~
+ - ~~Notification: May 15 (early notification possible on request)~~
+ - Submission website:  <https://cmt3.research.microsoft.com/CCAI2019>
+ - Contact: <climatechangeai.icml2019@gmail.com>
  
 ## Speakers
 
@@ -581,14 +590,6 @@ Contemporary Earth system models (ESMs) omit one of the significant drivers of t
 ## About ICML
 ICML is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting or attending the main ICML conference. Those interested should register for the Workshops component of ICML at https://icml.cc/ while tickets last (a number of spots will be reserved for accepted submissions).
 
-## About the workshop
- - Date:  Friday June 14, 2019
- - Location:   Long Beach, California, USA
- - Submission deadline:  ~~April 30, 11:59 PM Pacific Time~~
- - Notification:  ~~May 15 (early notification possible on request)~~
- - Submission website:  <https://cmt3.research.microsoft.com/CCAI2019>
- - Contact: <climatechangeai.icml2019@gmail.com>
- 
  
 ## Call For Submissions<br>
 We invite submission of extended abstracts on machine learning applied to problems in climate mitigation, adaptation, or modeling, including but not limited to the following topics:
@@ -634,8 +635,8 @@ Submissions for the Ideas track are intended for proposed applications of machin
 
 ## Frequently Asked Questions
 
-**Q:** How can I keep up to date on this kind of stuff?
-**A:** Sign up to our mailing list! <https://www.climatechange.ai/Mailing_list.html>
+**Q:** How can I keep up to date on this kind of stuff?   
+**A:** Sign up for our mailing list! <https://www.climatechange.ai/mailing_list.html>
 
 **Q:** What is the date of the workshop / when will we know?  
 **A:** Friday, June 14 was recently confirmed as the date.

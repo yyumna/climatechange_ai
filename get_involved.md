@@ -15,7 +15,7 @@ Want to get involved in tackling climate change with machine learning? Check out
 ### Engage with the community
 * <a href="https://www.climatechange.ai/mailing_list.html" target="_blank">Sign up</a> for our <a href="https://www.climatechange.ai/newsletter.html" target="_blank">newsletter</a>.
 * Join our <a href="https://forum.climatechange.ai/" target="_blank">discussion forum</a> to ask questions, share ideas/resources, and build teams.
-* Attend one of our workshops (in person or via livestream).
+* Attend one of our <a href="https://www.climatechange.ai/workshops.html" target="_blank">workshops</a> (in person or via livestream).
 * Organize a meetup in your own location via the <a href="https://forum.climatechange.ai/" target="_blank">discussion forum</a>.
 
 ### Work on projects
