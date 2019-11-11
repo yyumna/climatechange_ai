@@ -234,8 +234,13 @@ $(document).ready(function() {
       });
 
       $(`.is-${key}`).click((ev) => {
-        select.val($(ev.currentTarget).text().slice(1));
-        select.trigger("change").trigger("chosen:updated");
+        const tag = $(ev.currentTarget).text().slice(1);
+        const currentVals = select.val();
+        if (currentVals.indexOf(tag) == -1) {
+          currentVals.push(tag);
+          select.val(currentVals);
+          select.trigger("change").trigger("chosen:updated");
+        }
       });
     }
 
