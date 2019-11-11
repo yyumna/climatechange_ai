@@ -80,15 +80,15 @@ $(document).ready(function() {
 
         for (let kw of ss.ml_keywords) {
           ml_kwds.add(kw);
-          tags.push(`<a class="tag is-light is-ml">#${kw}</a>`);
+          tags.push(`<a href="javascript:void(0)" class="tag is-light is-ml">#${kw}</a>`);
         }
         for (let kw of ss.topic_keywords || []) {
           topic_kwds.add(kw);
-          tags.push(`<a href="#" class="tag is-light is-topic">#${kw}</a>`);
+          tags.push(`<a href="javascript:void(0)" class="tag is-light is-topic">#${kw}</a>`);
         }
         for (let kw of ss.thematic_keywords) {
           thematic_kwds.add(kw);
-          tags.push(`<a href="#" class="tag is-light is-thematic">#${kw}</a>`);
+          tags.push(`<a href="javascript:void(0)" class="tag is-light is-thematic">#${kw}</a>`);
         }
         for (let flag of ss.paper_flags) {
           if (flag == 'High Risk' || flag == 'Uncertain Impact') {
@@ -102,15 +102,15 @@ $(document).ready(function() {
 
         let pdfLink;
         if (ss.pdf_location) {
-          pdfLink = `/paper.html#${ss.pdf_location}`;
+          pdfLink = `/paper#${ss.pdf_location}`;
         } else if (ss.section_number) {
           const level = ss.section_number.split(".").length;
           if (level == 3) {
-            pdfLink = `/paper.html#subsubsection.${ss.section_number}`;
+            pdfLink = `/paper#subsubsection.${ss.section_number}`;
           } else if (level == 2) {
-            pdfLink = `/paper.html#subsection.${ss.section_number}`;
+            pdfLink = `/paper#subsection.${ss.section_number}`;
           } else if (level == 1) {
-            pdfLink = `/paper.html#section.${ss.section_number}`;
+            pdfLink = `/paper#section.${ss.section_number}`;
           } else {
             console.log(`WARNING: missing pdf link for ${s.title} > ${ss.title}`);
           }
@@ -233,7 +233,7 @@ $(document).ready(function() {
         toggleVisibility(select, key);
       });
 
-      $(`is-${key}`).click((ev) => {
+      $(`.is-${key}`).click((ev) => {
         select.val($(ev.currentTarget).text().slice(1));
         select.trigger("change").trigger("chosen:updated");
       });
