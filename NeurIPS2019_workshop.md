@@ -44,7 +44,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
 3:30 - 4:15 - Coffee break + Poster Session    
 4:15 - 4:40 - Lester Mackey (Microsoft Research) *(Invited talk)*    
 4:40 - 4:50 - Saumya Sinha: **Detecting Avalanche Deposits using Variational Autoencoder on Sentinel-1 Satellite Imagery** *(Spotlight talk)*  
-4:50 - 5:00 - Ruben Glatt: **Increasing performance of electric vehicles in ride-hailing services using deep reinforcement learning** *(Spotlight talk)*  
+4:50 - 5:00 - Jacob Pettit: **Increasing performance of electric vehicles in ride-hailing services using deep reinforcement learning** *(Spotlight talk)*  
 5:00 - 6:00 - John Platt, Jennifer Chayes, Felix Creutzig, Craig Miller, Marta Gonzalez, Matt Horne: **Panel: Working with stakeholders**    
 
 ## Organizers
