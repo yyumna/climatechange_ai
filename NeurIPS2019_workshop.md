@@ -29,7 +29,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
 9:05 - 9:15 - Felipe Oviedo: **Machine learning identifies the most valuable synthesis conditions for next-generation photovoltaics** *(Spotlight talk)*  
 9:15 - 9:25 - Valentina Zantedeschi: **Cumulo: A Dataset for Learning Cloud Classes** *(Spotlight talk)*   
 9:25 - 9:35 - Qinghu Tang: **Fine-Grained Distribution Grid Mapping Using Street View Imagery** *(Spotlight talk)*   
-9:35 - 9:45 - Shamindra Shrotriya: **Predictive Inference of a Wildfire Risk Pipeline in the United States** *(Spotlight talk)*   
+9:35 - 9:45 - Shamindra Shrotriya and Niccolo Dalmasso: **Predictive Inference of a Wildfire Risk Pipeline in the United States** *(Spotlight talk)*   
 9:45 - 10:30 - Coffee break + Poster Session    
 10:30 - 11:05 - Felix Creutzig (MCC Berlin, TU Berlin) *(Invited talk)*    
 11:05 - 11:15 - Ashish Kapoor: **Helping Reduce Environmental Impact of Aviation with Machine Learning** *(Spotlight talk)*     
