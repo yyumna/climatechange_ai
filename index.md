@@ -38,6 +38,7 @@ Climate change is one of the greatest problems society has ever faced, with incr
   <div class='column'>
     <h3>Updates</h3>
     <ul>
+      <li>Nov 17, 2019 - D. Rolnick featured on <a href="https://www.capeandislands.org/post/artificial-intelligence-can-help-fight-climate-change#stream/0" target="_blank">Living Lab Radio</a>.</li>
       <li>Nov 11, 2019 - <a href="/press_releases/2019-11-11/release">Press release</a> issued for our paper.</li>
       <li>Nov 5, 2019 - <a href="{{ site.paper_url }}" target="_blank">Full version</a> of paper and <a href="/summaries">interactive summaries</a> released.</li>
       <li>Oct 30, 2019 - Climate Change AI <a href="{{ site.forum_url }}" target="_blank">discussion forum</a> now live.</li>
