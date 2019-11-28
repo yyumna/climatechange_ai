@@ -41,7 +41,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
 2:50 - 3:00 - Kiwan Maeng: **Enhancing Stratospheric Weather Analyses and Forecasts by Deploying Sensors from a Weather Balloon** *(Spotlight talk)*   
 3:00 - 3:10 - Daisy Zhe Wang: **Measuring Impact of Climate Change on Tree Species: analysis of JSDM on FIA data** *(Spotlight talk)*   
 3:10 - 3:20 - Adrian Albert: **Emulating Numeric Hydroclimate Models with Physics-Informed cGANs** *(Spotlight talk)*   
-3:20 - 3:30 - Jan Drgona: **Stripping off the implementation complexity of physics-based model predictive control for buildings via deep learning** *(Spotlight talk)*   
+3:20 - 3:30 - Draguna Vrabie: **Stripping off the implementation complexity of physics-based model predictive control for buildings via deep learning** *(Spotlight talk)*   
 3:30 - 4:15 - Coffee break + Poster Session    
 4:15 - 4:40 - Lester Mackey (Microsoft Research) *(Invited talk)*    
 4:40 - 4:50 - Saumya Sinha: **Detecting Avalanche Deposits using Variational Autoencoder on Sentinel-1 Satellite Imagery** *(Spotlight talk)*  
