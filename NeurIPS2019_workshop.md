@@ -32,7 +32,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
 9:25 - 9:35 - Qinghu Tang: **Fine-Grained Distribution Grid Mapping Using Street View Imagery** *(Spotlight talk)*   
 9:35 - 9:45 - Shamindra Shrotriya and Niccolo Dalmasso: **Predictive Inference of a Wildfire Risk Pipeline in the United States** *(Spotlight talk)*   
 9:45 - 10:30 - Coffee break + Poster Session    
-10:30 - 11:05 - Felix Creutzig (MCC Berlin, TU Berlin) *(Invited talk)*    
+10:30 - 11:05 - Felix Creutzig (MCC Berlin, TU Berlin): **Leveraging digitalization for urban solutions in the Anthropocene** *(Invited talk)*    
 11:05 - 11:15 - Ashish Kapoor: **Helping Reduce Environmental Impact of Aviation with Machine Learning** *(Spotlight talk)*     
 11:15 - 12:00 - Yoshua Bengio, Andrew Ng, Carla Gomes, Lester Mackey, Jeff Dean: **Panel - Climate Change: A Grand Challenge for ML**   
 12:00 - 2:00 - Networking lunch (provided) + Poster Session    
