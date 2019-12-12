@@ -46,7 +46,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
 4:15 - 4:40 - Lester Mackey (Microsoft Research) *(Invited talk)*    
 4:40 - 4:50 - Saumya Sinha: **Detecting Avalanche Deposits using Variational Autoencoder on Sentinel-1 Satellite Imagery** *(Spotlight talk)*  
 4:50 - 5:00 - Jacob Pettit: **Increasing performance of electric vehicles in ride-hailing services using deep reinforcement learning** *(Spotlight talk)*  
-5:00 - 6:00 - John Platt, Jennifer Chayes, Craig Miller, Marta Gonzalez, Matt Horne: **Panel - Practical Challenges in Applying ML to Climate Change**    
+5:00 - 6:00 - John Platt, Jennifer Chayes, James Kelloway, Marta Gonzalez, Matt Horne: **Panel - Practical Challenges in Applying ML to Climate Change**    
 
 ## Organizers
 <a href="http://www.davidrolnick.com" target="_blank">David Rolnick (UPenn)</a> <br>
