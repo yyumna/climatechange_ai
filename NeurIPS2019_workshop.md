@@ -34,7 +34,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
 9:45 - 10:30 - Coffee break + Poster Session    
 10:30 - 11:05 - Felix Creutzig (MCC Berlin, TU Berlin) *(Invited talk)*    
 11:05 - 11:15 - Ashish Kapoor: **Helping Reduce Environmental Impact of Aviation with Machine Learning** *(Spotlight talk)*     
-11:15 - 12:00 - Yoshua Bengio, Andrew Ng, Carla Gomes, Lester Mackey, Jeff Dean: **Panel: Climate change and AI**   
+11:15 - 12:00 - Yoshua Bengio, Andrew Ng, Carla Gomes, Lester Mackey, Jeff Dean: **Panel - Climate Change: A Grand Challenge for ML**   
 12:00 - 2:00 - Networking lunch (provided) + Poster Session    
 2:00 - 2:40 - Carla Gomes (Cornell) *(Invited talk)*    
 2:40 - 2:50 - Kyle Story: **A Global Census of Solar Facilities Using Deep Learning and Remote Sensing** *(Spotlight talk)*    
@@ -46,7 +46,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
 4:15 - 4:40 - Lester Mackey (Microsoft Research) *(Invited talk)*    
 4:40 - 4:50 - Saumya Sinha: **Detecting Avalanche Deposits using Variational Autoencoder on Sentinel-1 Satellite Imagery** *(Spotlight talk)*  
 4:50 - 5:00 - Jacob Pettit: **Increasing performance of electric vehicles in ride-hailing services using deep reinforcement learning** *(Spotlight talk)*  
-5:00 - 6:00 - John Platt, Jennifer Chayes, Felix Creutzig, Craig Miller, Marta Gonzalez, Matt Horne: **Panel: Working with stakeholders**    
+5:00 - 6:00 - John Platt, Jennifer Chayes, Craig Miller, Marta Gonzalez, Matt Horne: **Panel - Practical Challenges in Applying ML to Climate Change**    
 
 ## Organizers
 <a href="http://www.davidrolnick.com" target="_blank">David Rolnick (UPenn)</a> <br>
