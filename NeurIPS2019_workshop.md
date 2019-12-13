@@ -554,7 +554,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
  Terawatts of next-generation photovoltaics (PV) are necessary to mitigate climate change. The traditional R&D paradigm leads to high efficiency / high variability solar cells, limiting industrial scaling of novel PV materials. In this work, we propose a machine learning approach for early-stage optimization of solar cells, by combining a physics-informed deep autoencoder and a manufacturing-relevant Bayesian optimization objective. This framework allows to: 1) Co-optimize solar cell performance and variability under techno-economic revenue constrains, and 2) Infer the effect of process conditions over key latent physical properties. We test our approach by synthesizing 135 perovskite solar cells, and finding the optimal points under various techno-economic assumptions. </details>
 
 
-### (45) Helping Reduce Environmental Impact of Aviation with Machine Learning [pdf](./CameraReadySubmissions 2-119/99/CameraReadySubmission/Climate_Change_Aircraft) 
+### (45) Helping Reduce Environmental Impact of Aviation with Machine Learning [pdf](./CameraReadySubmissions 2-119/99/CameraReadySubmission/Climate_Change_Aircraft.pdf) 
 
 *Ashish Kapoor (Microsoft)*
 
