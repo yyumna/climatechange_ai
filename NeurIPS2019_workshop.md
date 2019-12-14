@@ -10,7 +10,8 @@ Many in the ML community wish to take action on climate change, yet feel their s
 
 ## About the Workshop
  - Date:  Saturday, December 14, 2019
- - Location:   Vancouver, British Columbia, Canada
+ - Location: Vancouver Convention Center, British Columbia, Canada
+ - Room: East Ballroom C
  - <s>Submission deadline: September 11, 11:59 PM Pacific Time</s>
  - <s>Notification: October 1</s>
  - Submission website: <https://cmt3.research.microsoft.com/CCAINeurIPS2019>
