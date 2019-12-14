@@ -27,7 +27,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
 ## Schedule
 8:15 -  8:30 - **Welcome and opening remarks**    
 8:30 - 9:05 - Jeff Dean (Google AI) *(Invited talk)*    
-9:05 - 9:15 - Felipe Oviedo: **Machine learning identifies the most valuable synthesis conditions for next-generation photovoltaics** *(Spotlight talk)*  
+9:05 - 9:15 - Felipe Oviedo and Zekun Ren: **Machine learning identifies the most valuable synthesis conditions for next-generation photovoltaics** *(Spotlight talk)*  
 9:15 - 9:25 - Valentina Zantedeschi: **Cumulo: A Dataset for Learning Cloud Classes** *(Spotlight talk)*   
 9:25 - 9:35 - Qinghu Tang: **Fine-Grained Distribution Grid Mapping Using Street View Imagery** *(Spotlight talk)*   
 9:35 - 9:45 - Shamindra Shrotriya and Niccolo Dalmasso: **Predictive Inference of a Wildfire Risk Pipeline in the United States** *(Spotlight talk)*   
