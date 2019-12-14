@@ -3,6 +3,12 @@ title: Climate Change AI
 description: Tackling Climate Change with Machine Learning
 ---
 
+<div class='message is-link'>
+  <div class='message-body'>
+    NeurIPS 2019 workshop happening now --- livestream <a target='_blank' href='https://slideslive.com/38922106/tackling-climate-change-with-ml-1'>here</a>.
+  </div>
+</div>
+
 Climate change is one of the greatest problems society has ever faced, with increasingly severe consequences for humanity as natural disasters multiply, sea levels rise, and ecosystems falter. While no silver bullet, machine learning can be an invaluable tool in fighting climate change via a wide array of applications and techniques. Climate Change AI aims to facilitate work at the nexus of climate change and machine learning.
 
 <div class='columns'>
