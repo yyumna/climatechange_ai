@@ -642,7 +642,69 @@ Many in the ML community wish to take action on climate change, yet feel their s
  The El Niño Southern Oscillation (ENSO) is the dominant mode of variability in the climate system on seasonal to decadal timescales. With foreknowledge of the state of ENSO, stakeholders can anticipate and mitigate impacts in climate-sensitive sectors such as agriculture and energy. Traditionally, ENSO forecasts have been produced using either computationally intensive physics-based dynamical models or statistical models that make limiting assumptions, such as linearity between predictors and predictands. Here we present a  deep-learning-based methodology for forecasting monthly ENSO temperatures at various lead times. While traditional statistical methods both train and validate on observational data, our method trains exclusively on physical simulations. With the entire observational record as an out-of-sample validation set, the method’s skill is comparable to that of operational dynamical models. The method is also used to identify disagreements among climate models about the predictability of ENSO in a world with climate change.</details>
 
 
-
+## Program Committee
+Andrew Ross (Harvard) <br>
+Aneesh Rangnekar (RIT) <br>
+Ashesh Chattopadhyay (Rice) <br>
+Ashley Pilipiszyn (Stanford) <br>
+Bolong Cheng (SigOpt) <br>
+Christian Schroeder (Oxford) <br>
+Clement Duhart (MIT) <br>
+Dali Wang (Oak Ridge National Lab) <br>
+David Dao (ETH) <br>
+Di Wu (McGill) <br>
+Dimitrios Giannakis (Courant Institute, NYU) <br>
+Duncan Watson-Parris (Oxford) <br>
+Evan Sherwin (Stanford) <br>
+Femke van Geffen (FU Berlin) <br>
+Gege Wen (Stanford) <br>
+George Chen (CMU) <br>
+Greg Schivley (Carbon Impact Consulting) <br>
+Han Zou (UC Berkeley) <br>
+Hari Prasanna Das (UC Berkeley) <br>
+Hillary Scannell (University of Washington) <br>
+Joanna Slawinska (University of Wisconsin-Milwaukee) <br>
+Johan Mathe (Frog Labs) <br>
+Jonathan Binas (Mila, Montreal) <br>
+Jussi Gillberg (Aalto University) <br>
+Kalai Ramea (PARC) <br>
+Karthik Kashinath (Lawrence Berkeley National Lab) <br>
+Kate Duffy (Northeastern) <br>
+Kelly Kochanski (CU Boulder) <br>
+Kevin McCloskey (Google) <br>
+Kris Sankaran (Mila) <br>
+Lea Boche (EPRI) <br>
+Loubna	Benabbou (Mohammadia School of Engineering, Mohammed V University) <br>
+Mahdi Jamei (Invenia Labs) <br>
+Max Callaghan (MCC Berlin) <br>
+Mayur Mudigonda (UC Berkeley) <br>
+Melrose Roderick (CMU) <br>
+Mohammad Mahdi Kamani (Penn State) <br>
+Natasha Jaques (MIT) <br>
+Neel Guha (CMU) <br>
+Niccolo Dalmasso (CMU) <br>
+Nikola Milojevic-Dupont (MCC Berlin) <br>
+Pedram Hassanzadeh (Rice) <br>
+Robin Dunn (CMU) <br>
+Sajad Haghanifar (University of Pittsburgh) <br>
+Sanam Mirzazad (EPRI) <br>
+Sandeep Manjanna (McGill) <br>
+Sasha Luccioni (Mila) <br>
+Sharon Zhou (Stanford) <br>
+Shubhankar Deshpande (CMU) <br>
+Sookyung Kim (Lawrence Livermore National Lab) <br>
+Soukayna Mouatadid (University of Toronto) <br>
+Surya Karthik Mukkavilli (Mila) <br>
+Telmo Felgueira (IST) <br>
+Thomas Hornigold (Oxford) <br>
+Tianle Yuan (NASA) <br>
+Tom Beucler (Columbia & UCI) <br>
+Vikram Voleti (Mila, Montreal) <br>
+Volodymyr Kuleshov (Stanford) <br>
+Yang Song (Oak Ridge National Lab) <br>
+Ydo Wexler (Amperon) <br>
+Zhecheng Wang (Stanford) <br>
+Zhuangfang Yi (Development Seed) <br>
 
 
 
@@ -756,67 +818,3 @@ We also encourage workshop participants to apply for <a href="https://neurips.cc
 
 **Q:** Can I submit work to this workshop if I am also submitting to another NeurIPS 2019 workshop?   
 **A:** Yes. We cannot, however, guarantee that you will not be expected to present the material at a time that conflicts with the other workshop.
-
-## Program Committee
-Andrew Ross (Harvard) <br>
-Aneesh Rangnekar (RIT) <br>
-Ashesh Chattopadhyay (Rice) <br>
-Ashley Pilipiszyn (Stanford) <br>
-Bolong Cheng (SigOpt) <br>
-Christian Schroeder (Oxford) <br>
-Clement Duhart (MIT) <br>
-Dali Wang (Oak Ridge National Lab) <br>
-David Dao (ETH) <br>
-Di Wu (McGill) <br>
-Dimitrios Giannakis (Courant Institute, NYU) <br>
-Duncan Watson-Parris (Oxford) <br>
-Evan Sherwin (Stanford) <br>
-Femke van Geffen (FU Berlin) <br>
-Gege Wen (Stanford) <br>
-George Chen (CMU) <br>
-Greg Schivley (Carbon Impact Consulting) <br>
-Han Zou (UC Berkeley) <br>
-Hari Prasanna Das (UC Berkeley) <br>
-Hillary Scannell (University of Washington) <br>
-Joanna Slawinska (University of Wisconsin-Milwaukee) <br>
-Johan Mathe (Frog Labs) <br>
-Jonathan Binas (Mila, Montreal) <br>
-Jussi Gillberg (Aalto University) <br>
-Kalai Ramea (PARC) <br>
-Karthik Kashinath (Lawrence Berkeley National Lab) <br>
-Kate Duffy (Northeastern) <br>
-Kelly Kochanski (CU Boulder) <br>
-Kevin McCloskey (Google) <br>
-Kris Sankaran (Mila) <br>
-Lea Boche (EPRI) <br>
-Loubna	Benabbou (Mohammadia School of Engineering, Mohammed V University) <br>
-Mahdi Jamei (Invenia Labs) <br>
-Max Callaghan (MCC Berlin) <br>
-Mayur Mudigonda (UC Berkeley) <br>
-Melrose Roderick (CMU) <br>
-Mohammad Mahdi Kamani (Penn State) <br>
-Natasha Jaques (MIT) <br>
-Neel Guha (CMU) <br>
-Niccolo Dalmasso (CMU) <br>
-Nikola Milojevic-Dupont (MCC Berlin) <br>
-Pedram Hassanzadeh (Rice) <br>
-Robin Dunn (CMU) <br>
-Sajad Haghanifar (University of Pittsburgh) <br>
-Sanam Mirzazad (EPRI) <br>
-Sandeep Manjanna (McGill) <br>
-Sasha Luccioni (Mila) <br>
-Sharon Zhou (Stanford) <br>
-Shubhankar Deshpande (CMU) <br>
-Sookyung Kim (Lawrence Livermore National Lab) <br>
-Soukayna Mouatadid (University of Toronto) <br>
-Surya Karthik Mukkavili (Mila) <br>
-Telmo Felgueira (IST) <br>
-Thomas Hornigold (Oxford) <br>
-Tianle Yuan (NASA) <br>
-Tom Beucler (Columbia & UCI) <br>
-Vikram Voleti (Mila, Montreal) <br>
-Volodymyr Kuleshov (Stanford) <br>
-Yang Song (Oak Ridge National Lab) <br>
-Ydo Wexler (Amperon) <br>
-Zhecheng Wang (Stanford) <br>
-Zhuangfang Yi (Development Seed) <br>
