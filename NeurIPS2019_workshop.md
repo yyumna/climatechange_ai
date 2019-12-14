@@ -633,7 +633,8 @@ Many in the ML community wish to take action on climate change, yet feel their s
 
 ### (52) Forecasting El Niño with Convolutional and Recurrent Neural Networks [pdf](./CameraReadySubmissions 2-119/119/CameraReadySubmission/Forecasting_El_Nino_with_Convolutional_and_Recurrent_Neural_Networks(1).pdf) 
 
-*Ankur Mahesh (ClimateAi); Garima Jain (ClimateAi); Max Evans (ClimateAi)*
+*Ankur Mahesh (ClimateAi); Maximilian Evans (ClimateAi); Garima Jain (ClimateAi); Mattias Castillo (ClimateAi); Aranildo Lima (ClimateAi); Brent Lunghino (ClimateAi); Himanshu Gupta (ClimateAi); Carlos Gaitan (ClimateAi); Jarrett Hunt (ClimateAi); Omeed Tavasoli (ClimateAi); Patrick Brown (ClimateAi, San Jose State University); V. Balaji (Geophysical Fluid
+Dynamics Laboratory)*
 
 <details>
 <summary>
