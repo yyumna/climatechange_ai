@@ -5,7 +5,7 @@ description: Tackling Climate Change with Machine Learning
 
 <div class='message is-link'>
   <div class='message-body'>
-    NeurIPS 2019 workshop happening now --- livestream <a target='_blank' href='https://slideslive.com/38922106/tackling-climate-change-with-ml-1'>here</a>.
+    NeurIPS 2019 workshop happening now --- livestream <a target='_blank' href='https://slideslive.com/38922107/tackling-climate-change-with-ml-2'>here</a>.
   </div>
 </div>
 
