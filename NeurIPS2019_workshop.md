@@ -16,7 +16,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
  - <s>Notification: October 1</s>
  - Submission website: <https://cmt3.research.microsoft.com/CCAINeurIPS2019>
  - Registration: <https://neurips.cc/Register/view-registration> ("Workshops" component)
- - Livestream: <https://www.climatechange.ai/NeurIPS2019_livestream>
+ - Livestreams: [part 1](https://slideslive.com/38922106/tackling-climate-change-with-ml-1), [part 2](https://slideslive.com/38922107/tackling-climate-change-with-ml-2), [part 3](https://slideslive.com/38922108/tackling-climate-change-with-ml-3), [part 4](https://slideslive.com/38922109/tackling-climate-change-with-ml-4)
  - Contact: <climatechangeai.neurips2019@gmail.com>
  
 ## Invited Speakers
