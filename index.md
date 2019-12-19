@@ -27,7 +27,7 @@ Climate change is one of the greatest problems society has ever faced, with incr
           <li><a href='{{ site.forum_url }}' target='_blank'>Join</a> our discussion forum</li>
           <li><a href='/mailing_list'>Sign up</a> for our <a href='/newsletter'>newsletter</a></li>
           <li>Launch events or projects (ideas <a href='/get_involved'>here</a>)</li>
-          <li>Attend our workshops at <a href='/NeurIPS2019_workshop'>NeurIPS 2019</a> or <a href='/AMLD2020_workshop'>AMLD 2020</a></li>
+          <li>Attend our workshops at <a href='/AMLD2020_workshop'>AMLD 2020</a> or <a href='/ICLR2020_workshop'>ICLR 2020</a></li>
         </ul>
       </div>
     </div>
@@ -38,7 +38,8 @@ Climate change is one of the greatest problems society has ever faced, with incr
   <div class='column'>
     <h3>Updates</h3>
     <ul>
-      <li>Dec 4, 2019 - Climate Change AI <a href="https://twitter.com/ClimateChangeAI/status/1202509336188248064" target="_blank">panel discussion</a> at UN Climate Change Conference (COP25).</li>
+      <li>Dec 14, 2019 - Climate Change AI <a href="/NeurIPS2019_workshop" target="_blank">workshop</a> held at NeurIPS 2019.</li>
+      <li>Dec 4, 2019 - Climate Change AI <a href="https://twitter.com/ClimateChangeAI/status/1202509336188248064" target="_blank">panel discussion</a> held at UN Climate Change Conference (COP25).</li>
       <li>Nov 30, 2019 - Climate Change AI workshop <a href="https://twitter.com/iclr_conf/status/1068525834611253248?lang=en" target="_blank">announced</a> for ICLR 2020 (April 26, Addis Ababa).</li>
       <li>Nov 17, 2019 - D. Rolnick featured on <a href="https://www.capeandislands.org/post/artificial-intelligence-can-help-fight-climate-change#stream/0" target="_blank">Living Lab Radio</a>.</li>
       <li>Nov 11, 2019 - <a href="/press_releases/2019-11-11/release">Press release</a> issued for our paper.</li>
