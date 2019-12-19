@@ -9,8 +9,8 @@ description: ICLR 2020 Workshop: Tackling Climate Change with Machine Learning'
 ***
 
 <center> <h3>Announcements</h3> </center>
-* Applications for the submission mentorship program are now open! Mentors and mentees may apply until Jan 14. More information [here](#submission-mentorship-program).
-* Call for submissions of Papers or Proposals is now available [here](#call-for-submissions). Submissions are due on Feb 4. A link to the CMT submission site will be posted shortly.
+* Applications for the submission mentorship program are now open! Mentors and mentees may apply until Jan 14. More information [here](#submission-mentorship-program). 
+* Call for submissions of Papers or Proposals is now available [here](#call-for-submissions). Submissions are due on Feb 4 at 11:59 PM Pacific Time.
 
 ***
 
@@ -24,9 +24,9 @@ ICLR is one of the premier conferences on machine learning, and includes a wide 
  - Date:  Sunday, April 26, 2020
  - Location:  Addis Ababa, Ethiopia
  - Mentorship program application deadline: January 14
- - Paper/Proposal submission deadline: February 4
+ - Paper/Proposal submission deadline: February 4, 11:59 PM Pacific Time
  - Notification:  February 25
- - Submission website: *Coming soon!*
+ - Submission website: https://cmt3.research.microsoft.com/CCAIICLR2020
  - Contact: <climatechangeai.iclr2020@gmail.com>
  
  
