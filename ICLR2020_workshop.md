@@ -34,17 +34,16 @@ ICLR is one of the premier conferences on machine learning, and includes a wide 
 We invite submissions of short papers using machine learning to address problems in climate mitigation, adaptation, or modeling, including but not limited to the following topics:
  - Power generation and grids
  - Transportation
- - Smart buildings and cities
- - Industrial optimization
+ - Buildings and cities
+ - Industry
  - Carbon capture and sequestration
  - Agriculture, forestry and other land use
- - Climate science
  - Extreme weather events
  - Disaster management and relief
  - Societal adaptation
  - Ecosystems and natural resources
  - Data presentation and management
- - Climate finance
+ - Climate finance and markets
 
 All machine learning techniques are welcome, from kernel methods to deep learning. Each submission should make clear why the application has (or could have) positive impacts regarding climate change. We highly encourage submissions which make their data publicly available. Accepted submissions will be invited to give poster presentations, of which some will be selected for spotlight talks.  
 
