@@ -11,12 +11,10 @@ Many in the ML community wish to take action on climate change, yet feel their s
 ## About the Workshop
  - Date:  Saturday, December 14, 2019
  - Location: Vancouver Convention Center, British Columbia, Canada
- - Room: East Ballroom C
+  - Recordings: [part 1](https://slideslive.com/38922106/tackling-climate-change-with-ml-1), [part 2](https://slideslive.com/38922107/tackling-climate-change-with-ml-2), [part 3](https://slideslive.com/38922108/tackling-climate-change-with-ml-3), [part 4](https://slideslive.com/38922109/tackling-climate-change-with-ml-4)
  - <s>Submission deadline: September 11, 11:59 PM Pacific Time</s>
  - <s>Notification: October 1</s>
- - Submission website: <https://cmt3.research.microsoft.com/CCAINeurIPS2019>
- - Registration: <https://neurips.cc/Register/view-registration> ("Workshops" component)
- - Livestreams: [part 1](https://slideslive.com/38922106/tackling-climate-change-with-ml-1), [part 2](https://slideslive.com/38922107/tackling-climate-change-with-ml-2), [part 3](https://slideslive.com/38922108/tackling-climate-change-with-ml-3), [part 4](https://slideslive.com/38922109/tackling-climate-change-with-ml-4)
+ - <s>Submission website: <https://cmt3.research.microsoft.com/CCAINeurIPS2019></s>
  - Contact: <climatechangeai.neurips2019@gmail.com>
  
 ## Invited Speakers
@@ -215,7 +213,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
  Forecasting severe weather conditions is still a very challenging and computationally expensive task due to the enormous amount of data and the complexity of the underlying physics. Machine learning approaches and especially deep learning have however shown huge improvements in many research areas dealing with large datasets in recent years. In this work, we tackle one speciﬁc sub-problem of weather forecasting, namely the prediction of thunderstorms and lightning. We propose the use of a convolutional neural network architecture inspired by UNet++ and ResNet to predict thunderstorms as a binary classiﬁcation problem based on satellite images and lightnings recorded in the past. We achieve a probability of detection of more than 94% for lightnings within the next 15 minutes while at the same time minimizing the false alarm ratio compared to previous approaches.</details>
 
 
-### (14) Cumulo: A Dataset for Learning Cloud Classes 
+### (14) Cumulo: A Dataset for Learning Cloud Classes  <span class='badge'>Best Paper Award</span>
 
 *Valentina Zantedeschi (Jean Monnet University); Fabrizio Falasca (Georgia Institute of Technology); Alyson Douglas (University of Wisconsin Madison); Richard Strange (University of Oxford); Matt Kusner (University College London); Duncan Watson-Parris (University of Oxford)*
 
@@ -346,7 +344,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
  From an environmental standpoint, there are a few crucial aspects of training a neural network that have a major impact on the quantity of carbon that it emits. These factors include: the location of the server used for training and the energy grid that it uses, the length of the training procedure, and even the make and model of hardware on which the training takes place. In order to approximate these emissions, we present our Machine Learning Emissions Calculator, a tool for our community to better understand the environmental impact of training ML models. We accompany this tool with an explanation of the factors cited above, as well as concrete actions that individual practitioners as well as organizations can take to mitigate their carbon emissions.</details>
 
 
-### (26) Measuring Impact of Climate Change on Tree Species: analysis of JSDM on FIA data [pdf](./CameraReadySubmissions 2-119/56/CameraReadySubmission/climatechangeAI_NeurIPS)
+### (26) Measuring Impact of Climate Change on Tree Species: analysis of JSDM on FIA data [pdf](./CameraReadySubmissions 2-119/56/CameraReadySubmission/climatechangeAI_NeurIPS) <span class='badge'>Honorable Mention</span>
 
 *Hyun Choi (University of Florida); Sergio Marconi (University of Florida); Ali Sadeghian (University of Florida); Ethan White (University of Florida); Daisy Zhe Wang (Univeresity of Florida)*
 
@@ -357,7 +355,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
  One of the first beings affected by changes in the climate are trees, one of our most vital resources. In this study tree species interaction and the response to climate in different ecological environments is observed by applying a joint species distribution model to different ecological domains in the United States. Joint species distribution models are useful to learn inter-species relationships and species response to the environment. The climates’ impact on the tree species is measured through species abundance in an area. We compare the model’s performance across all ecological domains and study the sensitivity of the climate variables. With the prediction of abundances, tree species populations can be predicted in the future and measure the impact of climate change on tree populations.</details>
 
 
-### (27) A Global Census of Solar Facilities Using Deep Learning and Remote Sensing 
+### (27) A Global Census of Solar Facilities Using Deep Learning and Remote Sensing <span class='badge'>Honorable Mention</span>
 
 *Lucas Kruitwagen (University of Oxford); Kyle Story (Descartes Labs); Johannes Friedrich (World Resource Institute); Sam Skillman (Descartes Labs); Cameron Hepburn (University of Oxford)*
 
@@ -544,7 +542,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
  Energy consumption in buildings greatly contributes to worldwide CO2 emissions and thus any improvement in HVAC operation will greatly help tackling global climate change. We are putting forward a proposal for self-adaptive energy control in smart grids based on Deep Learning, Deep Reinforcement Learning and Multi-Agent technologies. Particularly, we introduce the concept of Deep Neural Simulation Model (DNSM) as a way of generating digital twins of buildings in which the agent can test and learn optimal operations by itself and by collaborating with other agents. Not only do we expect a reduction on energy consumption and an increment on the use of renewable sources, but also a reduction on the cost of controlling energy in buildings. </details>
 
 
-### (44) Machine learning identifies the most valuable synthesis conditions for next-generation photovoltaics 
+### (44) Machine learning identifies the most valuable synthesis conditions for next-generation photovoltaics <span class='badge'>Best Paper Award</span>
 
 *Felipe Oviedo (MIT) and Zekun Ren (MIT)*
 
@@ -555,7 +553,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
  Terawatts of next-generation photovoltaics (PV) are necessary to mitigate climate change. The traditional R&D paradigm leads to high efficiency / high variability solar cells, limiting industrial scaling of novel PV materials. In this work, we propose a machine learning approach for early-stage optimization of solar cells, by combining a physics-informed deep autoencoder and a manufacturing-relevant Bayesian optimization objective. This framework allows to: 1) Co-optimize solar cell performance and variability under techno-economic revenue constrains, and 2) Infer the effect of process conditions over key latent physical properties. We test our approach by synthesizing 135 perovskite solar cells, and finding the optimal points under various techno-economic assumptions. </details>
 
 
-### (45) Helping Reduce Environmental Impact of Aviation with Machine Learning [pdf](./CameraReadySubmissions 2-119/99/CameraReadySubmission/Climate_Change_Aircraft.pdf) 
+### (45) Helping Reduce Environmental Impact of Aviation with Machine Learning [pdf](./CameraReadySubmissions 2-119/99/CameraReadySubmission/Climate_Change_Aircraft.pdf) <span class='badge'>Best Paper Award</span>
 
 *Ashish Kapoor (Microsoft)*
 
@@ -588,7 +586,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
  Tracking the abundance of underwater species is crucial for understanding the effects of climate change on marine ecosystems. Biologists typically monitor underwater sites with echosounders and visualize data as 2D images (echograms); they interpret these data manually or semi-automatically, which is time-consuming and prone to inconsistencies. This paper proposes a deep learning framework for the automatic detection of schools of herring from echograms. Experiments demonstrated that our approach outperforms a traditional machine learning algorithm that uses hand-crafted features. Our framework could easily be expanded to detect more species of interest to sustainable fisheries.</details>
 
 
-### (48) Emulating Numeric Hydroclimate Models with Physics-Informed cGANs [pdf](./CameraReadySubmissions 2-119/107/CameraReadySubmission/Climate_Informatics_2019___Hydroclimate_Emulation_with_GANs.pdf)
+### (48) Emulating Numeric Hydroclimate Models with Physics-Informed cGANs [pdf](./CameraReadySubmissions 2-119/107/CameraReadySubmission/Climate_Informatics_2019___Hydroclimate_Emulation_with_GANs.pdf) <span class='badge'>Honorable Mention</span>
 
 *Ashray Manepalli (terrafuse); Adrian Albert (terrafuse, inc.); Alan Rhoades (Lawrence Berkeley National Lab); Daniel Feldman (Lawrence Berkeley National Lab)*
 
@@ -676,7 +674,7 @@ Kelly Kochanski (CU Boulder) <br>
 Kevin McCloskey (Google) <br>
 Kris Sankaran (Mila) <br>
 Lea Boche (EPRI) <br>
-Loubna	Benabbou (Mohammadia School of Engineering, Mohammed V University) <br>
+Loubna  Benabbou (Mohammadia School of Engineering, Mohammed V University) <br>
 Mahdi Jamei (Invenia Labs) <br>
 Max Callaghan (MCC Berlin) <br>
 Mayur Mudigonda (UC Berkeley) <br>
