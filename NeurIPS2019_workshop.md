@@ -335,7 +335,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
 
 ### (25) Quantifying the Carbon Emissions of Machine Learning 
 
-*Sasha Luccioni (Mila); Victor Schmidt (Mila); Alexandre Lacoste (); Thomas Dandres (Polytechnique Montreal)*
+*Sasha Luccioni (Mila); Victor Schmidt (Mila); Alexandre Lacoste (Element AI); Thomas Dandres (Polytechnique Montreal)*
 
 <details>
 <summary>
