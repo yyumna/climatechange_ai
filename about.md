@@ -74,7 +74,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   <div class="person__title">Partnerships</div>
 </a>
 
-<a class="person__item" href="https://scholar.google.com/citations?user=Lf-StbQAAAAJ" target="_blank">
+<a class="person__item" href="https://asross.github.io/" target="_blank">
   <div class="person__pic-wrapper">
     <img class="person__pic" src="images/people/andrew_ross_200x200.jpg">
   </div>

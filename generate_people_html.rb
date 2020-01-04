@@ -40,7 +40,7 @@ We believe that:
 A world where effective climate change mitigation and robust adaptation strategies are deployed for the benefit of all.
 
 ## Our Mission
-To empower solutions that meaningfully address the climate crisis and are well-served by machine learning tools.
+To empower work that meaningfully addresses the climate crisis and is well-served by machine learning tools.
 
 ## Our Goals
 
