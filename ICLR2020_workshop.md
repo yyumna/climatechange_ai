@@ -9,9 +9,9 @@ description: ICLR 2020 Workshop: Tackling Climate Change with Machine Learning'
 ***
 
 <center> <h3>Announcements</h3> </center>
-* Applications for the submission mentorship program are now open! Mentors and mentees may apply until Jan 14. More information [here](#submission-mentorship-program). 
-* Call for submissions of Papers or Proposals is now available [here](#call-for-submissions). Submissions are due on Feb 4 at 11:59 PM Pacific Time.
-* We are excited to announce travel grants for the workshop. Applications are due on Mar 3. More information [here](#travel-grants).
+* Applications for the submission mentorship program are now open! **We strongly encourage authors to consider applying for our mentorship program.** Applications are due Jan 14. More information [here](#submission-mentorship-program). 
+* **Call for submissions** of Papers or Proposals is now available [here](#call-for-submissions). Submissions are due on Feb 4 at 11:59 PM Pacific Time.
+* We are excited to announce **travel grants** for the workshop. Applications are due on Mar 3. More information [here](#travel-grants).
 
 ***
 
@@ -58,7 +58,7 @@ Please see the [Tips for Submissions](#tips-for-submissions) and [FAQ](#frequent
 
 There are two tracks for submissions. Submissions are limited to 4 pages for the Papers track and 3 pages for the Proposals track (in PDF format), and *must* be anonymized. References do not count towards the page total. Supplementary appendices are allowed but will be read at the discretion of the reviewers. All submissions *must* explain why the proposed work has (or could have) positive impacts regarding climate change. 
 
-For examples of previous submissions, see our [ICML 2019](https://www.climatechange.ai/ICML2019_workshop) and [NeurIPS 2019](https://www.climatechange.ai/NeurIPS2019_workshop) workshops.
+For examples of previous submissions, see our [ICML 2019](https://www.climatechange.ai/ICML2019_workshop) and [NeurIPS 2019](https://www.climatechange.ai/NeurIPS2019_workshop) workshops. **We strongly encourage authors to consider applying for our mentorship program,** for which applications are due Jan 14 (more information [here](#submission-mentorship-program)).
 
 #### PAPERS track  
 *Work that is in progress, published, and/or deployed*
