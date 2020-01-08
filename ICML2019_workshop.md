@@ -9,8 +9,8 @@ description: 'ICML 2019 Workshop: Climate Change: How Can AI Help?'
 ***
 
 <center> <h3>Announcements</h3> </center>
-*  Video recordings of the workshop are linked in the [schedule](#Schedule) below.
-*  Abstracts for accepted submissions are available under [Research](#Research-Track), [Deployed](#Deployed-Track), or [Ideas](#Ideas-Track).
+*  Video recordings of the workshop are linked under [Schedule](#schedule) below.
+*  Abstracts for accepted submissions are available under [Research](#research-track), [Deployed](#deployed-track), or [Ideas](#ideas-track).
 
 ***
 
