@@ -6,6 +6,14 @@ description: 'NeurIPS 2019 Workshop: Tackling Climate Change with Machine Learni
 
 <h1>NeurIPS 2019 Workshop <br> Tackling Climate Change with Machine Learning</h1>
 
+***
+
+<center> <h3>Announcements</h3> </center>
+*  Video recordings of the workshop are available: [part 1](https://slideslive.com/38922106/tackling-climate-change-with-ml-1), [part 2](https://slideslive.com/38922107/tackling-climate-change-with-ml-2), [part 3](https://slideslive.com/38922108/tackling-climate-change-with-ml-3), [part 4](https://slideslive.com/38922109/tackling-climate-change-with-ml-4).
+*  Abstracts for accepted works are available [below](#Accepted-Works).
+
+***
+
 Many in the ML community wish to take action on climate change, yet feel their skills are inapplicable. This workshop aims to show that in fact the opposite is true: while no silver bullet, **ML can be an invaluable tool both in reducing greenhouse gas emissions and in helping society adapt to the effects of climate change**. Climate change is a complex problem, for which action takes many forms - from designing smart electrical grids to tracking deforestation in satellite imagery. Many of these actions represent high-impact opportunities for real-world change, as well as being interesting problems for ML research.
 
 ## About the Workshop
