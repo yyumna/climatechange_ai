@@ -9,7 +9,7 @@ description: ICLR 2020 Workshop: Tackling Climate Change with Machine Learning'
 ***
 
 <center> <h3>Announcements</h3> </center>
-* Applications for the submission mentorship program are now open! **We strongly encourage authors to consider applying for our mentorship program.** Applications are due Jan 14. More information [here](#submission-mentorship-program). 
+* We strongly encourage authors to consider applying for our **mentorship program** (applications due Jan 14), which will pair authors with mentors having complementary expertise. More information [here](#submission-mentorship-program). 
 * **Call for submissions** of Papers or Proposals is now available [here](#call-for-submissions). Submissions are due on Feb 4 at 11:59 PM Pacific Time.
 * We are excited to announce **travel grants** for the workshop. Applications are due on Mar 3. More information [here](#travel-grants).
 
@@ -19,7 +19,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
 
 
 ## About ICLR
-ICLR is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting at or attending the main ICLR conference. Those interested should register for the Workshops component of ICLR at <https://iclr.cc/Register/view-registration> starting January 21. (A number of spots will be reserved for accepted submissions.)
+The International Conference on Learning Representations (ICLR) is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting at or attending the main ICLR conference. Those interested should register for the Workshops component of ICLR at <https://iclr.cc/Register/view-registration> starting January 21. (A number of spots will be reserved for accepted submissions.)
 
 ## About the workshop
  - Date:  Sunday, April 26, 2020
@@ -96,7 +96,7 @@ We also encourage workshop participants to apply for other grants for which they
 
 ## Submission Mentorship Program<br>
 
-We are piloting a mentorship program to facilitate exchange between potential workshop submitters and experts working in topic areas relevant to the workshop. The goal of this program is to foster cross-disciplinary collaborations and ultimately increase the quality and potential impact of submitted work.
+We are piloting a mentorship program to pair authors of submissions with mentors having complementary expertise. The goal of this program is to foster cross-disciplinary collaborations and ultimately increase the quality and potential impact of submitted work.
 
 ### Expectations:
 
