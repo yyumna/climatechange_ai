@@ -6,10 +6,13 @@ description: 'ICML 2019 Workshop: Climate Change: How Can AI Help?'
 
 <h1>ICML 2019 Workshop <br>Climate Change: How Can AI Help?</h1>
 
+***
+
+<center> <h3>Announcements</h3> </center>
+*  **Video recordings of the workshop are linked in the schedule below.** 
+***
+
 **Many in the ML community wish to take action on climate change, yet feel their skills are inapplicable.** This workshop aims to show that in fact the opposite is true: while no silver bullet, ML can be an invaluable tool both in reducing greenhouse gas emissions and in helping society adapt to the effects of climate change. Climate change is a complex problem, for which action takes many forms - from designing smart electrical grids to tracking deforestation in satellite imagery. Many of these actions represent high-impact opportunities for real-world change, as well as being interesting problems for ML research.
-
- **_Recordings of the workshop are linked in the schedule._** 
-
 
 ## About the workshop
  - Date:  Friday June 14, 2019
