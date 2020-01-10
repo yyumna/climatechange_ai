@@ -43,7 +43,7 @@ AMLD is a five-day conference of talks, tutorials & workshops on applied machine
 
 *Session: Climate Policy*<br/>
 3:30 PM - Marta González: TBC *(Invited talk)*<br/>
-3:55 PM - Slava Jankin: **ML for health and public services in the context of climate change**<br/>
+3:55 PM - Slava Jankin: **Tracking the Connections Between Public Health and Climate Change** *(Invited talk)*<br/>
 4:20 PM - Max Callaghan: **Machine learning for systematically mapping the climate change literature**<br/>
 4:30 PM - Liam F. Beiser-McGrath: **Understanding the Politics of Climate Change with AI and Machine Learning** *(Invited talk)*<br/>
 4:55 PM - **Closing remarks day 1**<br/>
