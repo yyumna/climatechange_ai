@@ -23,7 +23,8 @@ AMLD is a five-day conference of talks, tutorials & workshops on applied machine
 ## About the Track
 - Date: January 27 (afternoon) and 28 (morning), 2020
 - Location: SwissTech Convention Center, Lausanne, Switzerland
-- Recordings: The talks will be recorded. More info TBA.
+- Recordings: Recordings will be available after the conference.
+- Conference website: https://appliedmldays.org/tracks/ai-climate-change
 - <s>Submission site (through AMLD): <https://www.appliedmldays.org/call-presentations-posters></s>
 - <s>Submission deadline: Friday November 1st, 2019, 23:59 UTC</s>
 - Contact: <lynn.kaack@gess.ethz.ch> and <milojevic@mcc-berlin.net>
@@ -37,12 +38,12 @@ AMLD is a five-day conference of talks, tutorials & workshops on applied machine
 1:55 PM - Enikő Székely: **A direct approach to detection and attribution of climate change** *(Invited talk)*<br/>
 2:20 PM - Soon Hoe Lim: **Predicting Rare Events in Climate Science**<br/>
 2:30 PM - Matthias Meyer: **Monitoring Climate Change at the Edge of the Cloud**<br/>
-2:40 PM - Bibek Paudel: TBA<br/>
+2:40 PM - Bibek Paudel: TBC<br/>
 2:50 PM - Marius Zumwald: **Mapping urban temperature using crowd-sensing data and machine learning**<br/>
 3:00 PM - Break
 
 *Session: Climate Policy*<br/>
-3:30 PM - Marta González: TBC *(Invited talk)*<br/>
+3:30 PM - Marta González: TBA *(Invited talk)*<br/>
 3:55 PM - Slava Jankin: **Tracking the Connections Between Public Health and Climate Change** *(Invited talk)*<br/>
 4:20 PM - Max Callaghan: **Machine learning for systematically mapping the climate change literature**<br/>
 4:30 PM - Liam F. Beiser-McGrath: **Understanding the Politics of Climate Change with AI and Machine Learning** *(Invited talk)*<br/>
@@ -54,7 +55,7 @@ AMLD is a five-day conference of talks, tutorials & workshops on applied machine
 *Session: Climate Change Mitigation*<br/>
 9:00 AM - Olivier Corradi: **Estimation of marginal carbon emissions in electricity networks using electricityMap** *(Invited talk)*<br/>
 9:25 AM - Mohamed Kafsi: **Quantifying the Carbon Footprint of Mobility from Telecom Data**<br/>
-9:35 AM - TBA<br/>
+9:35 AM - David Dao: **Scaling Natural Climate Solutions with Machine Learning**<br/>
 9:45 AM - Kristina Orehounig (with Emmanouil Thrampoulidis): **The role of buildings to mitigate climate change** *(Invited talk)*<br/>
 10:10 AM - Chris Heinrich: **Roof Age Determination for the Automated Site-Selection of Rooftop Solar**<br/>
 10:20 AM - Daniel De Barros Soares: **Predicting the Solar Potential of Rooftops using Image Segmentation and Structured Data**<br/>
