@@ -24,7 +24,7 @@ AMLD is a five-day conference of talks, tutorials & workshops on applied machine
 - Date: January 27 (afternoon) and 28 (morning), 2020
 - Location: SwissTech Convention Center, Lausanne, Switzerland
 - Recordings: Recordings will be available after the conference.
-- Conference website: https://appliedmldays.org/tracks/ai-climate-change
+- Conference website: <https://appliedmldays.org/tracks/ai-climate-change>
 - <s>Submission site (through AMLD): <https://www.appliedmldays.org/call-presentations-posters></s>
 - <s>Submission deadline: Friday November 1st, 2019, 23:59 UTC</s>
 - Contact: <lynn.kaack@gess.ethz.ch> and <milojevic@mcc-berlin.net>
