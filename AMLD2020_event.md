@@ -38,7 +38,7 @@ AMLD is a five-day conference of talks, tutorials & workshops on applied machine
 1:55 PM - Enikő Székely: **A direct approach to detection and attribution of climate change** *(Invited talk)*<br/>
 2:20 PM - Soon Hoe Lim: **Predicting Rare Events in Climate Science**<br/>
 2:30 PM - Matthias Meyer: **Monitoring Climate Change at the Edge of the Cloud**<br/>
-2:40 PM - Bibek Paudel: TBC<br/>
+2:40 PM - Nicholas Jones: **Monitoring the built environment for urban resilience planning**<br/>
 2:50 PM - Marius Zumwald: **Mapping urban temperature using crowd-sensing data and machine learning**<br/>
 3:00 PM - Break
 
