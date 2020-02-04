@@ -24,7 +24,7 @@ The International Conference on Learning Representations (ICLR) is one of the pr
  - Date:  Sunday, April 26, 2020
  - Location:  Addis Ababa, Ethiopia
  - Mentorship program application deadline: January 14
- - Paper/Proposal submission deadline: ~February 4~ February 8, 11:59 PM Pacific Time
+ - Paper/Proposal submission deadline: ~~February 4~~ February 8, 11:59 PM Pacific Time
  - Notification:  February 25
  - Submission website: <https://cmt3.research.microsoft.com/CCAIICLR2020>
  - Contact: <climatechangeai.iclr2020@gmail.com>
