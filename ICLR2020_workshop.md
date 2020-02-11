@@ -52,6 +52,8 @@ The workshop does not record proceedings, and submissions are non-archival. Subm
 
 All submissions must be through the [submission website](https://cmt3.research.microsoft.com/CCAIICLR2020). Submissions will be reviewed double-blind; do your best to anonymize your submission, and do not include identifying information for authors in the PDF. We encourage, but do not require, use of the [ICLR style template](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2020.zip) (please **do not** uncomment the <tt>\iclrfinalcopy</tt> macro as it will deanonymize your submission).
 
+We will be awarding $30K in cloud computing credits, sponsored by Microsoft AI for Earth, as prizes for top submissions. Winners will be announced at the workshop.
+
 Please see the [Tips for Submissions](#tips-for-submissions) and [FAQ](#frequently-asked-questions), and contact <climatechangeai.iclr2020@gmail.com> with questions.
 
 ### Submission tracks  
@@ -149,9 +151,15 @@ Sasha Luccioni (Mila) <br>
 Kris Sankaran (Mila) <br>
 Sharon Zhou (Stanford) <br>
 Moustapha Cisse (Google Research) <br>
-Carla Gomes (Cornell University) <br>
+Carla Gomes (Cornell) <br>
 Andrew Ng (Stanford) <br>
 Yoshua Bengio (Mila) <br>
+
+## Sponsored By
+![Microsoft logo](/images/microsoft.png)
+
+![DeepMind logo](/images/deepmind.png)    
+
 
 
 ## Frequently Asked Questions
@@ -191,3 +199,90 @@ Yoshua Bengio (Mila) <br>
 
 **Q:** Can I submit work to this workshop if I am also submitting to another ICLR 2020 workshop?   
 **A:** Yes. We cannot, however, guarantee that you will not be expected to present the material at a time that conflicts with the other workshop.
+
+
+## Program Committee
+Adrian Albert (terrafuse, inc.) <br>
+Alberto Chapchap (Visia Investments) <br>
+Alexandre Lacoste (Element AI) <br>
+Alireza Rezvanifar (University of Victoria) <br>
+Alpan Raval (Wadhwani Institute for Artificial Intelligence) <br>
+Andrew Ross (Harvard) <br>
+Aneesh Rangnekar (Rochester Institute of Technology) <br>
+Anthony Ortiz (University of Texas at El Paso) <br>
+Armi Tiihonen (MIT) <br>
+Ashish Kapoor (Microsoft) <br>
+Bill Cai (MIT) <br>
+Björn Lütjens (MIT) <br>
+Brian Hutchinson (Western Washington University) <br>
+Caleb Robinson (Georgia Institute of Technology) <br>
+Christian Schroeder de Witt (University of Oxford) <br>
+Clement DUHART (MIT Media Lab) <br>
+Daniel Vallero (Duke) <br>
+Dara Farrell (Graduate of University of Washington) <br>
+David Dao (ETH Zurich) <br>
+Deval Pandya (Shell Global Solutions) <br>
+Eun-Kyeong Kim (University of Zurich) <br>
+Evan Sherwin (Stanford) <br>
+Fabrizio Falasca (Georgia Institute of Technology) <br>
+FELIPE OVIEDO (MIT) <br>
+Frederik Diehl (fortiss) <br>
+Frederik Kratzert (Johannes Kepler University) <br>
+Garima Jain (ClimateAi) <br>
+Gautier Cosne (Mila) <br>
+Gavin Portwood (Los Alamos National Lab) <br>
+Genevieve Flaspohler (MIT) <br>
+George Chen (Carnegie Mellon) <br>
+Greg Schivley (Carbon Impact Consulting) <br>
+Hari Prasanna Das (UC Berkeley) <br>
+Hovig Bayandorian <br>
+Ioannis C. Konstantakopoulos (UC Berkeley) <br>
+Jan Drgona (Pacific Northwest National Laboratory) <br>
+Jeremy Freeman <br>
+Jigar Doshi (Wadhwani AI) <br>
+Jingfan Wang (Stanford) <br>
+Johannes Rausch (ETH Zurich) <br>
+John Platt (Google) <br>
+Joris Guerin (ENSAM) <br>
+Joyjit Chatterjee (University of Hull) <br>
+Kara Lamb (Cooperative Institute for Research in the Environmental Sciences) <br>
+Kelly Kochanski (University of Colorado Boulder) <br>
+Kevin McCloskey (Google) <br>
+Kira Goldner (Columbia University) <br>
+Konstantin Klemmer (University of Warwick) <br>
+Lauren Kuntz (Gaiascope) <br>
+Lexie Yang (Oak Ridge National Laboratoy) <br>
+Lucas Liebenwein (MIT) <br>
+Lucas Kruitwagen (University of Oxford) <br>
+Mark Barna (IQVIA) <br>
+Max Evans (ClimateAi) <br>
+Michael Howland (Stanford) <br>
+Miguel Molina-Solana (Imperial College London) <br>
+Muge Komurcu (MIT) <br>
+Natasha Jaques <br>
+Nathan Williams (Rochester Institute of Technology) <br>
+Niccolo Dalmasso (Carnegie Mellon) <br>
+Nicholas Jones (World Bank) <br>
+Nikola Milojevic-Dupont (MCC Berlin) <br>
+Olya (Olga) Irzak (Frost Methane Labs) <br>
+Peetak Mitra (UMass Amherst) <br>
+Rajesh Sankaran (Argonne National Lab) <br>
+Ruben Glatt (LLNL) <br>
+Sam Skillman (Descartes Labs) <br>
+Saumya Sinha (University of Colorado, Boulder) <br>
+Sepehr Pashang (University of Waterloo) <br>
+Shamindra Shrotriya (Carnegie Mellon) <br>
+Slava Jankin (Hertie School of Governance) <br>
+Sookyung Kim (Lawrence Livermore National Laboratory) <br>
+Sophie Giffard-Roisin (University of Colorado Boulder) <br>
+Tegan Maharaj (Mila, Polytechnic Montreal) <br>
+Valentina Zantedeschi (Jean Monnet University) <br>
+Victor Schmidt (Mila) <br>
+Victor Kristof (EPFL) <br>
+Victoria Preston (MIT) <br>
+Vikram Voleti (Mila, University of Montreal) <br>
+Yanbing Wang (Vanderbilt University) <br>
+Yimeng Min (Mila) <br>
+Yonadav Shavit (Harvard University) <br>
+Yue Hu (Vanderbilt University) <br>
+Zhecheng Wang (Stanford) <br>
