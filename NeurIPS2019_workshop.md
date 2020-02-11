@@ -9,7 +9,7 @@ description: 'NeurIPS 2019 Workshop: Tackling Climate Change with Machine Learni
 ***
 
 <center> <h3>Announcements</h3> </center>
-*  Video recordings of the workshop are available: [part 1](https://slideslive.com/38922106/tackling-climate-change-with-ml-1), [part 2](https://slideslive.com/38922107/tackling-climate-change-with-ml-2), [part 3](https://slideslive.com/38922108/tackling-climate-change-with-ml-3), [part 4](https://slideslive.com/38922109/tackling-climate-change-with-ml-4).
+*  Video recordings of the workshop are linked under the [Schedule](#schedule) below.
 *  Abstracts for accepted works are available [below](#accepted-works).
 
 ***
@@ -19,7 +19,6 @@ Many in the ML community wish to take action on climate change, yet feel their s
 ## About the Workshop
  - Date:  Saturday, December 14, 2019
  - Location: Vancouver Convention Center, British Columbia, Canada
-  - Recordings: [part 1](https://slideslive.com/38922106/tackling-climate-change-with-ml-1), [part 2](https://slideslive.com/38922107/tackling-climate-change-with-ml-2), [part 3](https://slideslive.com/38922108/tackling-climate-change-with-ml-3), [part 4](https://slideslive.com/38922109/tackling-climate-change-with-ml-4)
  - <s>Submission deadline: September 11, 11:59 PM Pacific Time</s>
  - <s>Notification: October 1</s>
  - <s>Submission website: <https://cmt3.research.microsoft.com/CCAINeurIPS2019></s>
@@ -32,28 +31,28 @@ Many in the ML community wish to take action on climate change, yet feel their s
 **Lester Mackey** (Microsoft Research, Stanford)  
 
 ## Schedule
-8:15 -  8:30 - **Welcome and opening remarks**    
-8:30 - 9:05 - Jeff Dean (Google AI) *(Invited talk)*    
-9:05 - 9:15 - Felipe Oviedo: **Machine learning identifies the most valuable synthesis conditions for next-generation photovoltaics** *(Spotlight talk)*  
-9:15 - 9:25 - Valentina Zantedeschi: **Cumulo: A Dataset for Learning Cloud Classes** *(Spotlight talk)*   
-9:25 - 9:35 - Qinghu Tang: **Fine-Grained Distribution Grid Mapping Using Street View Imagery** *(Spotlight talk)*   
-9:35 - 9:45 - Shamindra Shrotriya and Niccolo Dalmasso: **Predictive Inference of a Wildfire Risk Pipeline in the United States** *(Spotlight talk)*   
+8:15 -  8:30 - [**Welcome and opening remarks**](https://slideslive.com/38922393/welcome-and-opening-remarks)    
+8:30 - 9:05 - Jeff Dean (Google AI) [**Computation + Systems vs Climate Change**](https://slideslive.com/38922391/computation-systems-vs-climate-change) *(Invited talk)*    
+9:05 - 9:15 - Felipe Oviedo: [**Machine learning identifies the most valuable synthesis conditions for next-generation photovoltaics**](https://slideslive.com/38922390/machine-learning-identifies-the-most-valuable-synthesis-conditions-for-nextgeneration-photovoltaics) *(Spotlight talk)*  
+9:15 - 9:25 - Valentina Zantedeschi: [**Cumulo: A Dataset for Learning Cloud Classes**](https://slideslive.com/38922389/cumulo-a-dataset-for-learning-cloud-classes) *(Spotlight talk)*   
+9:25 - 9:35 - Qinghu Tang: [**Fine-Grained Distribution Grid Mapping Using Street View Imagery**](https://slideslive.com/38922392/finegrained-distribution-grid-mapping-using-street-view-imagery) *(Spotlight talk)*   
+9:35 - 9:45 - Shamindra Shrotriya and Niccolo Dalmasso: [**Predictive Inference of a Wildfire Risk Pipeline in the United States**](https://slideslive.com/38922369/predictive-inference-of-a-wildfire-risk-pipeline-in-the-united-states) *(Spotlight talk)*   
 9:45 - 10:30 - Coffee break + Poster Session    
-10:30 - 11:05 - Felix Creutzig (MCC Berlin, TU Berlin): **Leveraging digitalization for urban solutions in the Anthropocene** *(Invited talk)*    
-11:05 - 11:15 - Ashish Kapoor: **Helping Reduce Environmental Impact of Aviation with Machine Learning** *(Spotlight talk)*     
-11:15 - 12:00 - Yoshua Bengio, Andrew Ng, Carla Gomes, Lester Mackey, Jeff Dean: **Panel - Climate Change: A Grand Challenge for ML**   
+10:30 - 11:05 - Felix Creutzig (MCC Berlin, TU Berlin): [**Leveraging digitalization for urban solutions in the Anthropocene**](https://slideslive.com/38922396/leveraging-digitalization-for-urban-solutions-in-the-anthropocene) *(Invited talk)*    
+11:05 - 11:15 - Ashish Kapoor: [**Helping Reduce Environmental Impact of Aviation with Machine Learning**](https://slideslive.com/38922395/helping-reduce-environmental-impact-of-aviation-with-machine-learning) *(Spotlight talk)*     
+11:15 - 12:00 - Yoshua Bengio, Andrew Ng, Carla Gomes, Lester Mackey, Jeff Dean: [**Panel - Climate Change: A Grand Challenge for ML**](https://slideslive.com/38922368/panel-climate-change-a-grand-challenge-for-ml)   
 12:00 - 2:00 - Networking lunch (provided) + Poster Session    
-2:00 - 2:40 - Carla Gomes (Cornell) *(Invited talk)*    
-2:40 - 2:50 - Kyle Story: **A Global Census of Solar Facilities Using Deep Learning and Remote Sensing** *(Spotlight talk)*    
-2:50 - 3:00 - Kiwan Maeng: **Enhancing Stratospheric Weather Analyses and Forecasts by Deploying Sensors from a Weather Balloon** *(Spotlight talk)*   
-3:00 - 3:10 - Daisy Zhe Wang: **Measuring Impact of Climate Change on Tree Species: analysis of JSDM on FIA data** *(Spotlight talk)*   
-3:10 - 3:20 - Adrian Albert: **Emulating Numeric Hydroclimate Models with Physics-Informed cGANs** *(Spotlight talk)*   
-3:20 - 3:30 - Draguna Vrabie: **Stripping off the implementation complexity of physics-based model predictive control for buildings via deep learning** *(Spotlight talk)*   
+2:00 - 2:40 - Carla Gomes (Cornell) [**Computational Sustainability: Computing for a Better World and a Sustainable Future**](https://slideslive.com/38922406/computational-sustainability-computing-for-a-better-world-and-a-sustainable-future) *(Invited talk)*    
+2:40 - 2:50 - Kyle Story: [**A Global Inventory of Utility-Scale Solar Photovoltaic Power Stations**](https://slideslive.com/38922408/a-global-inventory-of-utilityscale-solar-photovoltaic-power-stations) *(Spotlight talk)*    
+2:50 - 3:00 - Kiwan Maeng: [**Enhancing Stratospheric Weather Analyses and Forecasts by Deploying Sensors from a Weather Balloon**](https://slideslive.com/38922410/enhancing-stratospheric-weather-analyses-and-forecasts-by-deploying-sensors-from-a-weather-balloon) *(Spotlight talk)*   
+3:00 - 3:10 - Daisy Zhe Wang: [**Measuring Impact of Climate Change on Tree Species: analysis of JSDM on FIA data**](https://slideslive.com/38922411/measuring-impact-of-climate-change-on-tree-species-analysis-of-jsdm-on-fia-data) *(Spotlight talk)*   
+3:10 - 3:20 - Adrian Albert: [**Emulating Numeric Hydroclimate Models with Physics-Informed cGANs**](https://slideslive.com/38922409/emulating-numeric-hydroclimate-models-with-physicsinformed-cgans) *(Spotlight talk)*   
+3:20 - 3:30 - Draguna Vrabie: [**Stripping off the implementation complexity of physics-based model predictive control for buildings via deep learning**](https://slideslive.com/38922407/stripping-off-the-implementation-complexity-of-physicsbased-model-predictive-control-for-buildings-via-deep-learning) *(Spotlight talk)*   
 3:30 - 4:15 - Coffee break + Poster Session    
-4:15 - 4:40 - Lester Mackey (Microsoft Research) *(Invited talk)*    
-4:40 - 4:50 - Saumya Sinha: **Detecting Avalanche Deposits using Variational Autoencoder on Sentinel-1 Satellite Imagery** *(Spotlight talk)*  
-4:50 - 5:00 - Jacob Pettit: **Increasing performance of electric vehicles in ride-hailing services using deep reinforcement learning** *(Spotlight talk)*  
-5:00 - 6:00 - John Platt, Jennifer Chayes, James Kelloway, Marta Gonzalez, Matt Horne: **Panel - Practical Challenges in Applying ML to Climate Change**    
+4:15 - 4:40 - Lester Mackey (Microsoft Research) [**Improving Subseasonal Forecasting in the Western U.S.**](https://slideslive.com/38922415/improving-subseasonal-forecasting-in-the-western-us) *(Invited talk)*    
+4:40 - 4:50 - Saumya Sinha: [**Detecting Avalanche Deposits using Variational Autoencoder on Sentinel-1 Satellite Imagery**](https://slideslive.com/38922417/detecting-avalanche-deposits-using-variational-autoencoder-on-sentinel1-satellite-imagery) *(Spotlight talk)*  
+4:50 - 5:00 - Jacob Pettit: [**Increasing performance of electric vehicles in ride-hailing services using deep reinforcement learning**](https://slideslive.com/38922416/increasing-performance-of-electric-vehicles-in-ridehailing-services-using-deep-reinforcement-learning) *(Spotlight talk)*  
+5:00 - 6:00 - John Platt, Jennifer Chayes, James Kelloway, Marta Gonzalez, Matt Horne: [**Panel - Practical Challenges in Applying ML to Climate Change**](https://slideslive.com/38922367/panel-practical-challenges-in-applying-ml-to-climate-change)    
 
 ## Organizers
 <a href="http://www.davidrolnick.com" target="_blank">David Rolnick (UPenn)</a> <br>
