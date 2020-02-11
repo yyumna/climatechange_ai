@@ -211,6 +211,7 @@ Aneesh Rangnekar (Rochester Institute of Technology) <br>
 Anthony Ortiz (University of Texas at El Paso) <br>
 Armi Tiihonen (MIT) <br>
 Ashish Kapoor (Microsoft) <br>
+Ashley Pilipiszyn (Stanford) <br>
 Bill Cai (MIT) <br>
 Björn Lütjens (MIT) <br>
 Brian Hutchinson (Western Washington University) <br>
