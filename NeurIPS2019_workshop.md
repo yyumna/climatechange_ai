@@ -132,7 +132,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
  This paper tackles the task of extreme climate event tracking. We propose a simple but robust end-to-end model based on multi-layered ConvLSTMs, suitable for climate event tracking. It first learns to imprint the location and the appearance of the target at the first frame in an auto-encoding fashion. Next, the learned feature is fed to the tracking module to track the target in subsequent time frames. To tackle the data shortage problem, we propose data augmentation based on conditional generative adversarial networks. Extensive experiments show that the proposed framework significantly improves tracking performance of a hurricane tracking task over several state-of-the-art methods.</details>
 
 
-### (6) DeepWind: Weakly Supervised Localization of Wind Turbines in Satellite Imagery [pdf](./CameraReadySubmissions 2-119/15/CameraReadySubmission/Wind_Turbine_Detection___NeurIPS_Workshop)
+### (6) DeepWind: Weakly Supervised Localization of Wind Turbines in Satellite Imagery [pdf](./CameraReadySubmissions 2-119/15/CameraReadySubmission/Wind_Turbine_Detection___NeurIPS_Workshop (4).pdf)
 
 *Sharon Zhou (Stanford University); Jeremy Irvin (Stanford); Zhecheng Wang (Stanford University); Ram Rajagopal (Stanford University); Andrew Ng (Stanford U.); Eva Zhang (Stanford University); Will Deaderick (Stanford University); Jabs Aljubran (Stanford University)*
 
