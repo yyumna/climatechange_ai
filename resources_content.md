@@ -24,11 +24,13 @@ For an overall introduction to the topic of climate change, we provide a (non-ex
 
 - [UN Climate Change E-Learning](https://unccelearn.org/course/)
 
-### Other Climate Change + AI Resources
+### Related Initiatives
 
 - [AI, People & Planet](https://www.aipeopleplanet.earth/)
 - [Climate Informatics](http://climateinformatics.org/)
 - [Open Climate Fix](https://openclimatefix.org/)
+- [Computational Sustainability Network](https://www.compsust.net/)
+- [ClimateAction.tech](https://climateaction.tech/)
 
 ## 1. Electricity Systems
 

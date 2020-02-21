@@ -48,13 +48,14 @@ If you find that we are missing some important resources, please submit them thr
   <li><a target="_blank" href="https://unccelearn.org/course/">UN Climate Change E-Learning</a></li>
 </ul>
 
-<h3 id="other-climate-change--ai-resources">Other Climate Change + AI Resources</h3>
+<h3 id="related-initiatives">Related Initiatives</h3>
 
 <ul>
   <li><a target="_blank" href="https://www.aipeopleplanet.earth/">AI, People &amp; Planet</a></li>
   <li><a target="_blank" href="http://climateinformatics.org/">Climate Informatics</a></li>
   <li><a target="_blank" href="https://openclimatefix.org/">Open Climate Fix</a></li>
-  <li><a href="Using computing to fix climate change">Using computing to fix climate change</a></li>
+  <li><a target="_blank" href="https://www.compsust.net/">Computational Sustainability Network</a></li>
+  <li><a target="_blank" href="https://climateaction.tech/">ClimateAction.tech</a></li>
 </ul>
 
 
@@ -110,6 +111,7 @@ If you find that we are missing some important resources, please submit them thr
   <li><a target="_blank" href="http://www.drhongtao.com/gefcom">Global Energy Forecasting Competition</a></li>
   <li><a target="_blank" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IHBANG">SubseasonalRodeo</a></li>
   <li><a target="_blank" href="https://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest">American Meteorological Society 2013-2014 Solar Energy Prediction Contest</a></li>
+  <li><a target="_blank" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1ZNLUY">Rural Electricity Demand in India (REDI) Dataset</a></li>
   <li><a target="_blank" href="https://github.com/invenia/OPFSampler.jl/">Optimal Power Flow (OPF) Sampler Package</a></li>
 </ul>
 
@@ -166,6 +168,7 @@ If you find that we are missing some important resources, please submit them thr
       <li>Public
         <ul>
           <li><a target="_blank" href="https://www.copernicus.eu/en/access-data">Copernicus dataset (Sentinel satellites)</a></li>
+          <li><a target="_blank" href="http://bigearth.net/">BigEarthNet dataset (Sentinel satellites)</a></li>
         </ul>
       </li>
       <li>Commercial
@@ -553,6 +556,7 @@ If you find that we are missing some important resources, please submit them thr
   <li><a target="_blank" href="https://channels.plos.org/rtcc">PLOS Responding to Climate Change</a></li>
   <li><a target="_blank" href="https://acmcompass.org/">ACM Compass</a></li>
   <li><a target="_blank" href="https://www.itu.int/en/ITU-T/AI/2018/Pages/default.aspx">AI for Good Global Summit</a></li>
+  <li><a target="_blank" href="https://www.thelancet.com/climate-and-health">Lancet Health and Climate Change</a></li>
 </ul>
 
 
