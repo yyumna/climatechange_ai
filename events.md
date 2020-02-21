@@ -14,7 +14,7 @@ Our events provide opportunities to share work at the intersection of climate ch
 ## Past events
 * [AMLD 2020](/AMLD2020_event) -- Jan 27-28, 2020 in Lausanne, Switzerland
 * [NeurIPS 2019](/NeurIPS2019_workshop) -- Dec 14, 2019 in Vancouver, BC, Canada
-* [COP25](/COP25_event) (UN Climate Change Conference) -- Dec 4, 2019 in Madrid, Spain
+* [COP25](/COP25_event) -- Dec 4, 2019 in Madrid, Spain
 - [ICML 2019](/ICML2019_workshop) -- Jun 14, 2019 in Long Beach, CA, USA
 
 
