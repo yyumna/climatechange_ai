@@ -48,6 +48,16 @@ If you find that we are missing some important resources, please submit them thr
   <li><a target="_blank" href="https://unccelearn.org/course/">UN Climate Change E-Learning</a></li>
 </ul>
 
+<h3 id="related-initiatives">Related Initiatives</h3>
+
+<ul>
+  <li><a target="_blank" href="https://www.aipeopleplanet.earth/">AI, People &amp; Planet</a></li>
+  <li><a target="_blank" href="http://climateinformatics.org/">Climate Informatics</a></li>
+  <li><a target="_blank" href="https://openclimatefix.org/">Open Climate Fix</a></li>
+  <li><a target="_blank" href="https://www.compsust.net/">Computational Sustainability Network</a></li>
+  <li><a target="_blank" href="https://climateaction.tech/">ClimateAction.tech</a></li>
+</ul>
+
 
     </div>
   </div>
@@ -90,6 +100,7 @@ If you find that we are missing some important resources, please submit them thr
 <h4 id="general">General</h4>
 
 <ul>
+  <li><a target="_blank" href="https://us.energypolicy.solutions/docs/">Energy Policy Simulator</a> from <a target="_blank" href="https://energyinnovation.org/">Energy Innovation LLC</a></li>
   <li><a target="_blank" href="https://catalyst.coop/pudl/">Public Utility Data Liberation (PUDL) Project</a></li>
   <li>US independent system operators/regional transmission organizations (ISOs/RTOs): <a target="_blank" href="http://www.caiso.com/TodaysOutlook/Pages/prices.aspx">CAISO</a>, <a target="_blank" href="http://www.ercot.com/gridinfo">ERCOT</a>, <a target="_blank" href="https://www.iso-ne.com/markets-operations">ISO-NE</a>, <a target="_blank" href="https://www.misoenergy.org/markets-and-operations/">MISO</a>, <a target="_blank" href="https://www.nyiso.com/energy-market-operational-data">NYISO</a>, <a target="_blank" href="https://dataminer2.pjm.com/list">PJM</a>, and <a target="_blank" href="https://marketplace.spp.org/">SPP</a></li>
 </ul>
@@ -100,6 +111,8 @@ If you find that we are missing some important resources, please submit them thr
   <li><a target="_blank" href="http://www.drhongtao.com/gefcom">Global Energy Forecasting Competition</a></li>
   <li><a target="_blank" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IHBANG">SubseasonalRodeo</a></li>
   <li><a target="_blank" href="https://www.kaggle.com/c/ams-2014-solar-energy-prediction-contest">American Meteorological Society 2013-2014 Solar Energy Prediction Contest</a></li>
+  <li><a target="_blank" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1ZNLUY">Rural Electricity Demand in India (REDI) Dataset</a></li>
+  <li><a target="_blank" href="https://github.com/invenia/OPFSampler.jl/">Optimal Power Flow (OPF) Sampler Package</a></li>
 </ul>
 
 <h4 id="accelerated-science-for-materials">Accelerated Science for Materials</h4>
@@ -155,6 +168,7 @@ If you find that we are missing some important resources, please submit them thr
       <li>Public
         <ul>
           <li><a target="_blank" href="https://www.copernicus.eu/en/access-data">Copernicus dataset (Sentinel satellites)</a></li>
+          <li><a target="_blank" href="http://bigearth.net/">BigEarthNet dataset (Sentinel satellites)</a></li>
         </ul>
       </li>
       <li>Commercial
@@ -183,6 +197,7 @@ If you find that we are missing some important resources, please submit them thr
   <li><a target="_blank" href="https://greeningthegrid.org/toolkits">Greening the Grid toolkit</a></li>
   <li><a target="_blank" href="https://www.coursera.org/learn/electric-power-systems">Electric Power Systems online course (Coursera)</a></li>
   <li><a target="_blank" href="https://powertac.org/">PowerTAC testing platform</a></li>
+  <li><a target="_blank" href="https://www.google.com/get/sunroof/data-explorer/">Google Project Sunroof</a> (detailed estimates of solar potential based on sunlight and roof space)</li>
 </ul>
 
 <h3 id="events-conferences-and-journals">Events, Conferences and Journals</h3>
@@ -286,12 +301,13 @@ If you find that we are missing some important resources, please submit them thr
 
 <h4 id="city-metabolism">City Metabolism</h4>
 
-<p>The ‘’metabolism’’ of a city includes the electricity used, waste generated, and GHG emitted.</p>
+<p>The “metabolism” of a city includes the electricity used, waste generated, and GHG emitted.</p>
 
 <ul>
   <li>Metabolism data for 150 cities is listed at <a target="_blank" href="https://metabolismofcities.org/resources/data/datasets">https://metabolismofcities.org/resources/data/datasets</a>.</li>
   <li>The China Emission Accounts &amp; Datasets provides energy, emission and socio-economic accounting inventories for China <a target="_blank" href="http://www.ceads.net/">https:/ceads.net</a>.</li>
   <li>First attempts of global databases on cities emissions and relevant ancillary metrics include <a target="_blank" href="https://www.nature.com/articles/sdata2018280">https://www.nature.com/articles/sdata2018280</a>.</li>
+  <li>The <a target="_blank" href="https://www.cdp.net/">Carbon Disclosure Project</a> provides a global platform for cities to measure and disclose environmental data; a variety of datasets are available at <a target="_blank" href="https://data.cdp.net/">https://data.cdp.net</a>.</li>
 </ul>
 
 <h4 id="urban-land-use-infrastructure-data">Urban Land Use, Infrastructure Data</h4>
@@ -450,6 +466,11 @@ If you find that we are missing some important resources, please submit them thr
       <li>Read about it in <a target="_blank" href="https://journals.ametsoc.org/doi/full/10.1175/BAMS-D-13-00255.1">https://journals.ametsoc.org/doi/full/10.1175/BAMS-D-13-00255.1</a></li>
     </ul>
   </li>
+  <li><a target="_blank" href="https://cloud.google.com/public-datasets/weather/">Google Cloud Weather and Climate Datasets</a>
+    <ul>
+      <li>Petabyte-scale weather and climate datasets from sources like NOAA’s <a target="_blank" href="https://www.ncdc.noaa.gov/data-access/radar-data/nexrad">NEXRAD</a> and NASA/USGS’s <a target="_blank" href="https://landsat.gsfc.nasa.gov/">Landsat</a>, made available for free as part of  Google Cloud’s Public Datasets Program.</li>
+    </ul>
+  </li>
 </ul>
 
 <p><strong>N.B.</strong> Climate model data is typically presented in netcdf4 format. These may be smoothly converted to csv files or <a target="_blank" href="https://stackoverflow.com/questions/14035148/import-netcdf-file-to-pandas-dataframe">pandas dataframes</a>, but be aware that the data lies on irregular 3D spherical grids.</p>
@@ -535,6 +556,7 @@ If you find that we are missing some important resources, please submit them thr
   <li><a target="_blank" href="https://channels.plos.org/rtcc">PLOS Responding to Climate Change</a></li>
   <li><a target="_blank" href="https://acmcompass.org/">ACM Compass</a></li>
   <li><a target="_blank" href="https://www.itu.int/en/ITU-T/AI/2018/Pages/default.aspx">AI for Good Global Summit</a></li>
+  <li><a target="_blank" href="https://www.thelancet.com/climate-and-health">Lancet Health and Climate Change</a></li>
 </ul>
 
 
