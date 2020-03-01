@@ -91,7 +91,7 @@ Submissions for the Proposals track should describe detailed ideas for how machi
 
 We are excited to announce limited travel grants for the workshop. Travel grant applications can be submitted at <a href="https://forms.gle/VZZSk7Fj6xcmQkR3A" target="_blank">https://forms.gle/VZZSk7Fj6xcmQkR3A</a>, and are due March 3.
 
-We also encourage workshop participants to apply for other grants for which they may be eligible. If you are aware of additional funding opportunities that may be relevant to workshop attendees, please contact the workshop organizers so we can make this information available.
+We also encourage workshop participants to apply for <a href="https://iclr.cc/Conferences/2020/TravelAwardFAQ" target="_blank">ICLR 2020 travel grants</a> or other grants for which they may be eligible. If you are aware of additional funding opportunities that may be relevant to workshop attendees, please contact the workshop organizers so we can make this information available.
 
 
 ## Submission Mentorship Program<br>
