@@ -9,7 +9,7 @@ description: ICLR 2020 Workshop: Tackling Climate Change with Machine Learning'
 ***
 
 <center> <h3>Announcements</h3> </center>
-* We are excited to announce **travel grants** for the workshop. Applications are due on Mar 3. More information [here](#travel-grants).
+**The workshop will be held remotely** due to risks and travel restrictions associated with SARS-CoV-2/COVID-19. Please do not book travel, and please cancel travel arrangements where possible. More information to follow; for more information from ICLR, please see the [ICLR conference website](https://iclr.cc/Conferences/2020/virtual).
 
 ***
 
