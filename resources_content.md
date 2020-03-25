@@ -39,7 +39,7 @@ For an overall introduction to the topic of climate change, we provide a (non-ex
 #### Papers and primers
 
 - [IPCC chapter on energy systems](https://www.ipcc.ch/report/ar5/wg3/energy-systems/)
-- [Energy Primer by US Federal Energy Regulatory Commission](https://www.ferc.gov/market-oversight/guide/energy-primer.pdf)
+- [Energy Primer by US Federal Energy Regulatory Commission](https://www.ferc.gov/market-assessments/guide/energy-primer.pdf)
 
 #### Textbooks
 

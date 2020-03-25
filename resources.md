@@ -77,7 +77,7 @@ If you find that we are missing some important resources, please submit them thr
 
 <ul>
   <li><a target="_blank" href="https://www.ipcc.ch/report/ar5/wg3/energy-systems/">IPCC chapter on energy systems</a></li>
-  <li><a target="_blank" href="https://www.ferc.gov/market-oversight/guide/energy-primer.pdf">Energy Primer by US Federal Energy Regulatory Commission</a></li>
+  <li><a target="_blank" href="https://www.ferc.gov/market-assessments/guide/energy-primer.pdf">Energy Primer by US Federal Energy Regulatory Commission</a></li>
 </ul>
 
 <h4 id="textbooks">Textbooks</h4>
