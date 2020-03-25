@@ -21,7 +21,7 @@ The International Conference on Learning Representations (ICLR) is one of the pr
 
 ## About the workshop
  - Date:  Sunday, April 26, 2020
- - Location:  Addis Ababa, Ethiopia
+ - Location:  ~~Addis Ababa, Ethiopia~~ Virtual (details coming soon)
  - Mentorship program application deadline: January 14
  - Paper/Proposal submission deadline: ~~February 4~~ February 8, 11:59 PM Pacific Time
  - Notification:  February 25
