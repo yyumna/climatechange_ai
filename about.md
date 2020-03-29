@@ -44,7 +44,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Priya L. Donti</div>
   <div class="person__affil">Carnegie Mellon</div>
-  <div class="person__title">Co-Chair</div>
+  <div class="person__title">Chair</div>
 </a>
 
 <a class="person__item" href="https://epg.ethz.ch/people/senior-researchers/dr--lynn-kaack.html" target="_blank">
@@ -53,7 +53,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Lynn H. Kaack</div>
   <div class="person__affil">ETH Zürich</div>
-  <div class="person__title">Co-Chair</div>
+  <div class="person__title">Chair</div>
 </a>
 
 <a class="person__item" href="https://mila.quebec/en/person/kris-sankaran/" target="_blank">
