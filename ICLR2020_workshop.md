@@ -19,7 +19,8 @@ Many in the ML community wish to take action on climate change, yet feel their s
 The International Conference on Learning Representations (ICLR) is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting at or attending the main ICLR conference. Those interested should register for ICLR at <https://iclr.cc/Register/view-registration>.
 
 ## About the Workshop
- - Date:  Sunday, April 26, 2020
+ - Main workshop date:  Sunday, April 26, 2020 
+ - Additional events: April 27-30, 2020
  - Location:  ~~Addis Ababa, Ethiopia~~ Virtual (more details coming soon)
  - ~~Mentorship program application deadline: January 14~~
  - ~~Paper/Proposal submission deadline: February 4 &rarr; February 8, 11:59 PM Pacific Time~~
@@ -30,7 +31,7 @@ The International Conference on Learning Representations (ICLR) is one of the pr
 ## Keynote Speakers
 **Stefano Ermon** (Stanford University)  
 **Cira wa Maina** (Dedan Kimathi University of Technology)  
-**Georgina Campbell** (ClimaCell.org)  
+**Georgina Campbell Flatter** (ClimaCell.org)  
 **Dan Morris** (Microsoft AI for Earth)
 
 ## Panelists
