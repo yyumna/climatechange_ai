@@ -39,7 +39,7 @@ The International Conference on Learning Representations (ICLR) is one of the pr
 **Dan Kammen** (UC Berkeley)  
 **Paula Hidalgo-Sanchis** (UN Global Pulse)  
 **Jessica Thorn** (University of York)  
-**Nana Ama Browne Kluntse** (University of Ghana)  
+**Nana Ama Browne Klutse** (University of Ghana)  
 **Sarvapali Ramchurn** (University of Southampton)  
 
 ## Schedule
