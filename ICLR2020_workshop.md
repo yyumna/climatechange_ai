@@ -30,7 +30,7 @@ The International Conference on Learning Representations (ICLR) is one of the pr
 
 ## Keynote Speakers
 **Stefano Ermon** (Stanford University)  
-**Cira wa Maina** (Dedan Kimathi University of Technology)  
+**Ciira wa Maina** (Dedan Kimathi University of Technology)  
 **Georgina Campbell Flatter** (ClimaCell.org)  
 **Dan Morris** (Microsoft AI for Earth)
 
