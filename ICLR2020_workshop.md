@@ -43,7 +43,13 @@ The International Conference on Learning Representations (ICLR) is one of the pr
 **Sarvapali Ramchurn** (University of Southampton)  
 
 ## Schedule
-_Coming soon! Please check back here for updates._
+_Detailed schedule coming soon! Please check back here for updates._ <br>
+
+**April 26**: Main workshop <br>
+**April 27**: Energy Day <br>
+**April 28**: Agriculture, Forestry, and Other Land Use (AFOLU) Day <br>
+**April 29**: Climate Science and Adaptation Day <br> 
+**April 30**: Cross-cutting Methods Day <br>
 
 ## Organizers
 Priya Donti (CMU) <br>
@@ -56,6 +62,13 @@ Moustapha Cisse (Google Research) <br>
 Carla Gomes (Cornell) <br>
 Andrew Ng (Stanford) <br>
 Yoshua Bengio (Mila) <br>
+
+## Co-organizers
+David Dao (ETH Zürich): _AFOLU Day_ <br>
+Natasha Jaques (UC Berkeley, Google Brain): _Social media_ <br> 
+Kelly Kochanski (CU Boulder): _Climate Science and Adaptation Day_ <br>
+Nikola Milojevic-Dupont (MCC Berlin): _Energy Day_ <br>
+Peetak Mitra (UMass Amherst): _Climate Science and Adaptation Day_ <br>
 
 ## Sponsored By
 ![Microsoft logo](/images/microsoft.png)
@@ -111,7 +124,7 @@ John Platt (Google) <br>
 Joris Guerin (ENSAM) <br>
 Joyjit Chatterjee (University of Hull) <br>
 Kara Lamb (Cooperative Institute for Research in the Environmental Sciences) <br>
-Kelly Kochanski (University of Colorado Boulder) <br>
+Kelly Kochanski (CU Boulder) <br>
 Kevin McCloskey (Google) <br>
 Kira Goldner (Columbia University) <br>
 Konstantin Klemmer (University of Warwick) <br>
@@ -124,7 +137,7 @@ Max Evans (ClimateAi) <br>
 Michael Howland (Stanford) <br>
 Miguel Molina-Solana (Imperial College London) <br>
 Muge Komurcu (MIT) <br>
-Natasha Jaques <br>
+Natasha Jaques (UC Berkeley, Google Brain) <br>
 Nathan Williams (Rochester Institute of Technology) <br>
 Niccolo Dalmasso (Carnegie Mellon) <br>
 Nicholas Jones (World Bank) <br>
@@ -134,12 +147,12 @@ Peetak Mitra (UMass Amherst) <br>
 Rajesh Sankaran (Argonne National Lab) <br>
 Ruben Glatt (LLNL) <br>
 Sam Skillman (Descartes Labs) <br>
-Saumya Sinha (University of Colorado, Boulder) <br>
+Saumya Sinha (CU Boulder) <br>
 Sepehr Pashang (University of Waterloo) <br>
 Shamindra Shrotriya (Carnegie Mellon) <br>
 Slava Jankin (Hertie School of Governance) <br>
 Sookyung Kim (Lawrence Livermore National Laboratory) <br>
-Sophie Giffard-Roisin (University of Colorado Boulder) <br>
+Sophie Giffard-Roisin (CU Boulder) <br>
 Tegan Maharaj (Mila, Polytechnic Montreal) <br>
 Valentina Zantedeschi (Jean Monnet University) <br>
 Victor Schmidt (Mila) <br>
