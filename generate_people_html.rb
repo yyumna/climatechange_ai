@@ -5,10 +5,17 @@ require 'json'
 
 people = JSON.parse(File.read('people.json'))
 
-steering = people.select { |p| p['committees'].include? 'steering' }
-advisory = people.select { |p| p['committees'].include? 'advisory' }
+committees = [
+  'CCAI Chairs',
+  'Content Committee',
+  'Communications Committee',
+  'Community Leads',
+  'Advisors'
+].each_with_object({}) do |comm, h|
+  h[comm] = people.select{|p| p['committees'].keys.include?(comm) }
+end
 
-def to_html(p)
+def to_html(p, committee)
   <<-HTML
 <a class="person__item" href="#{p['website_url']}" target="_blank">
   <div class="person__pic-wrapper">
@@ -16,7 +23,7 @@ def to_html(p)
   </div>
   <div class="person__name">#{p['name']}</div>
   <div class="person__affil">#{p['affiliation']}</div>
-  <div class="person__title">#{p['title']}</div>
+  #{p['committees'].fetch(committee, []).map{|role| %{<div class="person__title">#{role}</div>}}.join}
 </a>
   HTML
 end
@@ -49,23 +56,13 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 * To promote discourse about best practices regarding the use of machine learning in climate change domains.
 
 # People
-
-## Steering Committee
-
-<div class="person__list">
 HTML
-
-puts steering.map { |p| to_html(p) }.join("\n")
-
-puts <<-HTML
-</div>
-## Advisors
-<div class="person__list">
-HTML
-
-puts advisory.map { |p| to_html(p) }.join("\n")
-
-puts "</div>"
+committees.each do |committee, members|
+  puts "## #{committee}"
+  puts %{<div class="person__list">}
+  puts members.map { |p| to_html(p, committee) }.join("\n")
+  puts %{</div>}
+end
 
 puts <<-HTML
 
