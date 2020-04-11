@@ -56,6 +56,15 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 </div>
 ## Content Committee
 <div class="person__list">
+<a class="person__item" href="https://mila.quebec/en/person/kris-sankaran/" target="_blank">
+  <div class="person__pic-wrapper">
+    <img class="person__pic" src="images/people/krissankaran_200x200.jpg">
+  </div>
+  <div class="person__name">Kris Sankaran</div>
+  <div class="person__affil">Mila, U. de Montréal</div>
+  
+</a>
+
 <a class="person__item" href="https://www.sashaluccioni.com/" target="_blank">
   <div class="person__pic-wrapper">
     <img class="person__pic" src="images/people/sashaluccioni_200x200.jpg">
