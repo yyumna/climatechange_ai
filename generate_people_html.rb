@@ -16,7 +16,7 @@ def to_html(p)
   </div>
   <div class="person__name">#{p['name']}</div>
   <div class="person__affil">#{p['affiliation']}</div>
-  <div class="person__title">#{p['title']}</div>
+  #{(p['roles'] || []).map{ |role| %{<div class="person__title">#{role}</div>} }.join("\n")}
 </a>
   HTML
 end

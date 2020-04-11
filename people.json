@@ -4,7 +4,7 @@
     "image_url": "images/people/davidrolnick.jpg",
     "name": "David Rolnick",
     "affiliation": "University of Pennsylvania",
-    "title": "Chair",
+    "roles": ["CCAI Chair"],
     "committees": ["steering"]
   },
   {
@@ -12,7 +12,7 @@
     "image_url": "images/people/priyadonti.jpg",
     "name": "Priya L. Donti",
     "affiliation": "Carnegie Mellon",
-    "title": "Chair",
+    "roles": ["CCAI Chair", "Power Sector Lead"],
     "committees": ["steering"]
   },
   {
@@ -20,14 +20,14 @@
     "image_url": "images/people/lynnkaack.jpeg",
     "name": "Lynn H. Kaack",
     "affiliation": "ETH Zürich",
-    "title": "Chair",
+    "roles": ["CCAI Chair", "Public Sector Lead"],
     "committees": ["steering"]
   },
   {
     "website_url": "https://mila.quebec/en/person/kris-sankaran/",
     "image_url": "images/people/krissankaran.jpg",
     "name": "Kris Sankaran",
-    "title": "Partnerships",
+    "roles": ["Newsletter Lead", "Forum Lead"],
     "affiliation": "Mila, U. de Montréal",
     "committees": ["steering"]
   },
@@ -35,7 +35,7 @@
     "website_url": "https://www.sashaluccioni.com/",
     "image_url": "images/people/sashaluccioni.jpg",
     "name": "Sasha Luccioni",
-    "title": "Partnerships",
+    "roles": ["Content Chair"],
     "affiliation": "Mila, U. de Montréal",
     "committees": ["steering"]
   },
@@ -43,7 +43,7 @@
     "website_url": "https://asross.github.io/",
     "image_url": "images/people/andrew_ross.jpg",
     "name": "Andrew Slavin Ross",
-    "title": "Website",
+    "roles": ["Web Lead"],
     "affiliation": "Harvard University",
     "committees": ["steering"]
   },
@@ -52,6 +52,7 @@
     "image_url": "images/people/kellykochanski.jpg",
     "name": "Kelly Kochanski",
     "affiliation": "CU Boulder",
+    "roles": ["Earth Sciences Lead"],
     "committees": ["steering"]
   },
   {
@@ -59,6 +60,7 @@
     "image_url": "images/people/Alexandre_Lacoste.jpg",
     "name": "Alexandre Lacoste",
     "affiliation": "Element AI",
+    "roles": ["Datasets Lead"],
     "committees": ["steering"]
   },
   {
@@ -66,6 +68,7 @@
     "image_url": "images/people/nikolamilojevicdupont.jpg",
     "name": "Nikola Milojevic-Dupont",
     "affiliation": "MCC Berlin, TU Berlin",
+    "roles": ["Buildings and Transportation Lead"],
     "committees": ["steering"]
   },
   {
@@ -73,6 +76,7 @@
     "image_url": "images/people/natashajaques.jpeg",
     "name": "Natasha Jaques",
     "affiliation": "MIT",
+    "roles": ["Social Media Lead"],
     "committees": ["steering"]
   },
   {
@@ -87,6 +91,7 @@
     "image_url": "images/people/evansherwin.png",
     "name": "Evan D. Sherwin",
     "affiliation": "Stanford University",
+    "roles": ["Meetups Lead"],
     "committees": ["steering"]
   },
   {
