@@ -54,6 +54,8 @@ The International Conference on Learning Representations (ICLR) is one of the pr
 
 ## Schedule
 
+Events will be taking place from April 26-30. The schedule is available below, via <a href="https://calendar.google.com/calendar/embed?src=n4jcdb08gc10bk47crsq18aet8%40group.calendar.google.com&ctz=Etc%2FGMT&mode=AGENDA" target="_blank">Google Calendar</a>, and in <a href="https://calendar.google.com/calendar/ical/n4jcdb08gc10bk47crsq18aet8%40group.calendar.google.com/public/basic.ics" target="_blank">iCal</a> format.
+
 ### April 26: Main Workshop
 <details open>
 <summary>
