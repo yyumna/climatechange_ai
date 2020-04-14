@@ -270,7 +270,8 @@ Deep learning approaches have shown much promise for climate sciences, especiall
 </summary>
 
 The expansion of human settlements in Peru has caused risk exposure to landslides. However, this risk could increase because the intensity of the El niño phenomenon will be greater in the coming years,  increasing rainfall on the Peruvian coast. In this paper, we present a novel methodology for detecting housing areas and agricultural lands in low-resolution satellite imagery in order to analyze potential risk in case of unexpected landslides. It was developed by creating two datasets from Lima Metropolitana in Peru, one of which is for detecting dry riverbeds and agriculture lands, and the other for classifying housing areas. We applied data augmentation based on geometrical methods and trained architectures based on U-net methods separately and then, overlap the results for risk assessment. We found that there are areas with significant potential risk that have been classified by the Peruvian government as medium or low risk areas. On this basis, it is recommended obtain a dataset with better resolution that can identify how many housing areas will be affected and take the appropriate prevention measures. Further research in post-processing is needed for suppress noise in our results.</details>
-#### (9) Towards causal dependencies between the Sustainable Development Goals and climate change
+
+#### (9) Non-linear interlinkages and key objectives amongst the Paris Agreement and the Sustainable Development Goals
 
 *Felix Laumann (Imperial College London); Julius von Kügelgen (MPI for Intelligent Systems, Tübingen & University of Cambridge); Mauricio Barahona (Imperial College London)*
 
