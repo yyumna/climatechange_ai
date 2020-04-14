@@ -355,3 +355,10 @@ details[open] summary {
     margin: -68px 0 0; /* negative fixed header height */
   }
 }
+
+.remote-workshop-table {
+  td:first-child, td:nth-child(2) {
+    white-space: nowrap;
+    width: 6rem;
+  }
+}
