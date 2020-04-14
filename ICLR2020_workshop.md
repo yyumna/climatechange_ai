@@ -56,117 +56,92 @@ The International Conference on Learning Representations (ICLR) is one of the pr
 
 Events will be taking place from April 26-30. The schedule is available below, via <a href="https://calendar.google.com/calendar/embed?src=n4jcdb08gc10bk47crsq18aet8%40group.calendar.google.com&ctz=Etc%2FGMT&mode=AGENDA" target="_blank">Google Calendar</a>, and in <a href="https://calendar.google.com/calendar/ical/n4jcdb08gc10bk47crsq18aet8%40group.calendar.google.com/public/basic.ics" target="_blank">iCal</a> format.
 
-### April 26: Main Workshop
-<details open>
-<summary>
-  Click to expand (all times in UTC):
-</summary>
-<!-- <table style="width:100%">
-  <tr>
-    <th>Time (UTC)</th>
-    <th>Speakers</th>
-  </tr>
-  <tr>
-    <td>8:45 – 9:00</td>
-    <td><b>Welcome and opening remarks</b></td>
-  </tr>
-  <tr>
-    <td>9:00 - 10:15</td>
-    <td><b>Panel:</b> Ciira wa Maina, Georgina Campbell Flatter, Gopal Ramchurn, Paula Hidalgo-Sanchis</td>
-  </tr>
-  <tr>
-    <td>10:15 - 11:00</td>
-    <td><b>Invited talk:</b> Ciira wa Maina</td>
-  </tr>
-  <tr>
-    <td>11:00 - 12:00</td>
-    <td><b>Poster spotlight talks</b></td>
-  </tr>
-  <tr>
-    <td>12:00 - 13:00</td>
-    <td><b>Poster session</b></td>
-  </tr>
-  <tr>
-    <td>13:00 - 13:45</td>
-    <td><b>Invited talk:</b> Georgina Campbell Flatter</td>
-  </tr>
-  <tr>
-    <td>13:45 - 15:30</td>
-    <td>Break</td>
-  </tr>
-  <tr>  
-    <td>15:30 - 17:00</td>
-    <td><b>Panel:</b> Dan Kammen, Dan Morris, Jessica Thorn, John Platt, Nana Ama Browne Klutse, Stefano Ermon</td>
-  </tr>
-  <tr>
-    <td>17:00 - 17:45</td>
-    <td><b>Invited talk:</b> Stefano Ermon</td>
-  </tr>
-  <tr>
-    <td>17:45 - 19:00</td>
-    <td><b>Poster spotlight talks</b></td>
-  </tr>
-  <tr>
-    <td>19:00 - 20:00</td>
-    <td><b>Poster session</b></td>
-  </tr>
-  <tr>
-    <td>20:00 - 20:45</td>
-    <td><b>Invited talk: Dan Morris</b></td>
-  </tr>
-  <tr>
-    <td>20:45 - 21:00</td>
-    <td>Closing remarks and conclusion</td>
-  </tr>
-</table> -->
-8:45 – 9:00 - <b>Welcome and opening remarks</b><br> 
-9:00 - 10:15  - <b>Panel:</b> Ciira wa Maina, Georgina Campbell Flatter, Gopal Ramchurn, Paula Hidalgo-Sanchis<br>
-10:15 - 11:00 - <b>Invited talk:</b> Ciira wa Maina<br>
-11:00 - 12:00 - <b>Poster spotlight talks</b><br>
-12:00 - 13:00 - <b>Poster session</b><br>
-13:00 - 13:45 - <b>Invited talk:</b> Georgina Campbell Flatter<br>
-13:45 - 15:30 - Break<br>
-15:30 - 17:00 - <b>Panel:</b> Dan Kammen, Dan Morris, Jessica Thorn, John Platt, Nana Ama Browne Klutse, Stefano Ermon<br>
-17:00 - 17:45 - <b>Invited talk:</b> Stefano Ermon<br>
-17:45 - 19:00 - <b>Poster spotlight talks</b><br>
-19:00 - 20:00 - <b>Poster session</b><br>
-20:00 - 20:45 - <b>Invited talk:</b> Dan Morris<br>
-20:45 - 21:00 - <b>Closing remarks and conclusion</b>
-</details>
+<script src="https://cdn.jsdelivr.net/npm/luxon@1.23.0/build/global/luxon.min.js"></script>
 
-### April 27: Energy Day
-<details>
-<summary>
-  Click to expand (all times in UTC):
-</summary>
-<i>Schedule coming soon! Please check back here for updates.</i>
-</details>
+<script id='schedule-script'>
+$(document).ready(function() {
+  const DateTime = luxon.DateTime;
+  const script = $('#schedule-script');
+  const html = $("<div></div>");
+  const tz = DateTime.local().zoneName;
+  const tzShort = DateTime.local().toFormat("ZZZZ");
 
+  function wd(day, hour, minute) {
+    return DateTime.utc(2020, 4, day, hour, minute, 0, 0);
+  }
 
-### April 28: Agriculture, Forestry, and Other Land Use (AFOLU) Day
-<details>
-<summary>
-  Click to expand (all times in UTC):
-</summary>
-<i>Schedule coming soon! Please check back here for updates.</i>
-</details>
+  function formatRange(t1, t2, zone) {
+    const h1 = t1.setZone(zone).toFormat("H:mm");
+    const h2 = t2.setZone(zone).toFormat("H:mm");
+    return `${h1} - ${h2}`;
+  }
 
-### April 29: Climate Science and Adaptation Day
-<details>
-<summary>
-  Click to expand (all times in UTC):
-</summary>
-<i>Schedule coming soon! Please check back here for updates.</i>
-</details>
+  const schedules = [{
+    day: 'April 26: Main Workshop',
+    schedule: [
+     [wd(26,  8, 45), wd(26, 9,   0), "Welcome and opening remarks"],
+     [wd(26,  9,  0), wd(26, 10, 15), "<b>Panel:</b> Ciira wa Maina, Georgina Campbell Flatter, Gopal Ramchurn, Paula Hidalgo-Sanchis"],
+     [wd(26, 10, 15), wd(26, 11,  0), "<b>Invited talk:</b> Ciira wa Maina"],
+     [wd(26, 11,  0), wd(26, 12,  0), "<b>Poster spotlight talks</b>"],
+     [wd(26, 12,  0), wd(26, 13,  0), "<b>Poster session</b>"],
+     [wd(26, 13,  0), wd(26, 13, 45), "<b>Invited talk:</b> Georgina Campbell Flatter"],
+     [wd(26, 13, 45), wd(26, 15, 30), "Break"],
+     [wd(26, 15, 30), wd(26, 17,  0), "<b>Panel:</b> Dan Kammen, Dan Morris, Jessica Thorn, John Platt, Nana Ama Browne Klutse, Stefano Ermon"],
+     [wd(26, 17,  0), wd(26, 17, 45), "<b>Invited talk:</b> Stefano Ermon"],
+     [wd(26, 17, 45), wd(26, 19,  0), "<b>Poster spotlight talks</b>"],
+     [wd(26, 19,  0), wd(26, 20,  0), "<b>Poster session</b>"],
+     [wd(26, 20,  0), wd(26, 20, 45), "<b>Invited talk: Dan Morris</b>"],
+     [wd(26, 20, 45), wd(26, 21,  0), "Closing remarks and conclusion"]
+    ]
+  }, {
+    day: 'April 27: Energy Day',
+    schedule: []
+  }, {
+    day: 'April 28: Agriculture, Forestry, and Other Land Use (AFOLU) Day',
+    schedule: []
+  }, {
+    day: 'April 29: Climate Science and Adaptation Day',
+    schedule: []
+  }, {
+    day: 'April 30: Cross-cutting Methods Day',
+    schedule: []
+  }];
 
-### April 30: Cross-cutting Methods Day
-<details>
-<summary>
-  Click to expand (all times in UTC):
-</summary>
-<i>Schedule coming soon! Please check back here for updates.</i>
-</details>
+  for (let s of schedules) {
+    const id = s.day.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '');
+    html.append(`<h3 id="${id}">${s.day}</h3>`);
+    if (!s.schedule.length) {
+      html.append("<i>Schedule coming soon! Please check back here for updates.</i>");
+    } else {
+      let table = "<table class='remote-workshop-table'>";
 
+      table += `<thead>
+        <tr>
+          <th>Time (${tzShort})</th>
+          <th>Time (UTC)</th>
+          <th>Event</th>
+        </tr>
+      </thead>`;
+
+      table += "<tbody>";
+
+      for (let row of s.schedule) {
+        const [t1, t2, event] = row;
+        table += `<tr>
+          <td>${formatRange(t1, t2, tz)}</td>
+          <td>${formatRange(t1, t2, 'utc')}</td>
+          <td>${event}</td>
+        </tr>`;
+      }
+
+      table += "</tbody></table>";
+      html.append(table);
+    }
+  }
+
+  html.insertAfter(script);
+});
+</script>
 
 ## Organizers
 <a href="https://priyadonti.com/" target="_blank">Priya Donti (CMU)</a> <br>
