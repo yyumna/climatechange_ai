@@ -85,7 +85,7 @@ $(document).ready(function() {
      [wd(26, 11,  0), wd(26, 12,  0), "<b>Poster spotlight talks</b>"],
      [wd(26, 12,  0), wd(26, 13,  0), "<b>Poster session</b>"],
      [wd(26, 13,  0), wd(26, 13, 45), "<b>Invited talk:</b> Georgina Campbell Flatter"],
-     [wd(26, 13, 45), wd(26, 15, 30), "Break"],
+     [wd(26, 13, 45), wd(26, 15, 30), "Break and small-group discussions"],
      [wd(26, 15, 30), wd(26, 17,  0), "<b>Panel:</b> Dan Kammen, Dan Morris, Jessica Thorn, John Platt, Nana Ama Browne Klutse, Stefano Ermon"],
      [wd(26, 17,  0), wd(26, 17, 45), "<b>Invited talk:</b> Stefano Ermon"],
      [wd(26, 17, 45), wd(26, 19,  0), "<b>Poster spotlight talks</b>"],
