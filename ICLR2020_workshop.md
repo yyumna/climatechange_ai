@@ -80,7 +80,7 @@ $(document).ready(function() {
     day: 'April 26: Main Workshop',
     schedule: [
      [wd(26,  8, 45), wd(26, 9,   0), "Welcome and opening remarks"],
-     [wd(26,  9,  0), wd(26, 10, 15), "<b>Panel:</b> Ciira wa Maina, Georgina Campbell Flatter, Gopal Ramchurn, Paula Hidalgo-Sanchis"],
+     [wd(26,  9,  0), wd(26, 10, 15), "<b>Panel:</b> Ciira wa Maina, Georgina Campbell Flatter, Sarvapali Ramchurn, Paula Hidalgo-Sanchis"],
      [wd(26, 10, 15), wd(26, 11,  0), "<b>Invited talk:</b> Ciira wa Maina"],
      [wd(26, 11,  0), wd(26, 12,  0), "<b>Poster spotlight talks</b>"],
      [wd(26, 12,  0), wd(26, 13,  0), "<b>Poster session</b>"],
