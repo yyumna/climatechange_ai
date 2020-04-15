@@ -95,7 +95,14 @@ $(document).ready(function() {
     schedule: []
   }, {
     day: 'April 29: Climate Science and Adaptation Day',
-    schedule: []
+    schedule: [
+      [wd(27,  13,   0), wd(27, 14,   0), "<b>Tutorial:</b> ML 101 for Climate Change"],
+      [wd(27,  14,   0), wd(27, 14,  20), "Welcome and opening remarks"],
+      [wd(27,  14,  20), wd(27, 14,  30), "Icebreaker"],
+      [wd(27,  14,  30), wd(27, 16,   0), "<b>Session I:</b> Adaptability"],
+      [wd(27,  16,   0), wd(27, 17,  30), "<b>Session II:</b> Emulating Physical Models"],
+      [wd(27,  17,  30), wd(27, 19,   0), "<b>Session III:</b> Climate/Weather Forecasting"]
+    ]
   }, {
     day: 'April 30: Cross-cutting Methods Day',
     schedule: []
