@@ -7,21 +7,15 @@ description: 'ICLR 2020 Workshop: Tackling Climate Change with Machine Learning'
 <h1>ICLR 2020 Workshop <br> Tackling Climate Change with Machine Learning</h1>
 
 <div class='buttons'>
-  <a class='button' href='#about-iclr'>About</a>
+  <!-- <a class='button' href='#about-iclr'>About</a> -->
   <a class='button' href='#keynote-speakers'>Speakers</a>
   <a class='button' href='#schedule'>Schedule</a>
-  <a class='button' href='#organizers'>Organizers</a>
   <a class='button' href='#accepted-works'>Accepted Works</a>
+  <a class='button' href='#sponsors'>Sponsors</a>
+  <a class='button' href='#organizers'>Organizers</a>
   <a class='button' href='#call-for-submissions'>Call for Submissions</a>
   <a class='button' href='#frequently-asked-questions'>FAQ</a>
 </div>
-
-***
-
-<center> <h3>Announcements</h3> </center>
-**The workshop will be held remotely** due to risks and travel restrictions associated with COVID-19.
-
-***
 
 Many in the ML community wish to take action on climate change, yet feel their skills are inapplicable. This workshop aims to show that in fact the opposite is true: while no silver bullet, **ML can be an invaluable tool both in reducing greenhouse gas emissions and in helping society adapt to the effects of climate change**. Climate change is a complex problem, for which action takes many forms - from designing smart electrical grids to tracking deforestation in satellite imagery. Many of these actions represent high-impact opportunities for real-world change, as well as being interesting problems for ML research.
 
@@ -142,30 +136,6 @@ $(document).ready(function() {
   html.insertAfter(script);
 });
 </script>
-
-## Organizers
-<a href="https://priyadonti.com/" target="_blank">Priya Donti (CMU)</a> <br>
-<a href="http://www.davidrolnick.com" target="_blank">David Rolnick (UPenn)</a> <br>
-<a href="https://scholar.google.fr/citations?user=jsy-VxMAAAAJ" target="_blank">Lynn Kaack (ETH Zürich)</a> <br>
-<a href="https://www.sashaluccioni.com/" target="_blank">Sasha Luccioni (Mila)</a> <br>
-<a href="https://mila.quebec/en/person/kris-sankaran/" target="_blank">Kris Sankaran (Mila)</a> <br>
-<a href="http://sharonzhou.me/" target="_blank">Sharon Zhou (Stanford)</a> <br>
-<a href="http://moustaphacisse.com/" target="_blank">Moustapha Cisse (Google Research)</a> <br>
-<a href="https://www.cs.cornell.edu/gomes/" target="_blank">Carla Gomes (Cornell)</a> <br>
-<a href="https://www.andrewng.org/" target="_blank">Andrew Ng (Stanford)</a> <br>
-<a href="https://mila.quebec/en/yoshua-bengio/" target="_blank">Yoshua Bengio (Mila)</a> <br>
-
-## Co-organizers
-<a href="https://daviddao.org/" target="_blank">David Dao (ETH Zürich)</a>: _AFOLU Day_ <br>
-<a href="https://www.media.mit.edu/people/jaquesn/overview/" target="_blank">Natasha Jaques (UC Berkeley, Google Brain)</a>: _Social media_ <br>
-<a href="http://www.kochanski.org/kelly/" target="_blank">Kelly Kochanski (CU Boulder)</a>: _Climate Science and Adaptation Day_ <br>
-<a href="https://www.mcc-berlin.net/en/about/team/milojevic-dupont-nikola.html" target="_blank">Nikola Milojevic-Dupont (MCC Berlin)</a>: _Energy Day_ <br>
-<a href="https://sites.google.com/prod/view/peetak" target="_blank">Peetak Mitra (UMass Amherst)</a>: _Climate Science and Adaptation Day_ <br>
-
-## Sponsored By
-![Microsoft logo](/images/microsoft.png)
-
-![DeepMind logo](/images/deepmind.png) 
 
 ## Accepted Works
 
@@ -462,7 +432,30 @@ In the west, alienation from nature and deteriorating opportunities to experienc
 </details>
 
 
+## Sponsors
+![Microsoft logo](/images/microsoft.png)
 
+![DeepMind logo](/images/deepmind.png) 
+
+
+## Organizers
+<a href="https://priyadonti.com/" target="_blank">Priya Donti (CMU)</a> <br>
+<a href="http://www.davidrolnick.com" target="_blank">David Rolnick (UPenn)</a> <br>
+<a href="https://scholar.google.fr/citations?user=jsy-VxMAAAAJ" target="_blank">Lynn Kaack (ETH Zürich)</a> <br>
+<a href="https://www.sashaluccioni.com/" target="_blank">Sasha Luccioni (Mila)</a> <br>
+<a href="https://mila.quebec/en/person/kris-sankaran/" target="_blank">Kris Sankaran (Mila)</a> <br>
+<a href="http://sharonzhou.me/" target="_blank">Sharon Zhou (Stanford)</a> <br>
+<a href="http://moustaphacisse.com/" target="_blank">Moustapha Cisse (Google Research)</a> <br>
+<a href="https://www.cs.cornell.edu/gomes/" target="_blank">Carla Gomes (Cornell)</a> <br>
+<a href="https://www.andrewng.org/" target="_blank">Andrew Ng (Stanford)</a> <br>
+<a href="https://mila.quebec/en/yoshua-bengio/" target="_blank">Yoshua Bengio (Mila)</a> <br>
+
+## Co-organizers
+<a href="https://daviddao.org/" target="_blank">David Dao (ETH Zürich)</a>: _AFOLU Day_ <br>
+<a href="https://www.media.mit.edu/people/jaquesn/overview/" target="_blank">Natasha Jaques (UC Berkeley, Google Brain)</a>: _Social media_ <br>
+<a href="http://www.kochanski.org/kelly/" target="_blank">Kelly Kochanski (CU Boulder)</a>: _Climate Science and Adaptation Day_ <br>
+<a href="https://www.mcc-berlin.net/en/about/team/milojevic-dupont-nikola.html" target="_blank">Nikola Milojevic-Dupont (MCC Berlin)</a>: _Energy Day_ <br>
+<a href="https://sites.google.com/prod/view/peetak" target="_blank">Peetak Mitra (UMass Amherst)</a>: _Climate Science and Adaptation Day_ <br>
 
 
 ## Program Committee
