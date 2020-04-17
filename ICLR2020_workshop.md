@@ -142,7 +142,7 @@ $(document).ready(function() {
      ],
      [wd(26, 17, 45), wd(26, 19,  0), "<b>Poster spotlight talks</b>"],
      [wd(26, 19,  0), wd(26, 20,  0), "<b>Poster session</b>"],
-     [wd(26, 20,  0), wd(26, 20, 45), "<b>Invited talk: Dan Morris</b>"],
+     [wd(26, 20,  0), wd(26, 20, 45), "<b>Invited talk:</b> Dan Morris"],
      [wd(26, 20, 45), wd(26, 21,  0), "Closing remarks and conclusion"]
     ]
   }, {
