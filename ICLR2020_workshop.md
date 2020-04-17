@@ -2,6 +2,10 @@
 layout: default
 title: 'Tackling Climate Change with Machine Learning'
 description: 'ICLR 2020 Workshop: Tackling Climate Change with Machine Learning'
+og_image_url: 'https://www.climatechange.ai/images/ICLR_workshop_preview.png'
+og_image_type: 'image/png'
+og_image_width: 1200
+og_image_height: 930
 ---
 
 <h1>ICLR 2020 Workshop <br> Tackling Climate Change with Machine Learning</h1>
