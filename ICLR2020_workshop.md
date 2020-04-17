@@ -56,6 +56,17 @@ Events will be taking place from April 26-30. The schedule is available below, v
 
 <script src="https://cdn.jsdelivr.net/npm/luxon@1.23.0/build/global/luxon.min.js"></script>
 
+<style>
+ td details {
+   font-size: 14px;
+   margin-top: 5px !important;
+   margin-bottom: 5px;
+   padding: 5px;
+   border: 1px solid #eee;
+   background: #f8f8f8;
+ }
+</style>
+
 <script id='schedule-script'>
 $(document).ready(function() {
   const DateTime = luxon.DateTime;
@@ -72,6 +83,20 @@ $(document).ready(function() {
     const h1 = t1.setZone(zone).toFormat("H:mm");
     const h2 = t2.setZone(zone).toFormat("H:mm");
     return `${h1} - ${h2}`;
+  }
+
+  function collapsed(content, label) {
+    return `<details>
+      <summary>${label || 'Details: (click to expand)'}</summary>
+      ${content}
+    </details>`;
+  }
+
+  function expanded(content, label) {
+    return `<details open>
+      <summary>${label || 'Details: (click to expand)'}</summary>
+      ${content}
+    </details>`;
   }
 
   const schedules = [{
@@ -132,15 +157,24 @@ $(document).ready(function() {
 
       for (let row of s.schedule) {
         const [t1, t2, event] = row;
+
         table += `<tr>
           <td>${formatRange(t1, t2, tz)}</td>
           <td>${formatRange(t1, t2, 'utc')}</td>
-          <td>${event}</td>
-        </tr>`;
+          <td>${event}`;
+
+        // Add in optional extra content (collapsed)
+        if (row.length >= 4) {
+          table += collapsed(row[3]);
+        }
+
+        table += "</td></tr>";
       }
 
       table += "</tbody></table>";
+
       html.append(table);
+      // Can also wrap the whole table by doing html.append(expanded(table));
     }
   }
 
