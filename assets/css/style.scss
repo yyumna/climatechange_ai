@@ -362,3 +362,20 @@ details[open] summary {
     width: 6rem;
   }
 }
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+td {
+  vertical-align: top;
+}
+
+td details {
+  font-size: 14px;
+  margin-top: 5px !important;
+  margin-bottom: 5px;
+  padding: 5px;
+  border: 1px solid #eee;
+  background: #f8f8f8;
+}

@@ -56,17 +56,6 @@ Events will be taking place from April 26-30. The schedule is available below, v
 
 <script src="https://cdn.jsdelivr.net/npm/luxon@1.23.0/build/global/luxon.min.js"></script>
 
-<style>
- td details {
-   font-size: 14px;
-   margin-top: 5px !important;
-   margin-bottom: 5px;
-   padding: 5px;
-   border: 1px solid #eee;
-   background: #f8f8f8;
- }
-</style>
-
 <script id='schedule-script'>
 $(document).ready(function() {
   const DateTime = luxon.DateTime;
@@ -110,7 +99,47 @@ $(document).ready(function() {
      [wd(26, 13,  0), wd(26, 13, 45), "<b>Invited talk:</b> Georgina Campbell Flatter"],
      [wd(26, 13, 45), wd(26, 15, 30), "Break and small-group discussions"],
      [wd(26, 15, 30), wd(26, 17,  0), "<b>Panel:</b> Dan Kammen, Dan Morris, Jessica Thorn, John Platt, Nana Ama Browne Klutse, Stefano Ermon"],
-     [wd(26, 17,  0), wd(26, 17, 45), "<b>Invited talk:</b> Stefano Ermon"],
+     [
+        wd(26, 17,  0),
+        wd(26, 17, 45),
+        "Stefano Ermon: <b>Measuring Economic Development from Space with Machine Learning</b> <em>(Invited talk)</em>",
+        // Wrap multi-line strings in `s rather than "s
+        `
+          <strong>Abstract:</strong> Recent technological developments are
+          creating new spatio-temporal data streams that contain a wealth of
+          information relevant to climate adaptation strategies. Modern AI
+          techniques have the potential to yield accurate, inexpensive, and
+          highly scalable models to inform research and policy. A key challenge,
+          however, is the lack of large quantities of labeled data that often
+          characterize successful machine learning applications. In this talk, I
+          will present new approaches for learning useful spatio-temporal models
+          in contexts where labeled training data is scarce or not available at
+          all. I will show applications to predict and map poverty in developing
+          countries, monitor agricultural productivity and food security
+          outcomes, and map infrastructure access in Africa. Our methods can
+          reliably predict economic well-being using only high-resolution
+          satellite imagery. Because images are passively collected in every
+          corner of the world, our methods can provide timely and accurate
+          measurements in a very scalable end economic way, and could
+          significantly improve the effectiveness of climate adaptation efforts.
+
+          <p>
+            <strong>Bio:</strong> Stefano Ermon is an Assistant Professor of
+            Computer Science in the CS Department at Stanford University, where
+            he is affiliated with the Artificial Intelligence Laboratory, and a
+            fellow of the Woods Institute for the Environment. His research is
+            centered on techniques for probabilistic modeling of data, inference,
+            and optimization, and is motivated by a range of applications, in
+            particular ones in the emerging field of computational
+            sustainability. He has won several awards, including four Best Paper
+            Awards (AAAI, UAI and CP), a NSF Career Award, ONR and AFOSR Young
+            Investigator Awards, a Sony Faculty Innovation Award, a Hellman
+            Faculty Fellowship, Microsoft Research Fellowship, Sloan Fellowship,
+            and the IJCAI Computers and Thought Award. Stefano earned his Ph.D.
+            in Computer Science at Cornell University in 2015.
+          </p>
+       `
+     ],
      [wd(26, 17, 45), wd(26, 19,  0), "<b>Poster spotlight talks</b>"],
      [wd(26, 19,  0), wd(26, 20,  0), "<b>Poster session</b>"],
      [wd(26, 20,  0), wd(26, 20, 45), "<b>Invited talk: Dan Morris</b>"],
