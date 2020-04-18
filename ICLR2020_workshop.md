@@ -142,7 +142,19 @@ $(document).ready(function() {
      ],
      [wd(26, 17, 45), wd(26, 19,  0), "<b>Poster spotlight talks</b>"],
      [wd(26, 19,  0), wd(26, 20,  0), "<b>Poster session</b>"],
-     [wd(26, 20,  0), wd(26, 20, 45), "<b>Invited talk:</b> Dan Morris"],
+     [
+        wd(26, 20,  0),
+        wd(26, 20, 45),
+        "Dan Morris: <b>Climate, biodiversity, and land: using ML to protect and restore ecosystems</b> <em>(Invited talk)</em>",
+        // Wrap multi-line strings in `s rather than "s
+        `
+          <strong>Abstract:</strong> When we think “ML for climate change”, we often think of climate forecasting, energy grid optimization, greenhouse gas reduction, and other opportunities for ML to impact the <i>direct</i> causes and effects of global warming. But in this talk, I will present the close relationships among <i>climate</i>, <i>biodiversity</i>, and <i>land use</i>, and I will discuss opportunities for ML to support climate change mitigation by accelerating efforts in all three of these areas. Furthermore, this workshop’s mission states that “many in the ML community wish to take action on climate change, yet feel their skills are inapplicable”; I hope to convince the audience that one of the best ways we can put ML to work – and often the easiest way for ML students and practitioners to get hands-on experience with environmental sustainability – is to focus on some of the “small” problems whose solutions will make the day-to-day work of conservation scientists and practitioners more efficient.
+
+          <p>
+            <strong>Bio:</strong> Dan Morris is a Principal Scientist at Microsoft, where he runs the <a href="http://aka.ms/aiforearth" target="_blank">AI for Earth</a> program, focused on accelerating innovation at the intersection of machine learning and environmental sustainability.  His work includes computer vision applications in wildlife conservation, for example the AI for Earth <a href="http://aka.ms/speciesclassification" target="_blank">Species Classification API</a>.  Prior to joining AI for Earth, he worked in Microsoft’s Medical Devices Group, developing signal processing and machine learning techniques for cardiovascular health monitoring, along with earlier work on <a href="http://research.microsoft.com/cue/mobilenui" target="_blank">signal processing and machine learning for input systems</a>, <a href="http://research.microsoft.com/cue/patientdisplays" target="_blank">making medical information more useful to hospital patients</a>, <a href="https://www.microsoft.com/en-us/research/project/workout/" target="_blank">automatic exercise analysis from wearable sensors</a>, and <a href="http://songsmith.ms/" target="_blank">generating accompaniment for vocal melodies</a>.  Before coming to Microsoft, he studied neuroscience at Brown, and developed brain-computer interfaces for research and clinical environments.  His PhD work at Stanford focused on haptics and physical simulation for virtual surgery.
+          </p>
+       `
+     ],
      [wd(26, 20, 45), wd(26, 21,  0), "Closing remarks and conclusion"]
     ]
   }, {
