@@ -69,9 +69,13 @@ $(document).ready(function() {
   }
 
   function formatRange(t1, t2, zone) {
-    const h1 = t1.setZone(zone).toFormat("H:mm");
-    const h2 = t2.setZone(zone).toFormat("H:mm");
-    return `${h1} - ${h2}`;
+    if (t1 && t2) {
+      const h1 = t1.setZone(zone).toFormat("H:mm");
+      const h2 = t2.setZone(zone).toFormat("H:mm");
+      return `${h1} - ${h2}`;
+    } else {
+      return "<em>TBA</em>";
+    }
   }
 
   function collapsed(content, label) {
