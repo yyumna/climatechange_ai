@@ -17,7 +17,7 @@ og_image_height: 555
   <a class='button' href='#accepted-works'>Accepted Works</a>
   <a class='button' href='#sponsors'>Sponsors</a>
   <a class='button' href='#organizers'>Organizers</a>
-  <a class='button' href='#call-for-submissions'>Call for Submissions</a>
+  <a class='button' href='#call-for-submissions'><s>Call for Submissions</s></a>
   <a class='button' href='#frequently-asked-questions'>FAQ</a>
 </div>
 
@@ -163,14 +163,85 @@ $(document).ready(function() {
     ]
   }, {
     day: 'April 27: Energy Day',
-    schedule: []
+    schedule: [
+      [null, null, "<b>Tutorial:</b> Machine Learning 101 for Climate Change"],
+      [
+          null, 
+          null, 
+          "Opportunities and Challenges for Machine Learning in the African Electricity Sector",
+          // Wrap multi-line strings in `s rather than "s
+        `
+          This session will highlight impactful work at the intersection of climate change, electricity, and machine learning in a variety of African contexts. Topics addressed will include energy access, load forecasting, and data mining for electricity system data. Speakers will also discuss the broader opportunities and challenges associated with working in machine learning and energy on the African continent. The session will begin with short talks from all speakers, followed by audience Q&A and discussion.
+
+          <p>
+          Speakers:
+          <ul>
+            <li><a href="https://ieeexplore.ieee.org/author/37395921400" target="_blank">Bhekisipho Twala</a></li>
+            <li><a href="https://nsutezo.github.io/" target="_blank">Simone Fobi</a></li>
+            <li><a href="https://www.rit.edu/directory/njwgis-nathan-williams" target="_blank">Nathan Williams</a></li>
+          </ul>
+          <p>
+        `
+      ],
+      [
+          null, 
+          null, 
+          "Implications of COVID-19 for the Energy Transition and Machine Learning",
+          // Wrap multi-line strings in `s rather than "s
+        `
+         The global pandemic and economic recession are expected to have large impacts on the energy system and climate change mitigation strategies. In this discussion-based session, energy experts will address the implications of COVID-19 for machine learning and the energy transition. In particular, these experts will address:
+         <ul>
+          <li>how the energy system is affected by COVID-19, and</li>
+          <li>how that affects the practice of machine learning for climate and energy.</li>
+         </ul>
+        `
+      ],
+      [
+          null, 
+          null, 
+          "Fireside Chat with Ian Rogoff on Clean Tech Entrepreneurship",
+          // Wrap multi-line strings in `s rather than "s
+        `
+          This fireside chat will cover key considerations for researchers working in machine learning and climate/energy who would like to enter the startup space. Topics addressed will include assessing market fit, understanding the global funding landscape for climate change + machine learning projects, team formation, and other on-the-ground considerations for building a successful startup in this space.
+        `
+      ],
+      [
+          null, 
+          null, 
+          "Machine Learning for Low-carbon Urban Energy and Mobility Systems",
+          // Wrap multi-line strings in `s rather than "s
+        `
+          About 70% of CO2 emissions and most of the data collected globally originate from activities in cities. This creates many opportunities where machine learning can be useful for climate change mitigation. In this discussion-based session, city experts will discuss areas with substantial potential for reducing emissions and for making relevant use of machine learning.
+        `
+      ],
+      [null, null, "Updates from Previous Workshop Presenters",
+        // Wrap multi-line strings in `s rather than "s
+        `
+          <p>
+          Speakers:
+          <ul>
+            <li>Neel Guha, "Machine Learning for AC Optimal Power Flow" (ICML 2019)</li>
+            <li>Kalai Ramea, "Unsupervised Temporal Clustering to Monitor the Performance of Alternative Fueling Infrastructure" (ICML 2019)</li>
+            <li>Jan Drgona, "Stripping off the implementation complexity of physics-based model predictive control for buildings via deep learning" (NeurIPS 2019)</li>
+            <li>Jacob Pettit, "Increasing performance of electric vehicles in ride-hailing services using deep reinforcement learning" (NeurIPS 2019)</li>
+            <li>Gaby Baasch, "Targeting Buildings for Energy Retrofit Using Recurrent Neural Networks with Multivariate Time Series" (NeurIPS 2019)</li>
+            <li>Chris Heinrich, "Roof Age Determination for the Automated Site-Selection of Rooftop Solar" (AMLD 2020)</li>
+          </ul>
+          <p>
+        `
+      ]
+    ]
   }, {
     day: 'April 28: Agriculture, Forestry, and Other Land Use (AFOLU) Day',
-    schedule: []
+    schedule: [
+      [null, null, "<b>Tutorial:</b> Climate Change 101 for Machine Learning"],
+      [null, null, "<b>Session I:</b> Forests"],
+      [null, null, "<b>Session II:</b> Agriculture"]
+    ]
   }, {
     day: 'April 29: Climate Science and Adaptation Day',
     schedule: [
-      [wd(27,  13,   0), wd(27, 14,   0), "<b>Tutorial:</b> ML 101 for Climate Change"],
+      [wd(27,  13,   0), wd(27, 14,   0), "<b>Tutorial:</b> Machine Learning 101 for Climate Change"],
       [wd(27,  14,   0), wd(27, 14,  20), "Welcome and opening remarks"],
       [wd(27,  14,  20), wd(27, 14,  30), "Icebreaker"],
       [wd(27,  14,  30), wd(27, 16,   0), "<b>Session I:</b> Adaptability"],
@@ -179,7 +250,13 @@ $(document).ready(function() {
     ]
   }, {
     day: 'April 30: Cross-cutting Methods Day',
-    schedule: []
+    schedule: [
+      [null, null, "<b>Tutorial:</b> Climate Change 101 for Machine Learning"],
+      [null, null, "Hybrid physical models"],
+      [null, null, "Accelerated science and experimentation"],
+      [null, null, "Remote sensing"],
+      [null, null, "Forecasting"]
+    ]
   }];
 
   for (let s of schedules) {
