@@ -98,7 +98,23 @@ $(document).ready(function() {
      [wd(26,  8, 45), wd(26, 9,   0), "Welcome and opening remarks"],
      [wd(26,  9,  0), wd(26, 10, 15), "<b>Panel:</b> Ciira wa Maina, Georgina Campbell Flatter, Sarvapali Ramchurn, Paula Hidalgo-Sanchis"],
      [wd(26, 10, 15), wd(26, 11,  0), "<b>Invited talk:</b> Ciira wa Maina"],
-     [wd(26, 11,  0), wd(26, 12,  0), "<b>Poster spotlight talks</b>"],
+     [wd(26, 11,  0), wd(26, 12,  0), "<b>Spotlight talks</b>",
+       // Wrap multi-line strings in `s rather than "s
+        `
+          Tune in for talks from selected workshop poster presenters!
+
+          <p>
+          Talks:
+          <ul>
+            <li>K. Shankari, "MobilityNet: Towards a Public Dataset for Multi-modal Mobility Research"</li>
+            <li>Fred Otieno, "Machine Learning Approaches to Safeguarding Continuous Water Supply in the Arid and Semi-arid Lands of Northern Kenya"</li>
+            <li>Claudia Haworth, "Understanding the dynamics of climate-crucial food choice behaviours using Distributional Semantics"</li>
+            <li>Jefferson Sankara, "Machine Learning Applications That Can Help Pastoral Communities in Northern Kenya and Elsewhere Adapt to Climate Change"</li>
+            <li>Thomas Lees, "A Machine Learning Pipeline to Predict Vegetation Health"</li>
+          </ul>
+          <p>
+       `
+     ],
      [wd(26, 12,  0), wd(26, 13,  0), "<b>Poster session</b>"],
      [
         wd(26, 13,  0), 
@@ -160,8 +176,24 @@ $(document).ready(function() {
           </p>
        `
      ],
-     [wd(26, 17, 45), wd(26, 19,  0), "<b>Poster spotlight talks</b>"],
-     [wd(26, 19,  0), wd(26, 20,  0), "<b>Poster session</b>"],
+     [wd(26, 17, 45), wd(26, 18,  45), "<b>Spotlight talks</b>",
+        // Wrap multi-line strings in `s rather than "s
+        `
+          Tune in for talks from selected workshop poster presenters!
+
+          <p>
+          Talks:
+          <ul>
+            <li>Filip Tolovski, "Advancing Renewable Electricity Consumption With Reinforcement Learning"</li>
+            <li>Sookyung Kim, "Hurricane Nowcasting with Irregular Time-step using Neural-ODE and Video Prediction"</li>
+            <li>Soukayna Mouatadid, "WeatherBench: A benchmark dataset for data-driven weather forecasting"</li>
+            <li>Victor Schmidt, "Modeling Cloud Reflectance Fields using Conditional Generative Adversarial Networks"</li>
+            <li>Simona Santamaria, "TrueBranch: Robust Deep Learning-based Verification of Forest Conservation Projects"</li>
+          </ul>
+          <p>
+       `
+     ],
+     [wd(26, 18,  45), wd(26, 20,  0), "<b>Poster session</b>"],
      [
         wd(26, 20,  0),
         wd(26, 20, 45),
