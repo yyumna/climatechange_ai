@@ -119,7 +119,7 @@ $(document).ready(function() {
      [
         wd(26, 13,  0), 
         wd(26, 13, 45), 
-        "Georgina Campbell Flatter: <b>Why the Climate Change AI Community Should Care About Weather? A New Approach for Africa</b> <em>(Invited talk)</em>",
+        "Georgina Campbell Flatter: <b>Why the Climate Change AI Community Should Care About Weather: A New Approach for Africa</b> <em>(Invited talk)</em>",
          // Wrap multi-line strings in `s rather than "s
         `
           <strong>Abstract:</strong> By improving weather services in Africa, we have the potential to unlock hundreds billions of dollars of opportunity for the continent, and, in turn, lift millions from poverty by helping individuals, businesses and governments proactively manage weather risk and adapt to changing weather patterns. While there have been significant technological advancements in weather forecasting globally  in recent years through the use of supercomputers, AI and user-facing tools, these benefits are yet to reach their full potential in Africa.
