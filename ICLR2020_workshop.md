@@ -39,7 +39,7 @@ The International Conference on Learning Representations (ICLR) is one of the pr
 ## Keynote Speakers
 **Stefano Ermon** (Stanford University)  
 **Ciira wa Maina** (Dedan Kimathi University of Technology)  
-**Georgina Campbell Flatter** (ClimaCell.org)  
+**Georgina Campbell Flatter** (ClimaCell)  
 **Dan Morris** (Microsoft AI for Earth)
 
 ## Panelists
@@ -100,7 +100,23 @@ $(document).ready(function() {
      [wd(26, 10, 15), wd(26, 11,  0), "<b>Invited talk:</b> Ciira wa Maina"],
      [wd(26, 11,  0), wd(26, 12,  0), "<b>Poster spotlight talks</b>"],
      [wd(26, 12,  0), wd(26, 13,  0), "<b>Poster session</b>"],
-     [wd(26, 13,  0), wd(26, 13, 45), "<b>Invited talk:</b> Georgina Campbell Flatter"],
+     [
+        wd(26, 13,  0), 
+        wd(26, 13, 45), 
+        "Georgina Campbell Flatter: <b>Why the Climate Change AI Community Should Care About Weather? A New Approach for Africa</b> <em>(Invited talk)</em>",
+         // Wrap multi-line strings in `s rather than "s
+        `
+          <strong>Abstract:</strong> By improving weather services in Africa, we have the potential to unlock hundreds billions of dollars of opportunity for the continent, and, in turn, lift millions from poverty by helping individuals, businesses and governments proactively manage weather risk and adapt to changing weather patterns. While there have been significant technological advancements in weather forecasting globally  in recent years through the use of supercomputers, AI and user-facing tools, these benefits are yet to reach their full potential in Africa.
+
+          <p>
+          During this presentation for the Climate Change AI community, Georgina shares ClimaCell’s novel approach to bringing weather innovations to Africa’s hydro-met value chain. Through a set of powerful stories, she shares a community-level perspective of the game-changing socio-economic value that could be achieved with better forecasts, especially among vulnerable communities. She presents a new systems lense for how to view this opportunity by better understanding the problem, with the goal of inspiring the Climate Change AI community to contribute to this critical, but perhaps underappreciated, aspect of the climate adaptation agenda. Weather can drive people into poverty. Knowing the weather can lift them out.
+          </p>
+
+          <p>
+            <strong>Bio:</strong> Georgina Campbell Flatter leads ClimaCell’s emerging market activities, and is dedicated to ensuring that every human being on earth can benefit from the socio-economic opportunities of high quality accessible weather information, especially vulnerable communities. Prior to ClimaCell, Georgina spent a decade at MIT where her research and teaching centered around the role of business and entrepreneurship in tackling large systemic poverty issues. She was a Senior Lecturer with the Technological Innovation, Entrepreneurship and Strategic Management Group at MIT Sloan. Through this role, she developed several new academic courses and co-wrote cases on game-changing principled leaders and ventures working in emerging markets. She also served as Executive Director of the MIT Legatum Center for Development and Entrepreneurship and, prior to that, Director of MIT’s Regional Entrepreneurship Acceleration Program (REAP). She began her journey at MIT making gecko-inspired surgical adhesives at the MIT Langer Lab and hydrogen-generating nanoparticles at an MIT cleantech spinout. Some of her thoughts on entrepreneurship are captured in pieces recently published in the FT, Entrepreneur.com, and Forbes. She read Material Science at Trinity College Oxford and Technology and Policy at MIT.
+          </p>
+       `
+      ],
      [wd(26, 13, 45), wd(26, 15, 30), "Break and small-group discussions"],
      [wd(26, 15, 30), wd(26, 17,  0), "<b>Panel:</b> Dan Kammen, Dan Morris, Jessica Thorn, John Platt, Nana Ama Browne Klutse, Stefano Ermon"],
      [
