@@ -214,7 +214,7 @@ $(document).ready(function() {
           About 70% of CO2 emissions and most of the data collected globally originate from activities in cities. This creates many opportunities where machine learning can be useful for climate change mitigation. In this discussion-based session, city experts will discuss areas with substantial potential for reducing emissions and for making relevant use of machine learning.
         `
       ],
-      [null, null, "Updates from Previous Workshop Presenters",
+      [null, null, "Updates from previous workshop presenters",
         // Wrap multi-line strings in `s rather than "s
         `
           <p>
@@ -623,6 +623,7 @@ In the west, alienation from nature and deteriorating opportunities to experienc
 <a href="http://www.kochanski.org/kelly/" target="_blank">Kelly Kochanski (CU Boulder)</a>: _Climate Science and Adaptation Day_ <br>
 <a href="https://www.mcc-berlin.net/en/about/team/milojevic-dupont-nikola.html" target="_blank">Nikola Milojevic-Dupont (MCC Berlin)</a>: _Energy Day_ <br>
 <a href="https://sites.google.com/prod/view/peetak" target="_blank">Peetak Mitra (UMass Amherst)</a>: _Climate Science and Adaptation Day_ <br>
+<a href="https://asross.github.io/" target="_blank">Andrew Ross (Harvard)</a>: _Website_ <br>
 
 
 ## Program Committee
