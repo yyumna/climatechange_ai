@@ -199,7 +199,7 @@ $(document).ready(function() {
       [
           null, 
           null, 
-          "Fireside Chat with Ian Rogoff on Clean Tech Entrepreneurship",
+          "Fireside chat with Ian Rogoff on clean tech entrepreneurship",
           // Wrap multi-line strings in `s rather than "s
         `
           This fireside chat will cover key considerations for researchers working in machine learning and climate/energy who would like to enter the startup space. Topics addressed will include assessing market fit, understanding the global funding landscape for climate change + machine learning projects, team formation, and other on-the-ground considerations for building a successful startup in this space.
@@ -217,6 +217,8 @@ $(document).ready(function() {
       [null, null, "Updates from previous workshop presenters",
         // Wrap multi-line strings in `s rather than "s
         `
+        This session will feature updates from authors of selected works presented at previous Climate Change AI workshops (at ICML 2019, NeurIPS 2019, and AMLD 2020).
+
           <p>
           Speakers:
           <ul>
