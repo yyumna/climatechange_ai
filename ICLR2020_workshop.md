@@ -455,11 +455,17 @@ $(document).ready(function() {
 
 ## Accepted Works
 
-Works were submitted to one of two tracks: [Papers](#papers) or [Proposals](#proposals). 
+Works were submitted to one of two tracks: [Papers](#Papers) or [Proposals](#Proposals). 
 
-### Papers
+{% assign track = '' %}
 
 {% for p in site.data.iclr2020_papers %}
+  {% if p.q1_track != track %}
+
+  <h3 id='{{ p.q1_track }}'>{{ p.q1_track }}</h3>
+
+  {% endif %}
+
   <h4 id='paper-{{ p.paper_num }}'>
     ({{ p.paper_num }}) {{ p.paper_title }}
 
@@ -481,6 +487,8 @@ Works were submitted to one of two tracks: [Papers](#papers) or [Proposals](#pro
 
     {{ p.abstract }}
   </details>
+
+  {% assign track = p.q1_track %}
 {% endfor %}
 
 
