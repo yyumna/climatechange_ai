@@ -1,0 +1,840 @@
+---
+- paper_id: 8.0
+  paper_title: 'BISCUIT: Building Intelligent System Customer Investment Tools'
+  abstract: Energy use in buildings account for approximately half of global electricity
+    consumption and a significant amount of CO2 emissions. Often, the higher energy
+    usage in buildings are accounted to old and poorly maintained infrastructure and
+    equipments. On the other hand, Smart buildings are capable of achieving energy
+    efficiency by using intelligent services such as indoor positioning, personalized
+    lighting, demand-based heating ventilation and air-conditioning, automatic fault
+    detection and recovery etc. However, most buildings nowadays lack the basic components
+    and infrastructure to support such services. The investment decision of intelligent
+    system design and retrofit can be a daunting task, because it involves both hardware
+    (sensors, actuators, servers) and software (operating systems, service algorithms),
+    which have issues of compatibility, functionality constraints, and opportunities
+    of co-design of synergy. Our work proposes a user-oriented investment decision
+    toolset using optimization and machine learning techniques aimed at handling the
+    complexity of exploration in the large design space and to enhance cost-effectiveness,
+    energy efficiency, and human-centric values. The toolset is demonstrated in a
+    case study to retrofit a medium-sized building, where it is shown to propose a
+    design that significantly lowers the overall investment cost while achieving user
+    specifications.
+  q1_track: Papers
+  primary_contact_author_name: 'Hari Prasanna Das '
+  primary_contact_author_email: hpdas@berkeley.edu
+  status: Accept (poster)
+  primary_subject_area: Buildings
+  secondary_subject_areas: ''
+  author_names: Jin, Ming; Jia, Ruoxi; Das , Hari Prasanna*; Feng, Wei; Spanos, Costas
+    J.
+  author_emails: jinming@berkeley.edu; ruoxijia@berkeley.edu; hpdas@berkeley.edu*;
+    WeiFeng@lbl.gov; spanos@berkeley.edu
+  authors: "Ming Jin (U.C. Berkeley); Ruoxi Jia (UC Berkeley); Hari Prasanna Das  (UC
+    Berkeley\t)*; Wei Feng (Lawrence Berkeley National Laboratory); Costas J. Spanos
+    (University of California at Berkeley)"
+  paper_num: 1
+  paper_path: papers/iclr2020/8/paper.pdf
+  slides_path: papers/iclr2020/8/slides.pdf
+- paper_id: 11.0
+  paper_title: Deep Reinforcement Learning based Renewable Energy Error Compensable
+    Forecasting
+  abstract: Recently, renewable energy is rapidly integrated into the power grid to
+    prevent climate change, and accurate forecasting of renewable generation becomes
+    critical for reliable power system operation. However, existing forecasting algorithms
+    only focused on reducing forecasting errors without considering error compensability
+    by using a large-scale battery. In this paper, we propose a novel strategy called
+    error compensable forecasting. We switch the objective of forecasting from reducing
+    errors to making errors compensable by leveraging a battery. Specifically, we
+    propose a deep reinforcement learning based framework having forecasting in the
+    loop of control. Extensive simulations show that the proposed one-hour ahead forecasting
+    achieves zero error for more than 98% of time while reducing the operational expenditure
+    by up to 44%.
+  q1_track: Papers
+  primary_contact_author_name: Hongseok Kim
+  primary_contact_author_email: hongseok@sogang.ac.kr
+  status: Accept (poster)
+  primary_subject_area: Power generation and grids
+  secondary_subject_areas: Data presentation and management
+  author_names: Jeong, Jaeik; Kim, Hongseok*
+  author_emails: jaeik1213@sogang.ac.kr; hongseok@sogang.ac.kr*
+  authors: Jaeik Jeong (Sogang University); Hongseok Kim (Sogang University)*
+  paper_num: 2
+  paper_path: papers/iclr2020/11/paper.pdf
+  slides_path: papers/iclr2020/11/slides.pdf
+- paper_id: 12.0
+  paper_title: Missing-insensitive Short-term Load Forecasting Leveraging Autoencoder
+    and LSTM
+  abstract: Short-term load forecasting (STLF) is fundamental for power system operation,
+    demand response, and also greenhouse gas emission reduction. So far, most deep
+    learning-based STLF techniques require intact data, but many real-world datasets
+    contain missing values due to various reasons, and thus missing imputation using
+    deep learning is actively studied. However, missing imputation and STLF have been
+    considered independently so far. In this paper, we jointly consider missing imputation
+    and STLF and propose a family of autoencoder/LSTM combined models to realize missing-insensitive
+    STLF. Specifically, autoencoder (AE), denoising autoencoder (DAE), and convolutional
+    autoencoder (CAE) are investigated for extracting features, which is directly
+    fed into the input of LSTM. Our results show that three proposed autoencoder/LSTM
+    combined models significantly improve forecasting accuracy compared to the baseline
+    models of deep neural network and LSTM. Furthermore, the proposed CAE/LSTM combined
+    model outperforms all other models for 5%-25% of random missing data.
+  q1_track: Papers
+  primary_contact_author_name: Hongseok Kim
+  primary_contact_author_email: hongseok@sogang.ac.kr
+  status: Accept (poster)
+  primary_subject_area: Power generation and grids
+  secondary_subject_areas: Data presentation and management
+  author_names: Park, Kyungnam; Jeong, Jaeik; Kim, Hongseok*
+  author_emails: nami93@sogang.ac.kr; jaeik1213@sogang.ac.kr; hongseok@sogang.ac.kr*
+  authors: Kyungnam Park (Sogang University); Jaeik Jeong (Sogang University); Hongseok
+    Kim (Sogang University)*
+  paper_num: 3
+  paper_path: papers/iclr2020/12/paper.pdf
+  slides_path: papers/iclr2020/12/slides.pdf
+- paper_id: 18.0
+  paper_title: A Machine Learning Pipeline to Predict Vegetation Health
+  abstract: Agricultural droughts can exacerbate poverty and lead to famine. Timely
+    distribution of disaster relief funds is essential to help minimise the impact
+    of drought. Indices of vegetation health are indicative of higher risk of agricultural
+    drought, but their prediction remains challenging, particularly in Africa. Here,
+    we present an open-source machine learning pipeline for climate-related data.
+    Specifically, we train and analyse a recurrent model to predict pixel-wise vegetation
+    health in Kenya.
+  q1_track: Papers
+  primary_contact_author_name: Thomas Lees
+  primary_contact_author_email: thomas.lees@chch.ox.ac.uk
+  status: Accept (spotlight)
+  primary_subject_area: Disaster management and relief
+  secondary_subject_areas: Extreme weather events
+  author_names: Lees, Thomas*; Tseng, Gabriel; Dadson, Simon; Hernández, Alex; Atzberger,
+    Clement G.; Reece, Steven
+  author_emails: thomas.lees@chch.ox.ac.uk*; gabrieltseng95@gmail.com; simon.dadson@ouce.ox.ac.uk;
+    alexhg15@gmail.com; clement.atzberger@boku.ac.at; reece@robots.ox.ac.uk
+  authors: Thomas Lees (University of Oxford)*; Gabriel Tseng (Okra Solar); Simon
+    Dadson (University of Oxford); Alex Hernández (University of Osnabrück); Clement
+    G. Atzberger (University of Natural Resources and Life Sciences); Steven Reece
+    (University of Oxford)
+  paper_num: 4
+  paper_path: papers/iclr2020/18/paper.pdf
+  slides_path: papers/iclr2020/18/slides.pdf
+- paper_id: 25.0
+  paper_title: Understanding the dynamics of climate-crucial food choice behaviours
+    using Distributional Semantics
+  abstract: |-
+    Developed countries must make swift movements toward plant-based diets in order to mitigate climate change and maintain food security. However, researchers
+    currently lack clear insight into the psychological dimensions that influence food
+    choice, which is necessary to encourage the societal adaptation of new diets. In
+    this project, we use Skip-gram word embeddings trained on the ukWaC corpus
+    as a lens to study the implicit mental representations people have of foods. Our
+    data-driven insights expand on findings from traditional, interview-based studies
+    by uncovering implicit mental representations, allowing a better understanding the
+    complex combination of conscious and sub-conscious processes surrounding food
+    choice. In particular, our findings shed light on the pervasiveness of meat as the
+    ‘centre’ of the meal in the UK.
+  q1_track: Papers
+  primary_contact_author_name: Claudia Haworth
+  primary_contact_author_email: cghaworth1@sheffield.ac.uk
+  status: Accept (spotlight)
+  primary_subject_area: Societal adaptation
+  secondary_subject_areas: 'Climate change and diet '
+  author_names: Haworth, Claudia*; Viglioco, Gabriella
+  author_emails: cghaworth1@sheffield.ac.uk*; g.vigliocco@ucl.ac.uk
+  authors: Claudia Haworth (University of Sheffield)*; Gabriella Viglioco (University
+    College London)
+  paper_num: 5
+  paper_path: papers/iclr2020/25/paper.pdf
+  slides_path: papers/iclr2020/25/slides.pdf
+- paper_id: 33.0
+  paper_title: 'SolarNet: A Deep Learning Framework to Map Solar Plants In China From
+    Satellite Imagery'
+  abstract: Renewable energy such as solar power is critical to fight the ever more
+    serious climate, how to effectively detect renewable energy has became an important
+    issue for governments. In this paper, we proposed a deep learning framework named
+    SolarNet which is designed to perform semantic segmentation on large scale satellite
+    imagery data to detect solar farms. SolarNet has successfully mapped 439 solar
+    farms in China, covering near 2000 square kilometers, equivalent to the size of
+    whole Shenzhen city or two and a half of New York city. To the best of our knowledge,
+    it is the first time that we used deep learning to reveal the locations and sizes
+    of solar farms in China, which could provide insights for solar power companies,
+    climate finance and markets.
+  q1_track: Papers
+  primary_contact_author_name: Haishan Wu
+  primary_contact_author_email: haishanwu@webank.com
+  status: Accept (poster)
+  primary_subject_area: Power generation and grids
+  secondary_subject_areas: Ecosystems and natural resources
+  author_names: Hou, Xin; Wang, Biao; Hu, Wanqi; yin, lei; Huang, Anbu; Wu, Haishan*
+  author_emails: hx173149@gmail.com; wangbyz@163.com; wanqihu@webank.com; adamyin@webank.com;
+    stevenhuang@webank.com; haishanwu@webank.com*
+  authors: Xin Hou (WeBank); Biao Wang (Webank); Wanqi Hu (Webank); lei yin (WeBank);
+    Anbu Huang (Webank); Haishan Wu (Webank)*
+  paper_num: 6
+  paper_path: papers/iclr2020/33/paper.pdf
+- paper_id: 36.0
+  paper_title: Embedding Hard Physical Constraints in Convolutional Neural Networks
+    for 3D Turbulence
+  abstract: Deep learning approaches have shown much promise for climate sciences,
+    especially in dimensionality reduction and compression of large datasets. A major
+    issue in deep learning of climate phenomena, like geophysical turbulence, is the
+    lack of physical guarantees.  In this work, we propose a general framework to
+    directly embed the notion of incompressible fluids into Convolutional Neural Networks,
+    for coarse-graining of turbulence. These \textbf{physics-embedded neural networks}
+    leverage interpretable strategies from numerical methods and computational fluid
+    dynamics to enforce physical laws and boundary conditions by taking advantage
+    the mathematical properties of the underlying equations. We demonstrate results
+    on 3D fully-developed turbulence, showing that the \textit{physics-aware inductive
+    bias} drastically improves local conservation of mass, without sacrificing performance
+    according to several other metrics characterizing the fluid flow.
+  q1_track: Papers
+  primary_contact_author_name: Arvind T Mohan
+  primary_contact_author_email: arvindm@lanl.gov
+  status: Accept (poster)
+  primary_subject_area: Climate and earth science
+  secondary_subject_areas: Extreme weather events
+  author_names: Mohan, Arvind T*; Lubbers, NIcholas; Livescu, Daniel; Chertkov, Misha
+  author_emails: arvindm@lanl.gov*; nlubbers@lanl.gov; livescu@lanl.gov; chertkov@math.arizona.edu
+  authors: "Arvind T Mohan (Los Alamos National Laboratory)*; NIcholas Lubbers (Los
+    Alamos National Laboratory\t); Daniel Livescu (Los Alamos National Laboratory\t);
+    Misha Chertkov (University of Arizona )"
+  paper_num: 7
+  paper_path: papers/iclr2020/36/paper.pdf
+  slides_path: papers/iclr2020/36/slides.pdf
+- paper_id: 37.0
+  paper_title: 'DETECTION OF HOUSING AND AGRICULTURE AREAS ON DRY-RIVERBEDS FOR THE
+    EVALUATION OF RISK BY LANDSLIDES USING LOW-RESOLUTION SATELLITE IMAGERY BASED
+    ON DEEP LEARNING. STUDY ZONE: LIMA, PERU'
+  abstract: The expansion of human settlements in Peru has caused risk exposure to
+    landslides. However, this risk could increase because the intensity of the El
+    niño phenomenon will be greater in the coming years,  increasing rainfall on the
+    Peruvian coast. In this paper, we present a novel methodology for detecting housing
+    areas and agricultural lands in low-resolution satellite imagery in order to analyze
+    potential risk in case of unexpected landslides. It was developed by creating
+    two datasets from Lima Metropolitana in Peru, one of which is for detecting dry
+    riverbeds and agriculture lands, and the other for classifying housing areas.
+    We applied data augmentation based on geometrical methods and trained architectures
+    based on U-net methods separately and then, overlap the results for risk assessment.
+    We found that there are areas with significant potential risk that have been classified
+    by the Peruvian government as medium or low risk areas. On this basis, it is recommended
+    obtain a dataset with better resolution that can identify how many housing areas
+    will be affected and take the appropriate prevention measures. Further research
+    in post-processing is needed for suppress noise in our results.
+  q1_track: Papers
+  primary_contact_author_name: Brian Cerrón
+  primary_contact_author_email: bcerronr@uni.pe
+  status: Accept (poster)
+  primary_subject_area: Buildings
+  secondary_subject_areas: Agriculture, forestry and other land use; Climate and earth
+    science; Industry; Urban studies
+  author_names: Cerrón, Brian*; Bazan, Cristopher; Coronado, Alberto
+  author_emails: bcerronr@uni.pe*; cristopher.bazan@uni.pe; am.coronado@gmail.com
+  authors: "Brian Cerrón (National University of Engineering)*; Cristopher Bazan (National
+    University of Engineering); Alberto Coronado (\tNational University of Engineering)"
+  paper_num: 8
+  paper_path: papers/iclr2020/37/paper.pdf
+  slides_path: papers/iclr2020/37/slides.pdf
+- paper_id: 43.0
+  paper_title: Non-linear interlinkages and key objectives amongst the Paris Agreement
+    and the Sustainable Development Goals
+  abstract: "The United Nations' ambitions to combat climate change and prosper human
+    development are manifested in the Paris Agreement and the Sustainable Development
+    Goals (SDGs), respectively. These are inherently inter-linked as progress towards
+    some of these objectives may accelerate or hinder progress towards others. We
+    investigate how these two agendas influence each other by defining networks of
+    18 nodes, consisting of the 17 SDGs and climate change, for various groupings
+    of countries. We compute a non-linear measure of conditional dependence, the partial
+    distance correlation, given any subset of the remaining 16 variables. These correlations
+    are treated as weights on edges, and weighted eigenvector centralities are calculated
+    to determine the most important nodes. \n\nWe find that SDG 6, clean water and
+    sanitation, and SDG 4, quality education, are most central across nearly all groupings
+    of countries. In developing regions, SDG 17, partnerships for the goals, is strongly
+    connected to the progress of other objectives in the two agendas whilst, somewhat
+    surprisingly, SDG 8, decent work and economic growth, is not as important in terms
+    of eigenvector centrality."
+  q1_track: Papers
+  primary_contact_author_name: Felix Laumann
+  primary_contact_author_email: f.laumann18@imperial.ac.uk
+  status: Accept (poster)
+  primary_subject_area: Policy
+  secondary_subject_areas: Data presentation and management; Societal adaptation
+  author_names: Laumann, Felix*; von Kügelgen, Julius; Barahona, Mauricio
+  author_emails: f.laumann18@imperial.ac.uk*; julius.von.kuegelgen@tuebingen.mpg.de;
+    m.barahona@imperial.ac.uk
+  authors: Felix Laumann (Imperial College London)*; Julius von Kügelgen (MPI for
+    Intelligent Systems, Tübingen & University of Cambridge); Mauricio Barahona (Imperial
+    College London)
+  paper_num: 9
+  paper_path: papers/iclr2020/43/paper.pdf
+  slides_path: papers/iclr2020/43/slides.pdf
+- paper_id: 45.0
+  paper_title: A CONTINUAL LEARNING APPROACH FOR LOCAL LEVEL ENVIRONMENTAL MONITORING
+    IN LOW-RESOURCE SETTINGS
+  abstract: 'An increasingly important dimension in the quest for mitigation and monitoring
+    of environmental change is the role of citizens. The crowd-based monitoring of
+    local level anthropogenic alterations is essential towards measurable changes
+    in different contributing factors to climate change. With the proliferation of
+    mobile technologies here in the African continent, it is useful to have machine
+    learning based models that are deployed on mobile devices and that can learn continually
+    from streams of data over extended time, possibly pertaining to different tasks
+    of interest. In this paper, we demonstrate the localisation of deforestation indicators
+    using lightweight models and extend to incorporate data about wildﬁres and smoke
+    detection. The idea is to show the need and potential of continual learning approaches
+    towards building robust models to track local environmental alterations.
+
+'
+  q1_track: Papers
+  primary_contact_author_name: Arijit Patra
+  primary_contact_author_email: arijit.patra@eng.ox.ac.uk
+  status: Accept (poster)
+  primary_subject_area: Agriculture, forestry and other land use
+  secondary_subject_areas: Disaster management and relief; Ecosystems and natural
+    resources; Societal adaptation
+  author_names: Patra, Arijit*
+  author_emails: arijit.patra@eng.ox.ac.uk*
+  authors: Arijit Patra (University of Oxford)*
+  paper_num: 10
+  paper_path: papers/iclr2020/45/paper.pdf
+- paper_id: 47.0
+  paper_title: 'WeatherBench: A benchmark dataset for data-driven weather forecasting'
+  abstract: Accurate weather forecasts are a crucial prerequisite for climate change
+    adaptation. Can these be provided by deep learning? First studies show promise,
+    but the lack of a common dataset and evaluation metrics make inter-comparison
+    between the proposed models difficult. In fact, despite the recent research surge
+    in data-driven weather forecasting, there is currently no standard approach for
+    evaluating the proposed models. Here we introduce WeatherBench, a benchmark dataset
+    for data-driven medium-range weather forecasting. We provide data derived from
+    an archive of assimilated earth observations for the last 40 years that has been
+    processed to facilitate the use in machine learning models. We propose a simple
+    and clear evaluation metric which will enable a direct comparison between different
+    proposed methods. Further, we provide baseline scores from simple linear regression
+    techniques, purely physical forecasting models as well as existing deep learning
+    weather forecasting models. All data and code are made publicly available along
+    with tutorials for getting started. We believe WeatherBench will provide a useful
+    and reproducible way of evaluating data-driven weather forecasting models and
+    we hope that it will accelerate research in this direction.
+  q1_track: Papers
+  primary_contact_author_name: Soukayna Mouatadid
+  primary_contact_author_email: soukayna@cs.toronto.edu
+  status: Accept (spotlight)
+  primary_subject_area: Climate and earth science
+  secondary_subject_areas: Extreme weather events
+  author_names: Rasp, Stephan; Mouatadid, Soukayna*; Dueben, Peter; Scher, Sebastian;
+    Weyn, Jonathan; Thuerey, Nils
+  author_emails: stephan.rasp@tum.de; soukayna@cs.toronto.edu*; dueben@ecmwf.int;
+    sebastian.scher@misu.su.se; jweyn@uw.edu; i15ge@cs.tum.edu
+  authors: Stephan Rasp (Technical University of Munich); Soukayna Mouatadid (University
+    of Toronto)*; Peter Dueben (European Centre for Medium-Range Weather Forecasts
+    (ECMWF) ); Sebastian Scher (Stockholm University); Jonathan Weyn (University of
+    Washington); Nils Thuerey (nils.thuerey@tum.de)
+  paper_num: 11
+  paper_path: papers/iclr2020/47/paper.pdf
+  slides_path: papers/iclr2020/47/slides.pdf
+- paper_id: 48.0
+  paper_title: Modeling Cloud Reflectance Fields using Conditional Generative Adversarial
+    Networks
+  abstract: We introduce a conditional Generative Adversarial Network (cGAN) approach
+    to generate cloud reflectance fields (CRFs) conditioned on large scale meteorological
+    variables such as sea surface temperature and relative humidity. We show that
+    our trained model can generate realistic CRFs from the corresponding meteorological
+    observations, which represents a step towards a data-driven framework for stochastic
+    cloud parameterization.
+  q1_track: Papers
+  primary_contact_author_name: Victor Schmidt
+  primary_contact_author_email: vsch@pm.me
+  status: Accept (spotlight)
+  primary_subject_area: Climate and earth science
+  secondary_subject_areas: ''
+  author_names: Schmidt, Victor*; Muhammed, Mustafa Alghali; Sankaran, Kris; Yuan,
+    Tianle; Bengio, Yoshua
+  author_emails: vsch@pm.me*; wad_alghali@hotmail.com; sankaran.kris@gmail.com; tianle.yuan@nasa.gov;
+    yoshua.bengio@mila.quebec
+  authors: Victor Schmidt (Mila)*; Mustafa Alghali Muhammed (University of Khartoum
+    ); Kris Sankaran (Montreal Institute for Learning Algorithms); Tianle Yuan (NASA);
+    Yoshua Bengio (Mila)
+  paper_num: 12
+  paper_path: papers/iclr2020/48/paper.pdf
+  slides_path: papers/iclr2020/48/slides.pdf
+- paper_id: 49.0
+  paper_title: 'SMArtCast: Predicting soil moisture interpolations into the future
+    using Earth observation data in a deep learning framework'
+  abstract: 'Soil moisture is critical component of crop health and monitoring it
+    can enable further actions for increasing yield or preventing catastrophic die
+    off. As climate change increases the likelihood of extreme weather events and
+    reduces the predictability of weather, and non-optimal soil moistures for crops
+    may become more likely. In this work, we use a series of LSTM architectures to
+    analyze measurements of soil moisture and vegetation indices derived from satellite
+    imagery. The system learns to predict the future values of these measurements.
+    These spatially sparse values and indices are used as input features to an interpolation
+    method that infer spatially dense moisture maps at multiple depths for a future
+    time point. This has the potential to provide advance warning for soil moistures
+    that may be inhospitable to crops across an area with limited monitoring capacity. '
+  q1_track: Papers
+  primary_contact_author_name: Conrad J Foley
+  primary_contact_author_email: james@deepplanet.ai
+  status: Accept (poster)
+  primary_subject_area: Agriculture, forestry and other land use
+  secondary_subject_areas: Ecosystems and natural resources; Extreme weather events
+  author_names: Foley, Conrad J*; Vaze, Sagar; El Amine Seddiq, Mohamed ; Unagaev,
+    Aleksei ; Efremova, Natalia
+  author_emails: james@deepplanet.ai*; sagar@deepplanet.ai; Mohamed@deepplanet.ai;
+    aleksei@deepplanet.ai; natalia.efremova@gmail.com
+  authors: Conrad J Foley (Deep Planet)*; Sagar Vaze (deepplanet.ai); Mohamed  El
+    Amine Seddiq (Deep Planet); Aleksei  Unagaev (Deep Planet); Natalia Efremova (University
+    of Oxford)
+  paper_num: 13
+  paper_path: papers/iclr2020/49/paper.pdf
+  slides_path: papers/iclr2020/49/slides.pdf
+- paper_id: 51.0
+  paper_title: Prediction of Bayesian Intervals for Tropical Storms
+  abstract: 'Building on recent research for prediction of hurricane trajectories
+    using recurrent neural networks (RNNs), we have developed improved methods and
+    generalized the approach to predict a confidence interval region of the trajectory
+    utilizing Bayesian methods. Tropical storms are capable of causing severe damage,
+    so accurately predicting their trajectories can bring significant benefits to
+    cities and lives, especially as they grow more intense due to climate change effects.
+    By implementing the Bayesian confidence interval using dropout in an RNN, we improve
+    the actionability of the predictions, for example by estimating the areas to evacuate
+    in the landfall region. We used an RNN to predict the trajectory of the storms
+    at 6-hour intervals. We used latitude, longitude, windspeed, and pressure features
+    from a Statistical Hurricane Intensity Prediction Scheme (SHIPS) dataset of about
+    500 tropical storms in the Atlantic Ocean. Our results show how neural network
+    dropout values affect our predictions and Bayesian intervals. '
+  q1_track: Papers
+  primary_contact_author_name: Sam Ganzfried
+  primary_contact_author_email: sam.ganzfried@gmail.com
+  status: Accept (poster)
+  primary_subject_area: Extreme weather events
+  secondary_subject_areas: Climate and earth science
+  author_names: Chiswick, Max; Ganzfried, Sam*
+  author_emails: maxchiswick@gmail.com; sam.ganzfried@gmail.com*
+  authors: Max Chiswick (Independent); Sam Ganzfried (Ganzfried Research)*
+  paper_num: 14
+  paper_path: papers/iclr2020/51/paper.pdf
+  slides_path: papers/iclr2020/51/slides.pdf
+- paper_id: 54.0
+  paper_title: 'MobilityNet: Towards a Public Dataset for Multi-modal Mobility Research'
+  abstract: |-
+    Influencing transportation demand can significantly reduce CO2 emissions. Individual user mobility models are key to influencing demand at the personal and structural levels. Constructing such models is a challenging task that depends on a number of interdependent steps. Progress on this task is hamstrung by the lack of high quality public datasets.
+    We introduce MobilityNet: the first step towards a common ground for multi-modal mobility research. MobilityNet solves the holistic evaluation, privacy preservation and fine grained ground truth problems through the use of artificial trips, control phones, and repeated travel. It currently includes 1080 hours of data from both
+    Android and iOS, representing 16 different travel contexts and 4 different sensing configurations.
+  q1_track: Papers
+  primary_contact_author_name: K. Shankari
+  primary_contact_author_email: shankari@eecs.berkeley.edu
+  status: Accept (spotlight)
+  primary_subject_area: Transportation
+  secondary_subject_areas: Urban studies
+  author_names: Shankari, K.*; Fürst, Jonathan; Fadel Argerich, Mauricio; Avramidis,
+    Eleftherios; Zhang, Jesse
+  author_emails: shankari@eecs.berkeley.edu*; jonathan.fuerst@neclab.eu; mauricio.fadel@neclab.eu;
+    eleftherios.avramidis@dfki.de; jessezhang@berkeley.edu
+  authors: K. Shankari (UC Berkeley)*; Jonathan Fürst (NEC Laboratories Europe); Mauricio
+    Fadel Argerich (NEC Laboratories Europe); Eleftherios Avramidis (DFKI GmbH); Jesse
+    Zhang (UC Berkeley)
+  paper_num: 15
+  paper_path: papers/iclr2020/54/paper.pdf
+- paper_id: 58.0
+  paper_title: Wavelet-Powered Neural Networks for Turbulence
+  abstract: 'One of the fundamental driving phenomena for climate effects is fluid
+    turbulence in geophysical flows. Modeling these flows and explaining its associated
+    spatio-temporal phenomena are notoriously difficult tasks. Navier-Stokes (NS)
+    equations describe all the details of the fluid motions, but require accounting
+    for unfeasibly many degrees of freedom in the regime of developed turbulence.
+    Model reduction and surrogate modeling of turbulence is a general methodology
+    aiming to circumvent this curse of dimensionality. Originally driven by phenomenological
+    considerations,  multiple attempts to model-reduce NS equations got a new boost
+    recently with Deep Learning (DL), trained on the ground truth data, e.g. extracted
+    from high-fidelity Direct Numerical Simulations (DNS). However, early attempts
+    of building NNs to model turbulence has also revealed its lack of interpretability
+    as the most significant shortcoming. In this paper we address the key challenge
+    of devising reduced but, at least partially, interpretable model. We take advantage
+    of the balance between strong mathematical foundations and the physical interpretability
+    of wavelet theory to build a spatio-temporally reduced dynamical map which fuses
+    wavelet based spatial decomposition with spatio-temporal modeling based on Convolutional
+    Long Short Term Memory (C-LSTM) architecture.  It is shown that the wavelet-based
+    NN makes progress in scaling to large flows, by reducing computational costs and
+    GPU memory requirements. '
+  q1_track: Papers
+  primary_contact_author_name: Arvind T Mohan
+  primary_contact_author_email: arvindm@lanl.gov
+  status: Accept (poster)
+  primary_subject_area: Climate and earth science
+  secondary_subject_areas: Data presentation and management
+  author_names: Mohan, Arvind T*; Livescu, Daniel; Chertkov, Misha
+  author_emails: arvindm@lanl.gov*; livescu@lanl.gov; chertkov@math.arizona.edu
+  authors: "Arvind T Mohan (Los Alamos National Laboratory)*; Daniel Livescu (Los
+    Alamos National Laboratory\t); Misha Chertkov (University of Arizona )"
+  paper_num: 16
+  paper_path: papers/iclr2020/58/paper.pdf
+  slides_path: papers/iclr2020/58/slides.pdf
+- paper_id: 7.0
+  paper_title: 'Benchmarks for Grid Flexibility Prediction: Enabling Progress and
+    Machine Learning Applications'
+  abstract: Decarbonizing the grid is recognized worldwide as one of the objectives
+    for the next decades. Its success depends on our ability to massively deploy renewable
+    resources, but to fully benefit from those, grid flexibility is needed. In this
+    paper we put forward the design of a benchmark that will allow for the systematic
+    measurement of demand response programs' effectiveness, information that we do
+    not currently have. Furthermore, we explain how the proposed benchmark will facilitate
+    the use of Machine Learning techniques in grid flexibility applications.
+  q1_track: Proposals
+  primary_contact_author_name: Diego Kiedansk
+  primary_contact_author_email: diego.kiedanski@telecom-paristech.fr
+  status: Accept (poster)
+  primary_subject_area: Power generation and grids
+  secondary_subject_areas: Data presentation and management
+  author_names: Kiedansk, Diego*; Kuntz, Lauren; Kofman, Daniel
+  author_emails: diego.kiedanski@telecom-paristech.fr*; lauren@gaia-scope.com; daniel.kofman@telecom-paristech.fr
+  authors: Diego Kiedansk (Telecom ParisTech)*; Lauren Kuntz (Gaiascope); Daniel Kofman
+    (Telecom ParisTech)
+  paper_num: 17
+  paper_path: papers/iclr2020/7/paper.pdf
+  slides_path: papers/iclr2020/7/slides.pdf
+- paper_id: 17.0
+  paper_title: Machine Learning Approaches to Safeguarding Continuous Water Supply
+    in the Arid and Semi-arid Lands of Northern Kenya
+  abstract: Arid and semi-arid regions (ASALs) in developing countries are heavily
+    affected by the effects of global warming and climate change, leading to adverse
+    climatic conditions such as drought and flooding. This paper explores the problem
+    of fresh-water access in northern Kenya and measures being taken to safeguard
+    water access despite these harsh climatic changes. We present an integrated water
+    management and decision-support platform, eMaji Manager, that we developed and
+    deployed in five ASAL counties in northern Kenya to manage waterpoint access for
+    people and livestock. We then propose innovative machine learning methods for
+    understanding waterpoint usage and repair patterns for sensor-instrumented waterpoints
+    (e.g., boreholes).  We explore sub-sequence discriminatory models and recurrent
+    neural networks to predict water-point failures, improve repair response times
+    and ultimately support continuous access to water.
+  q1_track: Proposals
+  primary_contact_author_name: Isaac Waweru
+  primary_contact_author_email: isaacw@ke.ibm.com
+  status: Accept (spotlight)
+  primary_subject_area: Climate and earth science
+  secondary_subject_areas: Data presentation and management; Societal adaptation
+  author_names: Otieno, Fred; Nyota, Timothy; Waweru, Isaac*; Cintas, Celia; Maina,
+    Samuel C; Ogallo, William; Walcott-Bryant, Aisha
+  author_emails: fred.otieno@ibm.com; timothy.nyota@ibm.com; isaacw@ke.ibm.com*; Celia.Cintas@ibm.com;
+    samuelm@ke.ibm.com; william.ogallo@ibm.com; awalcott@ke.ibm.com
+  authors: Fred Otieno (IBM); Timothy Nyota (IBM); Isaac Waweru (IBM)*; Celia Cintas
+    (IBM Research); Samuel C Maina (IBM Research); William Ogallo (IBM Research);
+    Aisha Walcott-Bryant (IBM Research - Africa)
+  paper_num: 18
+  paper_path: papers/iclr2020/17/paper.pdf
+  slides_path: papers/iclr2020/17/slides.pdf
+- paper_id: 27.0
+  paper_title: Accelerated  Data Discovery for Scalable Climate Action
+  abstract: According to the Intergovernmental Panel on Climate Change (IPCC), the
+    planet must decarbonize by 50% by 2030 in order to keep global warming below 1.5C.
+    This goal calls for a prompt and massive deployment of solutions in all societal
+    sectors - research, governance, finance, commerce, health care, consumption. One
+    challenge for experts and non-experts is access to the rapidly growing body of
+    relevant information, which is currently scattered across many weakly linked domains
+    of expertise. We propose a large-scale, semi-automatic, AI-based discovery system
+    to collect, tag, and semantically index this information. The ultimate goal is
+    a near real-time, partially curated data catalog of global climate information
+    for rapidly scalable climate action.
+  q1_track: Proposals
+  primary_contact_author_name: Henning Schwabe
+  primary_contact_author_email: henning_schwabe@icloud.com
+  status: Accept (poster)
+  primary_subject_area: Data presentation and management
+  secondary_subject_areas: Climate and earth science; Climate finance; Industry; Policy
+  author_names: Schwabe, Henning*; s, s; Grebenschikov, Sergy
+  author_emails: henning_schwabe@icloud.com*; sumeet.k.sandhu@gmail.com; sgreben@gwdg.de
+  authors: Henning Schwabe (Private)*; s s (myntra); Sergy Grebenschikov (Private)
+  paper_num: 19
+  paper_path: papers/iclr2020/27/paper.pdf
+  slides_path: papers/iclr2020/27/slides.pdf
+- paper_id: 29.0
+  paper_title: YOU FORGOT IT IN THE GENOTYPE, MODELING TOWARDS ADAPTATION OF FOOD
+    CROPS UNDER CLIMATE CHANGE THREAT
+  abstract: Agriculture is facing the disastrous effects of frequent drastic climate
+    changes. Efforts have increased towards the implementation of inexpensive solutions
+    for crop-yield prediction using publicly available data to prevent severe long-term
+    problems like food scarcity and security, amongst others. Agricultural productiv-
+    ity is intrinsic to the choice of plant species (i.e. cultivar) and represents
+    oppor- tunity cost for farm managers. The currently used cultivars have been artificially
+    selected for productivity at the expense of not being flexible to survive drastic
+    cli- mate changes. Current state-of-the-art machine learning models have modelled
+    holistically all agricultural counterparts (i.e. soil, management, weather, crop
+    cul- tivars etc), albeit, oversimplifying some of the biological features of their
+    culti- vars without taking advantage of their data properties. Specifically, these
+    models oversimplify some biological features like the genotype making them irrelevant
+    or depicting incomplete conclusions since not all of the information from the
+    cul- tivar is incorporated. With the goal of creating new models that perform
+    well on the yield prediction task in unstable weather conditions (e.g. under the
+    effect of climate change), here the authors argue for the importance of incorporating
+    additional biological features inferred from the genotype, like stability, and
+    hy- pothesise that current state-of-the-art models for grain-yield prediction
+    are blind to such features, and hence not applicable in such scenario.
+  q1_track: Proposals
+  primary_contact_author_name: Olivia Mendivil Ramos
+  primary_contact_author_email: omendivi@cshl.edu
+  status: Accept (poster)
+  primary_subject_area: Agriculture, forestry and other land use
+  secondary_subject_areas: ''
+  author_names: Mendivil Ramos, Olivia*; Petrini, Linda
+  author_emails: omendivi@cshl.edu*; lindapetrini@gmail.com
+  authors: Olivia Mendivil Ramos (Cold Spring Harbor Laboratory)*; Linda Petrini (Mila)
+  paper_num: 20
+- paper_id: 31.0
+  paper_title: Hurricane Nowcasting with Irregular Time-step using Neural-ODE and
+    Video Prediction
+  abstract: Fast and accurate prediction of extreme climate events is critical especially
+    in the recent globally warming environment. Considering recent advancements in
+    deep neural networks, it is worthwhile to tackle this problem as data-driven spatio-temporal
+    prediction using neural networks. However, a nontrivial challenge in practice
+    lies in irregular time gaps between which climate observation data are collected
+    due to sensor errors and other issues. This paper proposes an approach for spatio-temporal
+    hurricane prediction that can address this issue of irregular time gaps in collected
+    data with a simple but robust end-to-end model based on Neural Ordinary Differential
+    Equation and video prediction model based on Retrospective Cycle-GAN.
+  q1_track: Proposals
+  primary_contact_author_name: Sookyung Kim
+  primary_contact_author_email: kim79@llnl.gov
+  status: Accept (spotlight)
+  primary_subject_area: Extreme weather events
+  secondary_subject_areas: Disaster management and relief
+  author_names: 'Park, Sunghyun ; Kim, Kangyeol; Kim, Sookyung*; Lee, Joonseok; Lee,
+    Junsoo; Lee, Jiwoo; Choo, Jaegul '
+  author_emails: psh01087@kaist.ac.kr; kangyeolk@kaist.ac.kr; kim79@llnl.gov*; joonseok2010@gmail.com;
+    junsoolee93@kaist.ac.kr; lee1043@llnl.gov; joyfull78@gmail.com
+  authors: Sunghyun  Park (KAIST); Kangyeol Kim (KAIST); Sookyung Kim (Lawrence Livermore
+    National Laboratory)*; Joonseok Lee (Google Research); Junsoo Lee (KAIST); Jiwoo
+    Lee (Lawrence Livermore National Laboratory); Jaegul  Choo (KAIST)
+  paper_num: 21
+  paper_path: papers/iclr2020/31/paper.pdf
+  slides_path: papers/iclr2020/31/slides.pdf
+- paper_id: 34.0
+  paper_title: Indigenous Knowledge Aware Drought Monitoring, Forecasting and Prediction
+    Using Deep Learning Techniques
+  abstract: 'The general objective of this proposed research work is to design deep
+    learning based hybrid comprehensive framework for drought monitoring, forecasting
+    and prediction using scientific and indigenous knowledge as an integration of
+    connectionist and symbolic AI. In Ethiopia, among all extreme climate events,
+    drought is considered as the most complex phenomenon affecting the country and
+    its impact is also high due to absence of locally grounded intelligent and explainable
+    technology-oriented drought early warning and monitoring system. Thus, studying
+    Ethiopic perspective of drought monitoring and prediction in line with continental
+    and global climate change is vital for drought impact minimization and sustainable
+    development of the country. Moreover, having technology assisted early protective,
+    preventative action is also many times cheaper than the associated response to
+    humanitarian crisis. Accordingly, this proposed work will have different expected
+    outputs, including: drought risk identification, drought monitoring, drought preparedness,
+    drought forecasting, drought mitigation, and post drought best practice recommendation
+    models with interactive visualizations and explanations. '
+  q1_track: Proposals
+  primary_contact_author_name: Kidane W Degefa
+  primary_contact_author_email: kidane1982@gmail.com
+  status: Accept (poster)
+  primary_subject_area: Disaster management and relief
+  secondary_subject_areas: Extreme weather events
+  author_names: Degefa, Kidane W*
+  author_emails: kidane1982@gmail.com*
+  authors: Kidane W Degefa (Haramaya University)*
+  paper_num: 22
+  paper_path: papers/iclr2020/34/paper.pdf
+  slides_path: papers/iclr2020/34/slides.pdf
+- paper_id: 38.0
+  paper_title: 'TrueBranch: Metric Learning-based Verification of Forest Conservation
+    Projects'
+  abstract: |-
+    International stakeholders increasingly invest in offsetting carbon emissions, for example, via issuing Payments for Ecosystem Services (PES) to forest conservation projects. Issuing trusted payments requires a transparent monitoring, reporting, and verification (MRV) process of the ecosystem services (e.g., carbon stored in forests).
+    The current MRV process, however, is either too expensive (on-ground inspection of forest) or inaccurate (satellite). Recent works propose low-cost and accurate MRV via automatically determining forest carbon from drone imagery, collected by the landowners. The automation of MRV, however, opens up the possibility that landowners report untruthful drone imagery. To be robust against untruthful reporting, we propose TrueBranch, a metric learning-based algorithm that verifies the truthfulness of drone imagery from forest conservation projects.
+    TrueBranch aims to detect untruthfully reported drone imagery by matching it with public satellite imagery. Preliminary results suggest that nominal distance metrics are not sufficient to reliably detect untruthfully reported imagery. TrueBranch leverages a method from metric learning to create a feature embedding in which truthfully and untruthfully collected imagery is easily distinguishable by distance thresholding.
+  q1_track: Proposals
+  primary_contact_author_name: Simona Santamaria
+  primary_contact_author_email: ssimona@student.ethz.ch
+  status: Accept (spotlight)
+  primary_subject_area: Agriculture, forestry and other land use
+  secondary_subject_areas: Carbon capture and sequestration; Climate finance; Ecosystems
+    and natural resources
+  author_names: Santamaria, Simona*; Dao, David; Lütjens, Björn; Zhang, Ce
+  author_emails: ssimona@student.ethz.ch*; david.dao@inf.ethz.ch; lutjens@mit.edu;
+    ce.zhang@inf.ethz.ch
+  authors: Simona Santamaria (ETH Zurich)*; David Dao (ETH Zurich); Björn Lütjens
+    (MIT); Ce Zhang (ETH)
+  paper_num: 23
+  paper_path: papers/iclr2020/38/paper.pdf
+  slides_path: papers/iclr2020/38/slides.pdf
+- paper_id: 50.0
+  paper_title: Advancing Renewable Electricity Consumption With Reinforcement Learning
+  abstract: As the share of renewable energy sources in the present electric energy
+    mix rises, their intermittence proves to be the biggest challenge to carbon free
+    electricity generation. To address this challenge, we propose an electricity pricing
+    agent, which sends price signals to the customers and contributes to shifting
+    the customer demand to periods of high renewable energy generation. We propose
+    an implementation of a pricing agent with a reinforcement learning approach where
+    the environment is represented by the customers, the electricity generation utilities
+    and the weather conditions.
+  q1_track: Proposals
+  primary_contact_author_name: Filip Tolovski
+  primary_contact_author_email: tolovskifilip@gmail.com
+  status: Accept (spotlight)
+  primary_subject_area: Power generation and grids
+  secondary_subject_areas: Data presentation and management; Industry
+  author_names: Tolovski, Filip*
+  author_emails: tolovskifilip@gmail.com*
+  authors: Filip Tolovski (Fraunhofer Heinrich-Hertz-Institut )*
+  paper_num: 24
+  paper_path: papers/iclr2020/50/paper.pdf
+  slides_path: papers/iclr2020/50/slides.pdf
+- paper_id: 53.0
+  paper_title: 'Xingu: Explaining critical geospatial predictions in weak supervision
+    for climate finance'
+  abstract: "Monitoring, Reporting, and Verification (MRV) play a crucial key role
+    in the decision-making of climate investors, policymakers and conservationists.
+    \nRemote sensing is commonly used for MRV but practical solutions are constrained
+    by a lack of labels to train machine learning-based downstream tasks. Recent work
+    leverages weak supervision to alleviate the problem of labelled data scarcity.
+    However, the definition of weak supervision signals is limited by the existence
+    of millions of possible heuristic-based feature generation rules. Furthermore,
+    these rules are often difficult to interpret for climate finance and underperform
+    in critical data subsets. We propose Xingu, an interpretable MRV system to explain
+    weak supervision rules using game-theoretic SHAP values for critical model predictions.
+    Moreover, Xingu enables domain experts to collectively design and share labelling
+    functions, thus curating a reusable knowledge base for weak supervision signals."
+  q1_track: Proposals
+  primary_contact_author_name: David Dao
+  primary_contact_author_email: david.dao@inf.ethz.ch
+  status: Accept (poster)
+  primary_subject_area: Climate finance
+  secondary_subject_areas: Data presentation and management
+  author_names: Dao, David*; Rausch, Johannes; Zhang, Ce; Rott, Iveta
+  author_emails: david.dao@inf.ethz.ch*; johannes.rausch@inf.ethz.ch; ce.zhang@inf.ethz.ch;
+    rotti@student.ethz.ch
+  authors: David Dao (ETH Zurich)*; Johannes Rausch (ETH Zurich); Ce Zhang (ETH);
+    Iveta Rott (ETH Zurich)
+  paper_num: 25
+  paper_path: papers/iclr2020/53/paper.pdf
+  slides_path: papers/iclr2020/53/slides.pdf
+- paper_id: 55.0
+  paper_title: Towards a unified standards for smart infrastructure datasets
+  abstract: Development of smart devices and smart home appliances allowed us to harness
+    more data about energy patterns inside households, overtime this amount will increase.
+    There are contributions published to address building datasets, working for objective
+    of energy consumption optimization. Yet there are still factors if included could
+    help in understanding problem better. This proposal tries to annotate missing
+    features that if applied could help in a better understanding energy consumption
+    in smart buildings impact on environment. Second, to have a unified standards
+    that help different solutions to be compared properly.
+  q1_track: Proposals
+  primary_contact_author_name: Abdulrahman A Ahmed
+  primary_contact_author_email: abdulrahmanfci@gmail.com
+  status: Accept (poster)
+  primary_subject_area: Buildings
+  secondary_subject_areas: Power generation and grids
+  author_names: Ahmed, Abdulrahman A*
+  author_emails: abdulrahmanfci@gmail.com*
+  authors: Abdulrahman A Ahmed (Cairo University)*
+  paper_num: 26
+- paper_id: 57.0
+  paper_title: MACHINE   LEARNING   APPLICATIONS   THAT CAN HELP PASTORAL COMMUNITIES
+    IN NORTHERN  KENYA  AND  ELSEWHERE  ADAPT TO CLIMATE CHANGE
+  abstract: I propose the use of Machine Learning techniques such as Active Learning(AL)
+    and Transfer Learning(TL) to translate climate information and adaption technique
+    from major Western and Asian languages to thousands of low resource languages
+    in the developing world. Studies have shown that access to information can help
+    people assess the magnitude of the climate change challenge, possible options
+    and those feasible within the relevant context (Nyahunda & Tiri-vangasi, 2019)
+    I endeavor to demonstrate that if this information was available in a language
+    the locals can understand, it would result in local empowerment and as a result
+    inspire action.
+  q1_track: Proposals
+  primary_contact_author_name: Jefferson Sankara
+  primary_contact_author_email: jefferson.sankara@gmail.com
+  status: Accept (spotlight)
+  primary_subject_area: Societal adaptation
+  secondary_subject_areas: ''
+  author_names: Sankara, Jefferson*
+  author_emails: jefferson.sankara@gmail.com*
+  authors: Jefferson Sankara (Lori Systems)*
+  paper_num: 27
+  paper_path: papers/iclr2020/57/paper.pdf
+  slides_path: papers/iclr2020/57/slides.pdf
+- paper_id: 61.0
+  paper_title: 'Nutrient demand, Risk and Climate change: Evidence from historical
+    rice yield trials in India'
+  abstract: 'We use data from historical agronomic fertilizer trials to identify the
+    effect of climate change on the average rice yield and the yield variability in
+    India. The contribution of this paper is three folds: firstly, it has a methodological
+    contribution by modelling the input conditional yield densities using a stochastic
+    production structure for a developing country like India. In doing so, it predicts
+    and measure the effects of climate change on rice grown in tropical regions; secondly,it
+    estimates the nutrient demand and its link with the climate change; thirdly, by
+    modelling the yield uncertainty, it characterizes the risk and role for insurance
+    as a tool for tackling climate change in the developing countries.'
+  q1_track: Proposals
+  primary_contact_author_name: Sandip K Agarwal
+  primary_contact_author_email: sandipa@iiserb.ac.in
+  status: Accept (poster)
+  primary_subject_area: Agriculture, forestry and other land use
+  secondary_subject_areas: Policy
+  author_names: Agarwal, Sandip K*
+  author_emails: sandipa@iiserb.ac.in*
+  authors: Sandip K Agarwal (IISER Bhopal)*
+  paper_num: 28
+- paper_id: 69.0
+  paper_title: USING MACHINE LEARNING TO ANALYZE CLIMATE CHANGE TECHNOLOGY TRANSFER
+    (CCTT)
+  abstract: 'The objective of the present paper is to review the climate change technology
+    transfer. This research proposes a method for analysing CCTT using patent analysis
+    and topic modelling. A collection of climate change mitigation related technology
+    (CCMT) patents from patent databases would be used as input to group patents in
+    several relevant topics for climate change mitigation using the topic exploration
+    model in this research. The research questions we want to address are: how have
+    the patenting activities changed over time in CCMT patents? And who are the technological
+    leaders? The investigation of these questions can offer the technological landscape
+    in climate change-related technologies at the international level. We propose
+    a hybrid Latent Dirichlet Allocation (LDA) approach for topic modelling and identification
+    of relationships between terms and topics related to CCMT, enabling better visualizations
+    of underlying intellectual property dynamics. Further, we propose predictive modelling
+    for CCTT and competitor analysis to identify and rank countries with a similar
+    patent landscape. The projected results are expected to facilitate the transfer
+    process associated with existing and emerging climate change technologies and
+    improve technology cooperation between governments.'
+  q1_track: Proposals
+  primary_contact_author_name: Shruti Kulkarni
+  primary_contact_author_email: shruti.iisc@gmail.com
+  status: Accept (poster)
+  primary_subject_area: Climate finance
+  secondary_subject_areas: Data presentation and management; Societal adaptation
+  author_names: Kulkarni, Shruti*
+  author_emails: shruti.iisc@gmail.com*
+  authors: Shruti Kulkarni (Indian Institute of Science (IISc))*
+  paper_num: 29
+  paper_path: papers/iclr2020/69/paper.pdf
+  slides_path: papers/iclr2020/69/slides.pdf
+- paper_id: 70.0
+  paper_title: Using ML to close the vocabulary gap in the context of environment
+    and climate change in Chichewa
+  abstract: 'In the west, alienation from nature and deteriorating opportunities to
+    experience it, have led educators to incorporate educational programs in schools,
+    to bring pupils in contact with nature and to enhance their understanding of issues
+    related to the environment and its protection. In Africa, and in Malawi, where
+    most people engage in agriculture, and spend most of their time in the ''outdoors'',
+    alienation from nature is happening too, although in different ways.  Large portion
+    of the indigenous vocabulary and knowledge remains unknown or is slowly disappearing,
+    and there is a need to build a glossary of terms regarding environment and climate
+    change in the vernacular to improve the dialog regarding climate change and environmental
+    protection.. We believe that ML has a role to play in closing the ‘vocabulary
+    gap’ of terms and concepts regarding the environment and climate change that exists
+    in Chichewa and other Malawian languages by helping to creating a visual dictionary
+    of key terms used to describe the environment and explain the issues involved
+    in climate change and their meaning. Chichewa is a descriptive language, one English
+    term may be translated using several words. Thus, the task is not to detect just
+    literal translations, but also translations by means of ‘descriptions’ and illustrations
+    and thus extract correspondence between terms and definitions and to  measure
+    how appropriate a term is to convey the meaning intended.  As part of this project,
+    ML can be used to identify ‘loanword patterns’, which may be useful in understanding
+    the transmission of cultural items.
+
+'
+  q1_track: Proposals
+  primary_contact_author_name: Amelia Taylor
+  primary_contact_author_email: avtaylor14@gmail.com
+  status: Accept (poster)
+  primary_subject_area: Ecosystems and natural resources
+  secondary_subject_areas: Agriculture, forestry and other land use; Climate and earth
+    science
+  author_names: Taylor, Amelia*
+  author_emails: avtaylor14@gmail.com*
+  authors: Amelia Taylor (University of Malawi, The Polytechnic)*
+  paper_num: 30
