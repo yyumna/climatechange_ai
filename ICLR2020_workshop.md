@@ -97,7 +97,30 @@ $(document).ready(function() {
     day: 'April 26: Main Workshop',
     schedule: [
      [wd(26,  8, 45), wd(26, 9,   0), "Welcome and opening remarks"],
-     [wd(26,  9,  0), wd(26, 10, 15), "<b>Panel:</b> Ciira wa Maina, Georgina Campbell Flatter, Sarvapali Ramchurn, Paula Hidalgo-Sanchis"],
+     [
+        wd(26,  9,  0), 
+        wd(26, 10, 15), 
+        "<b>Panel:</b> Ciira wa Maina, Georgina Campbell Flatter, Paula Hidalgo-Sanchis, Sarvapali Ramchurn",
+        `
+          Join us for a panel discussion on the theory and practice of doing work at the intersection of climate change and machine learning. Panelists include:
+
+          <p>
+          <strong>Ciira wa Maina:</strong> Ciira wa Maina graduated from the University of Nairobi, Kenya with a Bsc. degree in Electrical Engineering in 2007 and with a Ph.D. from Drexel University in Philadelphia, USA in September 2011. Between October 2011 and August 2013 he was a postdoctoral researcher in computational Biology at the University of Sheffield. Since September 2013 he has been a Lecturer in Electrical Engineering at Dedan Kimathi University of Technology in Nyeri, Kenya where he also conducts research in the area of bioacoustics and other technological interventions for environmental monitoring. He is a member of the organizing committee for Data Science Africa.
+          </p>
+
+          <p>
+          <strong>Georgina Campbell Flatter:</strong> Georgina Campbell Flatter leads ClimaCell’s emerging market activities, and is dedicated to ensuring that every human being on earth can benefit from the socio-economic opportunities of high quality accessible weather information, especially vulnerable communities. Prior to ClimaCell, Georgina spent a decade at MIT where her research and teaching centered around the role of business and entrepreneurship in tackling large systemic poverty issues. She was a Senior Lecturer with the Technological Innovation, Entrepreneurship and Strategic Management Group at MIT Sloan. Through this role, she developed several new academic courses and co-wrote cases on game-changing principled leaders and ventures working in emerging markets. She also served as Executive Director of the MIT Legatum Center for Development and Entrepreneurship and, prior to that, Director of MIT’s Regional Entrepreneurship Acceleration Program (REAP). She began her journey at MIT making gecko-inspired surgical adhesives at the MIT Langer Lab and hydrogen-generating nanoparticles at an MIT cleantech spinout. Some of her thoughts on entrepreneurship are captured in pieces recently published in the FT, Entrepreneur.com, and Forbes. She read Material Science at Trinity College Oxford and Technology and Policy at MIT.
+          </p>
+
+          <p>
+          <strong>Paula Hidalgo-Sanchis:</strong> Paula Hidalgo-Sanchis works as Innovations Advisor at United Nations Global Pulse. Paula has done extensive applied research on the use of Big Data and Artificial Intelligence for the social good and led Pulse Lab Kampala in Uganda for 5 years before joining the team at UN Global Pulse in New York. She has worked as humanitarian and development practitioner during 19 years based in Africa, Asia and America. With working experience as Manager of Innovations, Social Policy Advisor and Analyst with the UN and a private Foundation Paula is passionate about promoting innovations for human development. She holds a PhD in Geography and Master’s level on International Assistance.
+          </p>
+
+          <p>
+          <strong>Sarvapali Ramchurn:</strong> Prof. Sarvapali Ramchurn is a Professor of Artificial Intelligence, Turing Fellow, and Fellow of the Institution of Engineering and Technology. He is the Director of the Centre for Machine Intelligence at the University of Southampton. His research is about the design of Responsible Artificial Intelligence for real-world socio-technical applications including energy systems and disaster management. His research involves applying techniques from Machine Learning, Data Science, and Game Theory.   He has won multiple best paper awards for his research and  is a winner of the AXA Research Fund Award for his work on Responsible Artificial Intelligence.  He is the Chief Scientist for North Star Solar Ltd and advises a number of SMEs and Defence suppliers. He has pioneered the development of AI-based disaster response systems using multi-UAV systems, AI-driven large-scale battery management for smart grids, and an AI bot that outperformed more than 5M human players (top 0.7%) in the English Premier League Fantasy Football Tournament. His papers have been cited more than 7000 times (according to Google scholar). He is originally from Mauritius and is interested in promoting applications of AI in developing countries.
+          </p>
+       `
+        ],
      [wd(26, 10, 15), wd(26, 11,  0), "<b>Invited talk:</b> Ciira wa Maina"],
      [
         wd(26, 10, 15), 
@@ -148,7 +171,50 @@ $(document).ready(function() {
        `
       ],
      [wd(26, 13, 45), wd(26, 15, 30), "Break and small-group discussions"],
-     [wd(26, 15, 30), wd(26, 17,  0), "<b>Panel:</b> Dan Kammen, Dan Morris, Jessica Thorn, John Platt, Nana Ama Browne Klutse, Stefano Ermon"],
+     [
+        wd(26, 15, 30), 
+        wd(26, 17,  0), 
+        "<b>Panel:</b> Dan Kammen, Dan Morris, Jessica Thorn, John Platt, Nana Ama Browne Klutse, Stefano Ermon",
+        `
+          Join us for a panel discussion on the theory and practice of doing work at the intersection of climate change and machine learning. Panelists include:
+
+          <p>
+          <strong>Dan Kammen:</strong> Dr. Daniel M. Kammen is a Professor at the University of California, Berkeley, with parallel appointments in the Energy and Resources Group where he serves as Chair, the Goldman School of Public Policy where he directs the Center for Environmental Policy, and the department of Nuclear Engineering.  Kammen is the founding director of the Renewable and Appropriate Energy Laboratory (RAEL; <a href="http://rael.berkeley.edu" target="_blank">http://rael.berkeley.edu</a>, and was director of the Transportation Sustainability Research Center from 2007 – 2015. He was appointed by then Secretary of State Hilary Clinton in April 2010 as the first energy fellow of the Environment and Climate Partnership for the Americas (ECPA) initiative.  He began service as the Science Envoy for U. S. Secretary of State John Kerry in 2016, but resigned over President Trump’s policies in August, 2017.  He has served the State of California and US federal government in expert and advisory capacities, including time at the US Environmental Protection Agency, US Department of Energy, the Agency for International Development (USAID) and the Office of Science and Technology Policy.
+          </p>
+
+          <p>
+          <strong>Dan Morris:</strong> Dan Morris is a Principal Scientist at Microsoft, where he runs the <a href="http://aka.ms/aiforearth" target="_blank">AI for Earth</a> program, focused on accelerating innovation at the intersection of machine learning and environmental sustainability.  His work includes computer vision applications in wildlife conservation, for example the AI for Earth <a href="http://aka.ms/speciesclassification" target="_blank">Species Classification API</a>.  Prior to joining AI for Earth, he worked in Microsoft’s Medical Devices Group, developing signal processing and machine learning techniques for cardiovascular health monitoring, along with earlier work on <a href="http://research.microsoft.com/cue/mobilenui" target="_blank">signal processing and machine learning for input systems</a>, <a href="http://research.microsoft.com/cue/patientdisplays" target="_blank">making medical information more useful to hospital patients</a>, <a href="https://www.microsoft.com/en-us/research/project/workout/" target="_blank">automatic exercise analysis from wearable sensors</a>, and <a href="http://songsmith.ms/" target="_blank">generating accompaniment for vocal melodies</a>.  Before coming to Microsoft, he studied neuroscience at Brown, and developed brain-computer interfaces for research and clinical environments.  His PhD work at Stanford focused on haptics and physical simulation for virtual surgery.
+          </p>
+
+          <p>
+          <strong>Jessica Thorn:</strong> Dr. Jessica Thorn is a Research Associate working with Prof. Marchant on the <a href="https://developmentcorridors.org/" target="_blank">Development Corridors Partnership</a>, supported by the Global Challenges Research Fund. Concurrently, she holds an <a href="https://www.idrc.ca/en/news/idrc-congratulates-first-cohort-women-climate-change-science-fellows" target="_blank">African Women in Climate Change Science fellowship (AWiCCS)</a>, and <a href="https://aasciences.ac.ke/aesa/programmes/climate-research-development-cr4d" target="_blank">Climate Research 4 Development fellowship</a> hosted by the <a href="http://www.acdi.uct.ac.za/" target="_blank">African Climate and Development Initiative</a> at the University of Cape Town, supported by the <a href="https://www.nexteinstein.org/" target="_blank">African Institute of Mathematical Sciences</a>. She combines participatory scenario analysis, probabilistic social-ecological modelling, multi-scalar institutional analysis, and ecosystem service quantification to measure potential impacts of Chinese foreign direct investment in transportation corridors in East Africa on ecosystem service provisioning, livelihoods, and social coherence.  She is also interested in the synergies and trade-offs of ecological infrastructure in peri-urban areas in Tanzania and Namibia.
+          </p>
+
+          <p>
+          <strong>John Platt:</strong> John Platt is best known for his work in machine learning: the SMO algorithm for support vector machines and calibrating the output of models. He was an early adopter of convolutional neural networks in the 1990s. However, John has worked in many different fields: data systems, computational geometry, object recognition, media UIs, analog computation, handwriting recognition, and applied math. He has discovered two asteroids, and won a Technical Academy Award in 2006 for his work in computer graphics. John currently leads the Applied Science branch of Google Research, which works at the intersection between computer science and physical or biological science. His latest goal is to help to solve climate change. Previously, he was Deputy Director of the Microsoft Research Redmond lab, and was Director of Research at Synaptics.
+          </p>
+
+          <p>
+          <strong>Nana Ama Browne Klutse:</strong> Dr. Nana Ama Browne Klutse is currently an AIMS-Canada Research Chair in Climate Change Science with AIMS Rwanda, and a Senior Lecturer at the Department of Physics, University of Ghana. She is also a Lead Author in Working Group 1 of the Intergovernmental Panel on Climate Change Sixth Assessment Report (2018 to 2021). Her research focuses on climate modelling, and climate impact assessments on society (health, energy, and gender). The project she is currently embarking on is focused on understanding the climate dynamics of Africa, climate observations and projections for climate services. She has worked on both national and international projects and consultancies including the climate and health project in Ghana and the ongoing global CORDEX experiment. Previously, Nana was a Senior Research Scientist at the Ghana Space Science and Technology Institute of the Ghana Atomic Energy Commission, where she was the Manager of the Institute's Remote Sensing and Climate Center. She holds a PhD in Climatology from the University of Cape Town, South Africa.
+          </p>
+
+          <p>
+          <strong>Stefano Ermon:</strong> Stefano Ermon is an Assistant Professor of
+            Computer Science in the CS Department at Stanford University, where
+            he is affiliated with the Artificial Intelligence Laboratory, and a
+            fellow of the Woods Institute for the Environment. His research is
+            centered on techniques for probabilistic modeling of data, inference,
+            and optimization, and is motivated by a range of applications, in
+            particular ones in the emerging field of computational
+            sustainability. He has won several awards, including four Best Paper
+            Awards (AAAI, UAI and CP), a NSF Career Award, ONR and AFOSR Young
+            Investigator Awards, a Sony Faculty Innovation Award, a Hellman
+            Faculty Fellowship, Microsoft Research Fellowship, Sloan Fellowship,
+            and the IJCAI Computers and Thought Award. Stefano earned his Ph.D.
+            in Computer Science at Cornell University in 2015.
+          </p>
+       `
+        ],
      [
         wd(26, 17,  0),
         wd(26, 17, 45),
