@@ -29,11 +29,12 @@ The International Conference on Learning Representations (ICLR) is one of the pr
 ## About the Workshop
  - Main workshop date:  Sunday, April 26, 2020 
  - Additional events: April 27-30, 2020
- - Location:  ~~Addis Ababa, Ethiopia~~ Virtual (more details coming soon)
+ - Location:  ~~Addis Ababa, Ethiopia~~ Virtual
+ - Registration: <a href="https://iclr.cc/Register/view-registration" target="_blank">https://iclr.cc/Register/view-registration</a>
  - ~~Mentorship program application deadline: January 14~~
  - ~~Paper/Proposal submission deadline: February 4 &rarr; February 8, 11:59 PM Pacific Time~~
  - ~~Notification:  February 25~~
- - Submission website: <https://cmt3.research.microsoft.com/CCAIICLR2020>
+ - Submission website: <a href="https://cmt3.research.microsoft.com/CCAIICLR2020" target="_blank">https://cmt3.research.microsoft.com/CCAIICLR2020</a>
  - Contact: <climatechangeai.iclr2020@gmail.com>
 
 ## Keynote Speakers
@@ -842,6 +843,41 @@ Submissions for the Proposals track should describe detailed ideas for how machi
 - **Justify the ML:** Describe why the ML method involved is needed, and why it is a good match for the problem.
 - **Avoid jargon:** Jargon is sometimes unavoidable but should be minimized. Ideal submissions will be accessible both to an ML audience and to experts in other relevant fields, without the need for field-specific knowledge. Feel free to direct readers to accessible overviews or review articles for background, where it is impossible to include context directly.
 
+### Submissions FAQ
+
+**Q:** I’m not in machine learning. Can I still submit?  
+**A:** Yes, absolutely!  We welcome submissions from many fields. Do bear in mind, however, that the majority of attendees of the workshop will have a machine learning background; therefore, other fields should be introduced sufficiently to provide context for the work.
+
+**Q:** What if my submission is accepted but I can’t attend the workshop?  
+**A:** You may ask someone else to present your work in your stead.
+
+**Q:** Do I need to use LaTeX or the ICLR style files?  
+**A:** No, although we encourage it. 
+
+**Q:** It’s hard for me to fit my submission on 3 or 4 pages.  What should I do?  
+**A:** Feel free to include appendices with additional material (these should be part of the same PDF file as the main submission).  Do not, however, put essential material in an appendix, as it will be read at the discretion of the reviewers.
+
+**Q:** What do I do if I need an earlier decision for visa reasons?  
+**A:** Contact us at <climatechangeai.iclr2020@gmail.com> and explain your situation and the date by which you require a decision and we will do our best to be accommodating.
+
+**Q:** Can I send submissions directly by email?  
+**A:** No, please use the CMT website to make submissions.
+
+**Q:** The submission website is asking for my name. Is this a problem for anonymization?  
+**A:** You should fill out your name and other info when asked on the submission website; CMT will keep your submission anonymous to reviewers.
+
+**Q:** Do submissions for the Proposals track need to have experimental validation?  
+**A:** No, although some initial experiments or citation of published results would strengthen your submission.
+
+**Q:** The submission website never sent me a confirmation email. Is this a problem?  
+**A:** No, the CMT system does not send automatic confirmation emails after a submission, though the submission should show up on the CMT page once submitted. If in any doubt regarding the submission process, please contact the organizers. Also please avoid making multiple submissions of the same article to CMT.
+
+**Q:** Can I submit previously published work to this workshop?   
+**A:** Yes! However, if your work was previously accepted to a Climate Change AI workshop, this work must have changed or matured substantively to be eligible for resubmission. Please contact <climatechangeai.iclr2020@gmail.com> with any questions.
+
+**Q:** Can I submit work to this workshop if I am also submitting to another ICLR 2020 workshop?   
+**A:** Yes. We cannot, however, guarantee that you will not be expected to present the material at a time that conflicts with the other workshop.
+
 
 ## Travel Grants
 
@@ -896,41 +932,28 @@ Applications are due by Jan 14.
 **A:** We welcome and encourage continued interactions after the official mentorship period. That said, neither the mentor nor the mentee should feel obligated to maintain contact.   
 
 
+***
+
 
 ## Frequently Asked Questions
 
 **Q:** How can I keep up to date on this kind of stuff?   
 **A:** Sign up for our mailing list! <https://www.climatechange.ai/mailing_list.html>
 
-**Q:** I’m not in machine learning. Can I still submit?  
-**A:** Yes, absolutely!  We welcome submissions from many fields. Do bear in mind, however, that the majority of attendees of the workshop will have a machine learning background; therefore, other fields should be introduced sufficiently to provide context for the work.
+**Q:** How do I participate in the workshop?   
+**A:** Sessions will take place via a combination of livestream and Zoom. Please check back here for more details (coming soon)!
 
-**Q:** What if my submission is accepted but I can’t attend the workshop?  
-**A:** You may ask someone else to present your work in your stead.
+**Q:** Do I need to register to participate in the workshop?    
+**A:** Portions of the workshop will be available for free, without registration. In particular, you will be able to view a livestream of talks on April 26 (invited talks, panels, and spotlight talks), and participate via Zoom in the additional events from April 27-30. However, some aspects of the program will only be available to those who register (see next question).
 
-**Q:** Do I need to use LaTeX or the ICLR style files?  
-**A:** No, although we encourage it. 
+**Q:** What is the benefit of registering for the workshop?   
+**A:** The main ICLR conference (through which this workshop is hosted) will be providing chat platforms and an interactive virtual conference website; we will be using these platforms to field questions for speakers throughout the workshop (April 26-30), to make workshop content available for asynchronous viewing, and to help workshop participants meet and engage with each other. These platforms, as well as the poster sessions on April 26, will only be available to registered participants. In addition, registration will give you access to all content from the main ICLR conference and other workshops; see the <a href="https://iclr.cc/" target="_blank">ICLR website</a> for more details.
 
-**Q:** It’s hard for me to fit my submission on 3 or 4 pages.  What should I do?  
-**A:** Feel free to include appendices with additional material (these should be part of the same PDF file as the main submission).  Do not, however, put essential material in an appendix, as it will be read at the discretion of the reviewers.
+**Q:** What is the cost of registration?   
+**A:** Registration costs 50 USD for students, and 100 USD for non-students. Registration is through ICLR at <a href="https://iclr.cc/Register/view-registration" target="_blank">https://iclr.cc/Register/view-registration</a>.
 
-**Q:** What do I do if I need an earlier decision for visa reasons?  
-**A:** Contact us at <climatechangeai.iclr2020@gmail.com> and explain your situation and the date by which you require a decision and we will do our best to be accommodating.
+**Q:** When does registration close?   
+**A:** As of now, registration will remain open for the duration of the workshop, so you can register at any time. Registration is through ICLR at <a href="https://iclr.cc/Register/view-registration" target="_blank">https://iclr.cc/Register/view-registration</a>.
 
-**Q:** Can I send submissions directly by email?  
-**A:** No, please use the CMT website to make submissions.
-
-**Q:** The submission website is asking for my name. Is this a problem for anonymization?  
-**A:** You should fill out your name and other info when asked on the submission website; CMT will keep your submission anonymous to reviewers.
-
-**Q:** Do submissions for the Proposals track need to have experimental validation?  
-**A:** No, although some initial experiments or citation of published results would strengthen your submission.
-
-**Q:** The submission website never sent me a confirmation email. Is this a problem?  
-**A:** No, the CMT system does not send automatic confirmation emails after a submission, though the submission should show up on the CMT page once submitted. If in any doubt regarding the submission process, please contact the organizers. Also please avoid making multiple submissions of the same article to CMT.
-
-**Q:** Can I submit previously published work to this workshop?   
-**A:** Yes! However, if your work was previously accepted to a Climate Change AI workshop, this work must have changed or matured substantively to be eligible for resubmission. Please contact <climatechangeai.iclr2020@gmail.com> with any questions.
-
-**Q:** Can I submit work to this workshop if I am also submitting to another ICLR 2020 workshop?   
-**A:** Yes. We cannot, however, guarantee that you will not be expected to present the material at a time that conflicts with the other workshop.
+**Q:** Will recordings be made available after the workshop?   
+**A:** Yes, recordings of all talks will be made available after the workshop.
