@@ -46,6 +46,14 @@ parsed.each do |p|
   fields.each do |field|
     paper_data[field.downcase.gsub(/[^\w]+/, '_').gsub(/_+$/,'')] = p[field]
   end
+
+  # Manual formatting fixes :/
+  paper_data['authors'] = paper_data['authors'].
+    gsub(/\(\s+/, '(').
+    gsub( /\s+\)/, ')').
+    gsub("*", "").
+    gsub('s s', "Sumeet Sandhu")
+
   papers << paper_data
 end
 
@@ -86,13 +94,15 @@ papers.each do |p|
   FileUtils.mkdir_p(paper_dir)
 
   if paper_pdf
-    p['paper_path'] = paper_path = "/#{paper_dir}/paper.pdf"
+    paper_path = "#{paper_dir}/paper.pdf"
     FileUtils.cp(paper_pdf, paper_path)
+    p['paper_path'] = "/#{paper_path}"
   end
 
   if slides_pdf
-    p['slides_path'] = slides_path = "/#{paper_dir}/slides.pdf"
+    slides_path = "#{paper_dir}/slides.pdf"
     FileUtils.cp(slides_pdf, slides_path)
+    p['slides_path'] = "/#{slides_path}"
   end
 end
 

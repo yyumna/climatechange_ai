@@ -29,12 +29,12 @@
     J.
   author_emails: jinming@berkeley.edu; ruoxijia@berkeley.edu; hpdas@berkeley.edu*;
     WeiFeng@lbl.gov; spanos@berkeley.edu
-  authors: "Ming Jin (U.C. Berkeley); Ruoxi Jia (UC Berkeley); Hari Prasanna Das  (UC
-    Berkeley\t)*; Wei Feng (Lawrence Berkeley National Laboratory); Costas J. Spanos
-    (University of California at Berkeley)"
+  authors: Ming Jin (U.C. Berkeley); Ruoxi Jia (UC Berkeley); Hari Prasanna Das  (UC
+    Berkeley); Wei Feng (Lawrence Berkeley National Laboratory); Costas J. Spanos
+    (University of California at Berkeley)
   paper_num: 1
-  paper_path: papers/iclr2020/8/paper.pdf
-  slides_path: papers/iclr2020/8/slides.pdf
+  paper_path: "/papers/iclr2020/8/paper.pdf"
+  slides_path: "/papers/iclr2020/8/slides.pdf"
 - paper_id: 11.0
   paper_title: Deep Reinforcement Learning based Renewable Energy Error Compensable
     Forecasting
@@ -57,10 +57,10 @@
   secondary_subject_areas: Data presentation and management
   author_names: Jeong, Jaeik; Kim, Hongseok*
   author_emails: jaeik1213@sogang.ac.kr; hongseok@sogang.ac.kr*
-  authors: Jaeik Jeong (Sogang University); Hongseok Kim (Sogang University)*
+  authors: Jaeik Jeong (Sogang University); Hongseok Kim (Sogang University)
   paper_num: 2
-  paper_path: papers/iclr2020/11/paper.pdf
-  slides_path: papers/iclr2020/11/slides.pdf
+  paper_path: "/papers/iclr2020/11/paper.pdf"
+  slides_path: "/papers/iclr2020/11/slides.pdf"
 - paper_id: 12.0
   paper_title: Missing-insensitive Short-term Load Forecasting Leveraging Autoencoder
     and LSTM
@@ -86,10 +86,10 @@
   author_names: Park, Kyungnam; Jeong, Jaeik; Kim, Hongseok*
   author_emails: nami93@sogang.ac.kr; jaeik1213@sogang.ac.kr; hongseok@sogang.ac.kr*
   authors: Kyungnam Park (Sogang University); Jaeik Jeong (Sogang University); Hongseok
-    Kim (Sogang University)*
+    Kim (Sogang University)
   paper_num: 3
-  paper_path: papers/iclr2020/12/paper.pdf
-  slides_path: papers/iclr2020/12/slides.pdf
+  paper_path: "/papers/iclr2020/12/paper.pdf"
+  slides_path: "/papers/iclr2020/12/slides.pdf"
 - paper_id: 18.0
   paper_title: A Machine Learning Pipeline to Predict Vegetation Health
   abstract: Agricultural droughts can exacerbate poverty and lead to famine. Timely
@@ -109,13 +109,13 @@
     Clement G.; Reece, Steven
   author_emails: thomas.lees@chch.ox.ac.uk*; gabrieltseng95@gmail.com; simon.dadson@ouce.ox.ac.uk;
     alexhg15@gmail.com; clement.atzberger@boku.ac.at; reece@robots.ox.ac.uk
-  authors: Thomas Lees (University of Oxford)*; Gabriel Tseng (Okra Solar); Simon
-    Dadson (University of Oxford); Alex Hernández (University of Osnabrück); Clement
-    G. Atzberger (University of Natural Resources and Life Sciences); Steven Reece
-    (University of Oxford)
+  authors: Thomas Lees (University of Oxford); Gabriel Tseng (Okra Solar); Simon Dadson
+    (University of Oxford); Alex Hernández (University of Osnabrück); Clement G. Atzberger
+    (University of Natural Resources and Life Sciences); Steven Reece (University
+    of Oxford)
   paper_num: 4
-  paper_path: papers/iclr2020/18/paper.pdf
-  slides_path: papers/iclr2020/18/slides.pdf
+  paper_path: "/papers/iclr2020/18/paper.pdf"
+  slides_path: "/papers/iclr2020/18/slides.pdf"
 - paper_id: 25.0
   paper_title: Understanding the dynamics of climate-crucial food choice behaviours
     using Distributional Semantics
@@ -138,11 +138,11 @@
   secondary_subject_areas: 'Climate change and diet '
   author_names: Haworth, Claudia*; Viglioco, Gabriella
   author_emails: cghaworth1@sheffield.ac.uk*; g.vigliocco@ucl.ac.uk
-  authors: Claudia Haworth (University of Sheffield)*; Gabriella Viglioco (University
+  authors: Claudia Haworth (University of Sheffield); Gabriella Viglioco (University
     College London)
   paper_num: 5
-  paper_path: papers/iclr2020/25/paper.pdf
-  slides_path: papers/iclr2020/25/slides.pdf
+  paper_path: "/papers/iclr2020/25/paper.pdf"
+  slides_path: "/papers/iclr2020/25/slides.pdf"
 - paper_id: 33.0
   paper_title: 'SolarNet: A Deep Learning Framework to Map Solar Plants In China From
     Satellite Imagery'
@@ -166,9 +166,9 @@
   author_emails: hx173149@gmail.com; wangbyz@163.com; wanqihu@webank.com; adamyin@webank.com;
     stevenhuang@webank.com; haishanwu@webank.com*
   authors: Xin Hou (WeBank); Biao Wang (Webank); Wanqi Hu (Webank); lei yin (WeBank);
-    Anbu Huang (Webank); Haishan Wu (Webank)*
+    Anbu Huang (Webank); Haishan Wu (Webank)
   paper_num: 6
-  paper_path: papers/iclr2020/33/paper.pdf
+  paper_path: "/papers/iclr2020/33/paper.pdf"
 - paper_id: 36.0
   paper_title: Embedding Hard Physical Constraints in Convolutional Neural Networks
     for 3D Turbulence
@@ -192,12 +192,12 @@
   secondary_subject_areas: Extreme weather events
   author_names: Mohan, Arvind T*; Lubbers, NIcholas; Livescu, Daniel; Chertkov, Misha
   author_emails: arvindm@lanl.gov*; nlubbers@lanl.gov; livescu@lanl.gov; chertkov@math.arizona.edu
-  authors: "Arvind T Mohan (Los Alamos National Laboratory)*; NIcholas Lubbers (Los
-    Alamos National Laboratory\t); Daniel Livescu (Los Alamos National Laboratory\t);
-    Misha Chertkov (University of Arizona )"
+  authors: Arvind T Mohan (Los Alamos National Laboratory); NIcholas Lubbers (Los
+    Alamos National Laboratory); Daniel Livescu (Los Alamos National Laboratory);
+    Misha Chertkov (University of Arizona)
   paper_num: 7
-  paper_path: papers/iclr2020/36/paper.pdf
-  slides_path: papers/iclr2020/36/slides.pdf
+  paper_path: "/papers/iclr2020/36/paper.pdf"
+  slides_path: "/papers/iclr2020/36/slides.pdf"
 - paper_id: 37.0
   paper_title: 'DETECTION OF HOUSING AND AGRICULTURE AREAS ON DRY-RIVERBEDS FOR THE
     EVALUATION OF RISK BY LANDSLIDES USING LOW-RESOLUTION SATELLITE IMAGERY BASED
@@ -226,11 +226,11 @@
     science; Industry; Urban studies
   author_names: Cerrón, Brian*; Bazan, Cristopher; Coronado, Alberto
   author_emails: bcerronr@uni.pe*; cristopher.bazan@uni.pe; am.coronado@gmail.com
-  authors: "Brian Cerrón (National University of Engineering)*; Cristopher Bazan (National
-    University of Engineering); Alberto Coronado (\tNational University of Engineering)"
+  authors: Brian Cerrón (National University of Engineering); Cristopher Bazan (National
+    University of Engineering); Alberto Coronado (National University of Engineering)
   paper_num: 8
-  paper_path: papers/iclr2020/37/paper.pdf
-  slides_path: papers/iclr2020/37/slides.pdf
+  paper_path: "/papers/iclr2020/37/paper.pdf"
+  slides_path: "/papers/iclr2020/37/slides.pdf"
 - paper_id: 43.0
   paper_title: Non-linear interlinkages and key objectives amongst the Paris Agreement
     and the Sustainable Development Goals
@@ -258,12 +258,12 @@
   author_names: Laumann, Felix*; von Kügelgen, Julius; Barahona, Mauricio
   author_emails: f.laumann18@imperial.ac.uk*; julius.von.kuegelgen@tuebingen.mpg.de;
     m.barahona@imperial.ac.uk
-  authors: Felix Laumann (Imperial College London)*; Julius von Kügelgen (MPI for
-    Intelligent Systems, Tübingen & University of Cambridge); Mauricio Barahona (Imperial
-    College London)
+  authors: Felix Laumann (Imperial College London); Julius von Kügelgen (MPI for Intelligent
+    Systems, Tübingen & University of Cambridge); Mauricio Barahona (Imperial College
+    London)
   paper_num: 9
-  paper_path: papers/iclr2020/43/paper.pdf
-  slides_path: papers/iclr2020/43/slides.pdf
+  paper_path: "/papers/iclr2020/43/paper.pdf"
+  slides_path: "/papers/iclr2020/43/slides.pdf"
 - paper_id: 45.0
   paper_title: A CONTINUAL LEARNING APPROACH FOR LOCAL LEVEL ENVIRONMENTAL MONITORING
     IN LOW-RESOURCE SETTINGS
@@ -289,9 +289,9 @@
     resources; Societal adaptation
   author_names: Patra, Arijit*
   author_emails: arijit.patra@eng.ox.ac.uk*
-  authors: Arijit Patra (University of Oxford)*
+  authors: Arijit Patra (University of Oxford)
   paper_num: 10
-  paper_path: papers/iclr2020/45/paper.pdf
+  paper_path: "/papers/iclr2020/45/paper.pdf"
 - paper_id: 47.0
   paper_title: 'WeatherBench: A benchmark dataset for data-driven weather forecasting'
   abstract: Accurate weather forecasts are a crucial prerequisite for climate change
@@ -321,12 +321,12 @@
   author_emails: stephan.rasp@tum.de; soukayna@cs.toronto.edu*; dueben@ecmwf.int;
     sebastian.scher@misu.su.se; jweyn@uw.edu; i15ge@cs.tum.edu
   authors: Stephan Rasp (Technical University of Munich); Soukayna Mouatadid (University
-    of Toronto)*; Peter Dueben (European Centre for Medium-Range Weather Forecasts
-    (ECMWF) ); Sebastian Scher (Stockholm University); Jonathan Weyn (University of
+    of Toronto); Peter Dueben (European Centre for Medium-Range Weather Forecasts
+    (ECMWF)); Sebastian Scher (Stockholm University); Jonathan Weyn (University of
     Washington); Nils Thuerey (nils.thuerey@tum.de)
   paper_num: 11
-  paper_path: papers/iclr2020/47/paper.pdf
-  slides_path: papers/iclr2020/47/slides.pdf
+  paper_path: "/papers/iclr2020/47/paper.pdf"
+  slides_path: "/papers/iclr2020/47/slides.pdf"
 - paper_id: 48.0
   paper_title: Modeling Cloud Reflectance Fields using Conditional Generative Adversarial
     Networks
@@ -346,12 +346,12 @@
     Tianle; Bengio, Yoshua
   author_emails: vsch@pm.me*; wad_alghali@hotmail.com; sankaran.kris@gmail.com; tianle.yuan@nasa.gov;
     yoshua.bengio@mila.quebec
-  authors: Victor Schmidt (Mila)*; Mustafa Alghali Muhammed (University of Khartoum
-    ); Kris Sankaran (Montreal Institute for Learning Algorithms); Tianle Yuan (NASA);
+  authors: Victor Schmidt (Mila); Mustafa Alghali Muhammed (University of Khartoum);
+    Kris Sankaran (Montreal Institute for Learning Algorithms); Tianle Yuan (NASA);
     Yoshua Bengio (Mila)
   paper_num: 12
-  paper_path: papers/iclr2020/48/paper.pdf
-  slides_path: papers/iclr2020/48/slides.pdf
+  paper_path: "/papers/iclr2020/48/paper.pdf"
+  slides_path: "/papers/iclr2020/48/slides.pdf"
 - paper_id: 49.0
   paper_title: 'SMArtCast: Predicting soil moisture interpolations into the future
     using Earth observation data in a deep learning framework'
@@ -376,12 +376,12 @@
     Aleksei ; Efremova, Natalia
   author_emails: james@deepplanet.ai*; sagar@deepplanet.ai; Mohamed@deepplanet.ai;
     aleksei@deepplanet.ai; natalia.efremova@gmail.com
-  authors: Conrad J Foley (Deep Planet)*; Sagar Vaze (deepplanet.ai); Mohamed  El
-    Amine Seddiq (Deep Planet); Aleksei  Unagaev (Deep Planet); Natalia Efremova (University
+  authors: Conrad J Foley (Deep Planet); Sagar Vaze (deepplanet.ai); Mohamed  El Amine
+    Seddiq (Deep Planet); Aleksei  Unagaev (Deep Planet); Natalia Efremova (University
     of Oxford)
   paper_num: 13
-  paper_path: papers/iclr2020/49/paper.pdf
-  slides_path: papers/iclr2020/49/slides.pdf
+  paper_path: "/papers/iclr2020/49/paper.pdf"
+  slides_path: "/papers/iclr2020/49/slides.pdf"
 - paper_id: 51.0
   paper_title: Prediction of Bayesian Intervals for Tropical Storms
   abstract: 'Building on recent research for prediction of hurricane trajectories
@@ -405,10 +405,10 @@
   secondary_subject_areas: Climate and earth science
   author_names: Chiswick, Max; Ganzfried, Sam*
   author_emails: maxchiswick@gmail.com; sam.ganzfried@gmail.com*
-  authors: Max Chiswick (Independent); Sam Ganzfried (Ganzfried Research)*
+  authors: Max Chiswick (Independent); Sam Ganzfried (Ganzfried Research)
   paper_num: 14
-  paper_path: papers/iclr2020/51/paper.pdf
-  slides_path: papers/iclr2020/51/slides.pdf
+  paper_path: "/papers/iclr2020/51/paper.pdf"
+  slides_path: "/papers/iclr2020/51/slides.pdf"
 - paper_id: 54.0
   paper_title: 'MobilityNet: Towards a Public Dataset for Multi-modal Mobility Research'
   abstract: |-
@@ -425,11 +425,11 @@
     Eleftherios; Zhang, Jesse
   author_emails: shankari@eecs.berkeley.edu*; jonathan.fuerst@neclab.eu; mauricio.fadel@neclab.eu;
     eleftherios.avramidis@dfki.de; jessezhang@berkeley.edu
-  authors: K. Shankari (UC Berkeley)*; Jonathan Fürst (NEC Laboratories Europe); Mauricio
+  authors: K. Shankari (UC Berkeley); Jonathan Fürst (NEC Laboratories Europe); Mauricio
     Fadel Argerich (NEC Laboratories Europe); Eleftherios Avramidis (DFKI GmbH); Jesse
     Zhang (UC Berkeley)
   paper_num: 15
-  paper_path: papers/iclr2020/54/paper.pdf
+  paper_path: "/papers/iclr2020/54/paper.pdf"
 - paper_id: 58.0
   paper_title: Wavelet-Powered Neural Networks for Turbulence
   abstract: 'One of the fundamental driving phenomena for climate effects is fluid
@@ -459,11 +459,11 @@
   secondary_subject_areas: Data presentation and management
   author_names: Mohan, Arvind T*; Livescu, Daniel; Chertkov, Misha
   author_emails: arvindm@lanl.gov*; livescu@lanl.gov; chertkov@math.arizona.edu
-  authors: "Arvind T Mohan (Los Alamos National Laboratory)*; Daniel Livescu (Los
-    Alamos National Laboratory\t); Misha Chertkov (University of Arizona )"
+  authors: Arvind T Mohan (Los Alamos National Laboratory); Daniel Livescu (Los Alamos
+    National Laboratory); Misha Chertkov (University of Arizona)
   paper_num: 16
-  paper_path: papers/iclr2020/58/paper.pdf
-  slides_path: papers/iclr2020/58/slides.pdf
+  paper_path: "/papers/iclr2020/58/paper.pdf"
+  slides_path: "/papers/iclr2020/58/slides.pdf"
 - paper_id: 7.0
   paper_title: 'Benchmarks for Grid Flexibility Prediction: Enabling Progress and
     Machine Learning Applications'
@@ -482,11 +482,11 @@
   secondary_subject_areas: Data presentation and management
   author_names: Kiedansk, Diego*; Kuntz, Lauren; Kofman, Daniel
   author_emails: diego.kiedanski@telecom-paristech.fr*; lauren@gaia-scope.com; daniel.kofman@telecom-paristech.fr
-  authors: Diego Kiedansk (Telecom ParisTech)*; Lauren Kuntz (Gaiascope); Daniel Kofman
+  authors: Diego Kiedansk (Telecom ParisTech); Lauren Kuntz (Gaiascope); Daniel Kofman
     (Telecom ParisTech)
   paper_num: 17
-  paper_path: papers/iclr2020/7/paper.pdf
-  slides_path: papers/iclr2020/7/slides.pdf
+  paper_path: "/papers/iclr2020/7/paper.pdf"
+  slides_path: "/papers/iclr2020/7/slides.pdf"
 - paper_id: 17.0
   paper_title: Machine Learning Approaches to Safeguarding Continuous Water Supply
     in the Arid and Semi-arid Lands of Northern Kenya
@@ -512,12 +512,12 @@
     Samuel C; Ogallo, William; Walcott-Bryant, Aisha
   author_emails: fred.otieno@ibm.com; timothy.nyota@ibm.com; isaacw@ke.ibm.com*; Celia.Cintas@ibm.com;
     samuelm@ke.ibm.com; william.ogallo@ibm.com; awalcott@ke.ibm.com
-  authors: Fred Otieno (IBM); Timothy Nyota (IBM); Isaac Waweru (IBM)*; Celia Cintas
+  authors: Fred Otieno (IBM); Timothy Nyota (IBM); Isaac Waweru (IBM); Celia Cintas
     (IBM Research); Samuel C Maina (IBM Research); William Ogallo (IBM Research);
     Aisha Walcott-Bryant (IBM Research - Africa)
   paper_num: 18
-  paper_path: papers/iclr2020/17/paper.pdf
-  slides_path: papers/iclr2020/17/slides.pdf
+  paper_path: "/papers/iclr2020/17/paper.pdf"
+  slides_path: "/papers/iclr2020/17/slides.pdf"
 - paper_id: 27.0
   paper_title: Accelerated  Data Discovery for Scalable Climate Action
   abstract: According to the Intergovernmental Panel on Climate Change (IPCC), the
@@ -538,10 +538,11 @@
   secondary_subject_areas: Climate and earth science; Climate finance; Industry; Policy
   author_names: Schwabe, Henning*; s, s; Grebenschikov, Sergy
   author_emails: henning_schwabe@icloud.com*; sumeet.k.sandhu@gmail.com; sgreben@gwdg.de
-  authors: Henning Schwabe (Private)*; s s (myntra); Sergy Grebenschikov (Private)
+  authors: Henning Schwabe (Private); Sumeet Sandhu (myntra); Sergy Grebenschikov
+    (Private)
   paper_num: 19
-  paper_path: papers/iclr2020/27/paper.pdf
-  slides_path: papers/iclr2020/27/slides.pdf
+  paper_path: "/papers/iclr2020/27/paper.pdf"
+  slides_path: "/papers/iclr2020/27/slides.pdf"
 - paper_id: 29.0
   paper_title: YOU FORGOT IT IN THE GENOTYPE, MODELING TOWARDS ADAPTATION OF FOOD
     CROPS UNDER CLIMATE CHANGE THREAT
@@ -572,7 +573,7 @@
   secondary_subject_areas: ''
   author_names: Mendivil Ramos, Olivia*; Petrini, Linda
   author_emails: omendivi@cshl.edu*; lindapetrini@gmail.com
-  authors: Olivia Mendivil Ramos (Cold Spring Harbor Laboratory)*; Linda Petrini (Mila)
+  authors: Olivia Mendivil Ramos (Cold Spring Harbor Laboratory); Linda Petrini (Mila)
   paper_num: 20
 - paper_id: 31.0
   paper_title: Hurricane Nowcasting with Irregular Time-step using Neural-ODE and
@@ -597,11 +598,11 @@
   author_emails: psh01087@kaist.ac.kr; kangyeolk@kaist.ac.kr; kim79@llnl.gov*; joonseok2010@gmail.com;
     junsoolee93@kaist.ac.kr; lee1043@llnl.gov; joyfull78@gmail.com
   authors: Sunghyun  Park (KAIST); Kangyeol Kim (KAIST); Sookyung Kim (Lawrence Livermore
-    National Laboratory)*; Joonseok Lee (Google Research); Junsoo Lee (KAIST); Jiwoo
+    National Laboratory); Joonseok Lee (Google Research); Junsoo Lee (KAIST); Jiwoo
     Lee (Lawrence Livermore National Laboratory); Jaegul  Choo (KAIST)
   paper_num: 21
-  paper_path: papers/iclr2020/31/paper.pdf
-  slides_path: papers/iclr2020/31/slides.pdf
+  paper_path: "/papers/iclr2020/31/paper.pdf"
+  slides_path: "/papers/iclr2020/31/slides.pdf"
 - paper_id: 34.0
   paper_title: Indigenous Knowledge Aware Drought Monitoring, Forecasting and Prediction
     Using Deep Learning Techniques
@@ -628,10 +629,10 @@
   secondary_subject_areas: Extreme weather events
   author_names: Degefa, Kidane W*
   author_emails: kidane1982@gmail.com*
-  authors: Kidane W Degefa (Haramaya University)*
+  authors: Kidane W Degefa (Haramaya University)
   paper_num: 22
-  paper_path: papers/iclr2020/34/paper.pdf
-  slides_path: papers/iclr2020/34/slides.pdf
+  paper_path: "/papers/iclr2020/34/paper.pdf"
+  slides_path: "/papers/iclr2020/34/slides.pdf"
 - paper_id: 38.0
   paper_title: 'TrueBranch: Metric Learning-based Verification of Forest Conservation
     Projects'
@@ -649,11 +650,11 @@
   author_names: Santamaria, Simona*; Dao, David; Lütjens, Björn; Zhang, Ce
   author_emails: ssimona@student.ethz.ch*; david.dao@inf.ethz.ch; lutjens@mit.edu;
     ce.zhang@inf.ethz.ch
-  authors: Simona Santamaria (ETH Zurich)*; David Dao (ETH Zurich); Björn Lütjens
-    (MIT); Ce Zhang (ETH)
+  authors: Simona Santamaria (ETH Zurich); David Dao (ETH Zurich); Björn Lütjens (MIT);
+    Ce Zhang (ETH)
   paper_num: 23
-  paper_path: papers/iclr2020/38/paper.pdf
-  slides_path: papers/iclr2020/38/slides.pdf
+  paper_path: "/papers/iclr2020/38/paper.pdf"
+  slides_path: "/papers/iclr2020/38/slides.pdf"
 - paper_id: 50.0
   paper_title: Advancing Renewable Electricity Consumption With Reinforcement Learning
   abstract: As the share of renewable energy sources in the present electric energy
@@ -672,10 +673,10 @@
   secondary_subject_areas: Data presentation and management; Industry
   author_names: Tolovski, Filip*
   author_emails: tolovskifilip@gmail.com*
-  authors: Filip Tolovski (Fraunhofer Heinrich-Hertz-Institut )*
+  authors: Filip Tolovski (Fraunhofer Heinrich-Hertz-Institut)
   paper_num: 24
-  paper_path: papers/iclr2020/50/paper.pdf
-  slides_path: papers/iclr2020/50/slides.pdf
+  paper_path: "/papers/iclr2020/50/paper.pdf"
+  slides_path: "/papers/iclr2020/50/slides.pdf"
 - paper_id: 53.0
   paper_title: 'Xingu: Explaining critical geospatial predictions in weak supervision
     for climate finance'
@@ -700,11 +701,11 @@
   author_names: Dao, David*; Rausch, Johannes; Zhang, Ce; Rott, Iveta
   author_emails: david.dao@inf.ethz.ch*; johannes.rausch@inf.ethz.ch; ce.zhang@inf.ethz.ch;
     rotti@student.ethz.ch
-  authors: David Dao (ETH Zurich)*; Johannes Rausch (ETH Zurich); Ce Zhang (ETH);
-    Iveta Rott (ETH Zurich)
+  authors: David Dao (ETH Zurich); Johannes Rausch (ETH Zurich); Ce Zhang (ETH); Iveta
+    Rott (ETH Zurich)
   paper_num: 25
-  paper_path: papers/iclr2020/53/paper.pdf
-  slides_path: papers/iclr2020/53/slides.pdf
+  paper_path: "/papers/iclr2020/53/paper.pdf"
+  slides_path: "/papers/iclr2020/53/slides.pdf"
 - paper_id: 55.0
   paper_title: Towards a unified standards for smart infrastructure datasets
   abstract: Development of smart devices and smart home appliances allowed us to harness
@@ -723,7 +724,7 @@
   secondary_subject_areas: Power generation and grids
   author_names: Ahmed, Abdulrahman A*
   author_emails: abdulrahmanfci@gmail.com*
-  authors: Abdulrahman A Ahmed (Cairo University)*
+  authors: Abdulrahman A Ahmed (Cairo University)
   paper_num: 26
 - paper_id: 57.0
   paper_title: MACHINE   LEARNING   APPLICATIONS   THAT CAN HELP PASTORAL COMMUNITIES
@@ -745,10 +746,10 @@
   secondary_subject_areas: ''
   author_names: Sankara, Jefferson*
   author_emails: jefferson.sankara@gmail.com*
-  authors: Jefferson Sankara (Lori Systems)*
+  authors: Jefferson Sankara (Lori Systems)
   paper_num: 27
-  paper_path: papers/iclr2020/57/paper.pdf
-  slides_path: papers/iclr2020/57/slides.pdf
+  paper_path: "/papers/iclr2020/57/paper.pdf"
+  slides_path: "/papers/iclr2020/57/slides.pdf"
 - paper_id: 61.0
   paper_title: 'Nutrient demand, Risk and Climate change: Evidence from historical
     rice yield trials in India'
@@ -769,7 +770,7 @@
   secondary_subject_areas: Policy
   author_names: Agarwal, Sandip K*
   author_emails: sandipa@iiserb.ac.in*
-  authors: Sandip K Agarwal (IISER Bhopal)*
+  authors: Sandip K Agarwal (IISER Bhopal)
   paper_num: 28
 - paper_id: 69.0
   paper_title: USING MACHINE LEARNING TO ANALYZE CLIMATE CHANGE TECHNOLOGY TRANSFER
@@ -798,10 +799,10 @@
   secondary_subject_areas: Data presentation and management; Societal adaptation
   author_names: Kulkarni, Shruti*
   author_emails: shruti.iisc@gmail.com*
-  authors: Shruti Kulkarni (Indian Institute of Science (IISc))*
+  authors: Shruti Kulkarni (Indian Institute of Science (IISc))
   paper_num: 29
-  paper_path: papers/iclr2020/69/paper.pdf
-  slides_path: papers/iclr2020/69/slides.pdf
+  paper_path: "/papers/iclr2020/69/paper.pdf"
+  slides_path: "/papers/iclr2020/69/slides.pdf"
 - paper_id: 70.0
   paper_title: Using ML to close the vocabulary gap in the context of environment
     and climate change in Chichewa
@@ -836,5 +837,5 @@
     science
   author_names: Taylor, Amelia*
   author_emails: avtaylor14@gmail.com*
-  authors: Amelia Taylor (University of Malawi, The Polytechnic)*
+  authors: Amelia Taylor (University of Malawi, The Polytechnic)
   paper_num: 30
