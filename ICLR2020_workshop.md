@@ -536,7 +536,7 @@ Decarbonizing the grid is recognized worldwide as one of the objectives for the 
 Arid and semi-arid regions (ASALs) in developing countries are heavily affected by the effects of global warming and climate change, leading to adverse climatic conditions such as drought and flooding. This paper explores the problem of fresh-water access in northern Kenya and measures being taken to safeguard water access despite these harsh climatic changes. We present an integrated water management and decision-support platform, eMaji Manager, that we developed and deployed in five ASAL counties in northern Kenya to manage waterpoint access for people and livestock. We then propose innovative machine learning methods for understanding waterpoint usage and repair patterns for sensor-instrumented waterpoints (e.g., boreholes).  We explore sub-sequence discriminatory models and recurrent neural networks to predict water-point failures, improve repair response times and ultimately support continuous access to water.</details>
 #### (19) Accelerated  Data Discovery for Scalable Climate Action
 
-*Henning Schwabe (Private); s s (myntra); Sergy Grebenschikov (Private)*
+*Henning Schwabe (Private); Sumeet Sandhu (myntra); Sergy Grebenschikov (Private)*
 
 <details>
 <summary>Abstract: (click to expand)
