@@ -228,20 +228,29 @@ $(document).ready(function() {
             <li><a href="https://nsutezo.github.io/" target="_blank">Simone Fobi</a></li>
             <li><a href="https://www.rit.edu/directory/njwgis-nathan-williams" target="_blank">Nathan Williams</a></li>
           </ul>
-          <p>
+          </p>
         `
       ],
       [
           null, 
           null, 
-          "Implications of COVID-19 for the Energy Transition and Machine Learning",
+          "Implications of COVID-19 for the clean energy transition: How machine learning can help policymakers",
           // Wrap multi-line strings in `s rather than "s
         `
          The global pandemic and economic recession are expected to have large impacts on the energy system and climate change mitigation strategies. In this discussion-based session, energy experts will address the implications of COVID-19 for machine learning and the energy transition. In particular, these experts will address:
          <ul>
-          <li>how the energy system is affected by COVID-19, and</li>
-          <li>how that affects the practice of machine learning for climate and energy.</li>
+          <li>how the the effectiveness of climate and energy policies is affected by COVID-19, and</li>
+          <li>what the implications are for the practice of machine learning for climate and energy.</li>
          </ul>
+
+         <p>
+         Speakers:
+          <ul>
+            <li><a href="https://epg.ethz.ch/people/senior-researchers/dr--bjarne-steffen.html" target="_blank">Bjarne Steffen</a></li>
+            <li><a href="https://sites.google.com/view/maricavalente/about" target="_blank">Marica Valente</a></li>
+            <li><i>Additional speakers to be announced</i></li>
+          </ul>
+          </p>
         `
       ],
       [
@@ -260,6 +269,16 @@ $(document).ready(function() {
           // Wrap multi-line strings in `s rather than "s
         `
           About 70% of CO2 emissions and most of the data collected globally originate from activities in cities. This creates many opportunities where machine learning can be useful for climate change mitigation. In this discussion-based session, city experts will discuss areas with substantial potential for reducing emissions and for making relevant use of machine learning.
+
+          <p>
+          Speakers:
+          <ul>
+            <li><a href="https://ai4cities.eu/" target="_blank">ICLEI AI4CITIES</a></li>
+            <li><a href=" https://konstantinklemmer.github.io/" target="_blank">Konstantin Klemmer</a></li>
+            <li><a href="https://www.gfdrr.org/en/meet-our-team" target="_blank">Nick Jones</a></li>
+            <li><i>Additional speakers to be announced</i></li>
+          </ul>
+          </p>
         `
       ],
       [null, null, "Updates from previous workshop presenters",
