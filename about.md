@@ -136,6 +136,24 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   <div class="person__affil">Stanford University</div>
   <div class="person__title"></div>
 </a>
+
+<a class="person__item" href="http://sharonzhou.me/" target="_blank">
+  <div class="person__pic-wrapper">
+    <img class="person__pic" src="images/people/sharonzhou_200x200.jpg">
+  </div>
+  <div class="person__name">Sharon Zhou</div>
+  <div class="person__affil">Stanford University</div>
+  <div class="person__title"></div>
+</a>
+
+<a class="person__item" href="https://daviddao.org/" target="_blank">
+  <div class="person__pic-wrapper">
+    <img class="person__pic" src="images/people/daviddao_200x200.jpg">
+  </div>
+  <div class="person__name">David Dao</div>
+  <div class="person__affil">ETH Zurich</div>
+  <div class="person__title"></div>
+</a>
 </div>
 ## Advisors
 <div class="person__list">
