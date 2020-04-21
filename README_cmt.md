@@ -6,7 +6,7 @@
 
 ```bash
 bundle exec ruby generate_submission_files.rb \
-  --submissions_tsv=Papers.txt \
+  --submissions_tsv=Papers.xml \
   --cameraready_dir=CameraReadySubmissions \
   --workshop_slug=iclr2020
 ```
@@ -17,30 +17,26 @@ The `_data/iclr2020_papers.yml` file will be accessible in `.md` templates under
 
 ```liquid
 {% for p in site.data.iclr2020_papers %}
-  <div class='paper'>
-    <h3>
-      {{ p.title }}
+  <h4 id='paper-{{ p.paper_num }}'>
+    ({{ p.paper_num }}) {{ p.paper_title }}
 
-      {% if p.paper_path %}
-        <a href='{{ p.paper_path }}'>PDF</a>
-      {% endif %}
+    {% if p.paper_path %}
+      <a href='{{ p.paper_path }}'>pdf</a>
+    {% endif %}
 
-      {% if p.slides_path %}
-        <a href='{{ p.slides_path }}'>slides</a>
-      {% endif %}
+    {% if p.slides_path %}
+      <a href='{{ p.slides_path }}'>slides</a>
+    {% endif %}
+  </h4>
 
-      {% if p.best_paper_award %}
-        <span class='best-paper-badge'>Best Paper</span>
-      {% endif %}
-    </h3>
+  <p>
+    <em>{{ p.authors }}</em>
+  </p>
 
-    <details>
-      <summary>Abstract: (click to expand)</summary>
+  <details>
+    <summary>Abstract: (click to expand)</summary>
 
-      {{ p.abstract }}
-    </details>
-  </div>
+    {{ p.abstract }}
+  </details>
 {% endfor %}
 ```
-
-Note that awards like "best paper award" will need to be manually added to the YAML file after generation.
