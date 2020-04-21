@@ -99,6 +99,19 @@ $(document).ready(function() {
      [wd(26,  8, 45), wd(26, 9,   0), "Welcome and opening remarks"],
      [wd(26,  9,  0), wd(26, 10, 15), "<b>Panel:</b> Ciira wa Maina, Georgina Campbell Flatter, Sarvapali Ramchurn, Paula Hidalgo-Sanchis"],
      [wd(26, 10, 15), wd(26, 11,  0), "<b>Invited talk:</b> Ciira wa Maina"],
+     [
+        wd(26, 10, 15), 
+        wd(26, 11,  0), 
+        `Ciira wa Maina: <b>Climate Change - The price of "progress"? Exploring AI Solutions</b> <em>(Invited talk)</em>`,
+         // Wrap multi-line strings in `s rather than "s
+        `
+          <strong>Abstract:</strong> In this talk we examine the the human cost of climate change and explore a number of technological interventions aimed at improving the monitoring of ecosystems. In particular we focus on the use of bioacoustic approaches to environmental monitoring and describe efforts currently underway in Kenya to develop a decision support system for ecosystem management that uses audio recordings collected in the ecosystems of interest to infer ecosystem health. We also explore the use of internet of things for water resource monitoring and improved agriculture which are essential if we are to lessen the impact of climate change on vulnerable communities.
+
+          <p>
+            <strong>Bio:</strong> Ciira wa Maina graduated from the University of Nairobi, Kenya with a Bsc. degree in Electrical Engineering in 2007 and with a Ph.D. from Drexel University in Philadelphia, USA in September 2011. Between October 2011 and August 2013 he was a postdoctoral researcher in computational Biology at the University of Sheffield. Since September 2013 he has been a Lecturer in Electrical Engineering at Dedan Kimathi University of Technology in Nyeri, Kenya where he also conducts research in the area of bioacoustics and other technological interventions for environmental monitoring. He is a member of the organizing committee for Data Science Africa.
+          </p>
+       `
+      ],
      [wd(26, 11,  0), wd(26, 12,  0), "<b>Spotlight talks</b>",
        // Wrap multi-line strings in `s rather than "s
         `
