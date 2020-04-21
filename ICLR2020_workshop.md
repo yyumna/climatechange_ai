@@ -383,19 +383,19 @@ $(document).ready(function() {
   }, {
     day: 'April 28: Agriculture, Forestry, and Other Land Use (AFOLU) Day',
     schedule: [
-      [null, null, "<b>Tutorial:</b> Climate Change 101 for Machine Learning"],
+      [wd(26, 20, 45), wd(26, 21,  0), "<b>Tutorial:</b> Climate Change 101 for Machine Learning"],
       [null, null, "<b>Session I:</b> Forests"],
       [null, null, "<b>Session II:</b> Agriculture"]
     ]
   }, {
     day: 'April 29: Climate Science and Adaptation Day',
     schedule: [
-      [wd(27,  13,   0), wd(27, 14,   0), "<b>Tutorial:</b> Machine Learning 101 for Climate Change"],
-      [wd(27,  14,   0), wd(27, 14,  20), "Welcome and opening remarks"],
-      [wd(27,  14,  20), wd(27, 14,  30), "Icebreaker"],
-      [wd(27,  14,  30), wd(27, 16,   0), "<b>Session I:</b> Adaptability"],
-      [wd(27,  16,   0), wd(27, 17,  30), "<b>Session II:</b> Emulating Physical Models"],
-      [wd(27,  17,  30), wd(27, 19,   0), "<b>Session III:</b> Climate/Weather Forecasting"]
+      [wd(29,  13,   0), wd(29, 14,   0), "<b>Tutorial:</b> Machine Learning 101 for Climate Change"],
+      [wd(29,  14,   0), wd(29, 14,  20), "Welcome and opening remarks"],
+      [wd(29,  14,  20), wd(29, 14,  30), "Icebreaker"],
+      [wd(29,  14,  30), wd(29, 16,   0), "<b>Session I:</b> Adaptability"],
+      [wd(29,  16,   0), wd(29, 17,  30), "<b>Session II:</b> Emulating Physical Models"],
+      [wd(29,  17,  30), wd(29, 19,   0), "<b>Session III:</b> Climate/Weather Forecasting"]
     ]
   }, {
     day: 'April 30: Cross-cutting Methods Day',
