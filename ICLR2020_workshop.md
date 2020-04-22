@@ -375,7 +375,7 @@ $(document).ready(function() {
           "Fireside chat with Jon Bonanno on cleantech entrepreneurship",
           // Wrap multi-line strings in `s rather than "s
         `
-          Join Jon Bonanno, CXO of <a href="https://www.newenergynexus.com/about/" target="_blank">New Energy Nexus</a>, for a fireside chat on how to build a business in clean tech. Jon will draw upon his personal journey in this space -- where he has built nine businesses directly and hundreds indirectly -- to provide advice to researchers working in machine learning or climate/energy who would like to enter the cleantech startup space.
+          Join <a href="https://www.linkedin.com/in/jonbonanno/" target="_blank">Jon Bonanno</a>, CXO of <a href="https://www.newenergynexus.com/about/" target="_blank">New Energy Nexus</a>, for a fireside chat on how to build a business in clean tech. Jon will draw upon his personal journey in this space -- where he has built nine businesses directly and hundreds indirectly -- to provide advice to researchers working in machine learning or climate/energy who would like to enter the cleantech startup space.
         `
       ],
       [wd(27, 19, 00), wd(27, 20, 00), "Tutorial: Machine Learning 101 for Climate Change"]
@@ -420,7 +420,21 @@ $(document).ready(function() {
           </p>
         `
       ],
-      [wd(30,  19,  00), wd(30, 20,   00), "Remote sensing"],
+      [wd(30,  19,  00), wd(30, 20,   00), "Remote sensing for climate change",
+        `
+        Remote sensing, such as satellite imagery, has produced an increasingly rich source of global data with numerous applications in areas such as clean energy, deforestation, and poverty mapping. Join us for a fireside chat with experts who are pioneering work at this intersection, including discussion on the breadth of challenges across various methodologies and applications.
+
+          <p>
+            Speakers:
+            <ul>
+              <li><a href="https://www.linkedin.com/in/victoriastavridoucoleman/" target="_blank">Victoria Coleman</a> (Atlas AI)</li>
+              <li><a href="https://web.stanford.edu/~ramr/" target="_blank">Ram Rajagopal</a> (Stanford)</li>
+              <li><a href="https://www.linkedin.com/in/rose-rustowicz-ba0ba958" target="_blank">Rose Rustowicz</a> (Descartes Labs)</li>
+              <li><a href="https://jack-kelly.com/" target="_blank">Jack Kelly</a> (Open Climate Fix)</li>
+              </ul>
+          </p>
+        `
+      ],
     ]
   }];
 
