@@ -420,7 +420,7 @@ $(document).ready(function() {
           </p>
         `
       ],
-      [wd(30,  19,  00), wd(30, 20,   00), "Remote sensing for climate change",
+      [wd(30,  19,  00), wd(30, 20,   00), "Fireside chat on remote sensing and AI",
         `
         Remote sensing, such as satellite imagery, has produced an increasingly rich source of global data with numerous applications in areas such as clean energy, deforestation, and poverty mapping. Join us for a fireside chat with experts who are pioneering work at this intersection, including discussion on the breadth of challenges across various methodologies and applications.
 
@@ -431,6 +431,7 @@ $(document).ready(function() {
               <li><a href="https://web.stanford.edu/~ramr/" target="_blank">Ram Rajagopal</a> (Stanford)</li>
               <li><a href="https://www.linkedin.com/in/rose-rustowicz-ba0ba958" target="_blank">Rose Rustowicz</a> (Descartes Labs)</li>
               <li><a href="https://jack-kelly.com/" target="_blank">Jack Kelly</a> (Open Climate Fix)</li>
+              <li><a href="https://www.linkedin.com/in/gregamilcinski/?originalSubdomain=si" target="_blank">Grega Milcinski</a> (Sinergise) </li>
               </ul>
           </p>
         `
