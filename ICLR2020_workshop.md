@@ -292,7 +292,7 @@ $(document).ready(function() {
   }, {
     day: 'April 27: Energy Day',
     schedule: [
-      [null, null, "<b>Tutorial:</b> Machine Learning 101 for Climate Change"],
+      [null, null, "Tutorial: Machine Learning 101 for Climate Change"],
       [
           null, 
           null, 
@@ -383,24 +383,27 @@ $(document).ready(function() {
   }, {
     day: 'April 28: Agriculture, Forestry, and Other Land Use (AFOLU) Day',
     schedule: [
-      [wd(26, 20, 45), wd(26, 21,  0), "<b>Tutorial:</b> Climate Change 101 for Machine Learning"],
-      [null, null, "<b>Session I:</b> Forests"],
-      [null, null, "<b>Session II:</b> Agriculture"]
+      [wd(28, 13, 00), wd(28, 14,  00), "Fireside chat with Catherine Lilian Nakalembe on agriculture and food security"],
+      [wd(28, 14, 00), wd(28, 15,  00), "Precision agiculture and remote sensing"],
+      [wd(28, 15, 00), wd(28, 16,  00), "Updates from previous workshop presenters"],
+      [wd(28, 16, 00), wd(28, 17,  00), "Tutorial: Climate Change 101 for Machine Learning"],
+      [wd(28, 17, 00), wd(28, 18,  00), "Deforestation, afforestation, and forestry"],
+      [wd(28, 18, 00), wd(28, 19,  00), "Panel: The Future of Forests & Machine Learning"],
     ]
   }, {
     day: 'April 29: Climate Science and Adaptation Day',
     schedule: [
-      [wd(29,  13,   0), wd(29, 14,   0), "<b>Tutorial:</b> Machine Learning 101 for Climate Change"],
+      [wd(29,  13,   0), wd(29, 14,   0), "Tutorial: Machine Learning 101 for Climate Change"],
       [wd(29,  14,   0), wd(29, 14,  20), "Welcome and opening remarks"],
       [wd(29,  14,  20), wd(29, 14,  30), "Icebreaker"],
-      [wd(29,  14,  30), wd(29, 16,   0), "<b>Session I:</b> Adaptability"],
-      [wd(29,  16,   0), wd(29, 17,  30), "<b>Session II:</b> Emulating Physical Models"],
-      [wd(29,  17,  30), wd(29, 19,   0), "<b>Session III:</b> Climate/Weather Forecasting"]
+      [wd(29,  14,  30), wd(29, 16,   0), "Session I: Adaptability"],
+      [wd(29,  16,   0), wd(29, 17,  30), "Session II: Emulating Physical Models"],
+      [wd(29,  17,  30), wd(29, 19,   0), "Session III: Climate/Weather Forecasting"]
     ]
   }, {
     day: 'April 30: Cross-cutting Methods Day',
     schedule: [
-      [null, null, "<b>Tutorial:</b> Climate Change 101 for Machine Learning"],
+      [null, null, "Tutorial: Climate Change 101 for Machine Learning"],
       [null, null, "Hybrid physical models"],
       [null, null, "Accelerated science and experimentation"],
       [null, null, "Remote sensing"],
