@@ -347,7 +347,6 @@ $(document).ready(function() {
             <li><a href="https://www.linkedin.com/in/theis-hybschmann-petersen-498183105/?originalSubdomain=dk" target="_blank">Theis Hybschmann Petersen</a> (Properties and Procurement Officer, City of Copenhagen; AI4Cities)</li>
             <li><a href="https://konstantinklemmer.github.io/" target="_blank">Konstantin Klemmer</a> (University of Warwick)</li>
             <li><a href="https://www.gfdrr.org/en/meet-our-team" target="_blank">Nick Jones</a> (World Bank)</li>
-            <li><i>Additional speakers to be announced</i></li>
           </ul>
           </p>
         `
@@ -373,10 +372,10 @@ $(document).ready(function() {
       [
           wd(27, 18, 00), 
           wd(27, 19, 00), 
-          "Fireside chat with Jon Bonanno on clean tech entrepreneurship",
+          "Fireside chat with Jon Bonanno on cleantech entrepreneurship",
           // Wrap multi-line strings in `s rather than "s
         `
-          This fireside chat will cover key considerations for researchers working in machine learning and climate/energy who would like to enter the startup space. Topics addressed will include assessing market fit, understanding the global funding landscape for climate change + machine learning projects, team formation, and other on-the-ground considerations for building a successful startup in this space.
+          Join Jon Bonanno, CXO of <a href="https://www.newenergynexus.com/about/" target="_blank">New Energy Nexus</a>, for a fireside chat on how to build a business in clean tech. Jon will draw upon his personal journey in this space -- where he has built nine businesses directly and hundreds indirectly -- to provide advice to researchers working in machine learning or climate/energy who would like to enter the cleantech startup space.
         `
       ],
       [wd(27, 19, 00), wd(27, 20, 00), "Tutorial: Machine Learning 101 for Climate Change"]
@@ -405,10 +404,23 @@ $(document).ready(function() {
     day: 'April 30: Cross-cutting Methods Day',
     schedule: [
       [null, null, "Tutorial: Climate Change 101 for Machine Learning"],
-      [null, null, "Hybrid physical models"],
-      [null, null, "Accelerated science and experimentation"],
-      [null, null, "Remote sensing"],
-      [null, null, "Forecasting"]
+      [wd(30,  16,  00), wd(30, 17,   00), "Hybrid physical models (with Zico Kolter)"],
+      [null, null, "Forecasting"],
+      [wd(30,  18,  00), wd(30, 19,   00), "Machine learning for accelerated science and engineering",
+        `
+        Be it discovering next-generation solar panels, modeling battery degradation, or tuning fusion reactors, there are many applications where machine learning can supplement and even accelerate the science and engineering of clean technologies. Join us for a series of short talks from speakers using machine learning for accelerated science and engineering, followed by a discussion of interesting methodological challenges in this space.
+
+          <p>
+          Speakers:
+          <ul>
+            <li><a href="https://www.hughes.cam.ac.uk/about-us/our-people/senior-members/yunwei-zhang/" target="_blank">Yunwei Zhang</a> (University of Cambridge)</li>
+            <li><a href="https://scholar.google.com/citations?hl=en&user=HYADEZ8AAAAJ&view_op=list_works" target="_blank">Julian Kates-Harbeck</a> (Harvard)</li>
+            <li><a href="https://pv.mit.edu/pvmit_people/felipe-oviedo/" target="_blank">Felipe Oviedo</a> (MIT)</li>
+          </ul>
+          </p>
+        `
+      ],
+      [wd(30,  19,  00), wd(30, 20,   00), "Remote sensing"],
     ]
   }];
 
