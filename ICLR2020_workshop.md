@@ -292,28 +292,9 @@ $(document).ready(function() {
   }, {
     day: 'April 27: Energy Day',
     schedule: [
-      [null, null, "Tutorial: Machine Learning 101 for Climate Change"],
       [
-          null, 
-          null, 
-          "Opportunities and Challenges for Machine Learning in the African Electricity Sector",
-          // Wrap multi-line strings in `s rather than "s
-        `
-          This session will highlight impactful work at the intersection of climate change, electricity, and machine learning in a variety of African contexts. Topics addressed will include energy access, load forecasting, and data mining for electricity system data. Speakers will also discuss the broader opportunities and challenges associated with working in machine learning and energy on the African continent. The session will begin with short talks from all speakers, followed by audience Q&A and discussion.
-
-          <p>
-          Speakers:
-          <ul>
-            <li><a href="https://ieeexplore.ieee.org/author/37395921400" target="_blank">Bhekisipho Twala</a></li>
-            <li><a href="https://nsutezo.github.io/" target="_blank">Simone Fobi</a></li>
-            <li><a href="https://www.rit.edu/directory/njwgis-nathan-williams" target="_blank">Nathan Williams</a></li>
-          </ul>
-          </p>
-        `
-      ],
-      [
-          null, 
-          null, 
+          wd(27, 13, 00), 
+          wd(27, 14, 00), 
           "Implications of COVID-19 for the clean energy transition: How machine learning can help policymakers",
           // Wrap multi-line strings in `s rather than "s
         `
@@ -326,20 +307,29 @@ $(document).ready(function() {
          <p>
          Speakers:
           <ul>
-            <li><a href="https://epg.ethz.ch/people/senior-researchers/dr--bjarne-steffen.html" target="_blank">Bjarne Steffen</a></li>
-            <li><a href="https://sites.google.com/view/maricavalente/about" target="_blank">Marica Valente</a></li>
-            <li><i>Additional speakers to be announced</i></li>
+            <li><a href="https://epg.ethz.ch/people/senior-researchers/dr--bjarne-steffen.html" target="_blank">Bjarne Steffen</a> (Energy Politics Group, ETH Zürich)</li>
+            <li><a href="https://sites.google.com/view/maricavalente/about" target="_blank">Marica Valente</a> (Berlin School of Economics)</li>
+            <li><a href="https://jack-kelly.com/" target="_blank">Jack Kelly</a> (Open Climate Fix)</li>
           </ul>
           </p>
         `
       ],
       [
-          null, 
-          null, 
-          "Fireside chat with Ian Rogoff on clean tech entrepreneurship",
+          wd(27, 14, 00), 
+          wd(27, 15, 00), 
+          "Opportunities and Challenges for Machine Learning in the African Electricity Sector",
           // Wrap multi-line strings in `s rather than "s
         `
-          This fireside chat will cover key considerations for researchers working in machine learning and climate/energy who would like to enter the startup space. Topics addressed will include assessing market fit, understanding the global funding landscape for climate change + machine learning projects, team formation, and other on-the-ground considerations for building a successful startup in this space.
+          This session will highlight impactful work at the intersection of climate change, electricity, and machine learning in a variety of African contexts. Topics addressed will include energy access, load forecasting, and data mining for electricity system data. Speakers will also discuss the broader opportunities and challenges associated with working in machine learning and energy on the African continent. The session will begin with short talks from all speakers, followed by audience Q&A and discussion.
+
+          <p>
+          Speakers:
+          <ul>
+            <li><a href="https://ieeexplore.ieee.org/author/37395921400" target="_blank">Bhekisipho Twala</a> (University of South Africa)</li>
+            <li><a href="https://nsutezo.github.io/" target="_blank">Simone Fobi</a> (Columbia University)</li>
+            <li><a href="https://www.rit.edu/directory/njwgis-nathan-williams" target="_blank">Nathan Williams</a> (Rochester Institute of Technology)</li>
+          </ul>
+          </p>
         `
       ],
       [
@@ -353,9 +343,10 @@ $(document).ready(function() {
           <p>
           Speakers:
           <ul>
-            <li><a href="https://ai4cities.eu/" target="_blank">ICLEI AI4CITIES</a></li>
-            <li><a href=" https://konstantinklemmer.github.io/" target="_blank">Konstantin Klemmer</a></li>
-            <li><a href="https://www.gfdrr.org/en/meet-our-team" target="_blank">Nick Jones</a></li>
+            <li><a href="https://iclei-europe.org/staff/" target="_blank">Josefine Hintz</a> (ICLEI - Local Governments for Sustainability)</li>
+            <li><a href="https://www.linkedin.com/in/theis-hybschmann-petersen-498183105/?originalSubdomain=dk" target="_blank">Theis Hybschmann Petersen</a> (Properties and Procurement Officer, City of Copenhagen; AI4Cities)</li>
+            <li><a href="https://konstantinklemmer.github.io/" target="_blank">Konstantin Klemmer</a> (University of Warwick)</li>
+            <li><a href="https://www.gfdrr.org/en/meet-our-team" target="_blank">Nick Jones</a> (World Bank)</li>
             <li><i>Additional speakers to be announced</i></li>
           </ul>
           </p>
@@ -378,7 +369,17 @@ $(document).ready(function() {
           </ul>
           <p>
         `
-      ]
+      ],
+      [
+          wd(27, 18, 00), 
+          wd(27, 19, 00), 
+          "Fireside chat with Jon Bonanno on clean tech entrepreneurship",
+          // Wrap multi-line strings in `s rather than "s
+        `
+          This fireside chat will cover key considerations for researchers working in machine learning and climate/energy who would like to enter the startup space. Topics addressed will include assessing market fit, understanding the global funding landscape for climate change + machine learning projects, team formation, and other on-the-ground considerations for building a successful startup in this space.
+        `
+      ],
+      [wd(27, 19, 00), wd(27, 20, 00), "Tutorial: Machine Learning 101 for Climate Change"]
     ]
   }, {
     day: 'April 28: Agriculture, Forestry, and Other Land Use (AFOLU) Day',
