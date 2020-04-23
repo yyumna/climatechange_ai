@@ -293,6 +293,24 @@ $(document).ready(function() {
     day: 'April 27: Energy Day',
     schedule: [
       [
+          wd(27, 12, 00), 
+          wd(27, 13, 00), 
+          "Machine Learning for Low-Carbon Urban Mobility",
+          // Wrap multi-line strings in `s rather than "s
+        `
+          Urban transportation is rapidly changing with the advent of autonomous driving, shared mobility, and increased decarbonization efforts. ML is both an enabler of technological changes in transportation and can be employed to guide strategies for lowering the urban carbon footprint. This session will discuss key challenges in achieving sustainable urban mobility.
+
+          <p>
+          Speakers:
+          <ul>
+            <li><a href="https://konstantinklemmer.github.io/" target="_blank">Konstantin Klemmer</a> (University of Warwick)</li>
+            <li><a href="http://www.wucathy.com/blog/" target="_blank">Cathy Wu</a> (MIT)</li>
+            <li><a href="https://www.linkedin.com/in/prithviacharya" target="_blank">Prithvi Acharya</a> (Carnegie Mellon)</li>
+          </ul>
+          </p>
+        `
+      ],
+      [
           wd(27, 13, 00), 
           wd(27, 14, 00), 
           "Implications of COVID-19 for the clean energy transition: How machine learning can help policymakers",
@@ -333,25 +351,42 @@ $(document).ready(function() {
         `
       ],
       [
-          null, 
-          null, 
-          "Machine Learning for Low-carbon Urban Energy and Mobility Systems",
+          wd(27, 15, 00), 
+          wd(27, 16, 00), 
+          "AI4CITIES: Deploying Machine Learning Towards Carbon Neutrality in European Cities",
           // Wrap multi-line strings in `s rather than "s
         `
-          About 70% of energy consumption originates from activities in cities. As more and more data become available about these activities, this creates opportunities to mitigate climate change in urban areas with the help of machine learning. In this session, experts and city representatives will discuss interesting applications, research and development needs, and opportunities for reducing greenhouse gas emissions with machine learning in cities.
+          About 70% of energy consumption originates from activities in cities. As more and more data become available about these activities, this creates opportunities to mitigate climate change in urban areas with the help of machine learning. In this session, representatives from ICLEI – Local Governments for Sustainability and the City of Copenhagen will introduce <a href="https://ai4cities.eu" target="_blank">AI4CITIES</a>. This EU-funded procurement program seeks out AI-based solutions to reduce CO2 emissions from urban mobility and energy systems, to help cities meet their climate commitments.
 
           <p>
           Speakers:
           <ul>
             <li><a href="https://iclei-europe.org/staff/" target="_blank">Josefine Hintz</a> (ICLEI - Local Governments for Sustainability)</li>
-            <li><a href="https://www.linkedin.com/in/theis-hybschmann-petersen-498183105/?originalSubdomain=dk" target="_blank">Theis Hybschmann Petersen</a> (Properties and Procurement Officer, City of Copenhagen; AI4Cities)</li>
-            <li><a href="https://konstantinklemmer.github.io/" target="_blank">Konstantin Klemmer</a> (University of Warwick)</li>
-            <li><a href="https://www.gfdrr.org/en/meet-our-team" target="_blank">Nick Jones</a> (World Bank)</li>
+            <li><a href="https://www.linkedin.com/in/theis-hybschmann-petersen-498183105/?originalSubdomain=dk" target="_blank">Theis Hybschmann Petersen</a> (Properties and Procurement Officer, City of Copenhagen)</li>
           </ul>
           </p>
         `
       ],
-      [null, null, "Updates from previous workshop presenters",
+      [
+          wd(27, 16, 00), 
+          wd(27, 17, 00), 
+          "Machine Learning for Sustainable and Resilient Built Infrastructure in Urban Areas",
+          // Wrap multi-line strings in `s rather than "s
+        `
+          The built infrastructure is a critical component of climate policies, both because of the large energy use of buildings and because of vulnerability to extreme weather events. However, access to good data about buildings can be a bottleneck in designing effective policies. Machine learning can contribute to a sustainable and resilient built infrastructure by gathering individual data on millions of buildings. This session will discuss ways to monitor infrastructure with remote sensing, and to upscale building energy use modeling to the city scale. 
+
+          <p>
+          Speakers:
+          <ul>
+            <li><a href="https://www.gfdrr.org/en/meet-our-team" target="_blank">Nicholas Jones</a> (World Bank)</li>
+            <li><a href="https://scholar.google.com/citations?user=zhYBF8QAAAAJ&hl=en&oi=sra" target="_blank">Alex Nutkiewicz</a> (Stanford)</li>
+            <li><a href="https://sokratispapadopoulos.com" target="_blank">Sokratis Papadopoulos</a> (New York University)</li>
+            <li><a href="https://people.utwente.nl/m.kuffer" target="_blank">Monika Kuffer</a> (University of Twente)</li>
+          </ul>
+          </p>
+        `
+      ],
+      [wd(27, 17, 00), wd(27, 18, 00), "Updates from previous workshop presenters",
         // Wrap multi-line strings in `s rather than "s
         `
         This session will feature updates from authors of selected works presented at previous Climate Change AI workshops (at ICML 2019, NeurIPS 2019, and AMLD 2020).
@@ -403,9 +438,9 @@ $(document).ready(function() {
   }, {
     day: 'April 30: Cross-cutting Methods Day',
     schedule: [
-      [null, null, "Tutorial: Climate Change 101 for Machine Learning"],
+      [wd(30,  15,  00), wd(30, 16,   00), "Forecasting"],
       [wd(30,  16,  00), wd(30, 17,   00), "Hybrid physical models (with Zico Kolter)"],
-      [null, null, "Forecasting"],
+      [wd(30,  17,  00), wd(30, 18,   00), "Tutorial: Climate Change 101 for Machine Learning"],
       [wd(30,  18,  00), wd(30, 19,   00), "Machine learning for accelerated science and engineering",
         `
         Be it discovering next-generation solar panels, modeling battery degradation, or tuning fusion reactors, there are many applications where machine learning can supplement and even accelerate the science and engineering of clean technologies. Join us for a series of short talks from speakers using machine learning for accelerated science and engineering, followed by a discussion of interesting methodological challenges in this space.
