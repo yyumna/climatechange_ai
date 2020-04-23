@@ -338,7 +338,7 @@ $(document).ready(function() {
           "Machine Learning for Low-carbon Urban Energy and Mobility Systems",
           // Wrap multi-line strings in `s rather than "s
         `
-          About 70% of CO2 emissions and most of the data collected globally originate from activities in cities. This creates many opportunities where machine learning can be useful for climate change mitigation. In this discussion-based session, city experts will discuss areas with substantial potential for reducing emissions and for making relevant use of machine learning.
+          About 70% of energy consumption originates from activities in cities. As more and more data become available about these activities, this creates opportunities to mitigate climate change in urban areas with the help of machine learning. In this session, experts and city representatives will discuss interesting applications, research and development needs, and opportunities for reducing greenhouse gas emissions with machine learning in cities.
 
           <p>
           Speakers:
