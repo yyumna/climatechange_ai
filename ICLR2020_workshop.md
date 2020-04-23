@@ -49,7 +49,8 @@ The International Conference on Learning Representations (ICLR) is one of the pr
 **Paula Hidalgo-Sanchis** (UN Global Pulse)  
 **Jessica Thorn** (University of York)  
 **Nana Ama Browne Klutse** (University of Ghana)  
-**Sarvapali Ramchurn** (University of Southampton)  
+**Daniel Rothenberg** (ClimaCell)  
+**Sarvapali Ramchurn** (University of Southampton) 
 
 ## Schedule
 
