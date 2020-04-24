@@ -156,7 +156,45 @@ $(document).ready(function() {
           <p>
        `
      ],
-     [wd(26, 12,  0), wd(26, 13,  0), "<b>Poster session</b>"],
+     [wd(26, 12,  0), wd(26, 13,  0), "<b>Poster session</b>",
+        `
+        Talk to poster poster presenters via Zoom about their accepted works; Zoom connection information for each poster will be posted <a href='#accepted-works'>below</a>. You can also join the <a href="https://www.climatechange.ai/join/ICLRBreakroom" target="_blank">Zoom breakroom</a> at this time to mingle with other workshop participants.
+
+        <p>
+        Posters being presented during this slot are listed below.
+        </p>
+
+        Papers track:
+        <p>
+          <ul>
+              <li> (2) Deep Reinforcement Learning based Renewable Energy Error Compensable Forecasting</li>
+              <li> (3) Missing-insensitive Short-term Load Forecasting Leveraging Autoencoder and LSTM</li>
+              <li> (4) A Machine Learning Pipeline to Predict Vegetation Health</li>
+              <li> (5) Understanding the dynamics of climate-crucial food choice behaviours using Distributional Semantics</li>
+              <li> (6) SolarNet: A Deep Learning Framework to Map Solar Plants In China From Satellite Imagery</li>
+              <li> (9) Non-linear interlinkages and key objectives amongst the Paris Agreement and the Sustainable Development Goals</li>
+              <li> (12) Modeling Cloud Reflectance Fields using Conditional Generative Adversarial Networks</li>
+              <li> (15) MobilityNet: Towards a Public Dataset for Multi-modal Mobility Research</li>
+          </ul>
+        </p>
+
+        Proposals track:
+        <p>
+          <ul>
+            <li> (17) Benchmarks for Grid Flexibility Prediction: Enabling Progress and Machine Learning Applications</li>
+            <li> (18) Machine Learning Approaches to Safeguarding Continuous Water Supply in the Arid and Semi-arid Lands of Northern Kenya</li>
+            <li> (20) YOU FORGOT IT IN THE GENOTYPE, MODELING TOWARDS ADAPTATION OF FOOD CROPS UNDER CLIMATE CHANGE THREAT</li>
+            <li> (22) Indigenous Knowledge Aware Drought Monitoring, Forecasting and Prediction Model Using Deep Learning Techniques</li>
+            <li> (25) Xingu: Explaining critical geospatial predictions in weak supervision for climate finance</li>
+            <li> (26) Towards unified standards for smart infrastructure datasets</li>
+            <li> (27) MACHINE   LEARNING   APPLICATIONS   THAT CAN HELP PASTORAL COMMUNITIES IN NORTHERN  KENYA  AND  ELSEWHERE  ADAPT TO CLIMATE CHANGE</li>
+            <li> (28) Nutrient demand, Risk and Climate change: Evidence from historical rice yield trials in India</li>
+            <li> (29) USING MACHINE LEARNING TO ANALYZE CLIMATE CHANGE TECHNOLOGY TRANSFER (CCTT)</li>
+            <li> (30) Using ML to close the vocabulary gap in the context of environment and climate change in Chichewa</li>
+          </ul>
+        </p>
+        `
+     ],
      [
         wd(26, 13,  0), 
         wd(26, 13, 45), 
@@ -181,7 +219,11 @@ $(document).ready(function() {
           </p>
        `
       ],
-     [wd(26, 13, 45), wd(26, 15, 30), "Break and small-group discussions"],
+     [wd(26, 13, 45), wd(26, 15, 30), "Break and small-group discussions", 
+        `
+        Join the <a href="https://www.climatechange.ai/join/ICLRBreakroom" target="_blank">Zoom breakroom</a> and mingle with other workshop participants!
+        `
+     ],
      [
         wd(26, 15, 30), 
         wd(26, 17,  0), 
@@ -284,7 +326,48 @@ $(document).ready(function() {
           <p>
        `
      ],
-     [wd(26, 18,  45), wd(26, 20,  0), "<b>Poster session</b>"],
+     [wd(26, 18,  45), wd(26, 20,  0), "<b>Poster session</b>",
+        `
+        Talk to poster poster presenters via Zoom about their accepted works; Zoom connection information for each poster will be posted <a href='#accepted-works'>below</a>. You can also join the <a href="https://www.climatechange.ai/join/ICLRBreakroom" target="_blank">Zoom breakroom</a> at this time to mingle with other workshop participants.
+
+        <p>
+        Posters being presented during this slot are listed below.
+        </p>
+
+        <p>
+        Papers track:
+        <ul>
+            <li> (1) BISCUIT: Building Intelligent System Customer Investment Tools</li>
+            <li> (5) Understanding the dynamics of climate-crucial food choice behaviours using Distributional Semantics</li>
+            <li> (7) Embedding Hard Physical Constraints in Convolutional Neural Networks for 3D Turbulence</li>
+            <li> (8) DETECTION OF HOUSING AND AGRICULTURE AREAS ON DRY-RIVERBEDS FOR THE EVALUATION OF RISK BY LANDSLIDES USING LOW-RESOLUTION SATELLITE IMAGERY BASED ON DEEP LEARNING. STUDY ZONE: LIMA, PERU</li>
+            <li> (9) Non-linear interlinkages and key objectives amongst the Paris Agreement and the Sustainable Development Goals</li>
+            <li> (10) A CONTINUAL LEARNING APPROACH FOR LOCAL LEVEL ENVIRONMENTAL MONITORING IN LOW-RESOURCE SETTINGS</li>
+            <li> (11) WeatherBench: A benchmark dataset for data-driven weather forecasting</li>
+            <li> (12) Modeling Cloud Reflectance Fields using Conditional Generative Adversarial Networks</li>
+            <li> (13) SMArtCast: Predicting soil moisture interpolations into the future using Earth observation data in a deep learning framework</li>
+            <li> (14) Prediction of Bayesian Confidence Intervals for Tropical Storms</li>
+            <li> (15) MobilityNet: Towards a Public Dataset for Multi-modal Mobility Research</li>
+            <li> (16) Wavelet-Powered Neural Networks for Turbulence</li>
+        </ul>
+        </p>
+
+        <p>
+        Proposals track:
+        <ul>
+          <li> (17) Benchmarks for Grid Flexibility Prediction: Enabling Progress and Machine Learning Applications</li>
+          <li> (18) Machine Learning Approaches to Safeguarding Continuous Water Supply in the Arid and Semi-arid Lands of Northern Kenya</li>
+          <li> (19) Accelerated  Data Discovery for Scalable Climate Action</li>
+          <li> (20) YOU FORGOT IT IN THE GENOTYPE, MODELING TOWARDS ADAPTATION OF FOOD CROPS UNDER CLIMATE CHANGE THREAT</li>
+          <li> (21) Hurricane Nowcasting with Irregular Time-step using Neural-ODE and Video Prediction</li>
+          <li> (23) TrueBranch: Robust Deep Learning-based Verification of Forest Conservation Projects</li>
+          <li> (24) Advancing Renewable Electricity Consumption With Reinforcement Learning</li>
+          <li> (26) Towards unified standards for smart infrastructure datasets</li>
+          <li> (30) Using ML to close the vocabulary gap in the context of environment and climate change in Chichewa</li>
+        </ul>
+        </p>
+        `
+     ],
      [
         wd(26, 20,  0),
         wd(26, 20, 45),
