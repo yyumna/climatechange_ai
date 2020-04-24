@@ -641,17 +641,16 @@ Works were submitted to one of two tracks: [Papers](#Papers) or [Proposals](#Pro
 
   {% endif %}
 
-  <h4 id='paper-{{ p.paper_num }}'>
+  <div class='card paper'>
+
+  <header class='card-header'>
+  <div class='card-header-title' id='paper-{{ p.paper_num }}'>
     ({{ p.paper_num }}) {{ p.paper_title }}
 
-    {% if p.paper_path %}
-      <a href='{{ p.paper_path }}' class='button is-small' target='_blank'>pdf</a>
-    {% endif %}
+  </div>
+  </header>
 
-    {% if p.slides_path %}
-      <a href='{{ p.slides_path }}' class='button is-small' target='_blank'>slides</a>
-    {% endif %}
-  </h4>
+  <div class='card-content'>
 
   <p>
     <em>{{ p.authors }}</em>
@@ -662,6 +661,38 @@ Works were submitted to one of two tracks: [Papers](#Papers) or [Proposals](#Pro
 
     {{ p.abstract }}
   </details>
+
+  {% if p.paper_path %}
+    <a href='{{ p.paper_path }}' class='button is-link' target='_blank'>paper</a>
+  {% endif %}
+
+  {% if p.slides_path %}
+    <a href='{{ p.slides_path }}' class='button is-link' target='_blank'>slides</a>
+  {% endif %}
+
+  <div class="dropdown is-hoverable">
+    <div class="dropdown-trigger">
+      <button class="button is-link" aria-haspopup="true" aria-controls="dropdown-menu-{{ p.paper_id }}">
+        <span>zoom info</span>
+        <span class="icon is-small">
+          <i class="mdi mdi-chevron-down" aria-hidden="true"></i>
+        </span>
+      </button>
+    </div>
+    <div class="dropdown-menu" id="dropdown-menu-{{ p.paper_id }}" role="menu">
+      <div class="dropdown-content">
+        {% if p.session == 'Session1' or p.session == 'Both' %}
+          <a href="https://us02web.zoom.us/j/{{ p.zoom_id }}" class="dropdown-item">Session 1 (11:00 - 12:00 UTC)</a>
+        {% endif %}
+        {% if p.session == 'Session2' or p.session == 'Both' %}
+          <a href="https://us02web.zoom.us/j/{{ p.zoom_id }}" class="dropdown-item">Session 2 (19:00 - 20:00 UTC)</a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+
+  </div>
+  </div>
 
   {% assign track = p.q1_track %}
 {% endfor %}
