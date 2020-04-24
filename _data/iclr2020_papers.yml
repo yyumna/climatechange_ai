@@ -181,6 +181,7 @@
   session: Session1
   paper_num: 6
   paper_path: "/papers/iclr2020/33/paper.pdf"
+  slides_path: "/papers/iclr2020/33/slides.pdf"
 - paper_id: 36
   paper_title: Embedding Hard Physical Constraints in Convolutional Neural Networks
     for 3D Turbulence
@@ -572,9 +573,9 @@
   status: Accept (poster)
   primary_subject_area: Data presentation and management
   secondary_subject_areas: Climate and earth science; Climate finance; Industry; Policy
-  author_names: Schwabe, Henning*; s, s; Grebenschikov, Sergy
+  author_names: Schwabe, Henning*; Sandhu, Sumeet; Grebenschikov, Sergy
   author_emails: henning_schwabe@icloud.com*; sumeet.k.sandhu@gmail.com; sgreben@gwdg.de
-  authors: Henning Schwabe (Private); Sumeet Sandhu (myntra); Sergy Grebenschikov
+  authors: Henning Schwabe (Private); Sumeet Sandhu (Elementary IP LLC); Sergy Grebenschikov
     (Private)
   zoom_id: 85846301102
   session: Session2
@@ -615,6 +616,7 @@
   zoom_id: 82920555662
   session: Both
   paper_num: 20
+  slides_path: "/papers/iclr2020/29/slides.pdf"
 - paper_id: 31
   paper_title: Hurricane Nowcasting with Irregular Time-step using Neural-ODE and
     Video Prediction
@@ -778,6 +780,8 @@
   zoom_id: 82006327071
   session: Both
   paper_num: 26
+  paper_path: "/papers/iclr2020/55/paper.pdf"
+  slides_path: "/papers/iclr2020/55/slides.pdf"
 - paper_id: 57
   paper_title: MACHINE   LEARNING   APPLICATIONS   THAT CAN HELP PASTORAL COMMUNITIES
     IN NORTHERN  KENYA  AND  ELSEWHERE  ADAPT TO CLIMATE CHANGE
@@ -828,6 +832,7 @@
   zoom_id: 81565679861
   session: Session1
   paper_num: 28
+  slides_path: "/papers/iclr2020/61/slides.pdf"
 - paper_id: 69
   paper_title: USING MACHINE LEARNING TO ANALYZE CLIMATE CHANGE TECHNOLOGY TRANSFER
     (CCTT)
@@ -899,3 +904,5 @@
   zoom_id: 89921130020
   session: Both
   paper_num: 30
+  paper_path: "/papers/iclr2020/70/paper.pdf"
+  slides_path: "/papers/iclr2020/70/slides.pdf"

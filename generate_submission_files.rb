@@ -54,15 +54,12 @@ parsed.each do |p|
   paper_data['authors'] = paper_data['authors'].
     gsub(/\(\s+/, '(').
     gsub( /\s+\)/, ')').
-    gsub("*", "").
-    gsub('s s', "Sumeet Sandhu")
+    gsub("*", "")
 
   paper_data['paper_id'] = paper_data['paper_id'].to_i
 
   if zoom_info
     zoom_info[paper_data['paper_id']].each do |k,v|
-      puts k
-      puts v
       paper_data[k] = v
     end
   end
