@@ -1,5 +1,5 @@
 ---
-- paper_id: 8.0
+- paper_id: 8
   paper_title: 'BISCUIT: Building Intelligent System Customer Investment Tools'
   abstract: Energy use in buildings account for approximately half of global electricity
     consumption and a significant amount of CO2 emissions. Often, the higher energy
@@ -32,10 +32,12 @@
   authors: Ming Jin (U.C. Berkeley); Ruoxi Jia (UC Berkeley); Hari Prasanna Das  (UC
     Berkeley); Wei Feng (Lawrence Berkeley National Laboratory); Costas J. Spanos
     (University of California at Berkeley)
+  zoom_id: 86042486137
+  session: Session2
   paper_num: 1
   paper_path: "/papers/iclr2020/8/paper.pdf"
   slides_path: "/papers/iclr2020/8/slides.pdf"
-- paper_id: 11.0
+- paper_id: 11
   paper_title: Deep Reinforcement Learning based Renewable Energy Error Compensable
     Forecasting
   abstract: Recently, renewable energy is rapidly integrated into the power grid to
@@ -58,10 +60,12 @@
   author_names: Jeong, Jaeik; Kim, Hongseok*
   author_emails: jaeik1213@sogang.ac.kr; hongseok@sogang.ac.kr*
   authors: Jaeik Jeong (Sogang University); Hongseok Kim (Sogang University)
+  zoom_id: 81123011663
+  session: Session1
   paper_num: 2
   paper_path: "/papers/iclr2020/11/paper.pdf"
   slides_path: "/papers/iclr2020/11/slides.pdf"
-- paper_id: 12.0
+- paper_id: 12
   paper_title: Missing-insensitive Short-term Load Forecasting Leveraging Autoencoder
     and LSTM
   abstract: Short-term load forecasting (STLF) is fundamental for power system operation,
@@ -87,10 +91,12 @@
   author_emails: nami93@sogang.ac.kr; jaeik1213@sogang.ac.kr; hongseok@sogang.ac.kr*
   authors: Kyungnam Park (Sogang University); Jaeik Jeong (Sogang University); Hongseok
     Kim (Sogang University)
+  zoom_id: 86181210098
+  session: Session1
   paper_num: 3
   paper_path: "/papers/iclr2020/12/paper.pdf"
   slides_path: "/papers/iclr2020/12/slides.pdf"
-- paper_id: 18.0
+- paper_id: 18
   paper_title: A Machine Learning Pipeline to Predict Vegetation Health
   abstract: Agricultural droughts can exacerbate poverty and lead to famine. Timely
     distribution of disaster relief funds is essential to help minimise the impact
@@ -113,10 +119,12 @@
     (University of Oxford); Alex Hernández (University of Osnabrück); Clement G. Atzberger
     (University of Natural Resources and Life Sciences); Steven Reece (University
     of Oxford)
+  zoom_id: 81975683969
+  session: Session1
   paper_num: 4
   paper_path: "/papers/iclr2020/18/paper.pdf"
   slides_path: "/papers/iclr2020/18/slides.pdf"
-- paper_id: 25.0
+- paper_id: 25
   paper_title: Understanding the dynamics of climate-crucial food choice behaviours
     using Distributional Semantics
   abstract: |-
@@ -140,10 +148,12 @@
   author_emails: cghaworth1@sheffield.ac.uk*; g.vigliocco@ucl.ac.uk
   authors: Claudia Haworth (University of Sheffield); Gabriella Viglioco (University
     College London)
+  zoom_id: 84389005797
+  session: Both
   paper_num: 5
   paper_path: "/papers/iclr2020/25/paper.pdf"
   slides_path: "/papers/iclr2020/25/slides.pdf"
-- paper_id: 33.0
+- paper_id: 33
   paper_title: 'SolarNet: A Deep Learning Framework to Map Solar Plants In China From
     Satellite Imagery'
   abstract: Renewable energy such as solar power is critical to fight the ever more
@@ -167,9 +177,12 @@
     stevenhuang@webank.com; haishanwu@webank.com*
   authors: Xin Hou (WeBank); Biao Wang (Webank); Wanqi Hu (Webank); lei yin (WeBank);
     Anbu Huang (Webank); Haishan Wu (Webank)
+  zoom_id: 81171402585
+  session: Session1
   paper_num: 6
   paper_path: "/papers/iclr2020/33/paper.pdf"
-- paper_id: 36.0
+  slides_path: "/papers/iclr2020/33/slides.pdf"
+- paper_id: 36
   paper_title: Embedding Hard Physical Constraints in Convolutional Neural Networks
     for 3D Turbulence
   abstract: Deep learning approaches have shown much promise for climate sciences,
@@ -195,10 +208,12 @@
   authors: Arvind T Mohan (Los Alamos National Laboratory); NIcholas Lubbers (Los
     Alamos National Laboratory); Daniel Livescu (Los Alamos National Laboratory);
     Misha Chertkov (University of Arizona)
+  zoom_id: 82303317794
+  session: Session2
   paper_num: 7
   paper_path: "/papers/iclr2020/36/paper.pdf"
   slides_path: "/papers/iclr2020/36/slides.pdf"
-- paper_id: 37.0
+- paper_id: 37
   paper_title: 'DETECTION OF HOUSING AND AGRICULTURE AREAS ON DRY-RIVERBEDS FOR THE
     EVALUATION OF RISK BY LANDSLIDES USING LOW-RESOLUTION SATELLITE IMAGERY BASED
     ON DEEP LEARNING. STUDY ZONE: LIMA, PERU'
@@ -228,10 +243,12 @@
   author_emails: bcerronr@uni.pe*; cristopher.bazan@uni.pe; am.coronado@gmail.com
   authors: Brian Cerrón (National University of Engineering); Cristopher Bazan (National
     University of Engineering); Alberto Coronado (National University of Engineering)
+  zoom_id: 85990961685
+  session: Session2
   paper_num: 8
   paper_path: "/papers/iclr2020/37/paper.pdf"
   slides_path: "/papers/iclr2020/37/slides.pdf"
-- paper_id: 43.0
+- paper_id: 43
   paper_title: Non-linear interlinkages and key objectives amongst the Paris Agreement
     and the Sustainable Development Goals
   abstract: "The United Nations' ambitions to combat climate change and prosper human
@@ -261,10 +278,12 @@
   authors: Felix Laumann (Imperial College London); Julius von Kügelgen (MPI for Intelligent
     Systems, Tübingen & University of Cambridge); Mauricio Barahona (Imperial College
     London)
+  zoom_id: 88259876362
+  session: Both
   paper_num: 9
   paper_path: "/papers/iclr2020/43/paper.pdf"
   slides_path: "/papers/iclr2020/43/slides.pdf"
-- paper_id: 45.0
+- paper_id: 45
   paper_title: A CONTINUAL LEARNING APPROACH FOR LOCAL LEVEL ENVIRONMENTAL MONITORING
     IN LOW-RESOURCE SETTINGS
   abstract: 'An increasingly important dimension in the quest for mitigation and monitoring
@@ -290,9 +309,11 @@
   author_names: Patra, Arijit*
   author_emails: arijit.patra@eng.ox.ac.uk*
   authors: Arijit Patra (University of Oxford)
+  zoom_id: 81957690141
+  session: Session2
   paper_num: 10
-  paper_path: "/papers/iclr2020/45/paper.pdf"
-- paper_id: 47.0
+  slides_path: "/papers/iclr2020/45/slides.pdf"
+- paper_id: 47
   paper_title: 'WeatherBench: A benchmark dataset for data-driven weather forecasting'
   abstract: Accurate weather forecasts are a crucial prerequisite for climate change
     adaptation. Can these be provided by deep learning? First studies show promise,
@@ -324,10 +345,12 @@
     of Toronto); Peter Dueben (European Centre for Medium-Range Weather Forecasts
     (ECMWF)); Sebastian Scher (Stockholm University); Jonathan Weyn (University of
     Washington); Nils Thuerey (nils.thuerey@tum.de)
+  zoom_id: 86227916905
+  session: Session2
   paper_num: 11
   paper_path: "/papers/iclr2020/47/paper.pdf"
   slides_path: "/papers/iclr2020/47/slides.pdf"
-- paper_id: 48.0
+- paper_id: 48
   paper_title: Modeling Cloud Reflectance Fields using Conditional Generative Adversarial
     Networks
   abstract: We introduce a conditional Generative Adversarial Network (cGAN) approach
@@ -349,10 +372,12 @@
   authors: Victor Schmidt (Mila); Mustafa Alghali Muhammed (University of Khartoum);
     Kris Sankaran (Montreal Institute for Learning Algorithms); Tianle Yuan (NASA);
     Yoshua Bengio (Mila)
+  zoom_id: 81454841353
+  session: Both
   paper_num: 12
   paper_path: "/papers/iclr2020/48/paper.pdf"
   slides_path: "/papers/iclr2020/48/slides.pdf"
-- paper_id: 49.0
+- paper_id: 49
   paper_title: 'SMArtCast: Predicting soil moisture interpolations into the future
     using Earth observation data in a deep learning framework'
   abstract: 'Soil moisture is critical component of crop health and monitoring it
@@ -379,10 +404,12 @@
   authors: Conrad J Foley (Deep Planet); Sagar Vaze (deepplanet.ai); Mohamed  El Amine
     Seddiq (Deep Planet); Aleksei  Unagaev (Deep Planet); Natalia Efremova (University
     of Oxford)
+  zoom_id: 86792580220
+  session: Session2
   paper_num: 13
   paper_path: "/papers/iclr2020/49/paper.pdf"
   slides_path: "/papers/iclr2020/49/slides.pdf"
-- paper_id: 51.0
+- paper_id: 51
   paper_title: Prediction of Bayesian Intervals for Tropical Storms
   abstract: 'Building on recent research for prediction of hurricane trajectories
     using recurrent neural networks (RNNs), we have developed improved methods and
@@ -406,10 +433,12 @@
   author_names: Chiswick, Max; Ganzfried, Sam*
   author_emails: maxchiswick@gmail.com; sam.ganzfried@gmail.com*
   authors: Max Chiswick (Independent); Sam Ganzfried (Ganzfried Research)
+  zoom_id: 87225435797
+  session: Session2
   paper_num: 14
   paper_path: "/papers/iclr2020/51/paper.pdf"
   slides_path: "/papers/iclr2020/51/slides.pdf"
-- paper_id: 54.0
+- paper_id: 54
   paper_title: 'MobilityNet: Towards a Public Dataset for Multi-modal Mobility Research'
   abstract: |-
     Influencing transportation demand can significantly reduce CO2 emissions. Individual user mobility models are key to influencing demand at the personal and structural levels. Constructing such models is a challenging task that depends on a number of interdependent steps. Progress on this task is hamstrung by the lack of high quality public datasets.
@@ -428,9 +457,11 @@
   authors: K. Shankari (UC Berkeley); Jonathan Fürst (NEC Laboratories Europe); Mauricio
     Fadel Argerich (NEC Laboratories Europe); Eleftherios Avramidis (DFKI GmbH); Jesse
     Zhang (UC Berkeley)
+  zoom_id: 89943523179
+  session: Both
   paper_num: 15
   paper_path: "/papers/iclr2020/54/paper.pdf"
-- paper_id: 58.0
+- paper_id: 58
   paper_title: Wavelet-Powered Neural Networks for Turbulence
   abstract: 'One of the fundamental driving phenomena for climate effects is fluid
     turbulence in geophysical flows. Modeling these flows and explaining its associated
@@ -461,10 +492,12 @@
   author_emails: arvindm@lanl.gov*; livescu@lanl.gov; chertkov@math.arizona.edu
   authors: Arvind T Mohan (Los Alamos National Laboratory); Daniel Livescu (Los Alamos
     National Laboratory); Misha Chertkov (University of Arizona)
+  zoom_id: 86229317422
+  session: Session2
   paper_num: 16
   paper_path: "/papers/iclr2020/58/paper.pdf"
   slides_path: "/papers/iclr2020/58/slides.pdf"
-- paper_id: 7.0
+- paper_id: 7
   paper_title: 'Benchmarks for Grid Flexibility Prediction: Enabling Progress and
     Machine Learning Applications'
   abstract: Decarbonizing the grid is recognized worldwide as one of the objectives
@@ -484,10 +517,12 @@
   author_emails: diego.kiedanski@telecom-paristech.fr*; lauren@gaia-scope.com; daniel.kofman@telecom-paristech.fr
   authors: Diego Kiedansk (Telecom ParisTech); Lauren Kuntz (Gaiascope); Daniel Kofman
     (Telecom ParisTech)
+  zoom_id: 87663979509
+  session: Both
   paper_num: 17
   paper_path: "/papers/iclr2020/7/paper.pdf"
   slides_path: "/papers/iclr2020/7/slides.pdf"
-- paper_id: 17.0
+- paper_id: 17
   paper_title: Machine Learning Approaches to Safeguarding Continuous Water Supply
     in the Arid and Semi-arid Lands of Northern Kenya
   abstract: Arid and semi-arid regions (ASALs) in developing countries are heavily
@@ -515,10 +550,12 @@
   authors: Fred Otieno (IBM); Timothy Nyota (IBM); Isaac Waweru (IBM); Celia Cintas
     (IBM Research); Samuel C Maina (IBM Research); William Ogallo (IBM Research);
     Aisha Walcott-Bryant (IBM Research - Africa)
+  zoom_id: 85217262263
+  session: Both
   paper_num: 18
   paper_path: "/papers/iclr2020/17/paper.pdf"
   slides_path: "/papers/iclr2020/17/slides.pdf"
-- paper_id: 27.0
+- paper_id: 27
   paper_title: Accelerated  Data Discovery for Scalable Climate Action
   abstract: According to the Intergovernmental Panel on Climate Change (IPCC), the
     planet must decarbonize by 50% by 2030 in order to keep global warming below 1.5C.
@@ -536,14 +573,16 @@
   status: Accept (poster)
   primary_subject_area: Data presentation and management
   secondary_subject_areas: Climate and earth science; Climate finance; Industry; Policy
-  author_names: Schwabe, Henning*; s, s; Grebenschikov, Sergy
+  author_names: Schwabe, Henning*; Sandhu, Sumeet; Grebenschikov, Sergy
   author_emails: henning_schwabe@icloud.com*; sumeet.k.sandhu@gmail.com; sgreben@gwdg.de
-  authors: Henning Schwabe (Private); Sumeet Sandhu (myntra); Sergy Grebenschikov
+  authors: Henning Schwabe (Private); Sumeet Sandhu (Elementary IP LLC); Sergy Grebenschikov
     (Private)
+  zoom_id: 85846301102
+  session: Session2
   paper_num: 19
   paper_path: "/papers/iclr2020/27/paper.pdf"
   slides_path: "/papers/iclr2020/27/slides.pdf"
-- paper_id: 29.0
+- paper_id: 29
   paper_title: YOU FORGOT IT IN THE GENOTYPE, MODELING TOWARDS ADAPTATION OF FOOD
     CROPS UNDER CLIMATE CHANGE THREAT
   abstract: Agriculture is facing the disastrous effects of frequent drastic climate
@@ -574,8 +613,11 @@
   author_names: Mendivil Ramos, Olivia*; Petrini, Linda
   author_emails: omendivi@cshl.edu*; lindapetrini@gmail.com
   authors: Olivia Mendivil Ramos (Cold Spring Harbor Laboratory); Linda Petrini (Mila)
+  zoom_id: 82920555662
+  session: Both
   paper_num: 20
-- paper_id: 31.0
+  slides_path: "/papers/iclr2020/29/slides.pdf"
+- paper_id: 31
   paper_title: Hurricane Nowcasting with Irregular Time-step using Neural-ODE and
     Video Prediction
   abstract: Fast and accurate prediction of extreme climate events is critical especially
@@ -600,10 +642,12 @@
   authors: Sunghyun  Park (KAIST); Kangyeol Kim (KAIST); Sookyung Kim (Lawrence Livermore
     National Laboratory); Joonseok Lee (Google Research); Junsoo Lee (KAIST); Jiwoo
     Lee (Lawrence Livermore National Laboratory); Jaegul  Choo (KAIST)
+  zoom_id: 88932383775
+  session: Session2
   paper_num: 21
   paper_path: "/papers/iclr2020/31/paper.pdf"
   slides_path: "/papers/iclr2020/31/slides.pdf"
-- paper_id: 34.0
+- paper_id: 34
   paper_title: Indigenous Knowledge Aware Drought Monitoring, Forecasting and Prediction
     Using Deep Learning Techniques
   abstract: 'The general objective of this proposed research work is to design deep
@@ -630,10 +674,12 @@
   author_names: Degefa, Kidane W*
   author_emails: kidane1982@gmail.com*
   authors: Kidane W Degefa (Haramaya University)
+  zoom_id: 81974768259
+  session: Session1
   paper_num: 22
   paper_path: "/papers/iclr2020/34/paper.pdf"
   slides_path: "/papers/iclr2020/34/slides.pdf"
-- paper_id: 38.0
+- paper_id: 38
   paper_title: 'TrueBranch: Metric Learning-based Verification of Forest Conservation
     Projects'
   abstract: |-
@@ -652,10 +698,12 @@
     ce.zhang@inf.ethz.ch
   authors: Simona Santamaria (ETH Zurich); David Dao (ETH Zurich); Björn Lütjens (MIT);
     Ce Zhang (ETH)
+  zoom_id: 84282618534
+  session: Session2
   paper_num: 23
   paper_path: "/papers/iclr2020/38/paper.pdf"
   slides_path: "/papers/iclr2020/38/slides.pdf"
-- paper_id: 50.0
+- paper_id: 50
   paper_title: Advancing Renewable Electricity Consumption With Reinforcement Learning
   abstract: As the share of renewable energy sources in the present electric energy
     mix rises, their intermittence proves to be the biggest challenge to carbon free
@@ -674,10 +722,12 @@
   author_names: Tolovski, Filip*
   author_emails: tolovskifilip@gmail.com*
   authors: Filip Tolovski (Fraunhofer Heinrich-Hertz-Institut)
+  zoom_id: 88216724805
+  session: Session2
   paper_num: 24
   paper_path: "/papers/iclr2020/50/paper.pdf"
   slides_path: "/papers/iclr2020/50/slides.pdf"
-- paper_id: 53.0
+- paper_id: 53
   paper_title: 'Xingu: Explaining critical geospatial predictions in weak supervision
     for climate finance'
   abstract: "Monitoring, Reporting, and Verification (MRV) play a crucial key role
@@ -703,10 +753,12 @@
     rotti@student.ethz.ch
   authors: David Dao (ETH Zurich); Johannes Rausch (ETH Zurich); Ce Zhang (ETH); Iveta
     Rott (ETH Zurich)
+  zoom_id: 88466180953
+  session: Session1
   paper_num: 25
   paper_path: "/papers/iclr2020/53/paper.pdf"
   slides_path: "/papers/iclr2020/53/slides.pdf"
-- paper_id: 55.0
+- paper_id: 55
   paper_title: Towards a unified standards for smart infrastructure datasets
   abstract: Development of smart devices and smart home appliances allowed us to harness
     more data about energy patterns inside households, overtime this amount will increase.
@@ -725,8 +777,12 @@
   author_names: Ahmed, Abdulrahman A*
   author_emails: abdulrahmanfci@gmail.com*
   authors: Abdulrahman A Ahmed (Cairo University)
+  zoom_id: 82006327071
+  session: Both
   paper_num: 26
-- paper_id: 57.0
+  paper_path: "/papers/iclr2020/55/paper.pdf"
+  slides_path: "/papers/iclr2020/55/slides.pdf"
+- paper_id: 57
   paper_title: MACHINE   LEARNING   APPLICATIONS   THAT CAN HELP PASTORAL COMMUNITIES
     IN NORTHERN  KENYA  AND  ELSEWHERE  ADAPT TO CLIMATE CHANGE
   abstract: I propose the use of Machine Learning techniques such as Active Learning(AL)
@@ -747,10 +803,12 @@
   author_names: Sankara, Jefferson*
   author_emails: jefferson.sankara@gmail.com*
   authors: Jefferson Sankara (Lori Systems)
+  zoom_id: 86096850400
+  session: Session1
   paper_num: 27
   paper_path: "/papers/iclr2020/57/paper.pdf"
   slides_path: "/papers/iclr2020/57/slides.pdf"
-- paper_id: 61.0
+- paper_id: 61
   paper_title: 'Nutrient demand, Risk and Climate change: Evidence from historical
     rice yield trials in India'
   abstract: 'We use data from historical agronomic fertilizer trials to identify the
@@ -771,8 +829,11 @@
   author_names: Agarwal, Sandip K*
   author_emails: sandipa@iiserb.ac.in*
   authors: Sandip K Agarwal (IISER Bhopal)
+  zoom_id: 81565679861
+  session: Session1
   paper_num: 28
-- paper_id: 69.0
+  slides_path: "/papers/iclr2020/61/slides.pdf"
+- paper_id: 69
   paper_title: USING MACHINE LEARNING TO ANALYZE CLIMATE CHANGE TECHNOLOGY TRANSFER
     (CCTT)
   abstract: 'The objective of the present paper is to review the climate change technology
@@ -800,10 +861,12 @@
   author_names: Kulkarni, Shruti*
   author_emails: shruti.iisc@gmail.com*
   authors: Shruti Kulkarni (Indian Institute of Science (IISc))
+  zoom_id: 87101335408
+  session: Session1
   paper_num: 29
   paper_path: "/papers/iclr2020/69/paper.pdf"
   slides_path: "/papers/iclr2020/69/slides.pdf"
-- paper_id: 70.0
+- paper_id: 70
   paper_title: Using ML to close the vocabulary gap in the context of environment
     and climate change in Chichewa
   abstract: 'In the west, alienation from nature and deteriorating opportunities to
@@ -838,4 +901,8 @@
   author_names: Taylor, Amelia*
   author_emails: avtaylor14@gmail.com*
   authors: Amelia Taylor (University of Malawi, The Polytechnic)
+  zoom_id: 89921130020
+  session: Both
   paper_num: 30
+  paper_path: "/papers/iclr2020/70/paper.pdf"
+  slides_path: "/papers/iclr2020/70/slides.pdf"

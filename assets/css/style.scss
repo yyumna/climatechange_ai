@@ -17,6 +17,7 @@ $dark: black;
 @import "bulma-scss/components/_navbar";
 @import "bulma-scss/components/_panel";
 @import "bulma-scss/components/_card";
+@import "bulma-scss/components/_dropdown";
 @import "bulma-scss/elements/_button";
 @import "bulma-scss/elements/_tag";
 @import "bulma-scss/form/_all";
@@ -361,6 +362,10 @@ details[open] summary {
     white-space: nowrap;
     width: 6rem;
   }
+
+  td:last-child {
+    width: 100%;
+  }
 }
 
 p:last-child {
@@ -371,11 +376,23 @@ td {
   vertical-align: top;
 }
 
-td details {
+td details, .paper details {
   font-size: 14px;
   margin-top: 5px !important;
   margin-bottom: 5px;
   padding: 5px;
   border: 1px solid #eee;
   background: #f8f8f8;
+}
+
+.paper .card-content {
+  font-size: 14px;
+}
+
+.paper + .paper {
+  margin-top: 1rem;
+}
+
+.paper details {
+  margin-bottom: 1rem;
 }

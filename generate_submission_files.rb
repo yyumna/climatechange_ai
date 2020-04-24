@@ -25,6 +25,9 @@ options[:submissions] ||= 'raw_cmt_files/iclr2020/Papers.xml'
 options[:cameraready] ||= 'raw_cmt_files/iclr2020/CameraReadySubmissions'
 options[:workshop] ||= 'iclr2020'
 
+zoom_file = "_data/#{options[:workshop]}_zoom.yml"
+zoom_info = File.exists?(zoom_file) && YAML.load(File.read(zoom_file))
+
 export = Roo::Excel2003XML.new(options[:submissions])
 sheet = export.sheet(0)
 parsed = sheet.parse(header_search: [/Paper ID/])
@@ -51,8 +54,15 @@ parsed.each do |p|
   paper_data['authors'] = paper_data['authors'].
     gsub(/\(\s+/, '(').
     gsub( /\s+\)/, ')').
-    gsub("*", "").
-    gsub('s s', "Sumeet Sandhu")
+    gsub("*", "")
+
+  paper_data['paper_id'] = paper_data['paper_id'].to_i
+
+  if zoom_info
+    zoom_info[paper_data['paper_id']].each do |k,v|
+      paper_data[k] = v
+    end
+  end
 
   papers << paper_data
 end
@@ -70,11 +80,18 @@ def aspect_ratio(pdf)
 end
 
 papers.each do |p|
-  pdfs = Dir.glob("#{options[:cameraready]}/#{p['paper_id'].to_i}\\\\*.pdf")
+  pdfs = Dir.glob("#{options[:cameraready]}/#{p['paper_id']}\\\\*.pdf")
   case pdfs.length
   when 1
-    paper_pdf = pdfs.first
-    slides_pdf = nil
+    pdf = pdfs.first
+    ar = aspect_ratio(pdf)
+    if ar < 1
+      paper_pdf = pdf
+      slides_pdf = nil
+    else
+      slides_pdf = pdf
+      paper_pdf = nil
+    end
   when 2
     r1, r2 = pdfs.map { |pdf| aspect_ratio(pdf) }
     if r2 > r1
@@ -90,7 +107,7 @@ papers.each do |p|
     end
   end
 
-  paper_dir = "papers/#{options[:workshop]}/#{p['paper_id'].to_i}"
+  paper_dir = "papers/#{options[:workshop]}/#{p['paper_id']}"
   FileUtils.mkdir_p(paper_dir)
 
   if paper_pdf
