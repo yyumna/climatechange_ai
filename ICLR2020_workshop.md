@@ -682,10 +682,10 @@ Works were submitted to one of two tracks: [Papers](#Papers) or [Proposals](#Pro
     <div class="dropdown-menu" id="dropdown-menu-{{ p.paper_id }}" role="menu">
       <div class="dropdown-content">
         {% if p.session == 'Session1' or p.session == 'Both' %}
-          <a href="https://us02web.zoom.us/j/{{ p.zoom_id }}" class="dropdown-item">Session 1 (11:00 - 12:00 UTC)</a>
+          <a href="https://us02web.zoom.us/j/{{ p.zoom_id }}" class="dropdown-item">Session 1 (April 26, 11:00 - 12:00 UTC)</a>
         {% endif %}
         {% if p.session == 'Session2' or p.session == 'Both' %}
-          <a href="https://us02web.zoom.us/j/{{ p.zoom_id }}" class="dropdown-item">Session 2 (19:00 - 20:00 UTC)</a>
+          <a href="https://us02web.zoom.us/j/{{ p.zoom_id }}" class="dropdown-item">Session 2 (April 26, 19:00 - 20:00 UTC)</a>
         {% endif %}
       </div>
     </div>
