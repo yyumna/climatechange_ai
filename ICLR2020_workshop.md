@@ -548,7 +548,15 @@ $(document).ready(function() {
         `
 
       ],
-      [wd(30,  16,  00), wd(30, 17,   00), "Hybrid physical models (with Zico Kolter)"],
+      [wd(30,  16,  00), wd(30, 17,   00), "Incorporating physics into deep models with implicit layers",
+        `
+        <strong>Abstract:</strong> Despite their wide applicability, many deep networks often fail to exactly capture simple "known" features of real-world data sets, such as those governed by physical laws.  In this talk, I'll present methods for integrating constraints such as physical simulation requirements <i>directly</i> into the predictions of a deep network.  Our tool for doing this will be the use of so-called implicit layers in deep models, layers that are defined implicitly in terms of conditions we would like them to satisfy, rather than via an explicit computation graph.  I'll discuss how we can use these layers to embed (exact) physical simulation within deep networks, discuss several related approaches, and highlight directions for future work.
+
+        <p>
+        <strong>Speaker Bio:</strong> Zico Kolter is an Associate Professor in the Computer Science Department at Carnegie Mellon University, and also serves as chief scientist of AI research for the Bosch Center for Artificial Intelligence. His work spans the intersection of machine learning and optimization, with a large focus on developing more robust and rigorous methods in deep learning. In addition, he has worked in a number of application areas, highlighted by work on sustainability and smart energy systems. He is a recipient of the DARPA Young Faculty Award, a Sloan Fellowship, and best paper awards at NeurIPS, ICML (honorable mention), IJCAI, KDD, and PESGM.
+        </p>
+        `
+      ],
       [wd(30,  17,  00), wd(30, 18,   00), "Tutorial: Climate Change 101 for Machine Learning"],
       [wd(30,  18,  00), wd(30, 19,   00), "Machine learning for accelerated science and engineering",
         `
@@ -732,6 +740,7 @@ Works were submitted to one of two tracks: [Papers](#Papers) or [Proposals](#Pro
 ## Co-organizers
 <a href="https://daviddao.org/" target="_blank">David Dao (ETH Zürich)</a>: _AFOLU Day_ <br>
 <a href="https://www.media.mit.edu/people/jaquesn/overview/" target="_blank">Natasha Jaques (UC Berkeley, Google Brain)</a>: _Social media_ <br>
+<a href="https://konstantinklemmer.github.io/" target="_blank">Konstantin Klemmer (University of Warwick)</a>: _Energy Day_ <br>
 <a href="http://www.kochanski.org/kelly/" target="_blank">Kelly Kochanski (CU Boulder)</a>: _Climate Science and Adaptation Day_ <br>
 <a href="https://www.mcc-berlin.net/en/about/team/milojevic-dupont-nikola.html" target="_blank">Nikola Milojevic-Dupont (MCC Berlin)</a>: _Energy Day_ <br>
 <a href="https://sites.google.com/prod/view/peetak" target="_blank">Peetak Mitra (UMass Amherst)</a>: _Climate Science and Adaptation Day_ <br>
