@@ -532,7 +532,22 @@ $(document).ready(function() {
   }, {
     day: 'April 30: Cross-cutting Methods Day',
     schedule: [
-      [wd(30,  15,  00), wd(30, 16,   00), "Forecasting"],
+      [wd(30,  15,  00), wd(30, 16,   00), "Next steps for forecasting across climate-relevant domains",
+        `
+        Forecasting is a key ingredient in many projects at the machine learning and climate change boundary, as knowing about the future can help (1) optimize systems operating in real-time and (2) design targeted interventions over the long-run. Join our discussion with experts who use forecasting across problem areas, including intelligent buildings, climate science, water resources, and transportation, and hear about systems deployed in these contexts as well as the challenges that lie on the horizon.
+
+        <p>
+          Speakers:
+          <ul>
+            <li><a href="https://www.empa.ch/web/s313/kristina-orehounig" target="_blank">Kristina Orehounig</a> (Empa)</li>
+            <li><a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-lloydt" target="_blank">Lloyd Treinish</a> (IBM Research)</li>
+            <li><a href="https://www.sarahmfletcher.com/" target="_blank">Sarah Fletcher</a> (MIT)</li>
+            <li><a href="https://viterbi-web.usc.edu/~liu32/" target="_blank">Yan Liu</a> (University of Southern California)</li>
+          </ul>
+          </p>
+        `
+
+      ],
       [wd(30,  16,  00), wd(30, 17,   00), "Hybrid physical models (with Zico Kolter)"],
       [wd(30,  17,  00), wd(30, 18,   00), "Tutorial: Climate Change 101 for Machine Learning"],
       [wd(30,  18,  00), wd(30, 19,   00), "Machine learning for accelerated science and engineering",
@@ -549,7 +564,7 @@ $(document).ready(function() {
           </p>
         `
       ],
-      [wd(30,  19,  00), wd(30, 20,   00), "Fireside chat on remote sensing and AI",
+      [wd(30,  19,  00), wd(30, 20,   00), "Fireside chat on remote sensing and artificial intelligence",
         `
         Remote sensing, such as satellite imagery, has produced an increasingly rich source of global data with numerous applications in areas such as clean energy, deforestation, and poverty mapping. Join us for a fireside chat with experts who are pioneering work at this intersection, including discussion on the breadth of challenges across various methodologies and applications.
 
