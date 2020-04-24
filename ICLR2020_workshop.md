@@ -625,6 +625,19 @@ $(document).ready(function() {
   }
 
   html.insertAfter(script);
+
+  //Array.from($('.paper .dropdown-item')).forEach((el) => {
+  //  console.log(el);
+  //  const sess1UTC = "11:00 - 12:00 UTC";
+  //  const sess2UTC = "19:00 - 20:00 UTC";
+  //  const sess1Loc = `${formatRange(wd(26, 11, 00), wd(26, 12, 00), tz)} ${tzShort}`;
+  //  const sess2Loc = `${formatRange(wd(26, 19, 00), wd(26, 20, 00), tz)} ${tzShort}`;
+  //  el.innerText = el.innerText.replace(
+  //    sess1UTC, `${sess1UTC} (${sess1Loc})`
+  //  ).replace(
+  //    sess2UTC, `${sess2UTC} (${sess2Loc})`
+  //  ); 
+  //});
 });
 </script>
 
