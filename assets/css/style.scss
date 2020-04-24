@@ -362,6 +362,10 @@ details[open] summary {
     white-space: nowrap;
     width: 6rem;
   }
+
+  td:last-child {
+    width: 100%;
+  }
 }
 
 p:last-child {
