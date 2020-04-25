@@ -51,12 +51,12 @@ layout: default
     <a href='#zoom' class='button'>Zoom Schedule</a>
   {% endif %}
 
-  {% if page.rocketchat_channel %}
-    <a href='#rocketchat' class='button'>Paper Chatroom</a>
-  {% endif %}
-
   {% if page.slideslive_id %}
     <a href='#slideslive' class='button'>Prerecorded Talk</a>
+  {% endif %}
+
+  {% if page.rocketchat_channel %}
+    <a href='#rocketchat' class='button'>Paper Chatroom</a>
   {% endif %}
 </div>
 
@@ -125,13 +125,6 @@ layout: default
   </script>
 {% endif %}
 
-{% if page.rocketchat_channel %}
-  <h3 id='rocketchat'>Discuss this paper (ICLR registration required)</h3>
-  <div class="rocket card">
-    <iframe frameborder="0" src="{{ page.rocketchat_channel }}?layout=embedded" width="100%" height="256px" style="display: block"></iframe>
-  </div>
-{% endif %}
-
 {% if page.slideslive_id %}
   <h3 id='slideslive'>Prerecorded talk</h3>
 
@@ -157,4 +150,13 @@ layout: default
       document.getElementById('status-message').innerHTML = "";
     });
   </script>
+{% endif %}
+
+{% if page.rocketchat_channel %}
+  <h3 id='rocketchat'>Discuss this paper (ICLR registration required)</h3>
+  <div class="rocket card">
+    <iframe frameborder="0" src="{{ page.rocketchat_channel }}?layout=embedded" width="100%" height="256px" style="display: block"></iframe>
+  </div>
+
+  <p>If the embedded chat is not loading, you can visit the chatroom <a href='{{ page.rocketchat_channel }}'>directly</a>. Note that <a href='https://iclr.cc/Register/view-registration'>ICLR registration</a> is required for this feature!</p>
 {% endif %}
