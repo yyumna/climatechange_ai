@@ -514,7 +514,7 @@ $(document).ready(function() {
       ]
     ]
   }, {
-    day: 'April 28: Agriculture, Forestry, and Other Land Use (AFOLU) Day',
+    day: "April 28: Agriculture, Forestry, and Other Land Use (AFOLU) Day<br><small>Jointly organized with the <a href='https://www.cv4gc.org/cv4a2020/' target='_blank'>Computer Vision for Agriculture workshop</a></small>",
     schedule: [
       [wd(28, 13, 00), wd(28, 14,  00), "Fireside chat with Catherine Nakalembe (agricultural monitoring and food security)",
         `
