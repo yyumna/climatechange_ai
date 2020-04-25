@@ -551,6 +551,7 @@
   cmt_id: 58
   zoom_id: 86229317422
   session: Session2
+  slideslive_id: '38926243'
   id: 16
   prev_paper_id: 15
   next_paper_id: 17
@@ -844,6 +845,7 @@
   cmt_id: 53
   zoom_id: 88466180953
   session: Session1
+  slideslive_id: '38926241'
   id: 25
   prev_paper_id: 24
   next_paper_id: 26
@@ -929,6 +931,7 @@
   cmt_id: 61
   zoom_id: 81565679861
   session: Session1
+  slideslive_id: '38926693'
   id: 28
   prev_paper_id: 27
   next_paper_id: 29
@@ -964,6 +967,7 @@
   cmt_id: 69
   zoom_id: 87101335408
   session: Session1
+  slideslive_id: '38926245'
   id: 29
   prev_paper_id: 28
   next_paper_id: 30
@@ -1007,6 +1011,7 @@
   cmt_id: 70
   zoom_id: 89921130020
   session: Session2
+  slideslive_id: '38926246'
   id: 30
   prev_paper_id: 29
   rocketchat_channel: https://iclr.rocket.chat/channel/climatechange_poster_30
