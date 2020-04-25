@@ -743,17 +743,17 @@ Works were submitted to one of two tracks: [Papers](#Papers) or [Proposals](#Pro
   </details>
 
   {% if p.paper_path %}
-    <a href='{{ p.paper_path }}' class='button is-link' target='_blank'>paper</a>
+    <a href='{{ p.paper_path }}' class='button' target='_blank'>Paper</a>
   {% endif %}
 
   {% if p.slides_path %}
-    <a href='{{ p.slides_path }}' class='button is-link' target='_blank'>slides</a>
+    <a href='{{ p.slides_path }}' class='button' target='_blank'>Slides</a>
   {% endif %}
 
   <div class="dropdown is-hoverable">
     <div class="dropdown-trigger">
-      <button class="button is-link" aria-haspopup="true" aria-controls="dropdown-menu-{{ p.paper_id }}">
-        <span>zoom info</span>
+      <button class="button" aria-haspopup="true" aria-controls="dropdown-menu-{{ p.paper_id }}">
+        <span>Zoom Info</span>
         <span class="icon is-small">
           <i class="mdi mdi-chevron-down" aria-hidden="true"></i>
         </span>
