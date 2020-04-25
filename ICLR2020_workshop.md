@@ -483,7 +483,7 @@ $(document).ready(function() {
       [wd(27, 17, 00), wd(27, 18, 00), "Updates from previous workshop presenters",
         // Wrap multi-line strings in `s rather than "s
         `
-        Join us for exciting updates from presenters at previous Climate Change AI workshops in the area of energy:
+        Join us for updates from presenters at previous Climate Change AI workshops in the areas of electricity, transportation, and buildings.
 
           <p>
           Speakers:
@@ -512,18 +512,15 @@ $(document).ready(function() {
   }, {
     day: 'April 28: Agriculture, Forestry, and Other Land Use (AFOLU) Day',
     schedule: [
-      [wd(28, 13, 00), wd(28, 14,  00), "Fireside chat with Catherine Lilian Nakalembe on agriculture and food security",
+      [wd(28, 13, 00), wd(28, 14,  00), "Fireside chat with Catherine Nakalembe (agricultural monitoring and food security)",
         `
-          Join us for a fireside chat with Prof. Catherine Nakalembe on agriculture and food security.
-          <p>
-          <strong>Speaker Bio:</strong> Catherine Nakalembe is an Assistant Research Professor at the University of Maryland. She grew up in Kampala, Uganda where she earned a BSc. at Makerere University in Environmental Science. She earned an MSc. in Geography and Environmental Engineering from the Johns Hopkins University and her Ph.D. in Geographical Science at the University of Maryland. Catherine has broad interest ranging from agriculture remote sensing, food security to climate change. She has worked with the World Bank Environment Group and Climate Change Unit, The Nature Conservancy, Washington Adventist University, The United Nations Development Program (UNDP) and the NASA LCLUC program. She is currently working with government agencies in Kenya, Tanzania, and Uganda as a co-investigator on the NASA SERVIR Applied Sciences Team and NASA Harvest. Catherine also serves as the Program Assistant for the NASA Land Cover and Land Use Change Program. Her doctoral research focused on drought and its impacts on land use and livelihoods in the Karamoja region of North Eastern Uganda. Catherine pioneered the repurposing of remote sensing by unmanned aerial vehicles (UAVs) from agricultural monitoring, to the survey of major refugee camps in her native Uganda.
-          </p>
+          Join us for a fireside chat with Catherine Nakalembe on sustainable agriculture, food security and climate change. Nakalembe is a professor at the University of Maryland; works with government agencies in Kenya, Tanzania, and Uganda as part of the NASA SERVIR Applied Sciences Team and NASA Harvest; and serves as Program Assistant for the NASA Land Cover and Land Use Change Program. She has also worked with the World Bank Environment Group and Climate Change Unit, The Nature Conservancy, and The United Nations Development Program (UNDP), among many other institutions.
         `
       ],
       [wd(28, 14, 00), wd(28, 15,  00), "Tutorial: Climate Change 101 for Machine Learning"],
       [wd(28, 15, 00), wd(28, 15,  40), "Updates from previous workshop presenters",
         `
-        Join us for exciting updates from presenters at previous Climate Change AI workshops in the area of land use.
+        Join us for updates from presenters at previous Climate Change AI workshops in the area of land use.
 
           <p>
           Speakers:
@@ -534,9 +531,9 @@ $(document).ready(function() {
           </p>
         `
       ],
-      [wd(28, 16, 00), wd(28, 17,  00), "AI4Farms: Precision agriculture and remote sensing",
+      [wd(28, 15, 40), wd(28, 17,  00), "Machine Learning and Agriculture: Precision Ag, Remote Sensing, and the Soil Microbiome",
         `
-        Join us for short talks on exciting projects in precision agriculture, genomics and remote sensing from leading experts at Indigo Ag, Microsoft FarmBeats, Trace Genomics, and the International Center for Tropical Agriculture.
+        Agricultural practices are a major contributor to climate change. Large amounts of energy are consumed by chemical synthesis, irrigation, and farm machinery, while greenhouse gas emissions also arise from the decomposition of fertilizer and organic matter in soil. Join us for short talks on how machine learning can advance agricultural sustainability via precision agriculture, remote sensing, and the soil microbiome.
 
         <p>
         Speakers:
@@ -549,9 +546,9 @@ $(document).ready(function() {
         </p>
         `
       ],
-      [wd(28, 17, 00), wd(28, 18,  00), "AI4Forests: Deforestation, afforestation and forestry",
+      [wd(28, 17, 00), wd(28, 18,  00), "Machine Learning and Forests: Deforestation, Afforestation, and Forest Management",
         `
-        Learn about how machine learning is currently used to protect, restore, and fund forests.
+        Deforestation and forest degradation are key influences on climate change, accounting for 17% of anthropogenic greenhouse gas emissions. In this session, we will learn about what drives unsustainable forest management and how machine learning can enable us to better protect, manage, and restore our world’s forests.
 
         <p>
         Speakers:
@@ -563,9 +560,9 @@ $(document).ready(function() {
         </p>
         `
       ],
-      [wd(28, 18, 00), wd(28, 19,  00), "Panel: The Future of Forests & Machine Learning",
+      [wd(28, 18, 00), wd(28, 19,  00), "Panel: Machine Learning and Forests",
         `
-        What does the future hold for forests and machine learning? Join us for a panel discussion on the opportunities and challenges of AI in forestry.
+        What are the biggest challenges and opportunities for machine learning in forestry? Join us in a discussion-based session, in which our panelists discuss novel and effective tools from policy and industry to advance sustainable forest management.
 
           <p>
           Panelists:
@@ -582,11 +579,50 @@ $(document).ready(function() {
     day: 'April 29: Climate Science and Adaptation Day',
     schedule: [
       [wd(29,  13,   0), wd(29, 14,   0), "Tutorial: Machine Learning 101 for Climate Change"],
-      [wd(29,  14,   0), wd(29, 14,  20), "Welcome and opening remarks"],
-      [wd(29,  14,  20), wd(29, 14,  30), "Icebreaker"],
-      [wd(29,  14,  30), wd(29, 16,   0), "Session I: Adaptability"],
-      [wd(29,  16,   0), wd(29, 17,  30), "Session II: Emulating Physical Models"],
-      [wd(29,  17,  30), wd(29, 19,   0), "Session III: Climate/Weather Forecasting"]
+      [wd(29,  14,   0), wd(29, 14,  30), "Welcome and opening remarks"],
+      [wd(29,  14,  30), wd(29, 16,   0), "Session I: Adaptability",
+        `
+        Learn more about the how machine learning can help in climate adaptation and how technology leaders, such as Google and Microsoft, are leveraging their AI expertise in building a climate resilient future. 
+
+        <p>
+        Detailed schedule (times are in UTC):
+        <ul>
+          <li>14:30-14:55 - <a href="https://www.linkedin.com/in/jason-hickey-5141148/" target="_blank">Jason Hickey</a> (Google AI)</li>
+          <li>14:55-15:20 - <a href="https://www.microsoft.com/en-us/research/people/lujoppa/" target="_blank">Lucas Joppa</a> (Microsoft)</li>
+          <li>15:20-15:40 - Discussion and breakout rooms</li>
+          <li>15:40-15:50 - <a href="https://www.linkedin.com/in/kolya-malkin-5b54658b/" target="_blank">Kolya Malkin</a> (Yale University)</li>
+          <li>15:50-16:00 - <a href="https://www.linkedin.com/in/ankurmahesh" target="_blank">Ankur Mahesh</a> (Climate AI)</li>
+        `
+      ],
+      [wd(29,  16,   0), wd(29, 17,  30), "Session II: Physics Emulators",
+        `
+        Learn how the advances in machine learning can help build complicated "Physics Emulators", critical for risk assessment and mitigation. 
+
+        <p>
+        Detailed schedule (times are in UTC):
+        <ul>
+          <li>16:00-16:25 - <a href="https://research.google/people/YossiMatias/" target="_blank">Yossi Matias</a> (Google AI)</li>
+          <li>16:25-16:50 - <a href="https://www2.physics.ox.ac.uk/contacts/people/kasim" target="_blank">Muhammad Kasim</a> (University of Oxford)</li>
+          <li>16:50-17:10 - Discussion and breakout rooms</li>
+          <li>17:10-17:20 - <a href="https://www.linkedin.com/in/soohyun-kim-bab228174" target="_blank">Sookyung Kim</a> (Lawrence Livermore)</li>
+          <li>17:20-17:30 - <a href="http://vzantedeschi.com/" target="_blank">Valentina Zantedeschi</a> (Jean Monnet University)</li>
+        `
+      ],
+      [wd(29,  17,  30), wd(29, 19,   25), "Session III: Climate Forecasting",
+        `
+        Learn more about advances (and challenges) in climate forecasting using machine learning from leaders in climate science from industry and national laboratories.
+
+        <p>
+        Detailed schedule (times are in UTC):
+        <ul>
+          <li>17:30-17:55 - <a href="http://stanford.edu/~lmackey/" target="_blank">Lester Mackey</a> (Microsoft Research)</li>
+          <li>17:55-18:20 - <a href="https://public.lanl.gov/balu/" target="_blank">Balu Nadiga</a> (Los Alamos)</li>
+          <li>18:20-18:45 - <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-cwatson" target="_blank">Campbell Watson</a> (IBM)</li>
+          <li>18:45-19:05 - Discussion and breakout rooms</li>
+          <li>19:05-19:25 - <a href="https://www.linkedin.com/in/adrian-albert-17529a14" target="_blank">Adrian Albert</a> (Terrafuse, Lawrence Berkeley)</li>
+        `
+      ],
+      [wd(29,  19,   25), wd(29, 19,  30), "Closing remarks and conclusion"]
     ]
   }, {
     day: 'April 30: Cross-cutting Methods Day',
@@ -607,7 +643,7 @@ $(document).ready(function() {
         `
 
       ],
-      [wd(30,  16,  00), wd(30, 17,   00), "Incorporating physics into deep models with implicit layers",
+      [wd(30,  16,  00), wd(30, 17,   00), "Zico Kolter: Incorporating physics into deep models with implicit layers",
         `
         <strong>Abstract:</strong> Despite their wide applicability, many deep networks often fail to exactly capture simple "known" features of real-world data sets, such as those governed by physical laws.  In this talk, I'll present methods for integrating constraints such as physical simulation requirements <i>directly</i> into the predictions of a deep network.  Our tool for doing this will be the use of so-called implicit layers in deep models, layers that are defined implicitly in terms of conditions we would like them to satisfy, rather than via an explicit computation graph.  I'll discuss how we can use these layers to embed (exact) physical simulation within deep networks, discuss several related approaches, and highlight directions for future work.
 
