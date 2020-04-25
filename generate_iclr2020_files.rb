@@ -17,7 +17,6 @@ slideslive_progress_file = "raw_workshop_files/iclr2020/slideslive_editing_progr
 
 titles_to_sluid = {}
 sluids_to_video = {}
-sluids_to_ready = {}
 
 CSV.read(slideslive_mapping_file, headers: true).each do |row|
   titles_to_sluid[row["Talk/paper title"]] = row["ID"]
@@ -26,7 +25,6 @@ end
 CSV.read(slideslive_progress_file, headers: true).each do |row|
   id = row["Unique ID"]
   next unless id.start_with?("TCML")
-  sluids_to_ready[id] = (row["Done"] == "Yes")
   sluids_to_video[id] = row["SlidesLive ID"]
 end
 
@@ -67,7 +65,7 @@ parsed.each do |p|
   end
 
   if sluid = titles_to_sluid[paper_data['paper_title']]
-    if sluids_to_ready[sluid]
+    if (sluids_to_video[sluid] || '').length > 0
       paper_data['slideslive_id'] = sluids_to_video[sluid]
     end
   end
