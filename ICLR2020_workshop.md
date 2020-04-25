@@ -764,77 +764,43 @@ $(document).ready(function() {
 
 Works were submitted to one of two tracks: [Papers](#Papers) or [Proposals](#Proposals). 
 
-{% assign track = '' %}
+{% assign tracks = "Papers Proposals" | split: " " %}
+{% for track in tracks %}
+<h3 id='{{ track }}'>{{ track }}</h3>
 
-{% for p in site.data.iclr2020_papers %}
-  {% if p.q1_track != track %}
-
-  <h3 id='{{ p.q1_track }}'>{{ p.q1_track }}</h3>
-
+<table class='paper-table'>
+  <thead><tr>
+  <th>Title</th>
+  <th>Authors</th>
+  <th>Session</th>
+  </tr></thead>
+  
+  <tbody>
+  {% for p in site.data.iclr2020_papers %}
+  {% if p.q1_track == track %}
+  <tr>
+  <td><a href="/papers/iclr2020/{{ p.id }}">({{ p.id }}) {{ p.paper_title }}</a></td>
+  <td>{{ p.authors }}</td>
+  <td>
+  {% if p.session == 'Session1' %}
+    1
+  {% elsif p.session == 'Session2' %}
+    2
+  {% elsif p.session == 'Both' %}
+    1 &amp; 2
   {% endif %}
-
-  <div class='card paper'>
-
-  <header class='card-header'>
-  <div class='card-header-title' id='paper-{{ p.paper_num }}'>
-    ({{ p.paper_num }}) {{ p.paper_title }}
-
-  </div>
-  </header>
-
-  <div class='card-content'>
-
-  <p>
-    <em>{{ p.authors }}</em>
-  </p>
-
-  <details>
-    <summary>Abstract: (click to expand)</summary>
-
-    {{ p.abstract }}
-  </details>
-
-  {% if p.paper_path %}
-    <a href='{{ p.paper_path }}' class='button' target='_blank'>Paper</a>
+  </td>
+  </tr>
   {% endif %}
-
-  {% if p.slides_path %}
-    <a href='{{ p.slides_path }}' class='button' target='_blank'>Slides</a>
-  {% endif %}
-
-  <div class="dropdown is-hoverable">
-    <div class="dropdown-trigger">
-      <button class="button" aria-haspopup="true" aria-controls="dropdown-menu-{{ p.paper_id }}">
-        <span>Zoom Info</span>
-        <span class="icon is-small">
-          <i class="mdi mdi-chevron-down" aria-hidden="true"></i>
-        </span>
-      </button>
-    </div>
-    <div class="dropdown-menu" id="dropdown-menu-{{ p.paper_id }}" role="menu">
-      <div class="dropdown-content">
-        {% if p.session == 'Session1' or p.session == 'Both' %}
-          <a href="https://us02web.zoom.us/j/{{ p.zoom_id }}" class="dropdown-item">Session 1 (April 26, 11:00 - 12:00 UTC)</a>
-        {% endif %}
-        {% if p.session == 'Session2' or p.session == 'Both' %}
-          <a href="https://us02web.zoom.us/j/{{ p.zoom_id }}" class="dropdown-item">Session 2 (April 26, 19:00 - 20:00 UTC)</a>
-        {% endif %}
-      </div>
-    </div>
-  </div>
-
-  </div>
-  </div>
-
-  {% assign track = p.q1_track %}
+  {% endfor %}
+  </tbody>
+</table>
 {% endfor %}
-
 
 ## Sponsors
 ![Microsoft logo](/images/microsoft.png)
 
 ![DeepMind logo](/images/deepmind.png) 
-
 
 ## Organizers
 <a href="https://priyadonti.com/" target="_blank">Priya Donti (CMU)</a> <br>
