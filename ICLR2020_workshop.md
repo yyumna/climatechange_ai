@@ -53,7 +53,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
 ### Chat (ICLR registration required)
 
 <div class="rocket card">
-  <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_climatechange?layout=embedded" width="100%" height="300px" style="display: block"></iframe>
+  <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_climatechange?layout=embedded" width="100%" height="400px" style="display: block"></iframe>
 </div>
 <p>If the embedded chat is not loading, you can visit the chatroom <a href='{{ page.rocketchat_channel }}'>directly</a>. Note that <a href='https://iclr.cc/Register/view-registration'>ICLR registration</a> is required for this feature!</p>
 
