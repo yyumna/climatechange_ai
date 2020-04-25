@@ -806,7 +806,7 @@ Works were submitted to one of two tracks: [Papers](#Papers) or [Proposals](#Pro
   <thead><tr>
   <th>Title</th>
   <th>Authors</th>
-  <th>Session</th>
+  <th>Poster Session</th>
   </tr></thead>
   
   <tbody>
@@ -815,13 +815,14 @@ Works were submitted to one of two tracks: [Papers](#Papers) or [Proposals](#Pro
   <tr>
   <td><a href="/papers/iclr2020/{{ p.id }}">({{ p.id }}) {{ p.paper_title }}</a></td>
   <td>{{ p.authors }}</td>
-  <td>
+  <td style='white-space: nowrap'>
   {% if p.session == 'Session1' %}
-    1
+    12:00 - 13:00 UTC
   {% elsif p.session == 'Session2' %}
-    2
+    18:45 - 20:00 UTC
   {% elsif p.session == 'Both' %}
-    1 &amp; 2
+    12:00 - 13:00 UTC,<br>
+    18:45 - 20:00 UTC
   {% endif %}
   </td>
   </tr>
