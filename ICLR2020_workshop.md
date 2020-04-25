@@ -507,7 +507,11 @@ $(document).ready(function() {
           Join <a href="https://www.linkedin.com/in/jonbonanno/" target="_blank">Jon Bonanno</a>, CXO of <a href="https://www.newenergynexus.com/about/" target="_blank">New Energy Nexus</a>, for a fireside chat on how to build a business in clean tech. Jon will draw upon his personal journey in this space -- where he has built nine businesses directly and hundreds indirectly -- to provide advice to researchers working in machine learning or climate/energy who would like to enter the cleantech startup space.
         `
       ],
-      [wd(27, 19, 00), wd(27, 20, 00), "Tutorial: Machine Learning 101 for Climate Change"]
+      [wd(27, 19, 00), wd(27, 20, 00), "Tutorial: Machine Learning 101",
+      `
+        Join Sharon Zhou and Sasha Luccioni for an introduction to machine learning methods and how they can be relevant in climate change mitigation and adaptation.
+      `
+      ]
     ]
   }, {
     day: 'April 28: Agriculture, Forestry, and Other Land Use (AFOLU) Day',
@@ -517,7 +521,11 @@ $(document).ready(function() {
           Join us for a fireside chat with Catherine Nakalembe on sustainable agriculture, food security and climate change. Nakalembe is a professor at the University of Maryland; works with government agencies in Kenya, Tanzania, and Uganda as part of the NASA SERVIR Applied Sciences Team and NASA Harvest; and serves as Program Assistant for the NASA Land Cover and Land Use Change Program. She has also worked with the World Bank Environment Group and Climate Change Unit, The Nature Conservancy, and The United Nations Development Program (UNDP), among many other institutions.
         `
       ],
-      [wd(28, 14, 00), wd(28, 15,  00), "Tutorial: Climate Change 101 for Machine Learning"],
+      [wd(28,  14,  00), wd(28, 15,   00), "Tutorial: Climate Change 101",
+      `
+        Join Lynn Kaack, Kris Sankaran, and Priya Donti for an introduction to the topic of climate change and how machine learning can be relevant in reducing and responding to climate change.
+      `
+      ],
       [wd(28, 15, 00), wd(28, 15,  40), "Updates from previous workshop presenters",
         `
         Join us for updates from presenters at previous Climate Change AI workshops in the area of land use.
@@ -578,7 +586,11 @@ $(document).ready(function() {
   }, {
     day: 'April 29: Climate Science and Adaptation Day',
     schedule: [
-      [wd(29,  13,   0), wd(29, 14,   0), "Tutorial: Machine Learning 101 for Climate Change"],
+      [wd(29, 13, 00), wd(29, 14, 00), "Tutorial: Machine Learning 101",
+      `
+        Join Sharon Zhou and Sasha Luccioni for an introduction to machine learning methods and how they can be relevant in climate change mitigation and adaptation.
+      `
+      ],
       [wd(29,  14,   0), wd(29, 14,  30), "Welcome and opening remarks"],
       [wd(29,  14,  30), wd(29, 16,   0), "Session I: Adaptability",
         `
@@ -604,7 +616,7 @@ $(document).ready(function() {
           <li>16:00-16:25 - <a href="https://research.google/people/YossiMatias/" target="_blank">Yossi Matias</a> (Google AI)</li>
           <li>16:25-16:50 - <a href="https://www2.physics.ox.ac.uk/contacts/people/kasim" target="_blank">Muhammad Kasim</a> (University of Oxford)</li>
           <li>16:50-17:10 - Discussion and breakout rooms</li>
-          <li>17:10-17:20 - <a href="https://www.linkedin.com/in/soohyun-kim-bab228174" target="_blank">Sookyung Kim</a> (Lawrence Livermore)</li>
+          <li>17:10-17:20 - <a href="https://www.linkedin.com/in/soohyun-kim-bab228174" target="_blank">Soohyun Kim</a> (Lawrence Livermore)</li>
           <li>17:20-17:30 - <a href="http://vzantedeschi.com/" target="_blank">Valentina Zantedeschi</a> (Jean Monnet University)</li>
         `
       ],
@@ -652,7 +664,11 @@ $(document).ready(function() {
         </p>
         `
       ],
-      [wd(30,  17,  00), wd(30, 18,   00), "Tutorial: Climate Change 101 for Machine Learning"],
+      [wd(30,  17,  00), wd(30, 18,   00), "Tutorial: Climate Change 101",
+      `
+        Join Lynn Kaack, Kris Sankaran, and Priya Donti for an introduction to the topic of climate change and how machine learning can be relevant in reducing and responding to climate change.
+      `
+      ],
       [wd(30,  18,  00), wd(30, 19,   00), "Machine learning for accelerated science and engineering",
         `
         Be it discovering next-generation solar panels, modeling battery degradation, or tuning fusion reactors, there are many applications where machine learning can supplement and even accelerate the science and engineering of clean technologies. Join us for a series of short talks from speakers using machine learning for accelerated science and engineering, followed by a discussion of interesting methodological challenges in this space.
