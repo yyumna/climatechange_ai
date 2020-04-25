@@ -148,12 +148,12 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   <div class="person__title"></div>
 </a>
 
-<a class="person__item" href="https://www.microsoft.com/en-us/research/people/jchayes/" target="_blank">
+<a class="person__item" href="https://data.berkeley.edu/jennifer-chayes" target="_blank">
   <div class="person__pic-wrapper">
     <img class="person__pic" src="images/people/jenniferchayes_200x200.jpg">
   </div>
   <div class="person__name">Jennifer Chayes</div>
-  <div class="person__affil">Microsoft Research</div>
+  <div class="person__affil">UC Berkeley</div>
   <div class="person__title"></div>
 </a>
 
