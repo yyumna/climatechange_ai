@@ -483,7 +483,7 @@ $(document).ready(function() {
       [wd(27, 17, 00), wd(27, 18, 00), "Updates from previous workshop presenters",
         // Wrap multi-line strings in `s rather than "s
         `
-        This session will feature updates from authors of selected works presented at previous Climate Change AI workshops (at ICML 2019, NeurIPS 2019, and AMLD 2020).
+        Join us for exciting updates from presenters at previous Climate Change AI workshops in the area of energy:
 
           <p>
           Speakers:
@@ -512,12 +512,71 @@ $(document).ready(function() {
   }, {
     day: 'April 28: Agriculture, Forestry, and Other Land Use (AFOLU) Day',
     schedule: [
-      [wd(28, 13, 00), wd(28, 14,  00), "Fireside chat with Catherine Lilian Nakalembe on agriculture and food security"],
-      [wd(28, 14, 00), wd(28, 15,  00), "Precision agiculture and remote sensing"],
-      [wd(28, 15, 00), wd(28, 16,  00), "Updates from previous workshop presenters"],
-      [wd(28, 16, 00), wd(28, 17,  00), "Tutorial: Climate Change 101 for Machine Learning"],
-      [wd(28, 17, 00), wd(28, 18,  00), "Deforestation, afforestation, and forestry"],
-      [wd(28, 18, 00), wd(28, 19,  00), "Panel: The Future of Forests & Machine Learning"],
+      [wd(28, 13, 00), wd(28, 14,  00), "Fireside chat with Catherine Lilian Nakalembe on agriculture and food security",
+        `
+          Join us for a fireside chat with Prof. Catherine Nakalembe on agriculture and food security.
+          <p>
+          <strong>Speaker Bio:</strong> Catherine Nakalembe is an Assistant Research Professor at the University of Maryland. She grew up in Kampala, Uganda where she earned a BSc. at Makerere University in Environmental Science. She earned an MSc. in Geography and Environmental Engineering from the Johns Hopkins University and her Ph.D. in Geographical Science at the University of Maryland. Catherine has broad interest ranging from agriculture remote sensing, food security to climate change. She has worked with the World Bank Environment Group and Climate Change Unit, The Nature Conservancy, Washington Adventist University, The United Nations Development Program (UNDP) and the NASA LCLUC program. She is currently working with government agencies in Kenya, Tanzania, and Uganda as a co-investigator on the NASA SERVIR Applied Sciences Team and NASA Harvest. Catherine also serves as the Program Assistant for the NASA Land Cover and Land Use Change Program. Her doctoral research focused on drought and its impacts on land use and livelihoods in the Karamoja region of North Eastern Uganda. Catherine pioneered the repurposing of remote sensing by unmanned aerial vehicles (UAVs) from agricultural monitoring, to the survey of major refugee camps in her native Uganda.
+          </p>
+        `
+      ],
+      [wd(28, 14, 00), wd(28, 15,  00), "Tutorial: Climate Change 101 for Machine Learning"],
+      [wd(28, 15, 00), wd(28, 15,  40), "Updates from previous workshop presenters",
+        `
+        Join us for exciting updates from presenters at previous Climate Change AI workshops in the area of land use.
+
+          <p>
+          Speakers:
+          <ul>
+            <li>Björn Lütjens, "Machine Learning-based Estimation of Forest Carbon Stocks to increase Transparency of Forest Preservation Efforts" (NeurIPS 2019)</li>
+            <li>Benjamin Franchetti, "Deep Learning in Vertical Farming under Artificial Lighting" (AMLD 2020)</li>
+          </ul>
+          </p>
+        `
+      ],
+      [wd(28, 16, 00), wd(28, 17,  00), "AI4Farms: Precision agriculture and remote sensing",
+        `
+        Join us for short talks on exciting projects in precision agriculture, genomics and remote sensing from leading experts at Indigo Ag, Microsoft FarmBeats, Trace Genomics, and the International Center for Tropical Agriculture.
+
+        <p>
+        Speakers:
+        <ul>
+            <li> <a href="https://www.linkedin.com/in/stevenprager/?originalSubdomain=co" target="_blank">Steve Prager</a> (International Center for Tropical Agriculture)</li>
+            <li> <a href="https://www.linkedin.com/in/dianewu" target="_blank">Diane Wu</a> (Trace Genomics)</li>
+            <li> <a href="https://www.linkedin.com/in/subit-chakrabarti-74045456/", target="_blank">Subit Chakrabarti</a> (Indigo Ag)</li>
+            <li> <a href="https://www.zerinakapetanovic.com/", target="_blank">Zerina Kapetanovic</a> (Microsoft FarmBeats)</li>
+        </ul>
+        </p>
+        `
+      ],
+      [wd(28, 17, 00), wd(28, 18,  00), "AI4Forests: Deforestation, afforestation and forestry",
+        `
+        Learn about how machine learning is currently used to protect, restore, and fund forests.
+
+        <p>
+        Speakers:
+        <ul>
+          <li><a href="https://www.linkedin.com/in/maxnova/" target="_blank">Max Nova</a> (SilviaTerra)</li>
+          <li><a href="https://www.crowtherlab.com/team_members/simeon-max/" target="_blank">Simeon Max</a> (ETH Zürich)</li>
+          <li><a href="https://janinagrabs.com/" target="_blank">Janina Grabs</a> and <a href="https://www.linkedin.com/in/sam-levy-7b2728a7/" target="_blank">Sam Levy</a> (ETH Zürich)</li>
+        </ul>
+        </p>
+        `
+      ],
+      [wd(28, 18, 00), wd(28, 19,  00), "Panel: The Future of Forests & Machine Learning",
+        `
+        What does the future hold for forests and machine learning? Join us for a panel discussion on the opportunities and challenges of AI in forestry.
+
+          <p>
+          Panelists:
+          <ul>
+            <li><a href="https://www.linkedin.com/in/maxnova/" target="_blank">Max Nova</a> (SilviaTerra)</li>
+            <li><a href="https://www.crowtherlab.com/team_members/simeon-max/" target="_blank">Simeon Max</a> (ETH Zürich)</li>
+            <li><a href="https://janinagrabs.com/" target="_blank">Janina Grabs</a> and <a href="https://www.linkedin.com/in/sam-levy-7b2728a7/" target="_blank">Sam Levy</a> (ETH Zürich)</li>
+          </ul>
+          </p>
+        `
+      ],
     ]
   }, {
     day: 'April 29: Climate Science and Adaptation Day',
