@@ -23,6 +23,39 @@ og_image_height: 555
 
 Many in the ML community wish to take action on climate change, yet feel their skills are inapplicable. This workshop aims to show that in fact the opposite is true: while no silver bullet, **ML can be an invaluable tool both in reducing greenhouse gas emissions and in helping society adapt to the effects of climate change**. Climate change is a complex problem, for which action takes many forms - from designing smart electrical grids to tracking deforestation in satellite imagery. Many of these actions represent high-impact opportunities for real-world change, as well as being interesting problems for ML research.
 
+## Livestream
+
+### Video
+
+<div id="presentation-embed-{{ page.slides_live_id }}" class="slp"></div>
+<div id='status-message'>
+  <em>Loading&hellip;</em>
+</div>
+
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+  const sle = new SlidesLiveEmbed("presentation-embed-{{ page.slideslive_id }}", {
+    presentationId: '{{ page.slideslive_id }}',
+    autoPlay: false, // change to true to autoplay the embedded presentation
+    verticalEnabled: true,
+    allowHiddenControlsWhenPaused: true,
+    zoomRatio: 0.25,
+    hideTitle: true,
+  });
+  sle.addCallback("onError", (err) => {
+    document.getElementById('status-message').innerHTML = "<em>Video coming soon!</em>";
+  });
+  sle.addCallback("onLoad", () => {
+    document.getElementById('status-message').innerHTML = "";
+  });
+</script>
+
+### Chat (ICLR registration required)
+
+<div class="rocket card">
+  <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_climatechange?layout=embedded" width="100%" height="300px" style="display: block"></iframe>
+</div>
+
 ## About ICLR
 The International Conference on Learning Representations (ICLR) is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting at or attending the main ICLR conference. Those interested should register for ICLR at <https://iclr.cc/Register/view-registration>.
 
