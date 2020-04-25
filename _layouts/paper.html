@@ -1,0 +1,162 @@
+---
+layout: default
+---
+
+{% if page.workshop == 'iclr2020' %}
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="/ICLR2020_workshop">ICLR 2020 Workshop</a></li>
+    <li class="is-active"><a href="#" aria-current="page">Paper #{{ page.id }}</a></li>
+    <li class="next-prev">
+      {% if page.prev_paper_id %}
+        <a href="/papers/iclr2020/{{page.prev_paper_id}}">
+          <span class="icon is-small">
+            <i class="mdi mdi-arrow-left" aria-hidden="true"></i>
+          </span>
+          Previous
+        </a>
+      {% else %}
+        <span class='cursor-no'>Previous</span>
+      {% endif %}
+      {% if page.next_paper_id %}
+        <a href="/papers/iclr2020/{{page.next_paper_id}}">
+          Next
+          <span class="icon is-small">
+            <i class="mdi mdi-arrow-right" aria-hidden="true"></i>
+          </span>
+        </a>
+      {% else %}
+        <span class='cursor-no'>Next</span>
+      {% endif %}
+    </li>
+  </ul>
+</nav>
+<hr>
+{% endif %}
+
+<h2>{{ page.paper_title }} ({{ page.q1_track }} Track)</h2>
+
+<p><em>{{ page.authors }}</em></p>
+
+<div class='buttons'>
+  {% if page.paper_path %}
+    <a href='{{ page.paper_path }}' class='button' target='_blank'>Paper PDF</a>
+  {% endif %}
+
+  {% if page.slides_path %}
+    <a href='{{ page.slides_path }}' class='button' target='_blank'>Slides PDF</a>
+  {% endif %}
+
+  {% if page.zoom_id %}
+    <a href='#zoom' class='button'>Zoom Schedule</a>
+  {% endif %}
+
+  {% if page.slideslive_id %}
+    <a href='#slideslive' class='button'>Prerecorded Talk</a>
+  {% endif %}
+
+  {% if page.rocketchat_channel %}
+    <a href='#rocketchat' class='button'>Paper Chatroom</a>
+  {% endif %}
+</div>
+
+<h3 id='abstract' class='abstract-header'>Abstract</h3>
+<p class='abstract-text'>{{ page.abstract }}</p>
+
+{% if page.zoom_id %}
+  <h3 id='zoom'>Live poster session schedule</h3>
+
+  <table>
+    <thead>
+      <tr>
+        <th id='fill-timezone'>Time (&hellip;)</th>
+        <th>Time (UTC)</th>
+        <th>Session</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% if page.session == 'Session1' or page.session == 'Both' %}
+        <tr>
+          <td id='fill-session1'></td>
+          <td>11:00 - 12:00</td>
+          <td>Session 1</td>
+          <td><a href="https://us02web.zoom.us/j/{{ page.zoom_id }}" target="_blank">Watch on Zoom</a></td>
+        </tr>
+      {% endif %}
+      {% if page.session == 'Session2' or page.session == 'Both' %}
+        <tr>
+          <td id='fill-session2'></td>
+          <td>19:00 - 20:00</td>
+          <td>Session 2</td>
+          <td><a href="https://us02web.zoom.us/j/{{ page.zoom_id }}" target="_blank">Watch on Zoom</a></td>
+        </tr>
+      {% endif %}
+    </tbody>
+  </table>
+
+  <script src="https://cdn.jsdelivr.net/npm/luxon@1.23.0/build/global/luxon.min.js"></script>
+  <script>
+    $(document).ready(() => {
+      const DateTime = luxon.DateTime;
+      const tzShort = DateTime.local().toFormat("ZZZZ");
+
+      document.getElementById('fill-timezone').innerText = `Time (${tzShort})`;
+
+      const s1_start = DateTime.utc(2020, 4, 26, 12, 0, 0, 0);
+      const s2_start = DateTime.utc(2020, 4, 26, 18, 45, 0, 0);
+
+      const s1_end = DateTime.utc(2020, 4, 26, 13, 0, 0, 0);
+      const s2_end = DateTime.utc(2020, 4, 26, 20, 0, 0, 0);
+
+      function formatRange(t1, t2) {
+        const zone = DateTime.local().zoneName;
+        const h1 = t1.setZone(zone).toFormat("H:mm");
+        const h2 = t2.setZone(zone).toFormat("H:mm");
+        return `${h1} - ${h2}`;
+      }
+
+      const sess1 = document.getElementById('fill-session1');
+      const sess2 = document.getElementById('fill-session2');
+
+      if (sess1) sess1.innerText = formatRange(s1_start, s1_end);
+      if (sess2) sess2.innerText = formatRange(s2_start, s2_end);
+    });
+  </script>
+{% endif %}
+
+{% if page.slideslive_id %}
+  <h3 id='slideslive'>Prerecorded talk</h3>
+
+  <div id="presentation-embed-{{ page.slideslive_id }}" class="slp"></div>
+  <div id='status-message'>
+    <em>Loading&hellip;</em>
+  </div>
+
+  <script src='https://slideslive.com/embed_presentation.js'></script>
+  <script>
+    const sle = new SlidesLiveEmbed("presentation-embed-{{ page.slideslive_id }}", {
+      presentationId: '{{ page.slideslive_id }}',
+      autoPlay: false, // change to true to autoplay the embedded presentation
+      verticalEnabled: true,
+      allowHiddenControlsWhenPaused: true,
+      zoomRatio: 0.25,
+      hideTitle: true,
+    });
+    sle.addCallback("onError", (err) => {
+      document.getElementById('status-message').innerHTML = "<em>Video coming soon!</em>";
+    });
+    sle.addCallback("onLoad", () => {
+      document.getElementById('status-message').innerHTML = "";
+    });
+  </script>
+{% endif %}
+
+{% if page.rocketchat_channel %}
+  <h3 id='rocketchat'>Discuss this paper (ICLR registration required)</h3>
+  <div class="rocket card">
+    <iframe frameborder="0" src="{{ page.rocketchat_channel }}?layout=embedded" width="100%" height="256px" style="display: block"></iframe>
+  </div>
+
+  <p>If the embedded chat is not loading, you can visit the chatroom <a href='{{ page.rocketchat_channel }}'>directly</a>. Note that <a href='https://iclr.cc/Register/view-registration'>ICLR registration</a> is required for this feature!</p>
+{% endif %}

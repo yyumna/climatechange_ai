@@ -23,6 +23,40 @@ og_image_height: 555
 
 Many in the ML community wish to take action on climate change, yet feel their skills are inapplicable. This workshop aims to show that in fact the opposite is true: while no silver bullet, **ML can be an invaluable tool both in reducing greenhouse gas emissions and in helping society adapt to the effects of climate change**. Climate change is a complex problem, for which action takes many forms - from designing smart electrical grids to tracking deforestation in satellite imagery. Many of these actions represent high-impact opportunities for real-world change, as well as being interesting problems for ML research.
 
+## Livestream
+
+### Video
+
+<div id="presentation-embed-{{ page.slides_live_id }}" class="slp"></div>
+<div id='status-message'>
+  <em>Loading&hellip;</em>
+</div>
+
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+  const sle = new SlidesLiveEmbed("presentation-embed-{{ page.slideslive_id }}", {
+    presentationId: '{{ page.slideslive_id }}',
+    autoPlay: false, // change to true to autoplay the embedded presentation
+    verticalEnabled: true,
+    allowHiddenControlsWhenPaused: true,
+    zoomRatio: 0.25,
+    hideTitle: true,
+  });
+  sle.addCallback("onError", (err) => {
+    document.getElementById('status-message').innerHTML = "<em>Video coming soon!</em>";
+  });
+  sle.addCallback("onLoad", () => {
+    document.getElementById('status-message').innerHTML = "";
+  });
+</script>
+
+### Chat (ICLR registration required)
+
+<div class="rocket card">
+  <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_climatechange?layout=embedded" width="100%" height="300px" style="display: block"></iframe>
+</div>
+<p>If the embedded chat is not loading, you can visit the chatroom <a href='{{ page.rocketchat_channel }}'>directly</a>. Note that <a href='https://iclr.cc/Register/view-registration'>ICLR registration</a> is required for this feature!</p>
+
 ## About ICLR
 The International Conference on Learning Representations (ICLR) is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting at or attending the main ICLR conference. Those interested should register for ICLR at <https://iclr.cc/Register/view-registration>.
 
@@ -764,77 +798,44 @@ $(document).ready(function() {
 
 Works were submitted to one of two tracks: [Papers](#Papers) or [Proposals](#Proposals). 
 
-{% assign track = '' %}
+{% assign tracks = "Papers Proposals" | split: " " %}
+{% for track in tracks %}
+<h3 id='{{ track }}'>{{ track }}</h3>
 
-{% for p in site.data.iclr2020_papers %}
-  {% if p.q1_track != track %}
-
-  <h3 id='{{ p.q1_track }}'>{{ p.q1_track }}</h3>
-
+<table class='paper-table'>
+  <thead><tr>
+  <th>Title</th>
+  <th>Authors</th>
+  <th>Poster Session</th>
+  </tr></thead>
+  
+  <tbody>
+  {% for p in site.data.iclr2020_papers %}
+  {% if p.q1_track == track %}
+  <tr>
+  <td><a href="/papers/iclr2020/{{ p.id }}">({{ p.id }}) {{ p.paper_title }}</a></td>
+  <td>{{ p.authors }}</td>
+  <td style='white-space: nowrap'>
+  {% if p.session == 'Session1' %}
+    12:00 - 13:00 UTC
+  {% elsif p.session == 'Session2' %}
+    18:45 - 20:00 UTC
+  {% elsif p.session == 'Both' %}
+    12:00 - 13:00 UTC,<br>
+    18:45 - 20:00 UTC
   {% endif %}
-
-  <div class='card paper'>
-
-  <header class='card-header'>
-  <div class='card-header-title' id='paper-{{ p.paper_num }}'>
-    ({{ p.paper_num }}) {{ p.paper_title }}
-
-  </div>
-  </header>
-
-  <div class='card-content'>
-
-  <p>
-    <em>{{ p.authors }}</em>
-  </p>
-
-  <details>
-    <summary>Abstract: (click to expand)</summary>
-
-    {{ p.abstract }}
-  </details>
-
-  {% if p.paper_path %}
-    <a href='{{ p.paper_path }}' class='button' target='_blank'>Paper</a>
+  </td>
+  </tr>
   {% endif %}
-
-  {% if p.slides_path %}
-    <a href='{{ p.slides_path }}' class='button' target='_blank'>Slides</a>
-  {% endif %}
-
-  <div class="dropdown is-hoverable">
-    <div class="dropdown-trigger">
-      <button class="button" aria-haspopup="true" aria-controls="dropdown-menu-{{ p.paper_id }}">
-        <span>Zoom Info</span>
-        <span class="icon is-small">
-          <i class="mdi mdi-chevron-down" aria-hidden="true"></i>
-        </span>
-      </button>
-    </div>
-    <div class="dropdown-menu" id="dropdown-menu-{{ p.paper_id }}" role="menu">
-      <div class="dropdown-content">
-        {% if p.session == 'Session1' or p.session == 'Both' %}
-          <a href="https://us02web.zoom.us/j/{{ p.zoom_id }}" class="dropdown-item">Session 1 (April 26, 11:00 - 12:00 UTC)</a>
-        {% endif %}
-        {% if p.session == 'Session2' or p.session == 'Both' %}
-          <a href="https://us02web.zoom.us/j/{{ p.zoom_id }}" class="dropdown-item">Session 2 (April 26, 19:00 - 20:00 UTC)</a>
-        {% endif %}
-      </div>
-    </div>
-  </div>
-
-  </div>
-  </div>
-
-  {% assign track = p.q1_track %}
+  {% endfor %}
+  </tbody>
+</table>
 {% endfor %}
-
 
 ## Sponsors
 ![Microsoft logo](/images/microsoft.png)
 
 ![DeepMind logo](/images/deepmind.png) 
-
 
 ## Organizers
 <a href="https://priyadonti.com/" target="_blank">Priya Donti (CMU)</a> <br>

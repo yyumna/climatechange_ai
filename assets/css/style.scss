@@ -18,11 +18,11 @@ $dark: black;
 @import "bulma-scss/components/_panel";
 @import "bulma-scss/components/_card";
 @import "bulma-scss/components/_dropdown";
+@import "bulma-scss/components/_breadcrumb";
 @import "bulma-scss/elements/_button";
 @import "bulma-scss/elements/_tag";
 @import "bulma-scss/form/_all";
 @import "chosen";
-
 
 .clearfix::after {
   content: "";
@@ -376,7 +376,7 @@ td {
   vertical-align: top;
 }
 
-td details, .paper details {
+td details, .paper details, details.small {
   font-size: 14px;
   margin-top: 5px !important;
   margin-bottom: 5px;
@@ -395,4 +395,32 @@ td details, .paper details {
 
 .paper details {
   margin-bottom: 1rem;
+}
+
+.breadcrumb ul {
+  padding-left: 0;
+}
+
+.breadcrumb .next-prev {
+  margin-left: auto;
+}
+
+.breadcrumb .next-prev::before {
+  content: "";
+}
+
+.cursor-no {
+  cursor: not-allowed;
+}
+
+.paper-table {
+  font-size: 14px;
+}
+
+.abstract-header {
+  margin-top: 1rem !important;
+}
+
+.abstract-text {
+  font-size: 14px;
 }
