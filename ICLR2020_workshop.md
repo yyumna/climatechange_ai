@@ -458,6 +458,9 @@ Applications are due by Jan 14.
 **Q:** What is the benefit of registering for the workshop?   
 **A:** The main ICLR conference (through which this workshop is hosted) is providing a chat platform, which we will be using to field questions for speakers throughout the workshop (April 26-30) and to help workshop participants meet and engage with each other. This platform, as well as the poster sessions on April 26, will only be available to registered participants. In addition, registration will give you access to all content from the main ICLR conference and other workshops; see the <a href="https://iclr.cc/" target="_blank">ICLR website</a> for more details.
 
+**Q:** Will recordings be available after the workshop?         
+**A:** Recordings will be made available for the main workshop day (April 26). Select recordings from the additional workshop days (April 27-30) may be made available, depending on the preferences of the speakers.
+
 **Q:** What is the cost of registration?   
 **A:** Registration costs 50 USD for students, and 100 USD for non-students. Registration is through ICLR at <a href="https://iclr.cc/Register/view-registration" target="_blank">https://iclr.cc/Register/view-registration</a>.
 
