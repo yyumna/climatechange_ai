@@ -51,7 +51,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
 <div class="rocket card">
   <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_climatechange?layout=embedded" width="100%" height="400px" style="display: block"></iframe>
 </div>
-<p>If the embedded chat is not loading, you can visit the chatroom <a href='{{ page.rocketchat_channel }}'>directly</a>. Note that <a href='https://iclr.cc/Register/view-registration'>ICLR registration</a> is required for this feature!</p>
+<p>If the embedded chat is not loading, you can visit the chatroom <a href='https://iclr.rocket.chat/channel/workshop_climatechange' target='_blank'>directly</a>. Note that <a href='https://iclr.cc/Register/view-registration' target='_blank'>ICLR registration</a> is required for this feature!</p>
 
 ## About ICLR
 The International Conference on Learning Representations (ICLR) is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting at or attending the main ICLR conference. Those interested should register for ICLR at <https://iclr.cc/Register/view-registration>.
