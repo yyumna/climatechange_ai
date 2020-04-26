@@ -67,9 +67,6 @@ layout: default
 
 {% if p.zoom_id %}
   <h3 id='zoom'>Live poster session schedule</h3>
-  <p>
-    Passwords are required to enter each Zoom room. Passwords are posted on the <a href="https://iclr.cc/virtual/workshops_7.html" target="_blank">ICLR website</a> (<a href='https://iclr.cc/Register/view-registration' target='_blank'>ICLR registration</a> is required).
-  </p>
   <table>
     <thead>
       <tr>
@@ -98,6 +95,9 @@ layout: default
       {% endif %}
     </tbody>
   </table>
+  <p>
+    <small>Note: If you need to enter a room password, use <code>seaslug</code>.</small>
+  </p>
 
   <script src="https://cdn.jsdelivr.net/npm/luxon@1.23.0/build/global/luxon.min.js"></script>
   <script>
