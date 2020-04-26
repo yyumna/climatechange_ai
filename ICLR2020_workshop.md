@@ -55,8 +55,7 @@ Welcome! This workshop is focused on impactful uses of machine learning in reduc
   });
 </script>
 
-### Chat (ICLR registration required)
-<a name="chat"></a>
+<h3 id='chat'>Chat (ICLR registration required)</h3>
 
 <div class="rocket card">
   <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_climatechange?layout=embedded" width="100%" height="400px" style="display: block"></iframe>
