@@ -31,7 +31,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 <div class="person__list">
 <a class="person__item" href="http://www.davidrolnick.com" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/davidrolnick_200x200.jpg">
+    <img class="person__pic" src="images/people/davidrolnick_400x400.jpg">
   </div>
   <div class="person__name">David Rolnick</div>
   <div class="person__affil">University of Pennsylvania</div>
@@ -40,7 +40,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 <a class="person__item" href="https://priyadonti.com/" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/priyadonti_200x200.jpg">
+    <img class="person__pic" src="images/people/priyadonti_400x400.jpg">
   </div>
   <div class="person__name">Priya L. Donti</div>
   <div class="person__affil">Carnegie Mellon</div>
@@ -49,7 +49,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 <a class="person__item" href="https://epg.ethz.ch/people/senior-researchers/dr--lynn-kaack.html" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/lynnkaack_200x200.jpg">
+    <img class="person__pic" src="images/people/lynnkaack_400x400.jpg">
   </div>
   <div class="person__name">Lynn H. Kaack</div>
   <div class="person__affil">ETH Zürich</div>
@@ -58,7 +58,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 <a class="person__item" href="https://mila.quebec/en/person/kris-sankaran/" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/krissankaran_200x200.jpg">
+    <img class="person__pic" src="images/people/krissankaran_400x400.jpg">
   </div>
   <div class="person__name">Kris Sankaran</div>
   <div class="person__affil">Mila, U. de Montréal</div>
@@ -67,7 +67,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 <a class="person__item" href="https://www.sashaluccioni.com/" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/sashaluccioni_200x200.jpg">
+    <img class="person__pic" src="images/people/sashaluccioni_400x400.jpg">
   </div>
   <div class="person__name">Sasha Luccioni</div>
   <div class="person__affil">Mila, U. de Montréal</div>
@@ -76,7 +76,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 <a class="person__item" href="https://asross.github.io/" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/andrew_ross_200x200.jpg">
+    <img class="person__pic" src="images/people/andrew_ross_400x400.jpg">
   </div>
   <div class="person__name">Andrew Slavin Ross</div>
   <div class="person__affil">Harvard University</div>
@@ -85,7 +85,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 <a class="person__item" href="http://www.kochanski.org/kelly/" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/kellykochanski_200x200.jpg">
+    <img class="person__pic" src="images/people/kellykochanski_400x400.jpg">
   </div>
   <div class="person__name">Kelly Kochanski</div>
   <div class="person__affil">CU Boulder</div>
@@ -94,7 +94,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 <a class="person__item" href="https://scholar.google.com/citations?user=71a2-WMAAAAJ&hl=en" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/Alexandre_Lacoste_200x200.jpg">
+    <img class="person__pic" src="images/people/Alexandre_Lacoste_400x400.jpg">
   </div>
   <div class="person__name">Alexandre Lacoste</div>
   <div class="person__affil">Element AI</div>
@@ -103,7 +103,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 <a class="person__item" href="https://www.mcc-berlin.net/en/about/team/milojevic-dupont-nikola.html" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/nikolamilojevicdupont_200x200.jpg">
+    <img class="person__pic" src="images/people/nikolamilojevicdupont_400x400.jpg">
   </div>
   <div class="person__name">Nikola Milojevic-Dupont</div>
   <div class="person__affil">MCC Berlin, TU Berlin</div>
@@ -112,7 +112,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 <a class="person__item" href="https://www.media.mit.edu/people/jaquesn/overview/" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/natashajaques_200x200.jpg">
+    <img class="person__pic" src="images/people/natashajaques_400x400.jpg">
   </div>
   <div class="person__name">Natasha Jaques</div>
   <div class="person__affil">MIT</div>
@@ -121,7 +121,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 <a class="person__item" href="http://www.teganmaharaj.com" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/teganmaharaj_200x200.jpg">
+    <img class="person__pic" src="images/people/teganmaharaj_400x400.jpg">
   </div>
   <div class="person__name">Tegan Maharaj</div>
   <div class="person__affil">Mila, Polytechnique Montréal</div>
@@ -130,10 +130,28 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 <a class="person__item" href="https://www.evansherwin.com/" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/evansherwin_200x200.jpg">
+    <img class="person__pic" src="images/people/evansherwin_400x400.jpg">
   </div>
   <div class="person__name">Evan D. Sherwin</div>
   <div class="person__affil">Stanford University</div>
+  <div class="person__title"></div>
+</a>
+
+<a class="person__item" href="http://sharonzhou.me/" target="_blank">
+  <div class="person__pic-wrapper">
+    <img class="person__pic" src="images/people/sharonzhou_400x400.jpg">
+  </div>
+  <div class="person__name">Sharon Zhou</div>
+  <div class="person__affil">Stanford University</div>
+  <div class="person__title"></div>
+</a>
+
+<a class="person__item" href="https://daviddao.org/" target="_blank">
+  <div class="person__pic-wrapper">
+    <img class="person__pic" src="images/people/daviddao_400x400.jpg">
+  </div>
+  <div class="person__name">David Dao</div>
+  <div class="person__affil">ETH Zurich</div>
   <div class="person__title"></div>
 </a>
 </div>
@@ -141,7 +159,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 <div class="person__list">
 <a class="person__item" href="https://mila.quebec/en/yoshua-bengio/" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/yb_200x200.jpg">
+    <img class="person__pic" src="images/people/yb_400x400.jpg">
   </div>
   <div class="person__name">Yoshua Bengio</div>
   <div class="person__affil">Mila, U. de Montréal</div>
@@ -150,7 +168,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 <a class="person__item" href="https://data.berkeley.edu/jennifer-chayes" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/jenniferchayes_200x200.jpg">
+    <img class="person__pic" src="images/people/jenniferchayes_400x400.jpg">
   </div>
   <div class="person__name">Jennifer Chayes</div>
   <div class="person__affil">UC Berkeley</div>
@@ -159,7 +177,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 <a class="person__item" href="https://www.mcc-berlin.net/en/about/team/creutzig-felix.html" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/felixcreuzig_200x200.jpg">
+    <img class="person__pic" src="images/people/felixcreuzig_400x400.jpg">
   </div>
   <div class="person__name">Felix Creutzig</div>
   <div class="person__affil">MCC Berlin, TU Berlin</div>
@@ -168,7 +186,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 <a class="person__item" href="https://ai.google/research/people/JohnPlatt" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/johnplatt_200x200.jpg">
+    <img class="person__pic" src="images/people/johnplatt_400x400.jpg">
   </div>
   <div class="person__name">John C. Platt</div>
   <div class="person__affil">Google AI</div>
@@ -177,7 +195,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 <a class="person__item" href="https://deepmind.com/" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/Demis_Hassabis_200x200.jpg">
+    <img class="person__pic" src="images/people/Demis_Hassabis_400x400.jpg">
   </div>
   <div class="person__name">Demis Hassabis</div>
   <div class="person__affil">DeepMind</div>
@@ -186,7 +204,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 <a class="person__item" href="https://www.andrewng.org/" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/andrewng_200x200.jpg">
+    <img class="person__pic" src="images/people/andrewng_400x400.jpg">
   </div>
   <div class="person__name">Andrew Y. Ng</div>
   <div class="person__affil">Stanford University</div>
@@ -195,7 +213,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 <a class="person__item" href="https://www.cs.cornell.edu/gomes/" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/carlagomes_200x200.jpg">
+    <img class="person__pic" src="images/people/carlagomes_400x400.jpg">
   </div>
   <div class="person__name">Carla Gomes</div>
   <div class="person__affil">Cornell University</div>
@@ -204,7 +222,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 <a class="person__item" href="http://koerding.com/" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/konradkording_200x200.jpg">
+    <img class="person__pic" src="images/people/konradkording_400x400.jpg">
   </div>
   <div class="person__name">Konrad P. Körding</div>
   <div class="person__affil">University of Pennsylvania</div>
@@ -213,7 +231,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 <a class="person__item" href="http://zicokolter.com/" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/zicokolter_200x200.jpg">
+    <img class="person__pic" src="images/people/zicokolter_400x400.jpg">
   </div>
   <div class="person__name">Zico Kolter</div>
   <div class="person__affil">Carnegie Mellon</div>
@@ -222,7 +240,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 <a class="person__item" href="https://ines.stanford.edu" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/inesazevedo_200x200.jpg">
+    <img class="person__pic" src="images/people/inesazevedo_400x400.jpg">
   </div>
   <div class="person__name">Inês Azevedo</div>
   <div class="person__affil">Stanford University</div>
@@ -231,7 +249,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 <a class="person__item" href="https://epg.ethz.ch/people/group-head/prof--dr--tobias-schmidt.html" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/tobiasschmidt_200x200.jpg">
+    <img class="person__pic" src="images/people/tobiasschmidt_400x400.jpg">
   </div>
   <div class="person__name">Tobias Schmidt</div>
   <div class="person__affil">ETH Zürich</div>
@@ -240,7 +258,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 <a class="person__item" href="https://www.eye-on.ai" target="_blank">
   <div class="person__pic-wrapper">
-    <img class="person__pic" src="images/people/craigsmith_200x200.jpg">
+    <img class="person__pic" src="images/people/craigsmith_400x400.jpg">
   </div>
   <div class="person__name">Craig Smith</div>
   <div class="person__affil">Eye on AI</div>

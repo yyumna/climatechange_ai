@@ -90,6 +90,20 @@
     "committees": ["steering"]
   },
   {
+    "website_url": "http://sharonzhou.me/",
+    "image_url": "images/people/sharonzhou.jpg",
+    "name": "Sharon Zhou",
+    "affiliation": "Stanford University",
+    "committees": ["steering"]
+  },
+  {
+    "website_url": "https://daviddao.org/",
+    "image_url": "images/people/daviddao.jpg",
+    "name": "David Dao",
+    "affiliation": "ETH Zurich",
+    "committees": ["steering"]
+  },
+  {
     "website_url": "https://mila.quebec/en/yoshua-bengio/",
     "image_url": "images/people/yb.jpg",
     "name": "Yoshua Bengio",
