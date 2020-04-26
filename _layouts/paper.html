@@ -53,8 +53,8 @@ layout: default
     <a href='#zoom' class='button'>Zoom Schedule</a>
   {% endif %}
 
-  {% if p.slideslive_id %}
-    <a href='#slideslive' class='button'>Prerecorded Talk</a>
+  {% if p.slideslive_id or p.youtube_id %}
+    <a href='#recording' class='button'>Prerecorded Talk</a>
   {% endif %}
 
   {% if p.rocketchat_channel %}
@@ -131,7 +131,7 @@ layout: default
 {% endif %}
 
 {% if p.slideslive_id %}
-  <h3 id='slideslive'>Prerecorded talk (<a href="https://slideslive.com/{{ p.slideslive_id }}">direct link</a>)</h3>
+  <h3 id='recording'>Prerecorded talk (<a href="https://slideslive.com/{{ p.slideslive_id }}">direct link</a>)</h3>
 
   <div id="presentation-embed-{{ p.slideslive_id }}" class="slp"></div>
   <div id='status-message'>
@@ -155,6 +155,9 @@ layout: default
       document.getElementById('status-message').innerHTML = "";
     });
   </script>
+{% elsif p.youtube_id %}
+  <h3 id='recording'>Prerecorded talk (<a href="https://youtu.be/{{ p.youtube_id }}">direct link</a>)</h3>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ p.youtube_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {% endif %}
 
 {% if p.rocketchat_channel %}
