@@ -295,8 +295,8 @@
       minute: 45
       second: 0
       millisecond: 0
-    desc: 'Stefano Ermon: <b>Measuring Economic Development from Space with Machine
-      Learning</b> <em>(Invited talk)</em>'
+    desc: 'Stefano Ermon: <a href="https://slideslive.com/38926248" target="_blank"><b>Measuring Economic Development from Space with Machine
+      Learning</b></a> <em>(Invited talk)</em>'
     more: |-
       <strong>Abstract:</strong> Recent technological developments are
                 creating new spatio-temporal data streams that contain a wealth of
