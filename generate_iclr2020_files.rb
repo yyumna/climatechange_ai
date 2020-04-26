@@ -13,19 +13,13 @@ zoom_file = "_data/#{workshop}_zoom.yml"
 zoom_info = YAML.load(File.read(zoom_file))
 
 slideslive_mapping_file = "raw_workshop_files/iclr2020/iclr_slideslive_mapping.csv"
-slideslive_progress_file = "raw_workshop_files/iclr2020/slideslive_editing_progress.csv"
 
-titles_to_sluid = {}
-sluids_to_video = {}
+cmt_to_slideslive = {}
 
 CSV.read(slideslive_mapping_file, headers: true).each do |row|
-  titles_to_sluid[row["Talk/paper title"]] = row["ID"]
-end
-
-CSV.read(slideslive_progress_file, headers: true).each do |row|
-  id = row["Unique ID"]
-  next unless id.start_with?("TCML")
-  sluids_to_video[id] = row["SlidesLive ID"]
+  if row["CMT ID"]
+    cmt_to_slideslive[row["CMT ID"].to_i] = row["SlidesLive link (not yet live)"].split("/").last
+  end
 end
 
 export = Roo::Excel2003XML.new(submissions)
@@ -64,10 +58,8 @@ parsed.each do |p|
     end
   end
 
-  if sluid = titles_to_sluid[paper_data['paper_title']]
-    if (sluids_to_video[sluid] || '').length > 0
-      paper_data['slideslive_id'] = sluids_to_video[sluid]
-    end
+  if slideslive = cmt_to_slideslive[paper_data['cmt_id']]
+    paper_data['slideslive_id'] = slideslive
   end
 
   papers << paper_data
