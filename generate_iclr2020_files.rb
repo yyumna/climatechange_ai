@@ -133,10 +133,11 @@ papers.each do |p|
     p['slides_path'] = "/#{slides_path}"
   end
 
-  front_matter = p.merge(
+  front_matter = {
     "layout" => "paper",
-    "workshop" => workshop
-  )
+    "paper_index" => p['id']-1,
+    "workshop_key" => "#{workshop}_papers"
+  }
 
   File.open("#{paper_dir}.html", "w") do |f|
     f.write(YAML.dump(front_matter)+"---")

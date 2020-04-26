@@ -2,14 +2,16 @@
 layout: default
 ---
 
-{% if page.workshop == 'iclr2020' %}
+{% assign p = site.data[page.workshop_key][page.paper_index] %}
+
+{% if page.workshop_key == 'iclr2020_papers' %}
 <nav class="breadcrumb" aria-label="breadcrumbs">
   <ul>
     <li><a href="/ICLR2020_workshop">ICLR 2020 Workshop</a></li>
-    <li class="is-active"><a href="#" aria-current="page">Paper #{{ page.id }}</a></li>
+    <li class="is-active"><a href="#" aria-current="page">Paper #{{ p.id }}</a></li>
     <li class="next-prev">
-      {% if page.prev_paper_id %}
-        <a href="/papers/iclr2020/{{page.prev_paper_id}}">
+      {% if p.prev_paper_id %}
+        <a href="/papers/iclr2020/{{p.prev_paper_id}}">
           <span class="icon is-small">
             <i class="mdi mdi-arrow-left" aria-hidden="true"></i>
           </span>
@@ -18,8 +20,8 @@ layout: default
       {% else %}
         <span class='cursor-no'>Previous</span>
       {% endif %}
-      {% if page.next_paper_id %}
-        <a href="/papers/iclr2020/{{page.next_paper_id}}">
+      {% if p.next_paper_id %}
+        <a href="/papers/iclr2020/{{p.next_paper_id}}">
           Next
           <span class="icon is-small">
             <i class="mdi mdi-arrow-right" aria-hidden="true"></i>
@@ -34,36 +36,36 @@ layout: default
 <hr>
 {% endif %}
 
-<h2>{{ page.paper_title }} ({{ page.q1_track }} Track)</h2>
+<h2>{{ p.paper_title }} ({{ p.q1_track }} Track)</h2>
 
-<p><em>{{ page.authors }}</em></p>
+<p><em>{{ p.authors }}</em></p>
 
 <div class='buttons'>
-  {% if page.paper_path %}
-    <a href='{{ page.paper_path }}' class='button' target='_blank'>Paper PDF</a>
+  {% if p.paper_path %}
+    <a href='{{ p.paper_path }}' class='button' target='_blank'>Paper PDF</a>
   {% endif %}
 
-  {% if page.slides_path %}
-    <a href='{{ page.slides_path }}' class='button' target='_blank'>Slides PDF</a>
+  {% if p.slides_path %}
+    <a href='{{ p.slides_path }}' class='button' target='_blank'>Slides PDF</a>
   {% endif %}
 
-  {% if page.zoom_id %}
+  {% if p.zoom_id %}
     <a href='#zoom' class='button'>Zoom Schedule</a>
   {% endif %}
 
-  {% if page.slideslive_id %}
+  {% if p.slideslive_id %}
     <a href='#slideslive' class='button'>Prerecorded Talk</a>
   {% endif %}
 
-  {% if page.rocketchat_channel %}
+  {% if p.rocketchat_channel %}
     <a href='#rocketchat' class='button'>Paper Chatroom</a>
   {% endif %}
 </div>
 
 <h3 id='abstract' class='abstract-header'>Abstract</h3>
-<p class='abstract-text'>{{ page.abstract }}</p>
+<p class='abstract-text'>{{ p.abstract }}</p>
 
-{% if page.zoom_id %}
+{% if p.zoom_id %}
   <h3 id='zoom'>Live poster session schedule</h3>
 
   <table>
@@ -76,20 +78,20 @@ layout: default
       </tr>
     </thead>
     <tbody>
-      {% if page.session == 'Session1' or page.session == 'Both' %}
+      {% if p.session == 'Session1' or p.session == 'Both' %}
         <tr>
           <td id='fill-session1'></td>
           <td>12:00 - 13:00</td>
           <td>Session 1</td>
-          <td><a href="https://us02web.zoom.us/j/{{ page.zoom_id }}" target="_blank">Join on Zoom</a></td>
+          <td><a href="https://us02web.zoom.us/j/{{ p.zoom_id }}" target="_blank">Join on Zoom</a></td>
         </tr>
       {% endif %}
-      {% if page.session == 'Session2' or page.session == 'Both' %}
+      {% if p.session == 'Session2' or p.session == 'Both' %}
         <tr>
           <td id='fill-session2'></td>
           <td>18:45 - 20:00</td>
           <td>Session 2</td>
-          <td><a href="https://us02web.zoom.us/j/{{ page.zoom_id }}" target="_blank">Join on Zoom</a></td>
+          <td><a href="https://us02web.zoom.us/j/{{ p.zoom_id }}" target="_blank">Join on Zoom</a></td>
         </tr>
       {% endif %}
     </tbody>
@@ -125,18 +127,18 @@ layout: default
   </script>
 {% endif %}
 
-{% if page.slideslive_id %}
+{% if p.slideslive_id %}
   <h3 id='slideslive'>Prerecorded talk</h3>
 
-  <div id="presentation-embed-{{ page.slideslive_id }}" class="slp"></div>
+  <div id="presentation-embed-{{ p.slideslive_id }}" class="slp"></div>
   <div id='status-message'>
     <em>Loading&hellip;</em>
   </div>
 
   <script src='https://slideslive.com/embed_presentation.js'></script>
   <script>
-    const sle = new SlidesLiveEmbed("presentation-embed-{{ page.slideslive_id }}", {
-      presentationId: '{{ page.slideslive_id }}',
+    const sle = new SlidesLiveEmbed("presentation-embed-{{ p.slideslive_id }}", {
+      presentationId: '{{ p.slideslive_id }}',
       autoPlay: false, // change to true to autoplay the embedded presentation
       verticalEnabled: true,
       allowHiddenControlsWhenPaused: true,
@@ -152,11 +154,11 @@ layout: default
   </script>
 {% endif %}
 
-{% if page.rocketchat_channel %}
+{% if p.rocketchat_channel %}
   <h3 id='rocketchat'>Discuss this paper (ICLR registration required)</h3>
   <div class="rocket card">
-    <iframe frameborder="0" src="{{ page.rocketchat_channel }}?layout=embedded" width="100%" height="400px" style="display: block"></iframe>
+    <iframe frameborder="0" src="{{ p.rocketchat_channel }}?layout=embedded" width="100%" height="400px" style="display: block"></iframe>
   </div>
 
-  <p>If the embedded chat is not loading, you can visit the chatroom <a href='{{ page.rocketchat_channel }}'>directly</a>. Note that <a href='https://iclr.cc/Register/view-registration'>ICLR registration</a> is required for this feature!</p>
+  <p>If the embedded chat is not loading, you can visit the chatroom <a href='{{ p.rocketchat_channel }}'>directly</a>. Note that <a href='https://iclr.cc/Register/view-registration'>ICLR registration</a> is required for this feature!</p>
 {% endif %}
