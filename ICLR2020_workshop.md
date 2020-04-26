@@ -193,14 +193,13 @@ Click the links below for information about each submission, including a video, 
 <a href="https://mila.quebec/en/yoshua-bengio/" target="_blank">Yoshua Bengio (Mila)</a> <br>
 
 ## Co-organizers
+<a href="https://asross.github.io/" target="_blank">Andrew Ross (Harvard)</a>: _Website_ <br>
 <a href="https://daviddao.org/" target="_blank">David Dao (ETH Zürich)</a>: _AFOLU Day_ <br>
-<a href="https://www.media.mit.edu/people/jaquesn/overview/" target="_blank">Natasha Jaques (UC Berkeley, Google Brain)</a>: _Social media_ <br>
-<a href="https://konstantinklemmer.github.io/" target="_blank">Konstantin Klemmer (University of Warwick)</a>: _Energy Day_ <br>
 <a href="http://www.kochanski.org/kelly/" target="_blank">Kelly Kochanski (CU Boulder)</a>: _Climate Science and Adaptation Day_ <br>
+<a href="https://konstantinklemmer.github.io/" target="_blank">Konstantin Klemmer (University of Warwick)</a>: _Energy Day_ <br>
+<a href="https://www.media.mit.edu/people/jaquesn/overview/" target="_blank">Natasha Jaques (UC Berkeley, Google Brain)</a>: _Social media_ <br>
 <a href="https://www.mcc-berlin.net/en/about/team/milojevic-dupont-nikola.html" target="_blank">Nikola Milojevic-Dupont (MCC Berlin)</a>: _Energy Day_ <br>
 <a href="https://sites.google.com/prod/view/peetak" target="_blank">Peetak Mitra (UMass Amherst)</a>: _Climate Science and Adaptation Day_ <br>
-<a href="https://asross.github.io/" target="_blank">Andrew Ross (Harvard)</a>: _Website_ <br>
-
 
 ## Program Committee
 Adrian Albert (terrafuse, inc.) <br>
