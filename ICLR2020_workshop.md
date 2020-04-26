@@ -6,6 +6,7 @@ og_image_url: 'https://www.climatechange.ai/images/ICLR2020_preview.png'
 og_image_type: 'image/png'
 og_image_width: 1063
 og_image_height: 555
+slideslive_id: 38926837
 ---
 
 <h1>ICLR 2020 Workshop <br> Tackling Climate Change with Machine Learning</h1>
@@ -25,12 +26,10 @@ Many in the ML community wish to take action on climate change, yet feel their s
 
 ## Livestream
 
-### Video
+### Video (<a href="https://slideslive.com/{{ page.slideslive_id }}">direct link</a>)
 
-<div id="presentation-embed-{{ page.slides_live_id }}" class="slp"></div>
-<div id='status-message'>
-  <em>Loading&hellip;</em>
-</div>
+<div id="presentation-embed-{{ page.slideslive_id }}" class="slp"></div>
+<div id='status-message'></div>
 
 <script src='https://slideslive.com/embed_presentation.js'></script>
 <script>
@@ -44,9 +43,6 @@ Many in the ML community wish to take action on climate change, yet feel their s
   });
   sle.addCallback("onError", (err) => {
     document.getElementById('status-message').innerHTML = "<em>Video coming soon!</em>";
-  });
-  sle.addCallback("onLoad", () => {
-    document.getElementById('status-message').innerHTML = "";
   });
 </script>
 
