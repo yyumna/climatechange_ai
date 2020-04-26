@@ -109,11 +109,11 @@
                 <p>
                 Talks:
                 <ul>
-                  <li>K. Shankari, "MobilityNet: Towards a Public Dataset for Multi-modal Mobility Research"</li>
-                  <li>Fred Otieno, "Machine Learning Approaches to Safeguarding Continuous Water Supply in the Arid and Semi-arid Lands of Northern Kenya"</li>
-                  <li>Claudia Haworth, "Understanding the dynamics of climate-crucial food choice behaviours using Distributional Semantics"</li>
-                  <li>Jefferson Sankara, "Machine Learning Applications That Can Help Pastoral Communities in Northern Kenya and Elsewhere Adapt to Climate Change"</li>
-                  <li>Thomas Lees, "A Machine Learning Pipeline to Predict Vegetation Health"</li>
+                  <li>(15) K. Shankari, "MobilityNet: Towards a Public Dataset for Multi-modal Mobility Research"</li>
+                  <li>(18) Fred Otieno, "Machine Learning Approaches to Safeguarding Continuous Water Supply in the Arid and Semi-arid Lands of Northern Kenya"</li>
+                  <li>(5) Claudia Haworth, "Understanding the dynamics of climate-crucial food choice behaviours using Distributional Semantics"</li>
+                  <li>(27) Jefferson Sankara, "Machine Learning Applications That Can Help Pastoral Communities in Northern Kenya and Elsewhere Adapt to Climate Change"</li>
+                  <li>(4) Thomas Lees, "A Machine Learning Pipeline to Predict Vegetation Health"</li>
                 </ul>
                 </p>
   - utc1:
@@ -354,11 +354,11 @@
                 <p>
                 Talks:
                 <ul>
-                  <li>Filip Tolovski, "Advancing Renewable Electricity Consumption With Reinforcement Learning"</li>
-                  <li>Sookyung Kim, "Hurricane Nowcasting with Irregular Time-step using Neural-ODE and Video Prediction"</li>
-                  <li>Soukayna Mouatadid, "WeatherBench: A benchmark dataset for data-driven weather forecasting"</li>
-                  <li>Victor Schmidt, "Modeling Cloud Reflectance Fields using Conditional Generative Adversarial Networks"</li>
-                  <li>Simona Santamaria, "TrueBranch: Robust Deep Learning-based Verification of Forest Conservation Projects"</li>
+                  <li>(24) Filip Tolovski, "Advancing Renewable Electricity Consumption With Reinforcement Learning"</li>
+                  <li>(21) Sookyung Kim, "Hurricane Nowcasting with Irregular Time-step using Neural-ODE and Video Prediction"</li>
+                  <li>(11) Soukayna Mouatadid, "WeatherBench: A benchmark dataset for data-driven weather forecasting"</li>
+                  <li>(12) Victor Schmidt, "Modeling Cloud Reflectance Fields using Conditional Generative Adversarial Networks"</li>
+                  <li>(23) Simona Santamaria, "TrueBranch: Robust Deep Learning-based Verification of Forest Conservation Projects"</li>
                 </ul>
                 </p>
   - utc1:
