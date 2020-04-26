@@ -13,18 +13,27 @@ slideslive_id: 38926837
 
 <div class='buttons'>
   <!-- <a class='button' href='#about-iclr'>About</a> -->
-  <a class='button' href='#keynote-speakers'>Speakers</a>
+  <!-- <a class='button' href='#keynote-speakers'>Speakers</a> -->
+  <a class='button' href='#livestream-and-chat'>Livestream</a>
   <a class='button' href='#schedule'>Schedule</a>
-  <a class='button' href='#accepted-works'>Accepted Works</a>
+  <a class='button' href='#accepted-works'>Posters</a>
   <a class='button' href='#sponsors'>Sponsors</a>
   <a class='button' href='#organizers'>Organizers</a>
   <a class='button' href='#call-for-submissions'><s>Call for Submissions</s></a>
   <a class='button' href='#frequently-asked-questions'>FAQ</a>
 </div>
 
-Many in the ML community wish to take action on climate change, yet feel their skills are inapplicable. This workshop aims to show that in fact the opposite is true: while no silver bullet, **ML can be an invaluable tool both in reducing greenhouse gas emissions and in helping society adapt to the effects of climate change**. Climate change is a complex problem, for which action takes many forms - from designing smart electrical grids to tracking deforestation in satellite imagery. Many of these actions represent high-impact opportunities for real-world change, as well as being interesting problems for ML research.
+Welcome! This workshop is focused on impactful uses of machine learning in reducing and responding to climate change, and is intended to be a venue for discourse between experts in machine learning and other fields. Our program:
+<ul>
+<li><b><a href='#main-workshop'>April 26:</a></b> Main Workshop (livestream and chat <a href='#livestream-and-chat'>below</a>)</li>
+<li><b><a href='#energy-day'>April 27:</a></b> Energy Day (<a href="https://www.climatechange.ai/join/EnergyDay" target="_blank">Zoom registration</a>)</li>
+<li><b><a href='#afolu-day'>April 28:</a></b> Agriculture, Forestry, and Other Land Use Day (<a href="https://www.climatechange.ai/join/LandUseDay" target="_blank">Zoom registration</a>)</li>
+<li><b><a href='#clisciadapt-day'>April 29:</a></b> Climate Science and Adaptation Day (<a href="https://www.climatechange.ai/join/CliSciAdaptDay" target="_blank">Zoom registration</a>)</li>
+<li><b><a href='#methods-day'>April 30:</a></b> Cross-cutting Methods Day (<a href="https://www.climatechange.ai/join/MethodsDay" target="_blank">Zoom registration</a>)</li>
+</ul>
 
-## Livestream
+
+## Livestream and chat
 
 ### Video (<a href="https://slideslive.com/{{ page.slideslive_id }}">direct link</a>)
 
@@ -47,47 +56,22 @@ Many in the ML community wish to take action on climate change, yet feel their s
 </script>
 
 ### Chat (ICLR registration required)
+<a name="chat"></a>
 
 <div class="rocket card">
   <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_climatechange?layout=embedded" width="100%" height="400px" style="display: block"></iframe>
 </div>
 <p>If the embedded chat is not loading, you can visit the chatroom <a href='https://iclr.rocket.chat/channel/workshop_climatechange' target='_blank'>directly</a>. Note that <a href='https://iclr.cc/Register/view-registration' target='_blank'>ICLR registration</a> is required for this feature!</p>
 
-## About ICLR
-The International Conference on Learning Representations (ICLR) is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting at or attending the main ICLR conference. Those interested should register for ICLR at <https://iclr.cc/Register/view-registration>.
-
-## About the Workshop
- - Main workshop date:  Sunday, April 26, 2020 
- - Additional events: April 27-30, 2020
- - Location:  ~~Addis Ababa, Ethiopia~~ Virtual
- - Registration: <a href="https://iclr.cc/Register/view-registration" target="_blank">https://iclr.cc/Register/view-registration</a>
- - ~~Mentorship program application deadline: January 14~~
- - ~~Paper/Proposal submission deadline: February 4 &rarr; February 8, 11:59 PM Pacific Time~~
- - ~~Notification:  February 25~~
- - Submission website: <a href="https://cmt3.research.microsoft.com/CCAIICLR2020" target="_blank">https://cmt3.research.microsoft.com/CCAIICLR2020</a>
- - Contact: <climatechangeai.iclr2020@gmail.com>
-
-## Keynote Speakers
-**Stefano Ermon** (Stanford University)  
-**Ciira wa Maina** (Dedan Kimathi University of Technology)  
-**Georgina Campbell Flatter** (ClimaCell)  
-**Dan Morris** (Microsoft AI for Earth)
-
-## Panelists
-**John Platt** (Google)  
-**Dan Kammen** (UC Berkeley)  
-**Paula Hidalgo-Sanchis** (UN Global Pulse)  
-**Jessica Thorn** (University of York)  
-**Nana Ama Browne Klutse** (University of Ghana)  
-**Daniel Rothenberg** (ClimaCell)  
-**Sarvapali Ramchurn** (University of Southampton) 
-
 ## Schedule
 
-Events will be taking place from April 26-30. The schedule is available below, via <a href="https://calendar.google.com/calendar/embed?src=n4jcdb08gc10bk47crsq18aet8%40group.calendar.google.com&ctz=Etc%2FGMT&mode=AGENDA" target="_blank">Google Calendar</a>, and in <a href="https://calendar.google.com/calendar/ical/n4jcdb08gc10bk47crsq18aet8%40group.calendar.google.com/public/basic.ics" target="_blank">iCal</a> format.
+Events will be taking place digitally from April 26-30. The schedule is available below, via <a href="https://calendar.google.com/calendar/embed?src=n4jcdb08gc10bk47crsq18aet8%40group.calendar.google.com&ctz=Etc%2FGMT&mode=AGENDA" target="_blank">Google Calendar</a>, and in <a href="https://calendar.google.com/calendar/ical/n4jcdb08gc10bk47crsq18aet8%40group.calendar.google.com/public/basic.ics" target="_blank">iCal</a> format.
 
 {% for s in site.data.iclr2020_schedule %}
+<a name="{{s.anchor}}"></a>
 <h3>{{ s.day | strip_newlines | strip }}</h3>
+
+<b>How to participate:</b> {{s.participate}}
 
 <table class='remote-workshop-table'>
   <thead>
@@ -152,6 +136,10 @@ $(document).ready(function() {
 ## Accepted Works
 
 Works were submitted to one of two tracks: [Papers](#Papers) or [Proposals](#Proposals). 
+
+Click the links below for information about each submission, including a video, slides, and chatroom where you can ask questions to the authors.
+
+<b>Poster sessions:</b> Authors will be presenting their work in digital poster sessions at the times listed. Zoom connection info is at the links below; passwords for the Zoom rooms are available at the workshop page on the <a href="https://iclr.cc/virtual/workshops_7.html" target="_blank">ICLR website</a> (<a href='https://iclr.cc/Register/view-registration' target='_blank'>ICLR registration</a> is required).
 
 {% assign tracks = "Papers Proposals" | split: " " %}
 {% for track in tracks %}
@@ -305,6 +293,11 @@ Zhecheng Wang (Stanford) <br>
  
  
 ## Call For Submissions<br>
+
+<b>Deadline:</b> ~~February 4~~ &rarr; February 8, 11:59 PM Pacific Time <br>
+<b>Notification:</b> February 25 <br>
+<b>Submission website:</b> <a href="https://cmt3.research.microsoft.com/CCAIICLR2020" target="_blank">https://cmt3.research.microsoft.com/CCAIICLR2020</a>
+
 We invite submissions of short papers using machine learning to address problems in climate mitigation, adaptation, or modeling, including but not limited to the following topics:
  - Power generation and grids
  - Transportation
@@ -403,8 +396,9 @@ We are excited to announce limited travel grants for the workshop. Travel grant 
 
 We also encourage workshop participants to apply for <a href="https://iclr.cc/Conferences/2020/TravelAwardFAQ" target="_blank">ICLR 2020 travel grants</a> or other grants for which they may be eligible. If you are aware of additional funding opportunities that may be relevant to workshop attendees, please contact the workshop organizers so we can make this information available.
 
-
 ## Submission Mentorship Program<br>
+
+<b>Deadline:</b> January 14 
 
 We are piloting a mentorship program to pair authors of submissions with mentors having complementary expertise. The goal of this program is to foster cross-disciplinary collaborations and ultimately increase the quality and potential impact of submitted work.
 
@@ -458,20 +452,27 @@ Applications are due by Jan 14.
 **Q:** How can I keep up to date on this kind of stuff?   
 **A:** Sign up for our mailing list! <https://www.climatechange.ai/mailing_list.html>
 
-**Q:** How do I participate in the workshop?   
-**A:** Sessions will take place via a combination of livestream and Zoom. Please check back here for more details (coming soon)!
-
 **Q:** Do I need to register to participate in the workshop?    
 **A:** Portions of the workshop will be available for free, without registration. In particular, you will be able to view a livestream of talks on April 26 (invited talks, panels, and spotlight talks), and participate via Zoom in the additional events from April 27-30. However, some aspects of the program will only be available to those who register (see next question).
 
 **Q:** What is the benefit of registering for the workshop?   
-**A:** The main ICLR conference (through which this workshop is hosted) will be providing chat platforms and an interactive virtual conference website; we will be using these platforms to field questions for speakers throughout the workshop (April 26-30), to make workshop content available for asynchronous viewing, and to help workshop participants meet and engage with each other. These platforms, as well as the poster sessions on April 26, will only be available to registered participants. In addition, registration will give you access to all content from the main ICLR conference and other workshops; see the <a href="https://iclr.cc/" target="_blank">ICLR website</a> for more details.
+**A:** The main ICLR conference (through which this workshop is hosted) is providing a chat platform, which we will be using to field questions for speakers throughout the workshop (April 26-30) and to help workshop participants meet and engage with each other. This platform, as well as the poster sessions on April 26, will only be available to registered participants. In addition, registration will give you access to all content from the main ICLR conference and other workshops; see the <a href="https://iclr.cc/" target="_blank">ICLR website</a> for more details.
 
 **Q:** What is the cost of registration?   
 **A:** Registration costs 50 USD for students, and 100 USD for non-students. Registration is through ICLR at <a href="https://iclr.cc/Register/view-registration" target="_blank">https://iclr.cc/Register/view-registration</a>.
 
 **Q:** When does registration close?   
-**A:** As of now, registration will remain open for the duration of the workshop, so you can register at any time. Registration is through ICLR at <a href="https://iclr.cc/Register/view-registration" target="_blank">https://iclr.cc/Register/view-registration</a>.
+**A:** As of now, registration will remain open for the duration of the workshop, so you can register at any time. Registration is through ICLR at <a href="https://iclr.cc/Register/view-registration" target="_blank">https://iclr.cc/Register/view-registration</a>.    
 
-**Q:** Will recordings be made available after the workshop?   
-**A:** Yes, recordings of all talks will be made available after the workshop.
+**Q:** I have registered, but still can’t access the chat or poster session. What should I do?    
+**A:** Please contact the primary ICLR support team at <a href="">this link</a> to get access to the chat. Passwords for the Zoom rooms associated with the poster sesson are available to registered participants at the workshop page on the <a href="https://iclr.cc/virtual/workshops_7.html" target="_blank">ICLR website</a>.
+
+**Q:** How do I set up Zoom?   
+**A:** If you do not already have Zoom installed, download the Zoom Client for Meetings at <a href="https://zoom.us/download" target="_blank">https://zoom.us/download</a>. After downloading Zoom you can simply enter the meeting ID or click on the link associated with the room that you want to enter.
+
+**Q:** How do I set up Rocket.Chat?     
+**A:** You will be sent an invitation to https://iclr.rocket.chat/ upon registration. If you have difficulty setting this up, please contact the primary ICLR support team, at <a href="https://iclr.cc/virtual/about.html#tab-help" target="_blank">this link</a>.
+
+**Q:** I have a question that isn't answered here. What should I do?   
+**A:** Get in touch at <climatechangeai.iclr2020@gmail.com>, or message @climatechangeai in the <a href="https://iclr.rocket.chat/" target="_blank">chat</a>.
+

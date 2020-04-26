@@ -67,7 +67,9 @@ layout: default
 
 {% if p.zoom_id %}
   <h3 id='zoom'>Live poster session schedule</h3>
-
+  <p>
+    Passwords are required to enter each Zoom room. Passwords are posted on the <a href="https://iclr.cc/virtual/workshops_7.html" target="_blank">ICLR website</a> (<a href='https://iclr.cc/Register/view-registration' target='_blank'>ICLR registration</a> is required).
+  </p>
   <table>
     <thead>
       <tr>
@@ -125,6 +127,7 @@ layout: default
       if (sess2) sess2.innerText = formatRange(s2_start, s2_end);
     });
   </script>
+
 {% endif %}
 
 {% if p.slideslive_id %}

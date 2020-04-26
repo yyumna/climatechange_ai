@@ -1,5 +1,8 @@
 ---
 - day: 'April 26: Main Workshop'
+  anchor: main-workshop
+  participate: |-
+      Check out the <a href="#livestream-and-chat">livestream and chat</a>. Join the <a href="#accepted-works">poster sessions</a> and <a href="https://www.climatechange.ai/join/ICLRBreakroom" target="_blank">breakroom</a> at the times indicated in the schedule below.
   schedule:
   - utc1:
       year: 2020
@@ -131,7 +134,7 @@
       millisecond: 0
     desc: "<b>Poster session</b>"
     more: |-
-      Talk to poster poster presenters via Zoom about their accepted works; Zoom connection information for each poster will be posted <a href='#accepted-works'>below</a>. You can also join the <a href="https://www.climatechange.ai/join/ICLRBreakroom" target="_blank">Zoom breakroom</a> at this time to mingle with other workshop participants.
+      Talk to poster poster presenters via Zoom about their accepted works; Zoom connection information for each poster can be found <a href='#accepted-works'>below</a>. You can also join the <a href="https://www.climatechange.ai/join/ICLRBreakroom" target="_blank">Zoom breakroom</a> at this time to mingle with other workshop participants.
 
               <p>
               Posters being presented during this slot are listed below.
@@ -376,7 +379,7 @@
       millisecond: 0
     desc: "<b>Poster session</b>"
     more: |-
-      Talk to poster poster presenters via Zoom about their accepted works; Zoom connection information for each poster will be posted <a href='#accepted-works'>below</a>. You can also join the <a href="https://www.climatechange.ai/join/ICLRBreakroom" target="_blank">Zoom breakroom</a> at this time to mingle with other workshop participants.
+      Talk to poster poster presenters via Zoom about their accepted works; Zoom connection information for each poster can be found <a href='#accepted-works'>below</a>. You can also join the <a href="https://www.climatechange.ai/join/ICLRBreakroom" target="_blank">Zoom breakroom</a> at this time to mingle with other workshop participants.
 
               <p>
               Posters being presented during this slot are listed below.
@@ -457,6 +460,9 @@
     desc: Closing remarks and conclusion
     more: ''
 - day: 'April 27: Energy Day'
+  anchor: energy-day
+  participate: |-
+    Join us on <a href="https://www.climatechange.ai/join/EnergyDay" target="_blank">Zoom</a> and in the <a href="#chat">chat</a>.
   schedule:
   - utc1:
       year: 2020
@@ -687,7 +693,14 @@
     desc: 'Tutorial: Machine Learning 101'
     more: Join Sharon Zhou and Sasha Luccioni for an introduction to machine learning
       methods and how they can be relevant in climate change mitigation and adaptation.
-- day: 'April 28: Agriculture, Forestry, and Other Land Use (AFOLU) Day'
+- day: |-
+    April 28: Agriculture, Forestry, and Other Land Use (AFOLU) Day
+    <p>
+    <small>Jointly organized with the <a href='https://www.cv4gc.org/cv4a2020/' target='_blank'>Computer Vision for Agriculture workshop</a></small>
+    </p>
+  anchor: afolu-day
+  participate: |-
+    Join us on <a href="https://www.climatechange.ai/join/LandUseDay" target="_blank">Zoom</a> and in the <a href="#chat">chat</a>.
   schedule:
   - utc1:
       year: 2020
@@ -850,6 +863,9 @@
                 </ul>
                 </p>
 - day: 'April 29: Climate Science and Adaptation Day'
+  anchor: clisciadapt-day
+  participate: |-
+    Join us on <a href="https://www.climatechange.ai/join/CliSciAdaptDay" target="_blank">Zoom</a> and in the <a href="#chat">chat</a>.
   schedule:
   - utc1:
       year: 2020
@@ -992,6 +1008,9 @@
     desc: Closing remarks and conclusion
     more: ''
 - day: 'April 30: Cross-cutting Methods Day'
+  anchor: methods-day
+  participate: |-
+    Join us on <a href="https://www.climatechange.ai/join/MethodsDay" target="_blank">Zoom</a> and in the <a href="#chat">chat</a>.
   schedule:
   - utc1:
       year: 2020
