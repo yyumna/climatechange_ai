@@ -16,7 +16,6 @@ def to_html(p)
   </div>
   <div class="person__name">#{p['name']}</div>
   <div class="person__affil">#{p['affiliation']}</div>
-  <div class="person__title">#{p['title']}</div>
 </a>
   HTML
 end
@@ -50,7 +49,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 # People
 
-## Steering Committee
+## Core Team
 
 <div class="person__list">
 HTML
@@ -68,6 +67,32 @@ puts advisory.map { |p| to_html(p) }.join("\n")
 puts "</div>"
 
 puts <<-HTML
+
+# Organizational Structure
+
+## CCAI Chairs
+- David Rolnick
+- Priya L. Donti
+- Lynn H. Kaack
+
+## Content Committeee
+- Sasha Luccioni (<em>Committee Chair</em>)
+- Alexandre Lacoste (<em>Datasets Lead</em>)
+- Evan D. Sherwin (<em>Meetups Lead</em>)
+- Kris Sankaran
+- Priya L. Donti
+
+## Communications Committee
+- Kris Sankaran (<em>Newsletter Lead, Forum Lead</em>)
+- Andrew Ross (<em>Web Lead</em>)
+- Natasha Jaques (<em>Social Media Lead</em>)
+
+## Community Leads
+- David Rolnick (<em>Tech Industry and ML Academia</em>)
+- Priya L. Donti (<em>Power Sector</em>)
+- Lynn H. Kaack (<em>Public Sector and International Organizations</em>)
+- Kelly Kochanski (<em>Climate and Earth Sciences</em>)
+- Nikola Milojevic-Dupont (<em>Buildings and Transportation</em>)
 
 # Press
 

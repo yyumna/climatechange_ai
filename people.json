@@ -4,7 +4,6 @@
     "image_url": "images/people/davidrolnick.jpg",
     "name": "David Rolnick",
     "affiliation": "University of Pennsylvania",
-    "title": "Chair",
     "committees": ["steering"]
   },
   {
@@ -12,7 +11,6 @@
     "image_url": "images/people/priyadonti.jpg",
     "name": "Priya L. Donti",
     "affiliation": "Carnegie Mellon",
-    "title": "Chair",
     "committees": ["steering"]
   },
   {
@@ -20,14 +18,12 @@
     "image_url": "images/people/lynnkaack.jpeg",
     "name": "Lynn H. Kaack",
     "affiliation": "ETH Zürich",
-    "title": "Chair",
     "committees": ["steering"]
   },
   {
     "website_url": "https://mila.quebec/en/person/kris-sankaran/",
     "image_url": "images/people/krissankaran.jpg",
     "name": "Kris Sankaran",
-    "title": "Partnerships",
     "affiliation": "Mila, U. de Montréal",
     "committees": ["steering"]
   },
@@ -35,7 +31,6 @@
     "website_url": "https://www.sashaluccioni.com/",
     "image_url": "images/people/sashaluccioni.jpg",
     "name": "Sasha Luccioni",
-    "title": "Partnerships",
     "affiliation": "Mila, U. de Montréal",
     "committees": ["steering"]
   },
@@ -43,7 +38,6 @@
     "website_url": "https://asross.github.io/",
     "image_url": "images/people/andrew_ross.jpg",
     "name": "Andrew Slavin Ross",
-    "title": "Website",
     "affiliation": "Harvard University",
     "committees": ["steering"]
   },

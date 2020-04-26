@@ -26,7 +26,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 
 # People
 
-## Steering Committee
+## Core Team
 
 <div class="person__list">
 <a class="person__item" href="http://www.davidrolnick.com" target="_blank">
@@ -35,7 +35,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">David Rolnick</div>
   <div class="person__affil">University of Pennsylvania</div>
-  <div class="person__title">Chair</div>
 </a>
 
 <a class="person__item" href="https://priyadonti.com/" target="_blank">
@@ -44,7 +43,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Priya L. Donti</div>
   <div class="person__affil">Carnegie Mellon</div>
-  <div class="person__title">Chair</div>
 </a>
 
 <a class="person__item" href="https://epg.ethz.ch/people/senior-researchers/dr--lynn-kaack.html" target="_blank">
@@ -53,7 +51,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Lynn H. Kaack</div>
   <div class="person__affil">ETH Zürich</div>
-  <div class="person__title">Chair</div>
 </a>
 
 <a class="person__item" href="https://mila.quebec/en/person/kris-sankaran/" target="_blank">
@@ -62,7 +59,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Kris Sankaran</div>
   <div class="person__affil">Mila, U. de Montréal</div>
-  <div class="person__title">Partnerships</div>
 </a>
 
 <a class="person__item" href="https://www.sashaluccioni.com/" target="_blank">
@@ -71,7 +67,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Sasha Luccioni</div>
   <div class="person__affil">Mila, U. de Montréal</div>
-  <div class="person__title">Partnerships</div>
 </a>
 
 <a class="person__item" href="https://asross.github.io/" target="_blank">
@@ -80,7 +75,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Andrew Slavin Ross</div>
   <div class="person__affil">Harvard University</div>
-  <div class="person__title">Website</div>
 </a>
 
 <a class="person__item" href="http://www.kochanski.org/kelly/" target="_blank">
@@ -89,7 +83,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Kelly Kochanski</div>
   <div class="person__affil">CU Boulder</div>
-  <div class="person__title"></div>
 </a>
 
 <a class="person__item" href="https://scholar.google.com/citations?user=71a2-WMAAAAJ&hl=en" target="_blank">
@@ -98,7 +91,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Alexandre Lacoste</div>
   <div class="person__affil">Element AI</div>
-  <div class="person__title"></div>
 </a>
 
 <a class="person__item" href="https://www.mcc-berlin.net/en/about/team/milojevic-dupont-nikola.html" target="_blank">
@@ -107,7 +99,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Nikola Milojevic-Dupont</div>
   <div class="person__affil">MCC Berlin, TU Berlin</div>
-  <div class="person__title"></div>
 </a>
 
 <a class="person__item" href="https://www.media.mit.edu/people/jaquesn/overview/" target="_blank">
@@ -116,7 +107,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Natasha Jaques</div>
   <div class="person__affil">MIT</div>
-  <div class="person__title"></div>
 </a>
 
 <a class="person__item" href="http://www.teganmaharaj.com" target="_blank">
@@ -125,7 +115,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Tegan Maharaj</div>
   <div class="person__affil">Mila, Polytechnique Montréal</div>
-  <div class="person__title"></div>
 </a>
 
 <a class="person__item" href="https://www.evansherwin.com/" target="_blank">
@@ -134,7 +123,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Evan D. Sherwin</div>
   <div class="person__affil">Stanford University</div>
-  <div class="person__title"></div>
 </a>
 
 <a class="person__item" href="http://sharonzhou.me/" target="_blank">
@@ -143,7 +131,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Sharon Zhou</div>
   <div class="person__affil">Stanford University</div>
-  <div class="person__title"></div>
 </a>
 
 <a class="person__item" href="https://daviddao.org/" target="_blank">
@@ -152,7 +139,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">David Dao</div>
   <div class="person__affil">ETH Zurich</div>
-  <div class="person__title"></div>
 </a>
 </div>
 ## Advisors
@@ -163,7 +149,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Yoshua Bengio</div>
   <div class="person__affil">Mila, U. de Montréal</div>
-  <div class="person__title"></div>
 </a>
 
 <a class="person__item" href="https://data.berkeley.edu/jennifer-chayes" target="_blank">
@@ -172,7 +157,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Jennifer Chayes</div>
   <div class="person__affil">UC Berkeley</div>
-  <div class="person__title"></div>
 </a>
 
 <a class="person__item" href="https://www.mcc-berlin.net/en/about/team/creutzig-felix.html" target="_blank">
@@ -181,7 +165,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Felix Creutzig</div>
   <div class="person__affil">MCC Berlin, TU Berlin</div>
-  <div class="person__title"></div>
 </a>
 
 <a class="person__item" href="https://ai.google/research/people/JohnPlatt" target="_blank">
@@ -190,7 +173,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">John C. Platt</div>
   <div class="person__affil">Google AI</div>
-  <div class="person__title"></div>
 </a>
 
 <a class="person__item" href="https://deepmind.com/" target="_blank">
@@ -199,7 +181,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Demis Hassabis</div>
   <div class="person__affil">DeepMind</div>
-  <div class="person__title"></div>
 </a>
 
 <a class="person__item" href="https://www.andrewng.org/" target="_blank">
@@ -208,7 +189,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Andrew Y. Ng</div>
   <div class="person__affil">Stanford University</div>
-  <div class="person__title"></div>
 </a>
 
 <a class="person__item" href="https://www.cs.cornell.edu/gomes/" target="_blank">
@@ -217,7 +197,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Carla Gomes</div>
   <div class="person__affil">Cornell University</div>
-  <div class="person__title"></div>
 </a>
 
 <a class="person__item" href="http://koerding.com/" target="_blank">
@@ -226,7 +205,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Konrad P. Körding</div>
   <div class="person__affil">University of Pennsylvania</div>
-  <div class="person__title"></div>
 </a>
 
 <a class="person__item" href="http://zicokolter.com/" target="_blank">
@@ -235,7 +213,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Zico Kolter</div>
   <div class="person__affil">Carnegie Mellon</div>
-  <div class="person__title"></div>
 </a>
 
 <a class="person__item" href="https://ines.stanford.edu" target="_blank">
@@ -244,7 +221,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Inês Azevedo</div>
   <div class="person__affil">Stanford University</div>
-  <div class="person__title"></div>
 </a>
 
 <a class="person__item" href="https://epg.ethz.ch/people/group-head/prof--dr--tobias-schmidt.html" target="_blank">
@@ -253,7 +229,6 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Tobias Schmidt</div>
   <div class="person__affil">ETH Zürich</div>
-  <div class="person__title"></div>
 </a>
 
 <a class="person__item" href="https://www.eye-on.ai" target="_blank">
@@ -262,9 +237,34 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   </div>
   <div class="person__name">Craig Smith</div>
   <div class="person__affil">Eye on AI</div>
-  <div class="person__title"></div>
 </a>
 </div>
+
+# Organizational Structure
+
+## CCAI Chairs
+- David Rolnick
+- Priya L. Donti
+- Lynn H. Kaack
+
+## Content Committeee
+- Sasha Luccioni (<em>Committee Chair</em>)
+- Alexandre Lacoste (<em>Datasets Lead</em>)
+- Evan D. Sherwin (<em>Meetups Lead</em>)
+- Kris Sankaran
+- Priya L. Donti
+
+## Communications Committee
+- Kris Sankaran (<em>Newsletter Lead, Forum Lead</em>)
+- Andrew Ross (<em>Web Lead</em>)
+- Natasha Jaques (<em>Social Media Lead</em>)
+
+## Community Leads
+- David Rolnick (<em>Tech Industry and ML Academia</em>)
+- Priya L. Donti (<em>Power Sector</em>)
+- Lynn H. Kaack (<em>Public Sector and International Organizations</em>)
+- Kelly Kochanski (<em>Climate and Earth Sciences</em>)
+- Nikola Milojevic-Dupont (<em>Buildings and Transportation</em>)
 
 # Press
 
