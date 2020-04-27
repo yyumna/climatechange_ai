@@ -463,8 +463,6 @@
 - day: 'April 27: Energy Day'
   anchor: energy-day
   collapsed: 1
-  participate: |-
-    <b>How to participate:</b> Join us on <a href="https://www.climatechange.ai/join/EnergyDay" target="_blank">Zoom</a>.
   schedule:
   - utc1:
       year: 2020
