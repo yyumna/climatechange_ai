@@ -3,7 +3,7 @@
   anchor: main-workshop
   collapsed: 1
   participate: |-
-      Check out the <a href="#livestream-and-chat">livestream and chat</a>. Join the <a href="#accepted-works">poster sessions</a> and <a href="https://www.climatechange.ai/join/ICLRBreakroom" target="_blank">breakroom</a> at the times indicated in the schedule below.
+      <p>Watch a recording of this day's program <a href="https://slideslive.com/38926837" target="_blank">here</a>, or follow links in the schedule below to see individual talks. To view spotlights for workshop submissions, check out the <a href="#accepted-works">individual paper pages</a>.</p>
   schedule:
   - utc1:
       year: 2020
@@ -463,7 +463,7 @@
 - day: 'April 27: Energy Day'
   anchor: energy-day
   participate: |-
-    Join us on <a href="https://www.climatechange.ai/join/EnergyDay" target="_blank">Zoom</a> and in the <a href="#chat">chat</a>.
+    <b>How to participate:</b> Join us on <a href="https://www.climatechange.ai/join/EnergyDay" target="_blank">Zoom</a> and in the <a href="#chat">chat</a>.
   schedule:
   - utc1:
       year: 2020
@@ -701,7 +701,7 @@
     </p>
   anchor: afolu-day
   participate: |-
-    Join us on <a href="https://www.climatechange.ai/join/LandUseDay" target="_blank">Zoom</a> and in the <a href="#chat">chat</a>.
+    <b>How to participate:</b> Join us on <a href="https://www.climatechange.ai/join/LandUseDay" target="_blank">Zoom</a> and in the <a href="#chat">chat</a>.
   schedule:
   - utc1:
       year: 2020
@@ -866,7 +866,7 @@
 - day: 'April 29: Climate Science and Adaptation Day'
   anchor: clisciadapt-day
   participate: |-
-    Join us on <a href="https://www.climatechange.ai/join/CliSciAdaptDay" target="_blank">Zoom</a> and in the <a href="#chat">chat</a>.
+    <b>How to participate:</b> Join us on <a href="https://www.climatechange.ai/join/CliSciAdaptDay" target="_blank">Zoom</a> and in the <a href="#chat">chat</a>.
   schedule:
   - utc1:
       year: 2020
@@ -1011,7 +1011,7 @@
 - day: 'April 30: Cross-cutting Methods Day'
   anchor: methods-day
   participate: |-
-    Join us on <a href="https://www.climatechange.ai/join/MethodsDay" target="_blank">Zoom</a> and in the <a href="#chat">chat</a>.
+    <b>How to participate:</b> Join us on <a href="https://www.climatechange.ai/join/MethodsDay" target="_blank">Zoom</a> and in the <a href="#chat">chat</a>.
   schedule:
   - utc1:
       year: 2020

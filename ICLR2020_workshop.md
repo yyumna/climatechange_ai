@@ -48,9 +48,9 @@ Events will be taking place digitally from April 26-30. The schedule is availabl
 {% if s.collapsed %}
 <details>
 <summary>Schedule: (click to expand)</summary>
-{% else %}
-<b>How to participate:</b> {{s.participate}}
 {% endif %}
+
+{{s.participate}}
 
 <table class='remote-workshop-table'>
   <thead>
