@@ -1,6 +1,7 @@
 ---
 - day: 'April 26: Main Workshop'
   anchor: main-workshop
+  collapsed: 1
   participate: |-
       Check out the <a href="#livestream-and-chat">livestream and chat</a>. Join the <a href="#accepted-works">poster sessions</a> and <a href="https://www.climatechange.ai/join/ICLRBreakroom" target="_blank">breakroom</a> at the times indicated in the schedule below.
   schedule:

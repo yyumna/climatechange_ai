@@ -42,9 +42,15 @@ Join today's Energy Day program via <a href="https://www.climatechange.ai/join/E
 Events will be taking place digitally from April 26-30. The schedule is available below, via <a href="https://calendar.google.com/calendar/embed?src=n4jcdb08gc10bk47crsq18aet8%40group.calendar.google.com&ctz=Etc%2FGMT&mode=AGENDA" target="_blank">Google Calendar</a>, and in <a href="https://calendar.google.com/calendar/ical/n4jcdb08gc10bk47crsq18aet8%40group.calendar.google.com/public/basic.ics" target="_blank">iCal</a> format.
 
 {% for s in site.data.iclr2020_schedule %}
+
 <h3 id="{{s.anchor}}">{{ s.day | strip_newlines | strip }}</h3>
 
+{% if s.collapsed %}
+<details>
+<summary>Schedule: (click to expand)</summary>
+{% else %}
 <b>How to participate:</b> {{s.participate}}
+{% endif %}
 
 <table class='remote-workshop-table'>
   <thead>
@@ -73,6 +79,10 @@ Events will be taking place digitally from April 26-30. The schedule is availabl
   {% endfor %}
   </tbody>
 </table>
+
+{% if s.collapsed %}
+</details>
+{% endif %}
 
 {% endfor %}
 

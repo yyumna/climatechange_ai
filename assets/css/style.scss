@@ -328,14 +328,14 @@ html, body {
 
 summary::-moz-list-bullet { list-style-type: none;  }
 summary::-webkit-details-marker {display: none; }
-details summary::before { content:"►"; }
-details[open] summary::before { content:"▼" }
+details > summary::before { content:"►"; }
+details[open] > summary::before { content:"▼" }
 
 summary {
   cursor: pointer;
 }
 
-details[open] summary {
+details[open] > summary {
   margin-bottom: 1rem;
 }
 
