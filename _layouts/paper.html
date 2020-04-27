@@ -49,10 +49,6 @@ layout: default
     <a href='{{ p.slides_path }}' class='button' target='_blank'>Slides PDF</a>
   {% endif %}
 
-  {% if p.zoom_id %}
-    <a href='#zoom' class='button'>Zoom Schedule</a>
-  {% endif %}
-
   {% if p.slideslive_id or p.youtube_id %}
     <a href='#recording' class='button'>Prerecorded Talk</a>
   {% endif %}
@@ -64,71 +60,6 @@ layout: default
 
 <h3 id='abstract' class='abstract-header'>Abstract</h3>
 <p class='abstract-text'>{{ p.abstract }}</p>
-
-{% if p.zoom_id %}
-  <h3 id='zoom'>Live poster session schedule</h3>
-  <table>
-    <thead>
-      <tr>
-        <th id='fill-timezone'>Time (&hellip;)</th>
-        <th>Time (UTC)</th>
-        <th>Session</th>
-        <th>Link</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% if p.session == 'Session1' or p.session == 'Both' %}
-        <tr>
-          <td id='fill-session1'></td>
-          <td>12:00 - 13:00</td>
-          <td>Session 1</td>
-          <td><a href="https://us02web.zoom.us/j/{{ p.zoom_id }}" target="_blank">Join on Zoom</a></td>
-        </tr>
-      {% endif %}
-      {% if p.session == 'Session2' or p.session == 'Both' %}
-        <tr>
-          <td id='fill-session2'></td>
-          <td>18:45 - 20:00</td>
-          <td>Session 2</td>
-          <td><a href="https://us02web.zoom.us/j/{{ p.zoom_id }}" target="_blank">Join on Zoom</a></td>
-        </tr>
-      {% endif %}
-    </tbody>
-  </table>
-  <p>
-    <small>Note: If you need to enter a room password, use <code>seaslug</code>.</small>
-  </p>
-
-  <script src="https://cdn.jsdelivr.net/npm/luxon@1.23.0/build/global/luxon.min.js"></script>
-  <script>
-    $(document).ready(() => {
-      const DateTime = luxon.DateTime;
-      const tzShort = DateTime.local().toFormat("ZZZZ");
-
-      document.getElementById('fill-timezone').innerText = `Time (${tzShort})`;
-
-      const s1_start = DateTime.utc(2020, 4, 26, 12, 0, 0, 0);
-      const s2_start = DateTime.utc(2020, 4, 26, 18, 45, 0, 0);
-
-      const s1_end = DateTime.utc(2020, 4, 26, 13, 0, 0, 0);
-      const s2_end = DateTime.utc(2020, 4, 26, 20, 0, 0, 0);
-
-      function formatRange(t1, t2) {
-        const zone = DateTime.local().zoneName;
-        const h1 = t1.setZone(zone).toFormat("H:mm");
-        const h2 = t2.setZone(zone).toFormat("H:mm");
-        return `${h1} - ${h2}`;
-      }
-
-      const sess1 = document.getElementById('fill-session1');
-      const sess2 = document.getElementById('fill-session2');
-
-      if (sess1) sess1.innerText = formatRange(s1_start, s1_end);
-      if (sess2) sess2.innerText = formatRange(s2_start, s2_end);
-    });
-  </script>
-
-{% endif %}
 
 {% if p.slideslive_id %}
   <h3 id='recording'>Prerecorded talk (<a href="https://slideslive.com/{{ p.slideslive_id }}">direct link</a>)</h3>
