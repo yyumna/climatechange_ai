@@ -122,8 +122,6 @@ Works were submitted to one of two tracks: [Papers](#Papers) or [Proposals](#Pro
 
 Click the links below for information about each submission, including a video, slides, and chatroom where you can ask questions to the authors.
 
-<b>Poster sessions:</b> Authors will be presenting their work in digital poster sessions at the times listed. Zoom connection info is at the links below; passwords for the Zoom rooms are available at the workshop page on the <a href="https://iclr.cc/virtual/workshops_7.html" target="_blank">ICLR website</a> (<a href='https://iclr.cc/Register/view-registration' target='_blank'>ICLR registration</a> is required).
-
 {% assign tracks = "Papers Proposals" | split: " " %}
 {% for track in tracks %}
 <h3 id='{{ track }}'>{{ track }}</h3>
