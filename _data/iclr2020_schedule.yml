@@ -433,8 +433,8 @@
       minute: 45
       second: 0
       millisecond: 0
-    desc: 'Dan Morris: <b>Climate, biodiversity, and land: using ML to protect and
-      restore ecosystems</b> <em>(Invited talk)</em>'
+    desc: 'Dan Morris: <a href="https://slideslive.com/38926249" target="_blank"><b>Climate, biodiversity, and land: using ML to protect and
+      restore ecosystems</b></a> <em>(Invited talk)</em>'
     more: |-
       <strong>Abstract:</strong> When we think “ML for climate change”, we often think of climate forecasting, energy grid optimization, greenhouse gas reduction, and other opportunities for ML to impact the <i>direct</i> causes and effects of global warming. But in this talk, I will present the close relationships among <i>climate</i>, <i>biodiversity</i>, and <i>land use</i>, and I will discuss opportunities for ML to support climate change mitigation by accelerating efforts in all three of these areas. Furthermore, this workshop’s mission states that “many in the ML community wish to take action on climate change, yet feel their skills are inapplicable”; I hope to convince the audience that one of the best ways we can put ML to work – and often the easiest way for ML students and practitioners to get hands-on experience with environmental sustainability – is to focus on some of the “small” problems whose solutions will make the day-to-day work of conservation scientists and practitioners more efficient.
 
