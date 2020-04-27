@@ -85,12 +85,20 @@ html, body {
 }
 
 .badge {
-  border-radius: 5px;
+  border-radius: 4px;
   background-color: gold;
-  padding: 5px;
-  margin-left: 1rem;
+  padding-bottom: calc(0.375em - 1px);
+  padding-top: calc(0.375em - 1px);
+  padding-left: 0.75em;
+  padding-right: 0.75em;
+  margin-left: 0.5em;
   font-size: 1rem;
+  line-height: 1.5;
   white-space: nowrap;
+}
+.badge.lighter {
+  background-color: transparent;
+  border: 1px solid;
 }
 
 .person__list {

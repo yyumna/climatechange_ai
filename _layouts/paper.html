@@ -36,7 +36,15 @@ layout: default
 <hr>
 {% endif %}
 
-<h2>{{ p.paper_title }} ({{ p.q1_track }} Track)</h2>
+<h2>{{ p.paper_title }} ({{ p.q1_track }} Track)
+  {% if p.is_best_paper %}
+    <span class='badge'>Best Paper Award</span>
+  {% elsif p.is_best_proposal %}
+    <span class='badge'>Best Proposal Award</span>
+  {% elsif p.status == "Accept (spotlight)" %}
+    <span class='badge lighter'>Spotlight</span>
+  {% endif %}
+</h2>
 
 <p><em>{{ p.authors }}</em></p>
 
