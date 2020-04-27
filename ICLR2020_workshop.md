@@ -26,7 +26,7 @@ slideslive_id: 38926837
 Welcome! This workshop is focused on impactful uses of machine learning in reducing and responding to climate change, and is intended to be a venue for discourse between experts in machine learning and other fields. Our program:
 <ul>
 <li><b><a href='#main-workshop'>April 26:</a></b> Main Workshop</li>
-<li><b><a href='#energy-day'>April 27:</a></b> Energy Day (<a href="https://www.climatechange.ai/join/EnergyDay" target="_blank">Zoom registration</a>)</li>
+<li><b><a href='#energy-day'>April 27:</a></b> Energy Day</li>
 <li><b><a href='#afolu-day'>April 28:</a></b> Agriculture, Forestry, and Other Land Use Day (<a href="https://www.climatechange.ai/join/LandUseDay" target="_blank">Zoom registration</a>)</li>
 <li><b><a href='#clisciadapt-day'>April 29:</a></b> Climate Science and Adaptation Day (<a href="https://www.climatechange.ai/join/CliSciAdaptDay" target="_blank">Zoom registration</a>)</li>
 <li><b><a href='#methods-day'>April 30:</a></b> Cross-cutting Methods Day (<a href="https://www.climatechange.ai/join/MethodsDay" target="_blank">Zoom registration</a>)</li>
@@ -35,7 +35,7 @@ Welcome! This workshop is focused on impactful uses of machine learning in reduc
 
 ## Join
 
-Join today's Energy Day program via <a href="https://www.climatechange.ai/join/EnergyDay" target="_blank">Zoom</a>. Participants who are also registered for the ICLR conference can additionally join our <a href="https://iclr.rocket.chat/channel/workshop_climatechange" target="_blank">chatroom</a>.
+Join today's program via <a href="https://www.climatechange.ai/join/LandUseDay" target="_blank">Zoom</a>. Participants who are also registered for the ICLR conference can additionally join our <a href="https://iclr.rocket.chat/channel/workshop_climatechange" target="_blank">chatroom</a>.
 
 ## Schedule
 
