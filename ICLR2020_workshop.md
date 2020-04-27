@@ -14,7 +14,7 @@ slideslive_id: 38926837
 <div class='buttons'>
   <!-- <a class='button' href='#about-iclr'>About</a> -->
   <!-- <a class='button' href='#keynote-speakers'>Speakers</a> -->
-  <a class='button' href='#livestream-and-chat'>Livestream</a>
+  <a class='button' href='#join'>Join</a>
   <a class='button' href='#schedule'>Schedule</a>
   <a class='button' href='#accepted-works'>Posters</a>
   <a class='button' href='#sponsors'>Sponsors</a>
@@ -25,7 +25,7 @@ slideslive_id: 38926837
 
 Welcome! This workshop is focused on impactful uses of machine learning in reducing and responding to climate change, and is intended to be a venue for discourse between experts in machine learning and other fields. Our program:
 <ul>
-<li><b><a href='#main-workshop'>April 26:</a></b> Main Workshop (livestream and chat <a href='#livestream-and-chat'>below</a>)</li>
+<li><b><a href='#main-workshop'>April 26:</a></b> Main Workshop</li>
 <li><b><a href='#energy-day'>April 27:</a></b> Energy Day (<a href="https://www.climatechange.ai/join/EnergyDay" target="_blank">Zoom registration</a>)</li>
 <li><b><a href='#afolu-day'>April 28:</a></b> Agriculture, Forestry, and Other Land Use Day (<a href="https://www.climatechange.ai/join/LandUseDay" target="_blank">Zoom registration</a>)</li>
 <li><b><a href='#clisciadapt-day'>April 29:</a></b> Climate Science and Adaptation Day (<a href="https://www.climatechange.ai/join/CliSciAdaptDay" target="_blank">Zoom registration</a>)</li>
@@ -33,34 +33,9 @@ Welcome! This workshop is focused on impactful uses of machine learning in reduc
 </ul>
 
 
-## Livestream and chat
+## Join
 
-### Video (<a href="https://slideslive.com/{{ page.slideslive_id }}">direct link</a>)
-
-<div id="presentation-embed-{{ page.slideslive_id }}" class="slp"></div>
-<div id='status-message'></div>
-
-<script src='https://slideslive.com/embed_presentation.js'></script>
-<script>
-  const sle = new SlidesLiveEmbed("presentation-embed-{{ page.slideslive_id }}", {
-    presentationId: '{{ page.slideslive_id }}',
-    autoPlay: false, // change to true to autoplay the embedded presentation
-    verticalEnabled: true,
-    allowHiddenControlsWhenPaused: true,
-    zoomRatio: 0.25,
-    hideTitle: true,
-  });
-  sle.addCallback("onError", (err) => {
-    document.getElementById('status-message').innerHTML = "<em>Video coming soon!</em>";
-  });
-</script>
-
-<h3 id='chat'>Chat (ICLR registration required)</h3>
-
-<div class="rocket card">
-  <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_climatechange?layout=embedded" width="100%" height="400px" style="display: block"></iframe>
-</div>
-<p>If the embedded chat is not loading, you can visit the chatroom <a href='https://iclr.rocket.chat/channel/workshop_climatechange' target='_blank'>directly</a>. Note that <a href='https://iclr.cc/Register/view-registration' target='_blank'>ICLR registration</a> is required for this feature!</p>
+Join today's Energy Day program via <a href="https://www.climatechange.ai/join/EnergyDay" target="_blank">Zoom</a>. Registered participants can additionally join our <a href="https://iclr.rocket.chat/channel/workshop_climatechange" target="_blank">chatroom</a>.
 
 ## Schedule
 
