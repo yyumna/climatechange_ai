@@ -132,25 +132,21 @@ Click the links below for information about each submission, including a video, 
   <thead><tr>
   <th>Title</th>
   <th>Authors</th>
-  <th>Poster Session</th>
   </tr></thead>
   
   <tbody>
   {% for p in site.data.iclr2020_papers %}
   {% if p.q1_track == track %}
   <tr>
-  <td><a href="/papers/iclr2020/{{ p.id }}">({{ p.id }}) {{ p.paper_title }}</a></td>
-  <td>{{ p.authors }}</td>
-  <td style='white-space: nowrap'>
-  {% if p.session == 'Session1' %}
-    12:00 - 13:00 UTC
-  {% elsif p.session == 'Session2' %}
-    18:45 - 20:00 UTC
-  {% elsif p.session == 'Both' %}
-    12:00 - 13:00 UTC,<br>
-    18:45 - 20:00 UTC
+  <td>
+  <a href="/papers/iclr2020/{{ p.id }}">({{ p.id }}) {{ p.paper_title }}</a>
+  {% if p.is_best_paper %}
+  <span class='tag best-paper'>Best Paper Award</span>
+  {% elsif p.is_best_proposal %}
+  <span class='tag best-paper'>Best Proposal Award</span>
   {% endif %}
   </td>
+  <td>{{ p.authors }}</td>
   </tr>
   {% endif %}
   {% endfor %}
