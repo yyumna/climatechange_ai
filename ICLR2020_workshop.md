@@ -35,7 +35,7 @@ Welcome! This workshop is focused on impactful uses of machine learning in reduc
 
 ## Join
 
-Join today's Energy Day program via <a href="https://www.climatechange.ai/join/EnergyDay" target="_blank">Zoom</a>. Registered participants can additionally join our <a href="https://iclr.rocket.chat/channel/workshop_climatechange" target="_blank">chatroom</a>.
+Join today's Energy Day program via <a href="https://www.climatechange.ai/join/EnergyDay" target="_blank">Zoom</a>. Participants who are also registered for the ICLR conference can additionally join our <a href="https://iclr.rocket.chat/channel/workshop_climatechange" target="_blank">chatroom</a>.
 
 ## Schedule
 

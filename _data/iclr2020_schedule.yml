@@ -463,7 +463,7 @@
 - day: 'April 27: Energy Day'
   anchor: energy-day
   participate: |-
-    <b>How to participate:</b> Join us on <a href="https://www.climatechange.ai/join/EnergyDay" target="_blank">Zoom</a> and in the <a href="#chat">chat</a>.
+    <b>How to participate:</b> Join us on <a href="https://www.climatechange.ai/join/EnergyDay" target="_blank">Zoom</a>.
   schedule:
   - utc1:
       year: 2020
@@ -701,7 +701,7 @@
     </p>
   anchor: afolu-day
   participate: |-
-    <b>How to participate:</b> Join us on <a href="https://www.climatechange.ai/join/LandUseDay" target="_blank">Zoom</a> and in the <a href="#chat">chat</a>.
+    <b>How to participate:</b> Join us on <a href="https://www.climatechange.ai/join/LandUseDay" target="_blank">Zoom</a>.
   schedule:
   - utc1:
       year: 2020
@@ -866,7 +866,7 @@
 - day: 'April 29: Climate Science and Adaptation Day'
   anchor: clisciadapt-day
   participate: |-
-    <b>How to participate:</b> Join us on <a href="https://www.climatechange.ai/join/CliSciAdaptDay" target="_blank">Zoom</a> and in the <a href="#chat">chat</a>.
+    <b>How to participate:</b> Join us on <a href="https://www.climatechange.ai/join/CliSciAdaptDay" target="_blank">Zoom</a>.
   schedule:
   - utc1:
       year: 2020
@@ -1011,7 +1011,7 @@
 - day: 'April 30: Cross-cutting Methods Day'
   anchor: methods-day
   participate: |-
-    <b>How to participate:</b> Join us on <a href="https://www.climatechange.ai/join/MethodsDay" target="_blank">Zoom</a> and in the <a href="#chat">chat</a>.
+    <b>How to participate:</b> Join us on <a href="https://www.climatechange.ai/join/MethodsDay" target="_blank">Zoom</a>.
   schedule:
   - utc1:
       year: 2020
