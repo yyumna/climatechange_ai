@@ -353,7 +353,9 @@ details[open] > summary {
 
 // Ensure that anchor links don't skip the headers
 @media screen and (min-width: 1024px) {
-  h1::before, h2::before, h3::before {
+  h1:not(.no-anchor-padding)::before,
+  h2:not(.no-anchor-padding)::before,
+  h3:not(.no-anchor-padding)::before {
     content: "";
     display: block;
     height: 80px; /* fixed header height*/
@@ -361,7 +363,9 @@ details[open] > summary {
   }
 }
 @media screen and (max-width: 1023px) {
-  h1::before, h2::before, h3::before {
+  h1:not(.no-anchor-padding)::before,
+  h2:not(.no-anchor-padding)::before,
+  h3:not(.no-anchor-padding)::before {
     content: "";
     display: block;
     height: 68px; /* fixed header height*/

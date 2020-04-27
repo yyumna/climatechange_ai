@@ -42,7 +42,7 @@ Climate change is one of the greatest problems society has ever faced, with incr
 
 <div class='columns'>
   <div class='column'>
-    <h3>Updates</h3>
+    <h3 class='no-anchor-padding'>Updates</h3>
     <ul>
       <li>Feb 19, 2020 - P. Donti featured on <a href="https://www.greentechmedia.com/articles/read/beyond-forecasting-artificial-intelligence-is-a-powerful-decarbonization-tool" target="_blank">The Interchange</a> podcast by Greentech Media.</li>
       <li>Jan 27-28, 2020 - Climate Change AI <a href="/AMLD2020_event" target="_blank">conference track</a> held at AMLD 2020.</li>
