@@ -3,12 +3,6 @@ title: Climate Change AI
 description: Tackling Climate Change with Machine Learning
 ---
 
-<article class='message is-warning'>
-  <div class='message-body'>
-    Attend our <a href='/ICLR2020_workshop'>virtual workshop</a> at ICLR 2020! Main event on April 26, additional events April 27-30.
-  </div>
-</article>
-
 Climate change is one of the greatest problems society has ever faced, with increasingly severe consequences for humanity as natural disasters multiply, sea levels rise, and ecosystems falter. While no silver bullet, machine learning can be an invaluable tool in fighting climate change via a wide array of applications and techniques. Climate Change AI aims to facilitate work at the nexus of climate change and machine learning.
 
 <div class='columns'>
@@ -33,7 +27,7 @@ Climate change is one of the greatest problems society has ever faced, with incr
           <li><a href='{{ site.forum_url }}' target='_blank'>Join</a> our discussion forum</li>
           <li><a href='/mailing_list'>Sign up</a> for our <a href='/newsletter'>newsletter</a></li>
           <li>Launch events or projects (ideas <a href='/get_involved'>here</a>)</li>
-          <li>Attend our workshop at <a href='/ICLR2020_workshop'>ICLR 2020</a></li>
+          <li><a href="mailto:info@climatechange.ai" target="_blank">Get in touch!</a></li>
         </ul>
       </div>
     </div>
@@ -44,6 +38,7 @@ Climate change is one of the greatest problems society has ever faced, with incr
   <div class='column'>
     <h3 class='no-anchor-padding'>Updates</h3>
     <ul>
+      <li>Apr 26-30, 2020 - Climate Change AI <a href="/ICLR2020_workshop" target="_blank">workshop</a> held virtually at ICLR 2020.</li>
       <li>Feb 19, 2020 - P. Donti featured on <a href="https://www.greentechmedia.com/articles/read/beyond-forecasting-artificial-intelligence-is-a-powerful-decarbonization-tool" target="_blank">The Interchange</a> podcast by Greentech Media.</li>
       <li>Jan 27-28, 2020 - Climate Change AI <a href="/AMLD2020_event" target="_blank">conference track</a> held at AMLD 2020.</li>
       <li>Jan 21, 2020 - <a href="/NeurIPS2019_workshop#schedule" target="_blank">Recordings</a> available for Climate Change AI workshop at NeurIPS 2019.</li>

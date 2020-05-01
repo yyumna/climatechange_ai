@@ -12,9 +12,9 @@ slideslive_id: 38926837
 <h1>ICLR 2020 Workshop <br> Tackling Climate Change with Machine Learning</h1>
 
 <div class='buttons'>
-  <!-- <a class='button' href='#about-iclr'>About</a> -->
+  <a class='button' href='#about'>About</a>
   <!-- <a class='button' href='#keynote-speakers'>Speakers</a> -->
-  <a class='button' href='#join'>Join</a>
+  <!-- <a class='button' href='#join'>Join</a> -->
   <a class='button' href='#schedule'>Schedule</a>
   <a class='button' href='#accepted-works'>Posters</a>
   <a class='button' href='#sponsors'>Sponsors</a>
@@ -25,21 +25,21 @@ slideslive_id: 38926837
 
 Welcome! This workshop is focused on impactful uses of machine learning in reducing and responding to climate change, and is intended to be a venue for discourse between experts in machine learning and other fields. Our program:
 <ul>
-<li><b><a href='#main-workshop'>April 26:</a></b> Main Workshop</li>
+<li><b><a href='#main-workshop'>April 26:</a></b> Main workshop</li>
 <li><b><a href='#energy-day'>April 27:</a></b> Energy Day</li>
 <li><b><a href='#afolu-day'>April 28:</a></b> Agriculture, Forestry, and Other Land Use Day</li>
 <li><b><a href='#clisciadapt-day'>April 29:</a></b> Climate Science and Adaptation Day</li>
-<li><b><a href='#methods-day'>April 30:</a></b> Cross-cutting Methods Day (<a href="https://www.climatechange.ai/join/MethodsDay" target="_blank">Zoom registration</a>)</li>
+<li><b><a href='#methods-day'>April 30:</a></b> Cross-cutting Methods Day</li>
 </ul>
 
+## About
+Many in the ML community wish to take action on climate change, yet feel their skills are inapplicable. This workshop aims to show that in fact the opposite is true: while no silver bullet, **ML can be an invaluable tool both in reducing greenhouse gas emissions and in helping society adapt to the effects of climate change**. Climate change is a complex problem, for which action takes many forms - from designing smart electrical grids to tracking deforestation in satellite imagery. Many of these actions represent high-impact opportunities for real-world change, as well as being interesting problems for ML research.
 
-## Join
-
-Join today's program via <a href="https://www.climatechange.ai/join/MethodsDay" target="_blank">Zoom</a>. Participants who are also registered for the ICLR conference can additionally join our <a href="https://iclr.rocket.chat/channel/workshop_climatechange" target="_blank">chatroom</a>.
+This workshop was held as part of the International Conference on Learning Representations (ICLR), one of the premier conferences on machine learning, which draws a wide audience of researchers and practitioners in academia, industry, and related fields.
 
 ## Schedule
 
-Events will be taking place digitally from April 26-30. The schedule is available below, via <a href="https://calendar.google.com/calendar/embed?src=n4jcdb08gc10bk47crsq18aet8%40group.calendar.google.com&ctz=Etc%2FGMT&mode=AGENDA" target="_blank">Google Calendar</a>, and in <a href="https://calendar.google.com/calendar/ical/n4jcdb08gc10bk47crsq18aet8%40group.calendar.google.com/public/basic.ics" target="_blank">iCal</a> format.
+Workshop events took place digitally from April 26-30. The schedule is available below, via <a href="https://calendar.google.com/calendar/embed?src=n4jcdb08gc10bk47crsq18aet8%40group.calendar.google.com&ctz=Etc%2FGMT&mode=AGENDA" target="_blank">Google Calendar</a>, and in <a href="https://calendar.google.com/calendar/ical/n4jcdb08gc10bk47crsq18aet8%40group.calendar.google.com/public/basic.ics" target="_blank">iCal</a> format.
 
 {% for s in site.data.iclr2020_schedule %}
 
