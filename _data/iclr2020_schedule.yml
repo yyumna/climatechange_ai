@@ -480,15 +480,15 @@
       minute: 0
       second: 0
       millisecond: 0
-    desc: Machine Learning for Low-Carbon Urban Mobility
+    desc: Machine Learning for Low-carbon Urban Mobility
     more: |-
       Urban transportation is rapidly changing with the advent of autonomous driving, shared mobility, and increased decarbonization efforts. ML is both an enabler of technological changes in transportation and can be employed to guide strategies for lowering the urban carbon footprint. This session will discuss key challenges in achieving sustainable urban mobility.
 
                 <p>
                 Speakers:
                 <ul>
-                  <li><a href="https://konstantinklemmer.github.io/" target="_blank">Konstantin Klemmer</a> (University of Warwick)</li>
                   <li><a href="http://www.wucathy.com/blog/" target="_blank">Cathy Wu</a> (MIT) <a class="tag is-info" href="https://www.dropbox.com/s/lrk7yjglr4go5g5/2020-04-27-Talk.pdf?dl=0" target="_blank">slides</a></li>
+                  <li><a href="https://konstantinklemmer.github.io/" target="_blank">Konstantin Klemmer</a> (University of Warwick)</li>
                   <li><a href="https://www.linkedin.com/in/prithviacharya" target="_blank">Prithvi Acharya</a> (Carnegie Mellon)</li>
                 </ul>
                 </p>
@@ -508,8 +508,8 @@
       minute: 0
       second: 0
       millisecond: 0
-    desc: 'Implications of COVID-19 for the clean energy transition: How machine learning
-      can help policymakers'
+    desc: 'Implications of COVID-19 for the Clean Energy Transition: How Machine Learning
+      Can Help Policymakers'
     more: |-
       The global pandemic and economic recession are expected to have large impacts on the energy system and climate change mitigation strategies. In this discussion-based session, energy experts will address the implications of COVID-19 for machine learning and the energy transition. In particular, these experts will address:
                <ul>
@@ -602,13 +602,13 @@
     desc: Machine Learning for Sustainable and Resilient Built Infrastructure in Urban
       Areas
     more: |-
-      The built infrastructure is a critical component of climate policies, both
-      because of the large energy use of buildings and because of vulnerability to
-      extreme weather events. However, access to good data about buildings can be
-      a bottleneck in designing effective policies. Machine learning can contribute
-      to a sustainable and resilient built infrastructure by gathering individual
-      data on millions of buildings. This session will discuss ways to monitor infrastructure
-      with remote sensing, and to upscale building energy use modeling to the city
+      The built infrastructure is a critical component of climate policies, both 
+      because of the large energy use of buildings and because of vulnerability to 
+      extreme weather events. However, access to good data about buildings can be 
+      a bottleneck in designing effective policies. Machine learning can contribute 
+      to a sustainable and resilient built infrastructure by gathering individual 
+      data on millions of buildings. This session will discuss ways to monitor infrastructure 
+      with remote sensing, and to upscale building energy use modeling to the city 
       scale.
 
       <p>
@@ -636,7 +636,7 @@
       minute: 0
       second: 0
       millisecond: 0
-    desc: Updates from previous workshop presenters
+    desc: Updates from Previous Workshop Presenters
     more: |-
       Join us for updates from presenters at previous Climate Change AI workshops in the areas of electricity, transportation, and buildings.
 
@@ -646,7 +646,7 @@
                   <li>Chris Heinrich, "Roof Age Determination for the Automated Site-Selection of Rooftop Solar" (AMLD 2020)</li>
                   <li>Neel Guha, "Machine Learning for AC Optimal Power Flow" (ICML 2019)</li>
                   <li>Kalai Ramea, "Unsupervised Temporal Clustering to Monitor the Performance of Alternative Fueling Infrastructure" (ICML 2019)</li>
-                  <li>Jan Drgona, "Stripping off the implementation complexity of physics-based model predictive control for buildings via deep learning" (NeurIPS 2019)</li>
+                  <li>Ján Drgoňa, "Stripping off the implementation complexity of physics-based model predictive control for buildings via deep learning" (NeurIPS 2019)</li>
                   <li>Jacob Pettit, "Increasing performance of electric vehicles in ride-hailing services using deep reinforcement learning" (NeurIPS 2019)</li>
                   <li>Gaby Baasch, "Targeting Buildings for Energy Retrofit Using Recurrent Neural Networks with Multivariate Time Series" (NeurIPS 2019)</li>
                 </ul>
@@ -667,7 +667,7 @@
       minute: 0
       second: 0
       millisecond: 0
-    desc: Fireside chat with Jon Bonanno on cleantech entrepreneurship
+    desc: Fireside Chat with Jon Bonanno on Cleantech Entrepreneurship
     more: Join <a href="https://www.linkedin.com/in/jonbonanno/" target="_blank">Jon
       Bonanno</a>, CXO of <a href="https://www.newenergynexus.com/about/" target="_blank">New
       Energy Nexus</a>, for a fireside chat on how to build a business in clean tech.
@@ -718,8 +718,8 @@
       minute: 0
       second: 0
       millisecond: 0
-    desc: Fireside chat with Catherine Nakalembe (agricultural monitoring and food
-      security)
+    desc: Fireside Chat with Catherine Nakalembe (Agricultural Monitoring and Food
+      Security)
     more: Join us for a fireside chat with Catherine Nakalembe on sustainable agriculture,
       food security and climate change. Nakalembe is a professor at the University
       of Maryland; works with government agencies in Kenya, Tanzania, and Uganda as
@@ -764,7 +764,7 @@
       minute: 40
       second: 0
       millisecond: 0
-    desc: Updates from previous workshop presenters
+    desc: Updates from Previous Workshop Presenters
     more: |-
       Join us for updates from presenters at previous Climate Change AI workshops in the area of land use.
 
@@ -930,7 +930,7 @@
       rooms</li>\n          <li>15:40-15:50 - <a href=\"https://www.linkedin.com/in/kolya-malkin-5b54658b/\"
       target=\"_blank\">Kolya Malkin</a> (Yale University)</li>\n          <li>15:50-16:00
       - <a href=\"https://www.linkedin.com/in/ankurmahesh\" target=\"_blank\">Ankur
-      Mahesh</a> (Climate AI)</li></ul></p>"
+      Mahesh</a> (ClimateAI)</li></ul></p>"
   - utc1:
       year: 2020
       month: 4
@@ -1026,7 +1026,7 @@
       minute: 0
       second: 0
       millisecond: 0
-    desc: Next steps for forecasting across climate-relevant domains
+    desc: Next Steps for Forecasting across Climate-relevant Domains
     more: |-
       Forecasting is a key ingredient in many projects at the machine learning and climate change boundary, as knowing about the future can help (1) optimize systems operating in real-time and (2) design targeted interventions over the long-run. Join our discussion with experts who use forecasting across problem areas, including intelligent buildings, climate science, water resources, and transportation, and hear about systems deployed in these contexts as well as the challenges that lie on the horizon.
 
@@ -1056,7 +1056,7 @@
       minute: 0
       second: 0
       millisecond: 0
-    desc: 'Zico Kolter: Incorporating physics into deep models with implicit layers'
+    desc: 'Zico Kolter: Incorporating Physics and Decision-making into Deep Models with Implicit Layers'
     more: |-
       <strong>Abstract:</strong> Despite their wide applicability, many deep networks often fail to exactly capture simple "known" features of real-world data sets, such as those governed by physical laws.  In this talk, I'll present methods for integrating constraints such as physical simulation requirements <i>directly</i> into the predictions of a deep network.  Our tool for doing this will be the use of so-called implicit layers in deep models, layers that are defined implicitly in terms of conditions we would like them to satisfy, rather than via an explicit computation graph.  I'll discuss how we can use these layers to embed (exact) physical simulation within deep networks, discuss several related approaches, and highlight directions for future work.
 
@@ -1099,14 +1099,14 @@
       minute: 0
       second: 0
       millisecond: 0
-    desc: Machine learning for accelerated science and engineering
+    desc: Machine Learning for Accelerated Science and Engineering
     more: |-
       Be it discovering next-generation solar panels, modeling battery degradation, or tuning fusion reactors, there are many applications where machine learning can supplement and even accelerate the science and engineering of clean technologies. Join us for a series of short talks from speakers using machine learning for accelerated science and engineering, followed by a discussion of interesting methodological challenges in this space.
 
                 <p>
                 Speakers:
                 <ul>
-                  <li><a href="https://www.hughes.cam.ac.uk/about-us/our-people/senior-members/yunwei-zhang/" target="_blank">Yunwei Zhang</a> (University of Cambridge)</li>
+                  <li><a href="https://www.hughes.cam.ac.uk/about-us/our-people/senior-members/yunwei-zhang/" target="_blank">Yunwei Zhang</a> (Cambridge)</li>
                   <li><a href="https://scholar.google.com/citations?hl=en&user=HYADEZ8AAAAJ&view_op=list_works" target="_blank">Julian Kates-Harbeck</a> (Harvard)</li>
                   <li><a href="https://pv.mit.edu/pvmit_people/felipe-oviedo/" target="_blank">Felipe Oviedo</a> (MIT)</li>
                 </ul>
@@ -1127,7 +1127,7 @@
       minute: 0
       second: 0
       millisecond: 0
-    desc: Fireside chat on remote sensing and artificial intelligence
+    desc: Fireside Chat on Remote Sensing and Artificial Intelligence
     more: |-
       Remote sensing, such as satellite imagery, has produced an increasingly rich source of global data with numerous applications in areas such as clean energy, deforestation, and poverty mapping. Join us for a fireside chat with experts who are pioneering work at this intersection, including discussion on the breadth of challenges across various methodologies and applications.
 
