@@ -67,7 +67,11 @@ Workshop events took place digitally from April 26-30. The schedule is available
   <td class='fill-tz'> </td>
   <td class='fill-utc'> </td>
   <td>
+  {% if r.url %}
+  <a href="{{ r.url }}" target="_blank"><b>{{r.desc | strip_newlines | strip }}</b></a>
+  {% else %}
   {{r.desc | strip_newlines | strip }}
+  {% endif %}
   {% if r.more.size > 0 %}
   <details>
   <summary>Details: (click to expand)</summary>

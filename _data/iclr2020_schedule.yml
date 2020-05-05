@@ -481,6 +481,7 @@
       second: 0
       millisecond: 0
     desc: Machine Learning for Low-carbon Urban Mobility
+    url: https://youtu.be/7_StCs5KAt4
     more: |-
       Urban transportation is rapidly changing with the advent of autonomous driving, shared mobility, and increased decarbonization efforts. ML is both an enabler of technological changes in transportation and can be employed to guide strategies for lowering the urban carbon footprint. This session will discuss key challenges in achieving sustainable urban mobility.
 
@@ -543,6 +544,7 @@
       millisecond: 0
     desc: Opportunities and Challenges for Machine Learning in the African Electricity
       Sector
+    url: https://youtu.be/ZKMLPHb4vMs
     more: |-
       This session will highlight impactful work at the intersection of climate change, electricity, and machine learning in a variety of African contexts. Topics addressed will include energy access, load forecasting, and data mining for electricity system data. Speakers will also discuss the broader opportunities and challenges associated with working in machine learning and energy on the African continent. The session will begin with short talks from all speakers, followed by audience Q&A and discussion.
 
@@ -668,6 +670,7 @@
       second: 0
       millisecond: 0
     desc: Fireside Chat with Jon Bonanno on Cleantech Entrepreneurship
+    url: https://youtu.be/OuujPRaV3Jk
     more: Join <a href="https://www.linkedin.com/in/jonbonanno/" target="_blank">Jon
       Bonanno</a>, CXO of <a href="https://www.newenergynexus.com/about/" target="_blank">New
       Energy Nexus</a>, for a fireside chat on how to build a business in clean tech.
@@ -720,6 +723,7 @@
       millisecond: 0
     desc: Fireside Chat with Catherine Nakalembe (Agricultural Monitoring and Food
       Security)
+    url: https://youtu.be/L4Om2leDx58
     more: Join us for a fireside chat with Catherine Nakalembe on sustainable agriculture,
       food security and climate change. Nakalembe is a professor at the University
       of Maryland; works with government agencies in Kenya, Tanzania, and Uganda as
@@ -765,6 +769,7 @@
       second: 0
       millisecond: 0
     desc: Updates from Previous Workshop Presenters
+    url: https://youtu.be/DXRfDYyyudE
     more: |-
       Join us for updates from presenters at previous Climate Change AI workshops in the area of land use.
 
@@ -823,6 +828,7 @@
       millisecond: 0
     desc: 'Machine Learning and Forests: Deforestation, Afforestation, and Forest
       Management'
+    url: https://youtu.be/_tcGpZKL38I
     more: |-
       Deforestation and forest degradation are key influences on climate change, accounting for 17% of anthropogenic greenhouse gas emissions. In this session, we will learn about what drives unsustainable forest management and how machine learning can enable us to better protect, manage, and restore our world’s forests.
 
@@ -851,6 +857,7 @@
       second: 0
       millisecond: 0
     desc: 'Panel: Machine Learning and Forests'
+    url: https://youtu.be/7Z6-UOoGQBc
     more: |-
       What are the biggest challenges and opportunities for machine learning in forestry? Join us in a discussion-based session, in which our panelists discuss novel and effective tools from policy and industry to advance sustainable forest management.
 
@@ -1057,6 +1064,7 @@
       second: 0
       millisecond: 0
     desc: 'Zico Kolter: Incorporating Physics and Decision-making into Deep Models with Implicit Layers'
+    url: https://youtu.be/22DeBWOgu5M
     more: |-
       <strong>Abstract:</strong> Despite their wide applicability, many deep networks often fail to exactly capture simple "known" features of real-world data sets, such as those governed by physical laws.  In this talk, I'll present methods for integrating constraints such as physical simulation requirements <i>directly</i> into the predictions of a deep network.  Our tool for doing this will be the use of so-called implicit layers in deep models, layers that are defined implicitly in terms of conditions we would like them to satisfy, rather than via an explicit computation graph.  I'll discuss how we can use these layers to embed (exact) physical simulation within deep networks, discuss several related approaches, and highlight directions for future work.
 
@@ -1100,6 +1108,7 @@
       second: 0
       millisecond: 0
     desc: Machine Learning for Accelerated Science and Engineering
+    url: https://youtu.be/OuZILZZVhOk
     more: |-
       Be it discovering next-generation solar panels, modeling battery degradation, or tuning fusion reactors, there are many applications where machine learning can supplement and even accelerate the science and engineering of clean technologies. Join us for a series of short talks from speakers using machine learning for accelerated science and engineering, followed by a discussion of interesting methodological challenges in this space.
 
