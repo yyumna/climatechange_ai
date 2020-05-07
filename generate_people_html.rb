@@ -75,12 +75,11 @@ puts <<-HTML
 - Priya L. Donti
 - Lynn H. Kaack
 
-## Content Committeee
+## Content Committee
 - Sasha Luccioni (<em>Committee Chair</em>)
 - Alexandre Lacoste (<em>Datasets Lead</em>)
 - Evan D. Sherwin (<em>Meetups Lead</em>)
 - Kris Sankaran
-- Priya L. Donti
 
 ## Communications Committee
 - Kris Sankaran (<em>Newsletter Lead, Forum Lead</em>)
