@@ -912,6 +912,7 @@
       second: 0
       millisecond: 0
     desc: Welcome and opening remarks
+    url: https://youtu.be/IWAX6KCTV6U
     more: ''
   - utc1:
       year: 2020
@@ -930,6 +931,7 @@
       second: 0
       millisecond: 0
     desc: 'Session I: Adaptability'
+    url: https://youtu.be/e-CGC4xGsR0
     more: "Learn more about the how machine learning can help in climate adaptation
       and how technology leaders, such as Google and Microsoft, are leveraging their
       AI expertise in building a climate resilient future. \n\n        <p>\n        Detailed
@@ -958,6 +960,7 @@
       second: 0
       millisecond: 0
     desc: 'Session II: Physics Emulators'
+    url: https://youtu.be/hYSvN_mRHm0
     more: "Learn how the advances in machine learning can help build complicated \"Physics
       Emulators\", critical for risk assessment and mitigation. \n\n        <p>\n
       \       Detailed schedule (times are in UTC):\n        <ul>\n          <li>16:00-16:25
