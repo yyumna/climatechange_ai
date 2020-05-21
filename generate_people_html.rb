@@ -92,6 +92,8 @@ puts <<-HTML
 - Lynn H. Kaack (<em>Public Sector and International Organizations</em>)
 - Kelly Kochanski (<em>Climate and Earth Sciences</em>)
 - Nikola Milojevic-Dupont (<em>Buildings and Transportation</em>)
+- David Dao (<em>Agriculture, Forestry, and Other Land Use</em>)
+- Sharon Zhao (<em>Entrepreneurship</em>)
 
 # Press
 
