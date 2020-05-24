@@ -87,7 +87,7 @@ Workshop events took place digitally from April 26-30. The schedule is available
 
   {% if r.subrows %}
   {% for rr in r.subrows %}
-  <tr>
+  <tr class='remote-workshop-table-subrow'>
   <td>
     {% if rr.paper_id %}
     <a href="/papers/iclr2020/{{ rr.paper_id }}" target="_blank">
