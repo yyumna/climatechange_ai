@@ -18,6 +18,7 @@
       hour: 9
       minute: 0
     desc: Welcome and opening remarks
+    url: https://slideslive.com/embed/presentation/38926837?start_time=212s
     more: ''
   - utc1:
       year: 2020
@@ -33,6 +34,7 @@
       minute: 15
     desc: "Panel: Ciira wa Maina, Paula Hidalgo-Sanchis, Sarvapali Ramchurn,
       Georgina Campbell Flatter, Daniel Rothenberg"
+    url: https://slideslive.com/embed/presentation/38926837?start_time=1395s
     more: |-
       Join us for a panel discussion on the theory and practice of doing work
       at the intersection of climate change and machine learning. Panelists
@@ -359,6 +361,7 @@
       minute: 0
     desc: "Panel: Dan Kammen, Dan Morris, Jessica Thorn, John Platt, Nana Ama
       Browne Klutse, Stefano Ermon"
+    url: https://slideslive.com/embed/presentation/38926837?start_time=24789s
     more: |-
       Join us for a panel discussion on the theory and practice of doing work
       at the intersection of climate change and machine learning. Panelists
@@ -680,6 +683,7 @@
       hour: 21
       minute: 0
     desc: Closing remarks and conclusion
+    url: https://slideslive.com/embed/presentation/38926837?start_time=43970s
 - day: 'April 27: Energy Day'
   anchor: energy-day
   collapsed: 1
