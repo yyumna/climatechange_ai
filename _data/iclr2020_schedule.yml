@@ -144,7 +144,7 @@
       day: 26
       hour: 11
       minute: 0
-    desc: 'Ciira wa Maina: <a href="https://slideslive.com/38926247" target="_blank">Climate Change - The price of "progress"? Exploring
+    desc: 'Ciira wa Maina: <a href="https://slideslive.com/38926837/tackling-climate-change-with-ml?time=5889s" target="_blank">Climate Change - The price of "progress"? Exploring
       AI Solutions</a> <em>(Invited talk)</em>'
     more: |-
       <strong>Abstract:</strong> In this talk we examine the the human cost of
@@ -184,6 +184,7 @@
       hour: 12
       minute: 0
     desc: "Spotlight talks"
+    url: https://slideslive.com/38926837/tackling-climate-change-with-ml?time=8371s
     subrows:
       - paper_id: 15
         row_text: |-
@@ -262,7 +263,7 @@
       day: 26
       hour: 13
       minute: 45
-    desc: 'Georgina Campbell Flatter: <a href="https://slideslive.com/38926250" target="_blank">Why the Climate Change AI Community Should Care About Weather: A New Approach for Africa</a> <em>(Invited talk)</em>'
+    desc: 'Georgina Campbell Flatter: <a href="https://slideslive.com/38926837/tackling-climate-change-with-ml?time=15715s" target="_blank">Why the Climate Change AI Community Should Care About Weather: A New Approach for Africa</a> <em>(Invited talk)</em>'
     more: |-
       <strong>Abstract:</strong> By improving weather services in Africa, we
       have the potential to unlock hundreds billions of dollars of opportunity
@@ -500,7 +501,7 @@
       day: 26
       hour: 17
       minute: 45
-    desc: 'Stefano Ermon: <a href="https://slideslive.com/38926248" target="_blank">Measuring Economic Development from Space with Machine Learning</a> <em>(Invited talk)</em>'
+    desc: 'Stefano Ermon: <a href="https://slideslive.com/38926837/tackling-climate-change-with-ml?time=29936s" target="_blank">Measuring Economic Development from Space with Machine Learning</a> <em>(Invited talk)</em>'
     more: |-
       <strong>Abstract:</strong> Recent technological developments are
       creating new spatio-temporal data streams that contain a wealth of
@@ -548,6 +549,7 @@
       hour: 18
       minute: 45
     desc: "Spotlight talks"
+    url: https://slideslive.com/38926837/tackling-climate-change-with-ml?time=32723s
     subrows:
       - paper_id: 24
         row_text: |-
@@ -626,7 +628,7 @@
       day: 26
       hour: 20
       minute: 45
-    desc: 'Dan Morris: <a href="https://slideslive.com/38926249" target="_blank">Climate, biodiversity, and land: using ML to protect and restore ecosystems</a> <em>(Invited talk)</em>'
+    desc: 'Dan Morris: <a href="https://slideslive.com/38926837/tackling-climate-change-with-ml?time=40751s" target="_blank">Climate, biodiversity, and land: using ML to protect and restore ecosystems</a> <em>(Invited talk)</em>'
     more: |-
       <strong>Abstract:</strong> When we think “ML for climate change”, we
       often think of climate forecasting, energy grid optimization, greenhouse
