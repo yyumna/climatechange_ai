@@ -15,11 +15,10 @@ slideslive_id: 38926837
   <a class='button' href='#about'>About</a>
   <!-- <a class='button' href='#keynote-speakers'>Speakers</a> -->
   <!-- <a class='button' href='#join'>Join</a> -->
-  <a class='button' href='#schedule'>Schedule</a>
+  <a class='button' href='#schedule-and-recordings'>Schedule and Recordings</a>
   <a class='button' href='#accepted-works'>Posters</a>
   <a class='button' href='#sponsors'>Sponsors</a>
   <a class='button' href='#organizers'>Organizers</a>
-  <a class='button' href='#call-for-submissions'><s>Call for Submissions</s></a>
   <a class='button' href='#frequently-asked-questions'>FAQ</a>
 </div>
 
@@ -37,7 +36,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
 
 This workshop was held as part of the International Conference on Learning Representations (ICLR), one of the premier conferences on machine learning, which draws a wide audience of researchers and practitioners in academia, industry, and related fields.
 
-## Schedule
+## Schedule and Recordings
 
 Workshop events took place digitally from April 26-30. The schedule is available below, with links to recordings, papers, and slides:
 
