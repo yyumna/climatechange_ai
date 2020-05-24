@@ -23,7 +23,7 @@ slideslive_id: 38926837
   <a class='button' href='#frequently-asked-questions'>FAQ</a>
 </div>
 
-Welcome! This workshop is focused on impactful uses of machine learning in reducing and responding to climate change, and is intended to be a venue for discourse between experts in machine learning and other fields. Our program:
+Welcome! This workshop is focused on impactful uses of machine learning in reducing and responding to climate change, and is intended to be a venue for discourse between experts in machine learning and other fields. Our program (with links to recordings below):
 <ul>
 <li><b><a href='#main-workshop'>April 26:</a></b> Main workshop</li>
 <li><b><a href='#energy-day'>April 27:</a></b> Energy Day</li>
@@ -39,7 +39,7 @@ This workshop was held as part of the International Conference on Learning Repre
 
 ## Schedule
 
-Workshop events took place digitally from April 26-30. The schedule is available below, via <a href="https://calendar.google.com/calendar/embed?src=n4jcdb08gc10bk47crsq18aet8%40group.calendar.google.com&ctz=Etc%2FGMT&mode=AGENDA" target="_blank">Google Calendar</a>, and in <a href="https://calendar.google.com/calendar/ical/n4jcdb08gc10bk47crsq18aet8%40group.calendar.google.com/public/basic.ics" target="_blank">iCal</a> format.
+Workshop events took place digitally from April 26-30. The schedule is available below, with links to recordings, papers, and slides:
 
 {% for s in site.data.iclr2020_schedule %}
 
