@@ -31,7 +31,7 @@
       day: 26
       hour: 10
       minute: 15
-    desc: "<b>Panel:</b> Ciira wa Maina, Paula Hidalgo-Sanchis, Sarvapali Ramchurn,
+    desc: "Panel: Ciira wa Maina, Paula Hidalgo-Sanchis, Sarvapali Ramchurn,
       Georgina Campbell Flatter, Daniel Rothenberg"
     more: |-
       Join us for a panel discussion on the theory and practice of doing work
@@ -142,8 +142,8 @@
       day: 26
       hour: 11
       minute: 0
-    desc: 'Ciira wa Maina: <a href="https://slideslive.com/38926247" target="_blank"><b>Climate Change - The price of "progress"? Exploring
-      AI Solutions</b></a> <em>(Invited talk)</em>'
+    desc: 'Ciira wa Maina: <a href="https://slideslive.com/38926247" target="_blank">Climate Change - The price of "progress"? Exploring
+      AI Solutions</a> <em>(Invited talk)</em>'
     more: |-
       <strong>Abstract:</strong> In this talk we examine the the human cost of
       climate change and explore a number of technological interventions aimed
@@ -183,22 +183,22 @@
       minute: 0
     desc: "Spotlight talks"
     subrows:
-      - paper_index: 14
+      - paper_id: 15
         row_text: |-
           (15) K. Shankari, "MobilityNet: Towards a Public Dataset for Multi-modal Mobility Research"
-      - paper_index: 17
+      - paper_id: 18
         row_text: |-
           (18) Fred Otieno, "Machine Learning Approaches to Safeguarding Continuous Water Supply
           in the Arid and Semi-arid Lands of Northern Kenya"
-      - paper_index: 4
+      - paper_id: 5
         row_text: |-
           (5) Claudia Haworth, "Understanding the dynamics of climate-crucial food choice
           behaviours using Distributional Semantics"
-      - paper_index: 26
+      - paper_id: 27
         row_text: |-
           (27) Jefferson Sankara, "Machine Learning Applications That Can Help Pastoral Communities
           in Northern Kenya and Elsewhere Adapt to Climate Change"
-      - paper_index: 3
+      - paper_id: 4
         row_text: |-
           (4) Thomas Lees, "A Machine Learning Pipeline to Predict Vegetation Health"
   - utc1:
@@ -216,38 +216,36 @@
     desc: "Poster session"
     more: |-
       <p>
-        Posters that were presented during this slot are listed below. Papers
-        and recordings can be found under <a href='#accepted-works'>Accepted
-        Works</a>.
+        Posters that were presented during this slot are listed below.
       </p>
 
       Papers track:
       <p>
         <ul>
-            <li> (2) Deep Reinforcement Learning based Renewable Energy Error Compensable Forecasting</li>
-            <li> (3) Missing-insensitive Short-term Load Forecasting Leveraging Autoencoder and LSTM</li>
-            <li> (4) A Machine Learning Pipeline to Predict Vegetation Health</li>
-            <li> (5) Understanding the dynamics of climate-crucial food choice behaviours using Distributional Semantics</li>
-            <li> (6) SolarNet: A Deep Learning Framework to Map Solar Plants In China From Satellite Imagery</li>
-            <li> (9) Non-linear interlinkages and key objectives amongst the Paris Agreement and the Sustainable Development Goals</li>
-            <li> (12) Modeling Cloud Reflectance Fields using Conditional Generative Adversarial Networks</li>
-            <li> (15) MobilityNet: Towards a Public Dataset for Multi-modal Mobility Research</li>
+            <li><a href="/papers/iclr2020/2" target="_blank"> (2) Deep Reinforcement Learning based Renewable Energy Error Compensable Forecasting</a></li>
+            <li><a href="/papers/iclr2020/3" target="_blank"> (3) Missing-insensitive Short-term Load Forecasting Leveraging Autoencoder and LSTM</a></li>
+            <li><a href="/papers/iclr2020/4" target="_blank"> (4) A Machine Learning Pipeline to Predict Vegetation Health</a></li>
+            <li><a href="/papers/iclr2020/5" target="_blank"> (5) Understanding the dynamics of climate-crucial food choice behaviours using Distributional Semantics</a></li>
+            <li><a href="/papers/iclr2020/6" target="_blank"> (6) SolarNet: A Deep Learning Framework to Map Solar Plants In China From Satellite Imagery</a></li>
+            <li><a href="/papers/iclr2020/9" target="_blank"> (9) Non-linear interlinkages and key objectives amongst the Paris Agreement and the Sustainable Development Goals</a></li>
+            <li><a href="/papers/iclr2020/12" target="_blank"> (12) Modeling Cloud Reflectance Fields using Conditional Generative Adversarial Networks</a></li>
+            <li><a href="/papers/iclr2020/15" target="_blank"> (15) MobilityNet: Towards a Public Dataset for Multi-modal Mobility Research</a></li>
         </ul>
       </p>
 
       Proposals track:
       <p>
         <ul>
-          <li> (17) Benchmarks for Grid Flexibility Prediction: Enabling Progress and Machine Learning Applications</li>
-          <li> (18) Machine Learning Approaches to Safeguarding Continuous Water Supply in the Arid and Semi-arid Lands of Northern Kenya</li>
-          <li> (20) YOU FORGOT IT IN THE GENOTYPE, MODELING TOWARDS ADAPTATION OF FOOD CROPS UNDER CLIMATE CHANGE THREAT</li>
-          <li> (22) Indigenous Knowledge Aware Drought Monitoring, Forecasting and Prediction Model Using Deep Learning Techniques</li>
-          <li> (25) Xingu: Explaining critical geospatial predictions in weak supervision for climate finance</li>
-          <li> (26) Towards unified standards for smart infrastructure datasets</li>
-          <li> (27) MACHINE   LEARNING   APPLICATIONS   THAT CAN HELP PASTORAL COMMUNITIES IN NORTHERN  KENYA  AND  ELSEWHERE  ADAPT TO CLIMATE CHANGE</li>
-          <li> (28) Nutrient demand, Risk and Climate change: Evidence from historical rice yield trials in India</li>
-          <li> (29) USING MACHINE LEARNING TO ANALYZE CLIMATE CHANGE TECHNOLOGY TRANSFER (CCTT)</li>
-          <li> (30) Using ML to close the vocabulary gap in the context of environment and climate change in Chichewa</li>
+          <li><a href="/papers/iclr2020/17" target="_blank"> (17) Benchmarks for Grid Flexibility Prediction: Enabling Progress and Machine Learning Applications</a></li>
+          <li><a href="/papers/iclr2020/18" target="_blank"> (18) Machine Learning Approaches to Safeguarding Continuous Water Supply in the Arid and Semi-arid Lands of Northern Kenya</a></li>
+          <li><a href="/papers/iclr2020/20" target="_blank"> (20) YOU FORGOT IT IN THE GENOTYPE, MODELING TOWARDS ADAPTATION OF FOOD CROPS UNDER CLIMATE CHANGE THREAT</a></li>
+          <li><a href="/papers/iclr2020/22" target="_blank"> (22) Indigenous Knowledge Aware Drought Monitoring, Forecasting and Prediction Model Using Deep Learning Techniques</a></li>
+          <li><a href="/papers/iclr2020/25" target="_blank"> (25) Xingu: Explaining critical geospatial predictions in weak supervision for climate finance</a></li>
+          <li><a href="/papers/iclr2020/26" target="_blank"> (26) Towards unified standards for smart infrastructure datasets</a></li>
+          <li><a href="/papers/iclr2020/27" target="_blank"> (27) MACHINE   LEARNING   APPLICATIONS   THAT CAN HELP PASTORAL COMMUNITIES IN NORTHERN  KENYA  AND  ELSEWHERE  ADAPT TO CLIMATE CHANGE</a></li>
+          <li><a href="/papers/iclr2020/28" target="_blank"> (28) Nutrient demand, Risk and Climate change: Evidence from historical rice yield trials in India</a></li>
+          <li><a href="/papers/iclr2020/29" target="_blank"> (29) USING MACHINE LEARNING TO ANALYZE CLIMATE CHANGE TECHNOLOGY TRANSFER (CCTT)</a></li>
+          <li><a href="/papers/iclr2020/30" target="_blank"> (30) Using ML to close the vocabulary gap in the context of environment and climate change in Chichewa</a></li>
         </ul>
       </p>
   - utc1:
@@ -262,7 +260,7 @@
       day: 26
       hour: 13
       minute: 45
-    desc: 'Georgina Campbell Flatter: <a href="https://slideslive.com/38926250" target="_blank"><b>Why the Climate Change AI Community Should Care About Weather: A New Approach for Africa</b></a> <em>(Invited talk)</em>'
+    desc: 'Georgina Campbell Flatter: <a href="https://slideslive.com/38926250" target="_blank">Why the Climate Change AI Community Should Care About Weather: A New Approach for Africa</a> <em>(Invited talk)</em>'
     more: |-
       <strong>Abstract:</strong> By improving weather services in Africa, we
       have the potential to unlock hundreds billions of dollars of opportunity
@@ -359,7 +357,7 @@
       day: 26
       hour: 17
       minute: 0
-    desc: "<b>Panel:</b> Dan Kammen, Dan Morris, Jessica Thorn, John Platt, Nana Ama
+    desc: "Panel: Dan Kammen, Dan Morris, Jessica Thorn, John Platt, Nana Ama
       Browne Klutse, Stefano Ermon"
     more: |-
       Join us for a panel discussion on the theory and practice of doing work
@@ -499,7 +497,7 @@
       day: 26
       hour: 17
       minute: 45
-    desc: 'Stefano Ermon: <a href="https://slideslive.com/38926248" target="_blank"><b>Measuring Economic Development from Space with Machine Learning</b></a> <em>(Invited talk)</em>'
+    desc: 'Stefano Ermon: <a href="https://slideslive.com/38926248" target="_blank">Measuring Economic Development from Space with Machine Learning</a> <em>(Invited talk)</em>'
     more: |-
       <strong>Abstract:</strong> Recent technological developments are
       creating new spatio-temporal data streams that contain a wealth of
@@ -548,19 +546,19 @@
       minute: 45
     desc: "Spotlight talks"
     subrows:
-      - paper_index: 23
+      - paper_id: 24
         row_text: |-
           (24) Filip Tolovski, "Advancing Renewable Electricity Consumption With Reinforcement Learning"
-      - paper_index: 20
+      - paper_id: 21
         row_text: |-
           (21) Sookyung Kim, "Hurricane Nowcasting with Irregular Time-step using Neural-ODE and Video Prediction"
-      - paper_index: 10
+      - paper_id: 11
         row_text: |-
           (11) Soukayna Mouatadid, "WeatherBench: A benchmark dataset for data-driven weather forecasting"
-      - paper_index: 11
+      - paper_id: 12
         row_text: |-
           (12) Victor Schmidt, "Modeling Cloud Reflectance Fields using Conditional Generative Adversarial Networks"
-      - paper_index: 22
+      - paper_id: 23
         row_text: |-
           (23) Simona Santamaria, "TrueBranch: Robust Deep Learning-based Verification of Forest Conservation Projects"
   - utc1:
@@ -578,41 +576,39 @@
     desc: "Poster session"
     more: |-
       <p>
-        Posters that were presented during this slot are listed below. Papers
-        and recordings can be found under <a href='#accepted-works'>Accepted
-        Works</a>.
+        Posters that were presented during this slot are listed below.
       </p>
 
       <p>
         Papers track:
         <ul>
-            <li> (1) BISCUIT: Building Intelligent System Customer Investment Tools</li>
-            <li> (5) Understanding the dynamics of climate-crucial food choice behaviours using Distributional Semantics</li>
-            <li> (7) Embedding Hard Physical Constraints in Convolutional Neural Networks for 3D Turbulence</li>
-            <li> (8) DETECTION OF HOUSING AND AGRICULTURE AREAS ON DRY-RIVERBEDS FOR THE EVALUATION OF RISK BY LANDSLIDES USING LOW-RESOLUTION SATELLITE IMAGERY BASED ON DEEP LEARNING. STUDY ZONE: LIMA, PERU</li>
-            <li> (9) Non-linear interlinkages and key objectives amongst the Paris Agreement and the Sustainable Development Goals</li>
-            <li> (10) A CONTINUAL LEARNING APPROACH FOR LOCAL LEVEL ENVIRONMENTAL MONITORING IN LOW-RESOURCE SETTINGS</li>
-            <li> (11) WeatherBench: A benchmark dataset for data-driven weather forecasting</li>
-            <li> (12) Modeling Cloud Reflectance Fields using Conditional Generative Adversarial Networks</li>
-            <li> (13) SMArtCast: Predicting soil moisture interpolations into the future using Earth observation data in a deep learning framework</li>
-            <li> (14) Prediction of Bayesian Confidence Intervals for Tropical Storms</li>
-            <li> (15) MobilityNet: Towards a Public Dataset for Multi-modal Mobility Research</li>
-            <li> (16) Wavelet-Powered Neural Networks for Turbulence</li>
+            <li><a href="/papers/iclr2020/1" target="_blank"> (1) BISCUIT: Building Intelligent System Customer Investment Tools</a></li>
+            <li><a href="/papers/iclr2020/5" target="_blank"> (5) Understanding the dynamics of climate-crucial food choice behaviours using Distributional Semantics</a></li>
+            <li><a href="/papers/iclr2020/7" target="_blank"> (7) Embedding Hard Physical Constraints in Convolutional Neural Networks for 3D Turbulence</a></li>
+            <li><a href="/papers/iclr2020/8" target="_blank"> (8) DETECTION OF HOUSING AND AGRICULTURE AREAS ON DRY-RIVERBEDS FOR THE EVALUATION OF RISK BY LANDSLIDES USING LOW-RESOLUTION SATELLITE IMAGERY BASED ON DEEP LEARNING. STUDY ZONE: LIMA, PERU</a></li>
+            <li><a href="/papers/iclr2020/9" target="_blank"> (9) Non-linear interlinkages and key objectives amongst the Paris Agreement and the Sustainable Development Goals</a></li>
+            <li><a href="/papers/iclr2020/10" target="_blank"> (10) A CONTINUAL LEARNING APPROACH FOR LOCAL LEVEL ENVIRONMENTAL MONITORING IN LOW-RESOURCE SETTINGS</a></li>
+            <li><a href="/papers/iclr2020/11" target="_blank"> (11) WeatherBench: A benchmark dataset for data-driven weather forecasting</a></li>
+            <li><a href="/papers/iclr2020/12" target="_blank"> (12) Modeling Cloud Reflectance Fields using Conditional Generative Adversarial Networks</a></li>
+            <li><a href="/papers/iclr2020/13" target="_blank"> (13) SMArtCast: Predicting soil moisture interpolations into the future using Earth observation data in a deep learning framework</a></li>
+            <li><a href="/papers/iclr2020/14" target="_blank"> (14) Prediction of Bayesian Confidence Intervals for Tropical Storms</a></li>
+            <li><a href="/papers/iclr2020/15" target="_blank"> (15) MobilityNet: Towards a Public Dataset for Multi-modal Mobility Research</a></li>
+            <li><a href="/papers/iclr2020/16" target="_blank"> (16) Wavelet-Powered Neural Networks for Turbulence</a></li>
         </ul>
       </p>
 
       <p>
         Proposals track:
         <ul>
-          <li> (17) Benchmarks for Grid Flexibility Prediction: Enabling Progress and Machine Learning Applications</li>
-          <li> (18) Machine Learning Approaches to Safeguarding Continuous Water Supply in the Arid and Semi-arid Lands of Northern Kenya</li>
-          <li> (19) Accelerated  Data Discovery for Scalable Climate Action</li>
-          <li> (20) YOU FORGOT IT IN THE GENOTYPE, MODELING TOWARDS ADAPTATION OF FOOD CROPS UNDER CLIMATE CHANGE THREAT</li>
-          <li> (21) Hurricane Nowcasting with Irregular Time-step using Neural-ODE and Video Prediction</li>
-          <li> (23) TrueBranch: Robust Deep Learning-based Verification of Forest Conservation Projects</li>
-          <li> (24) Advancing Renewable Electricity Consumption With Reinforcement Learning</li>
-          <li> (26) Towards unified standards for smart infrastructure datasets</li>
-          <li> (30) Using ML to close the vocabulary gap in the context of environment and climate change in Chichewa</li>
+          <li><a href="/papers/iclr2020/17" target="_blank"> (17) Benchmarks for Grid Flexibility Prediction: Enabling Progress and Machine Learning Applications</a></li>
+          <li><a href="/papers/iclr2020/18" target="_blank"> (18) Machine Learning Approaches to Safeguarding Continuous Water Supply in the Arid and Semi-arid Lands of Northern Kenya</a></li>
+          <li><a href="/papers/iclr2020/19" target="_blank"> (19) Accelerated  Data Discovery for Scalable Climate Action</a></li>
+          <li><a href="/papers/iclr2020/20" target="_blank"> (20) YOU FORGOT IT IN THE GENOTYPE, MODELING TOWARDS ADAPTATION OF FOOD CROPS UNDER CLIMATE CHANGE THREAT</a></li>
+          <li><a href="/papers/iclr2020/21" target="_blank"> (21) Hurricane Nowcasting with Irregular Time-step using Neural-ODE and Video Prediction</a></li>
+          <li><a href="/papers/iclr2020/23" target="_blank"> (23) TrueBranch: Robust Deep Learning-based Verification of Forest Conservation Projects</a></li>
+          <li><a href="/papers/iclr2020/24" target="_blank"> (24) Advancing Renewable Electricity Consumption With Reinforcement Learning</a></li>
+          <li><a href="/papers/iclr2020/26" target="_blank"> (26) Towards unified standards for smart infrastructure datasets</a></li>
+          <li><a href="/papers/iclr2020/30" target="_blank"> (30) Using ML to close the vocabulary gap in the context of environment and climate change in Chichewa</a></li>
         </ul>
       </p>
   - utc1:
@@ -627,7 +623,7 @@
       day: 26
       hour: 20
       minute: 45
-    desc: 'Dan Morris: <a href="https://slideslive.com/38926249" target="_blank"><b>Climate, biodiversity, and land: using ML to protect and restore ecosystems</b></a> <em>(Invited talk)</em>'
+    desc: 'Dan Morris: <a href="https://slideslive.com/38926249" target="_blank">Climate, biodiversity, and land: using ML to protect and restore ecosystems</a> <em>(Invited talk)</em>'
     more: |-
       <strong>Abstract:</strong> When we think “ML for climate change”, we
       often think of climate forecasting, energy grid optimization, greenhouse
@@ -707,16 +703,31 @@
     desc: Machine Learning for Low-carbon Urban Mobility
     url: https://youtu.be/7_StCs5KAt4
     more: |-
-      Urban transportation is rapidly changing with the advent of autonomous driving, shared mobility, and increased decarbonization efforts. ML is both an enabler of technological changes in transportation and can be employed to guide strategies for lowering the urban carbon footprint. This session will discuss key challenges in achieving sustainable urban mobility.
+      Urban transportation is rapidly changing with the advent of autonomous
+      driving, shared mobility, and increased decarbonization efforts. ML is
+      both an enabler of technological changes in transportation and can be
+      employed to guide strategies for lowering the urban carbon footprint.
+      This session will discuss key challenges in achieving sustainable urban
+      mobility.
 
-                <p>
-                Speakers:
-                <ul>
-                  <li><a href="http://www.wucathy.com/blog/" target="_blank">Cathy Wu</a> (MIT) <a class="tag is-info" href="https://www.dropbox.com/s/lrk7yjglr4go5g5/2020-04-27-Talk.pdf?dl=0" target="_blank">slides</a></li>
-                  <li><a href="https://konstantinklemmer.github.io/" target="_blank">Konstantin Klemmer</a> (University of Warwick)</li>
-                  <li><a href="https://www.linkedin.com/in/prithviacharya" target="_blank">Prithvi Acharya</a> (Carnegie Mellon)</li>
-                </ul>
-                </p>
+      <p>
+        Speakers:
+        <ul>
+          <li>
+            <a href="http://www.wucathy.com/blog/" target="_blank">Cathy Wu</a> (MIT)
+            (slides:https://drive.google.com/file/d/19pmbFQUIHbc7h5A4VTwFYKvhvQD9S8z8/view)
+          </li>
+          <li>
+            <a href="https://konstantinklemmer.github.io/" target="_blank">Konstantin Klemmer</a> (University of Warwick)
+            (slides:https://drive.google.com/file/d/1zwejICaBh3pbLcrmzYMu_-rjW9HeCeX4/view)
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/in/prithviacharya" target="_blank">
+              Prithvi Acharya
+            </a> (Carnegie Mellon)
+          </li>
+        </ul>
+      </p>
   - utc1:
       year: 2020
       month: 4
@@ -737,20 +748,34 @@
       Can Help Policymakers'
     url: https://youtu.be/cGsAYFTtTng
     more: |-
-      The global pandemic and economic recession are expected to have large impacts on the energy system and climate change mitigation strategies. In this discussion-based session, energy experts will address the implications of COVID-19 for machine learning and the energy transition. In particular, these experts will address:
-               <ul>
-                <li>how the the effectiveness of climate and energy policies is affected by COVID-19, and</li>
-                <li>what the implications are for the practice of machine learning for climate and energy.</li>
-               </ul>
+      The global pandemic and economic recession are expected to have large
+      impacts on the energy system and climate change mitigation strategies. In
+      this discussion-based session, energy experts will address the implications
+      of COVID-19 for machine learning and the energy transition. In particular,
+      these experts will address:
 
-               <p>
-               Speakers:
-                <ul>
-                  <li><a href="https://epg.ethz.ch/people/senior-researchers/dr--bjarne-steffen.html" target="_blank">Bjarne Steffen</a> (Energy Politics Group, ETH Zürich)</li>
-                  <li><a href="https://sites.google.com/view/maricavalente/about" target="_blank">Marica Valente</a> (Berlin School of Economics)</li>
-                  <li><a href="https://jack-kelly.com/" target="_blank">Jack Kelly</a> (Open Climate Fix)</li>
-                </ul>
-                </p>
+      <ul>
+        <li>how the the effectiveness of climate and energy policies is affected by COVID-19, and</li>
+        <li>what the implications are for the practice of machine learning for climate and energy.</li>
+      </ul>
+
+      <p>
+      Speakers:
+        <ul>
+          <li>
+            <a href="https://epg.ethz.ch/people/senior-researchers/dr--bjarne-steffen.html" target="_blank">Bjarne Steffen</a> (Energy Politics Group, ETH Zürich)
+            (slides:https://drive.google.com/file/d/16Tpuyh2dbY17mhpLPxrQhzahYvDswWrg/view)
+          </li>
+          <li>
+            <a href="https://sites.google.com/view/maricavalente/about" target="_blank">Marica Valente</a> (Berlin School of Economics)
+            (slides:https://drive.google.com/file/d/15oGNDR4AbTkNfBUsbARP1aM8k8cY5o4Q/view)
+          </li>
+          <li>
+            <a href="https://jack-kelly.com/" target="_blank">Jack Kelly</a> (Open Climate Fix)
+            (slides:https://docs.google.com/presentation/d/1N7xJiG-Y751Lxg1c8tpGkm6wm6Rn39txCyWIeZet3HM/edit)
+          </li>
+        </ul>
+      </p>
   - utc1:
       year: 2020
       month: 4
@@ -778,7 +803,7 @@
                 <ul>
                   <li><a href="https://orcid.org/0000-0002-3452-9581" target="_blank">Bhekisipho Twala</a> (Durban University of Technology)</li>
                   <li><a href="https://nsutezo.github.io/" target="_blank">Simone Fobi</a> (Columbia University)</li>
-                  <li><a href="https://www.rit.edu/directory/njwgis-nathan-williams" target="_blank">Nathan Williams</a> (Rochester Institute of Technology)</li>
+                  <li><a href="https://www.rit.edu/directory/njwgis-nathan-williams" target="_blank">Nathan Williams</a> (Rochester Institute of Technology) (slides:https://drive.google.com/file/d/1Td7KeqQl2hxTe6HCcm9gbQ5hB2Nf4Zlp/view)</li>
                 </ul>
                 </p>
   - utc1:
@@ -843,9 +868,9 @@
         Speakers:
          <ul>
           <li><a href="https://www.gfdrr.org/en/meet-our-team" target="_blank">Nicholas Jones</a> (World Bank)</li>
-          <li><a href="https://scholar.google.com/citations?user=zhYBF8QAAAAJ&hl=en&oi=sra" target="_blank">Alex Nutkiewicz</a> (Stanford)</li>
-          <li><a href="https://sokratispapadopoulos.com" target="_blank">Sokratis Papadopoulos</a> (New York University)</li>
-          <li><a href="https://people.utwente.nl/m.kuffer" target="_blank">Monika Kuffer</a> (University of Twente)</li>
+          <li><a href="https://scholar.google.com/citations?user=zhYBF8QAAAAJ&hl=en&oi=sra" target="_blank">Alex Nutkiewicz</a> (Stanford) (slides:https://drive.google.com/a/stanford.edu/file/d/1Iq4c4ul4B2UZKSfqqdN4d_3c5eFlNug1/view?usp=drive_web)</li>
+          <li><a href="https://sokratispapadopoulos.com" target="_blank">Sokratis Papadopoulos</a> (New York University) (slides:https://docs.google.com/presentation/d/1VkNpgOeIiWTFJ7TH7ZqfCfDhXGSNlnEdBru_49Yobv4/edit#slide=id.p)</li>
+          <li><a href="https://people.utwente.nl/m.kuffer" target="_blank">Monika Kuffer</a> (University of Twente) (slides:https://drive.google.com/open?id=1Xqj20PqR2O2kTTkxrUWck-23Nzw_1ddW)</li>
           </ul>
       </p>
   - utc1:
@@ -872,12 +897,12 @@
                 <p>
                 Speakers:
                 <ul>
-                  <li>Chris Heinrich, "Roof Age Determination for the Automated Site-Selection of Rooftop Solar" (AMLD 2020)</li>
-                  <li>Neel Guha, "Machine Learning for AC Optimal Power Flow" (ICML 2019)</li>
-                  <li>Kalai Ramea, "Unsupervised Temporal Clustering to Monitor the Performance of Alternative Fueling Infrastructure" (ICML 2019)</li>
-                  <li>Ján Drgoňa, "Stripping off the implementation complexity of physics-based model predictive control for buildings via deep learning" (NeurIPS 2019)</li>
-                  <li>Jacob Pettit, "Increasing performance of electric vehicles in ride-hailing services using deep reinforcement learning" (NeurIPS 2019)</li>
-                  <li>Gaby Baasch, "Targeting Buildings for Energy Retrofit Using Recurrent Neural Networks with Multivariate Time Series" (NeurIPS 2019)</li>
+                <li>Chris Heinrich, "Roof Age Determination for the Automated Site-Selection of Rooftop Solar" (AMLD 2020) (slides:https://drive.google.com/open?id=1p7igiVSnAErL4SkpY2I2ZJtRuoVr_Im5)</li>
+                <li>Neel Guha, "Machine Learning for AC Optimal Power Flow" (ICML 2019) (slides:https://docs.google.com/presentation/d/1o8hcDpYX3l--tPjwIHCyEIw2kY-dInyM3oErvvxVv2E/edit?usp=sharing)</li>
+                <li>Kalai Ramea, "Unsupervised Temporal Clustering to Monitor the Performance of Alternative Fueling Infrastructure" (ICML 2019) (slides:https://drive.google.com/open?id=1pcnCS0tE8RHBJhXL42ECtXTaTUjaLQvP)</li>
+                <li>Ján Drgoňa, "Stripping off the implementation complexity of physics-based model predictive control for buildings via deep learning" (NeurIPS 2019) (slides:https://drive.google.com/open?id=1qovmGlwIapYSz8VWTLgY703d24A8vKOP)</li>
+                <li>Jacob Pettit, "Increasing performance of electric vehicles in ride-hailing services using deep reinforcement learning" (NeurIPS 2019) (slides:https://drive.google.com/open?id=1Dukn_PgpwGtlh8UYya4naEuUd4q4nx_o)</li>
+                <li>Gaby Baasch, "Targeting Buildings for Energy Retrofit Using Recurrent Neural Networks with Multivariate Time Series" (NeurIPS 2019) (slides:https://drive.google.com/open?id=1SctqoNNFUS__VhGvmvObLi9zzoJ2z7s5)</li>
                 </ul>
                 </p>
   - utc1:
@@ -904,7 +929,7 @@
       Jon will draw upon his personal journey in this space -- where he has built
       nine businesses directly and hundreds indirectly -- to provide advice to researchers
       working in machine learning or climate/energy who would like to enter the cleantech
-      startup space.
+      startup space. (slides:https://drive.google.com/open?id=1hCMCTfBWhsc9Y9hMVwHWnpLSB4kWyFDN)
   - utc1:
       year: 2020
       month: 4
@@ -976,7 +1001,7 @@
       minute: 0
       second: 0
       millisecond: 0
-    desc: '<a href="https://drive.google.com/open?id=1dSKjMaCxTA3qEj5uVMEhCcutaMEiS3Ku" target="_blank"><b>Tutorial: Climate Change 101</b></a>'
+    desc: '<a href="https://drive.google.com/open?id=1dSKjMaCxTA3qEj5uVMEhCcutaMEiS3Ku" target="_blank">Tutorial: Climate Change 101</a>'
     more: Join Lynn Kaack, Kris Sankaran, and Priya Donti for an introduction to the
       topic of climate change and how machine learning can be relevant in reducing
       and responding to climate change.
@@ -1004,8 +1029,8 @@
                 <p>
                 Speakers:
                 <ul>
-                  <li>Björn Lütjens, "Machine Learning-based Estimation of Forest Carbon Stocks to increase Transparency of Forest Preservation Efforts" (NeurIPS 2019)</li>
-                  <li>Benjamin Franchetti, "Deep Learning in Vertical Farming under Artificial Lighting" (AMLD 2020)</li>
+                <li>Björn Lütjens, "Machine Learning-based Estimation of Forest Carbon Stocks to increase Transparency of Forest Preservation Efforts" (NeurIPS 2019) (slides:https://drive.google.com/open?id=1CXzleg9bMmEJWrx9JTZnfuzP-mbJdhrA)</li>
+                <li>Benjamin Franchetti, "Deep Learning in Vertical Farming under Artificial Lighting" (AMLD 2020) (slides:https://drive.google.com/open?id=1Ira-KDfAqltQN-yH5_c0ljWVd97CqG6B)</li>
                 </ul>
                 </p>
   - utc1:
@@ -1033,8 +1058,8 @@
               <p>
               Speakers:
               <ul>
-                  <li> <a href="https://www.linkedin.com/in/stevenprager/?originalSubdomain=co" target="_blank">Steve Prager</a> (International Center for Tropical Agriculture)</li>
-                  <li> <a href="https://www.linkedin.com/in/dianewu" target="_blank">Diane Wu</a> (Trace Genomics)</li>
+              <li> <a href="https://www.linkedin.com/in/stevenprager/?originalSubdomain=co" target="_blank">Steve Prager</a> (International Center for Tropical Agriculture) (slides:https://drive.google.com/open?id=1gOgX8LTDbD6WGDzxUtgKN_THrMCI2QUZ)</li>
+              <li> <a href="https://www.linkedin.com/in/dianewu" target="_blank">Diane Wu</a> (Trace Genomics) (slides:https://drive.google.com/open?id=15dykCyuaQFS-eSd_hOIWhnGNE2ZGiMJ-)</li>
                   <li> <a href="https://www.linkedin.com/in/subit-chakrabarti-74045456/" target="_blank">Subit Chakrabarti</a> (Indigo Ag)</li>
                   <li> <a href="https://www.zerinakapetanovic.com/" target="_blank">Zerina Kapetanovic</a> (Microsoft FarmBeats)</li>
               </ul>
@@ -1064,9 +1089,9 @@
               <p>
               Speakers:
               <ul>
-                <li><a href="https://www.linkedin.com/in/maxnova/" target="_blank">Max Nova</a> (SilviaTerra)</li>
-                <li><a href="https://www.crowtherlab.com/team_members/simeon-max/" target="_blank">Simeon Max</a> (ETH Zürich)</li>
-                <li><a href="https://janinagrabs.com/" target="_blank">Janina Grabs</a> and <a href="https://www.linkedin.com/in/sam-levy-7b2728a7/" target="_blank">Sam Levy</a> (ETH Zürich)</li>
+              <li><a href="https://www.linkedin.com/in/maxnova/" target="_blank">Max Nova</a> (SilviaTerra) (slides:https://drive.google.com/open?id=1i6GWBTy-OT-QIMbAtJVHmsaUwj3k8U2o)</li>
+              <li><a href="https://www.crowtherlab.com/team_members/simeon-max/" target="_blank">Simeon Max</a> (ETH Zürich) (slides:https://drive.google.com/open?id=1KeR5tsdpXi0VsWCdpVVd4U0_Wh6mZbwB)</li>
+              <li><a href="https://janinagrabs.com/" target="_blank">Janina Grabs</a> and <a href="https://www.linkedin.com/in/sam-levy-7b2728a7/" target="_blank">Sam Levy</a> (ETH Zürich)</li>
               </ul>
               </p>
   - utc1:
@@ -1167,9 +1192,9 @@
       - <a href=\"https://www.microsoft.com/en-us/research/people/lujoppa/\" target=\"_blank\">Lucas
       Joppa</a> (Microsoft)</li>\n          <li>15:20-15:40 - Discussion and breakout
       rooms</li>\n          <li>15:40-15:50 - <a href=\"https://www.linkedin.com/in/kolya-malkin-5b54658b/\"
-      target=\"_blank\">Kolya Malkin</a> (Yale University)</li>\n          <li>15:50-16:00
+      target=\"_blank\">Kolya Malkin</a> (Yale University) (slides:http://kmalkin.com/File/presentation.pdf)</li>\n          <li>15:50-16:00
       - <a href=\"https://www.linkedin.com/in/ankurmahesh\" target=\"_blank\">Ankur
-      Mahesh</a> (ClimateAI)</li></ul></p>"
+        Mahesh</a> (ClimateAI) (slides:https://drive.google.com/open?id=1BzMnOSICziRGfE2qpDt8qbwEpdAVDIgd)</li></ul></p>"
   - utc1:
       year: 2020
       month: 4
@@ -1193,11 +1218,11 @@
       \       Detailed schedule (times are in UTC):\n        <ul>\n          <li>16:00-16:25
       - <a href=\"https://research.google/people/YossiMatias/\" target=\"_blank\">Yossi
       Matias</a> (Google AI)</li>\n          <li>16:25-16:50 - <a href=\"https://www2.physics.ox.ac.uk/contacts/people/kasim\"
-      target=\"_blank\">Muhammad Kasim</a> (University of Oxford)</li>\n          <li>16:50-17:10
+      target=\"_blank\">Muhammad Kasim</a> (University of Oxford) (slides:https://mfkasim91.github.io/assets/talks/200429-DENSE.pdf)</li>\n          <li>16:50-17:10
       - Discussion and breakout rooms</li>\n          <li>17:10-17:20 - <a href=\"https://www.linkedin.com/in/soo-kyung-kim-a9758217/\"
       target=\"_blank\">Sookyung Kim</a> (Lawrence Livermore)</li>\n          <li>17:20-17:30
       - <a href=\"http://vzantedeschi.com/\" target=\"_blank\">Valentina Zantedeschi</a>
-      (GE Global Research)</li></ul></p>"
+        (GE Global Research) (slides:https://drive.google.com/file/d/1HY80dJ9bJSzxdqOU5GPDidBY8brH7Qpp/view?usp=sharing)</li></ul></p>"
   - utc1:
       year: 2020
       month: 4
@@ -1221,9 +1246,9 @@
               <p>
               Detailed schedule (times are in UTC):
               <ul>
-                <li>17:30-17:55 - <a href="http://stanford.edu/~lmackey/" target="_blank">Lester Mackey</a> (Microsoft Research)</li>
-                <li>17:55-18:20 - <a href="https://public.lanl.gov/balu/" target="_blank">Balu Nadiga</a> (Los Alamos)</li>
-                <li>18:20-18:45 - <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-cwatson" target="_blank">Campbell Watson</a> (IBM)</li>
+              <li>17:30-17:55 - <a href="http://stanford.edu/~lmackey/" target="_blank">Lester Mackey</a> (Microsoft Research) (slides:https://drive.google.com/file/d/1V3NsYQkqEi_dJGWSyxgFaUbW9qNp4N2u/view?usp=sharing)</li>
+              <li>17:55-18:20 - <a href="https://public.lanl.gov/balu/" target="_blank">Balu Nadiga</a> (Los Alamos) (slides:https://drive.google.com/open?id=1pkT0tMEJy8dgNvWhyA5lGpsRAXknFIy7)</li>
+              <li>18:20-18:45 - <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-cwatson" target="_blank">Campbell Watson</a> (IBM) (slides:https://drive.google.com/file/d/1BFZctCKdusAxj_7kXP0ywJQ7ORRCAkC8/view?usp=sharing)</li>
                 <li>18:45-19:05 - Discussion and breakout rooms</li>
                 <li>19:05-19:25 - <a href="https://www.linkedin.com/in/adrian-albert-17529a14" target="_blank">Adrian Albert</a> (Terrafuse, Lawrence Berkeley)</li>
               </ul>
@@ -1273,10 +1298,10 @@
               <p>
                 Speakers:
                 <ul>
-                  <li><a href="https://www.empa.ch/web/s313/kristina-orehounig" target="_blank">Kristina Orehounig</a> (Empa)</li>
+                <li><a href="https://www.empa.ch/web/s313/kristina-orehounig" target="_blank">Kristina Orehounig</a> (Empa) (slides:https://drive.google.com/open?id=1SP7Kd1S3VLvNOgVqbvay9wrnH00UIw4A)</li>
                   <li><a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-lloydt" target="_blank">Lloyd Treinish</a> (IBM Research)</li>
-                  <li><a href="https://www.sarahmfletcher.com/" target="_blank">Sarah Fletcher</a> (MIT, Stanford)</li>
-                  <li><a href="https://viterbi-web.usc.edu/~liu32/" target="_blank">Yan Liu</a> (University of Southern California)</li>
+                  <li><a href="https://www.sarahmfletcher.com/" target="_blank">Sarah Fletcher</a> (MIT, Stanford) (slides:https://drive.google.com/open?id=1o-Df5_QlPTCH_yroie9hQJWUm92PXfPH)</li>
+                  <li><a href="https://viterbi-web.usc.edu/~liu32/" target="_blank">Yan Liu</a> (University of Southern California) (slides:https://drive.google.com/open?id=10lZiFpz-nXUD4LdsZbPnbZVAo0bkG42j)</li>
                   <li><a href="https://n.ethz.ch/~martinhe/" target="_blank">Henry Martin</a> (ETH Zürich)</li>
                 </ul>
                 </p>
@@ -1348,7 +1373,7 @@
                 <p>
                 Speakers:
                 <ul>
-                  <li><a href="https://www.hughes.cam.ac.uk/about-us/our-people/senior-members/yunwei-zhang/" target="_blank">Yunwei Zhang</a> (Cambridge)</li>
+                <li><a href="https://www.hughes.cam.ac.uk/about-us/our-people/senior-members/yunwei-zhang/" target="_blank">Yunwei Zhang</a> (Cambridge) (slides:https://drive.google.com/open?id=1syCyIYZjz4x9xFo9o2W0mIpnQsZNQhyr)</li>
                   <li><a href="https://scholar.google.com/citations?hl=en&user=HYADEZ8AAAAJ&view_op=list_works" target="_blank">Julian Kates-Harbeck</a> (Harvard)</li>
                   <li><a href="https://pv.mit.edu/pvmit_people/felipe-oviedo/" target="_blank">Felipe Oviedo</a> (MIT)</li>
                 </ul>

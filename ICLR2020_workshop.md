@@ -43,7 +43,14 @@ Workshop events took place digitally from April 26-30. The schedule is available
 
 {% for s in site.data.iclr2020_schedule %}
 
-<h3 id="{{s.anchor}}">{{ s.day | strip_newlines | strip }}</h3>
+<h3 id="{{s.anchor}}">
+  {{ s.day | strip_newlines | strip }}
+  {% if s.links %}
+    {% for l in s.links %}
+      <a href="{{ l.href }}" target="_blank" class="tag is-info">{{ l.text }}</a>
+    {% endfor %}
+  {% endif %}
+</h3>
 
 <table class='remote-workshop-table'>
   <thead>
@@ -65,7 +72,7 @@ Workshop events took place digitally from April 26-30. The schedule is available
 
   <td>
   {% if r.url %}
-  <a href="{{ r.url }}" target="_blank"><b>{{r.desc | strip_newlines | strip }}</b></a>
+  <a href="{{ r.url }}" target="_blank">{{r.desc | strip_newlines | strip }}</a>
   {% else %}
   {{r.desc | strip_newlines | strip }}
   {% endif %}
@@ -82,22 +89,12 @@ Workshop events took place digitally from April 26-30. The schedule is available
   {% for rr in r.subrows %}
   <tr>
   <td>
-    {% if rr.paper_index %}
-    {% assign p = site.data.iclr2020_papers[rr.paper_index] %}
-    <a href="https://slideslive.com/{{ p.slideslive_id }}" target="_blank">
+    {% if rr.paper_id %}
+    <a href="/papers/iclr2020/{{ rr.paper_id }}" target="_blank">
       {{rr.row_text}}
     </a>
     {% else %}
     {{rr.row_text}}
-
-    {% if rr.slides %}
-      <a href="{{ rr.slides }}" target="_blank" class="tag is-link">slides</a>
-    {% endif %}
-
-    {% if rr.email %}
-      <a href="mailto:{{ rr.email }}" target="_blank" class="tag is-link">email</a>
-    {% endif %}
-
     {% endif %}
   </td>
   </tr>
@@ -131,6 +128,13 @@ $(document).ready(function() {
     const t2 = wd(tr.getAttribute("data-d2"), tr.getAttribute("data-h2"), tr.getAttribute("data-m2"));
     tr.querySelector('.fill-utc').innerText = formatRange(t1, t2, 'utc');
   }
+
+  $('details').each((i, el) => {
+    el.innerHTML = el.innerHTML.replace(
+      /\(slides:([^\)]+)\)/g,
+      "<a href='$1' target='_blank' class='tag is-info'>slides</a>"
+    );
+  });
 });
 </script>
 
