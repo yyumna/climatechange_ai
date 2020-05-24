@@ -25,11 +25,11 @@ slideslive_id: 38926837
 
 This workshop is focused on impactful uses of machine learning in reducing and responding to climate change, and is intended to be a venue for discourse between experts in machine learning and other fields. Recordings and slides are available at the links below:
 <ul>
-<li><b><a href='#main-workshop'>April 26:</a></b> Main workshop</li>
-<li><b><a href='#energy-day'>April 27:</a></b> Energy Day</li>
-<li><b><a href='#afolu-day'>April 28:</a></b> Agriculture, Forestry, and Other Land Use Day</li>
-<li><b><a href='#clisciadapt-day'>April 29:</a></b> Climate Science and Adaptation Day</li>
-<li><b><a href='#methods-day'>April 30:</a></b> Cross-cutting Methods Day</li>
+<li><b><a href='#main-workshop'>Main workshop</a></b> (April 26)</li>
+<li><b><a href='#energy-day'>Energy Day</a></b> (April 27)</li>
+<li><b><a href='#afolu-day'>Agriculture, Forestry, and Other Land Use Day</a></b> (April 28)</li>
+<li><b><a href='#clisciadapt-day'>Climate Science and Adaptation Day</a></b> (April 29)</li>
+<li><b><a href='#methods-day'>Cross-cutting Methods Day</a></b> (April 30)</li>
 </ul>
 
 ## About
