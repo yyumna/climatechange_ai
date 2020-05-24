@@ -373,17 +373,6 @@ details[open] > summary {
   }
 }
 
-.remote-workshop-table {
-  td:first-child, td:nth-child(2) {
-    white-space: nowrap;
-    width: 6rem;
-  }
-
-  td:last-child {
-    width: 100%;
-  }
-}
-
 p:last-child {
   margin-bottom: 0;
 }
@@ -429,9 +418,22 @@ td details, .paper details, details.small {
   cursor: not-allowed;
 }
 
-.paper-table {
+.paper-table,
+.remote-workshop-table {
   font-size: 14px;
 }
+
+.remote-workshop-table {
+  td.fill-utc {
+    white-space: nowrap;
+    width: 6rem;
+  }
+
+  td:last-child {
+    width: 100%;
+  }
+}
+
 
 .abstract-header {
   margin-top: 1rem !important;

@@ -45,17 +45,9 @@ Workshop events took place digitally from April 26-30. The schedule is available
 
 <h3 id="{{s.anchor}}">{{ s.day | strip_newlines | strip }}</h3>
 
-{% if s.collapsed %}
-<details>
-<summary>Schedule: (click to expand)</summary>
-{% endif %}
-
-{{s.participate}}
-
 <table class='remote-workshop-table'>
   <thead>
   <tr>
-  <th class='fill-tzname'>Time (...)</th>
   <th>Time (UTC)</th>
   <th>Event</th>
   </tr>
@@ -64,8 +56,13 @@ Workshop events took place digitally from April 26-30. The schedule is available
   <tbody>
   {% for r in s.schedule %}
   <tr class='range-row' data-d1="{{ r.utc1.day }}" data-d2="{{ r.utc2.day }}" data-h1="{{ r.utc1.hour }}" data-h2="{{ r.utc2.hour }}" data-m1="{{ r.utc1.minute }}" data-m2="{{ r.utc2.minute }}">
-  <td class='fill-tz'> </td>
+
+  {% if r.subrows %}
+  <td class='fill-utc' rowspan="{{ r.subrows.size | plus: 1 }}"> </td>
+  {% else %}
   <td class='fill-utc'> </td>
+  {% endif %}
+
   <td>
   {% if r.url %}
   <a href="{{ r.url }}" target="_blank"><b>{{r.desc | strip_newlines | strip }}</b></a>
@@ -80,13 +77,36 @@ Workshop events took place digitally from April 26-30. The schedule is available
   {% endif %}
   </td>
   </tr>
+
+  {% if r.subrows %}
+  {% for rr in r.subrows %}
+  <tr>
+  <td>
+    {% if rr.paper_index %}
+    {% assign p = site.data.iclr2020_papers[rr.paper_index] %}
+    <a href="https://slideslive.com/{{ p.slideslive_id }}" target="_blank">
+      {{rr.row_text}}
+    </a>
+    {% else %}
+    {{rr.row_text}}
+
+    {% if rr.slides %}
+      <a href="{{ rr.slides }}" target="_blank" class="tag is-link">slides</a>
+    {% endif %}
+
+    {% if rr.email %}
+      <a href="mailto:{{ rr.email }}" target="_blank" class="tag is-link">email</a>
+    {% endif %}
+
+    {% endif %}
+  </td>
+  </tr>
+  {% endfor %}
+  {% endif %}
+
   {% endfor %}
   </tbody>
 </table>
-
-{% if s.collapsed %}
-</details>
-{% endif %}
 
 {% endfor %}
 
@@ -95,7 +115,6 @@ Workshop events took place digitally from April 26-30. The schedule is available
 $(document).ready(function() {
   const DateTime = luxon.DateTime;
   const tz = DateTime.local().zoneName;
-  const tzShort = DateTime.local().toFormat("ZZZZ");
 
   function wd(day, hour, minute) {
     return DateTime.utc(2020, 4, parseInt(day), parseInt(hour), parseInt(minute), 0, 0);
@@ -107,14 +126,9 @@ $(document).ready(function() {
     return `${h1} - ${h2}`;
   }
 
-  for (let th of Array.from(document.getElementsByClassName('fill-tzname'))) {
-    th.innerText = `Time (${tzShort})`;
-  }
-
   for (let tr of Array.from(document.getElementsByClassName('range-row'))) {
     const t1 = wd(tr.getAttribute("data-d1"), tr.getAttribute("data-h1"), tr.getAttribute("data-m1"));
     const t2 = wd(tr.getAttribute("data-d2"), tr.getAttribute("data-h2"), tr.getAttribute("data-m2"));
-    tr.querySelector('.fill-tz').innerText = formatRange(t1, t2, tz);
     tr.querySelector('.fill-utc').innerText = formatRange(t1, t2, 'utc');
   }
 });
