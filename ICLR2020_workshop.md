@@ -15,21 +15,21 @@ slideslive_id: 38926837
   <a class='button' href='#about'>About</a>
   <!-- <a class='button' href='#keynote-speakers'>Speakers</a> -->
   <!-- <a class='button' href='#join'>Join</a> -->
-  <a class='button' href='#schedule'>Schedule</a>
+  <a class='button' href='#schedule-and-recordings'>Schedule and Recordings</a>
   <a class='button' href='#accepted-works'>Posters</a>
   <a class='button' href='#sponsors'>Sponsors</a>
   <a class='button' href='#organizers'>Organizers</a>
-  <a class='button' href='#call-for-submissions'><s>Call for Submissions</s></a>
+  <a class='button' href='#call-for-submissions'><s>Submit</s></a>
   <a class='button' href='#frequently-asked-questions'>FAQ</a>
 </div>
 
-Welcome! This workshop is focused on impactful uses of machine learning in reducing and responding to climate change, and is intended to be a venue for discourse between experts in machine learning and other fields. Our program:
+This workshop is focused on impactful uses of machine learning in reducing and responding to climate change, and is intended to be a venue for discourse between experts in machine learning and other fields. Recordings and slides are available at the links below:
 <ul>
-<li><b><a href='#main-workshop'>April 26:</a></b> Main workshop</li>
-<li><b><a href='#energy-day'>April 27:</a></b> Energy Day</li>
-<li><b><a href='#afolu-day'>April 28:</a></b> Agriculture, Forestry, and Other Land Use Day</li>
-<li><b><a href='#clisciadapt-day'>April 29:</a></b> Climate Science and Adaptation Day</li>
-<li><b><a href='#methods-day'>April 30:</a></b> Cross-cutting Methods Day</li>
+<li><b><a href='#main-workshop'>Main workshop</a></b> (April 26)</li>
+<li><b><a href='#energy-day'>Energy Day</a></b> (April 27)</li>
+<li><b><a href='#afolu-day'>Agriculture, Forestry, and Other Land Use Day</a></b> (April 28)</li>
+<li><b><a href='#clisciadapt-day'>Climate Science and Adaptation Day</a></b> (April 29)</li>
+<li><b><a href='#methods-day'>Cross-cutting Methods Day</a></b> (April 30)</li>
 </ul>
 
 ## About
@@ -37,25 +37,24 @@ Many in the ML community wish to take action on climate change, yet feel their s
 
 This workshop was held as part of the International Conference on Learning Representations (ICLR), one of the premier conferences on machine learning, which draws a wide audience of researchers and practitioners in academia, industry, and related fields.
 
-## Schedule
+## Schedule and Recordings
 
-Workshop events took place digitally from April 26-30. The schedule is available below, via <a href="https://calendar.google.com/calendar/embed?src=n4jcdb08gc10bk47crsq18aet8%40group.calendar.google.com&ctz=Etc%2FGMT&mode=AGENDA" target="_blank">Google Calendar</a>, and in <a href="https://calendar.google.com/calendar/ical/n4jcdb08gc10bk47crsq18aet8%40group.calendar.google.com/public/basic.ics" target="_blank">iCal</a> format.
+Workshop events took place digitally from April 26-30. The schedule is available below, with links to recordings, papers, and slides:
 
 {% for s in site.data.iclr2020_schedule %}
 
-<h3 id="{{s.anchor}}">{{ s.day | strip_newlines | strip }}</h3>
-
-{% if s.collapsed %}
-<details>
-<summary>Schedule: (click to expand)</summary>
-{% endif %}
-
-{{s.participate}}
+<h3 id="{{s.anchor}}">
+  {{ s.day | strip_newlines | strip }}
+  {% if s.links %}
+    {% for l in s.links %}
+      <a href="{{ l.href }}" target="_blank" class="tag is-info">{{ l.text }}</a>
+    {% endfor %}
+  {% endif %}
+</h3>
 
 <table class='remote-workshop-table'>
   <thead>
   <tr>
-  <th class='fill-tzname'>Time (...)</th>
   <th>Time (UTC)</th>
   <th>Event</th>
   </tr>
@@ -64,11 +63,16 @@ Workshop events took place digitally from April 26-30. The schedule is available
   <tbody>
   {% for r in s.schedule %}
   <tr class='range-row' data-d1="{{ r.utc1.day }}" data-d2="{{ r.utc2.day }}" data-h1="{{ r.utc1.hour }}" data-h2="{{ r.utc2.hour }}" data-m1="{{ r.utc1.minute }}" data-m2="{{ r.utc2.minute }}">
-  <td class='fill-tz'> </td>
+
+  {% if r.subrows %}
+  <td class='fill-utc' rowspan="{{ r.subrows.size | plus: 1 }}"> </td>
+  {% else %}
   <td class='fill-utc'> </td>
+  {% endif %}
+
   <td>
   {% if r.url %}
-  <a href="{{ r.url }}" target="_blank"><b>{{r.desc | strip_newlines | strip }}</b></a>
+  <a href="{{ r.url }}" target="_blank">{{r.desc | strip_newlines | strip }}</a>
   {% else %}
   {{r.desc | strip_newlines | strip }}
   {% endif %}
@@ -80,13 +84,26 @@ Workshop events took place digitally from April 26-30. The schedule is available
   {% endif %}
   </td>
   </tr>
+
+  {% if r.subrows %}
+  {% for rr in r.subrows %}
+  <tr class='remote-workshop-table-subrow'>
+  <td>
+    {% if rr.paper_id %}
+    <a href="/papers/iclr2020/{{ rr.paper_id }}" target="_blank">
+      {{rr.row_text}}
+    </a>
+    {% else %}
+    {{rr.row_text}}
+    {% endif %}
+  </td>
+  </tr>
+  {% endfor %}
+  {% endif %}
+
   {% endfor %}
   </tbody>
 </table>
-
-{% if s.collapsed %}
-</details>
-{% endif %}
 
 {% endfor %}
 
@@ -95,7 +112,6 @@ Workshop events took place digitally from April 26-30. The schedule is available
 $(document).ready(function() {
   const DateTime = luxon.DateTime;
   const tz = DateTime.local().zoneName;
-  const tzShort = DateTime.local().toFormat("ZZZZ");
 
   function wd(day, hour, minute) {
     return DateTime.utc(2020, 4, parseInt(day), parseInt(hour), parseInt(minute), 0, 0);
@@ -107,16 +123,18 @@ $(document).ready(function() {
     return `${h1} - ${h2}`;
   }
 
-  for (let th of Array.from(document.getElementsByClassName('fill-tzname'))) {
-    th.innerText = `Time (${tzShort})`;
-  }
-
   for (let tr of Array.from(document.getElementsByClassName('range-row'))) {
     const t1 = wd(tr.getAttribute("data-d1"), tr.getAttribute("data-h1"), tr.getAttribute("data-m1"));
     const t2 = wd(tr.getAttribute("data-d2"), tr.getAttribute("data-h2"), tr.getAttribute("data-m2"));
-    tr.querySelector('.fill-tz').innerText = formatRange(t1, t2, tz);
     tr.querySelector('.fill-utc').innerText = formatRange(t1, t2, 'utc');
   }
+
+  $('details').each((i, el) => {
+    el.innerHTML = el.innerHTML.replace(
+      /\(slides:([^\)]+)\)/g,
+      "<a href='$1' target='_blank' class='tag is-info'>slides</a>"
+    );
+  });
 });
 </script>
 

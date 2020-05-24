@@ -1,9 +1,9 @@
 ---
 - day: 'April 26: Main Workshop'
   anchor: main-workshop
-  collapsed: 1
-  participate: |-
-      <p>Watch a recording of this day's program <a href="https://slideslive.com/38926837" target="_blank">here</a>, or follow links in the schedule below to see individual talks. To view spotlights for workshop submissions, check out the <a href="#accepted-works">individual paper pages</a>.</p>
+  links:
+    - href: 'https://slideslive.com/38926837/tackling-climate-change-with-ml'
+      text: 'Full Recording'
   schedule:
   - utc1:
       year: 2020
@@ -11,17 +11,14 @@
       day: 26
       hour: 8
       minute: 45
-      second: 0
-      millisecond: 0
     utc2:
       year: 2020
       month: 4
       day: 26
       hour: 9
       minute: 0
-      second: 0
-      millisecond: 0
     desc: Welcome and opening remarks
+    url: https://slideslive.com/38926837/tackling-climate-change-with-ml?time=212s
     more: ''
   - utc1:
       year: 2020
@@ -29,437 +26,666 @@
       day: 26
       hour: 9
       minute: 0
-      second: 0
-      millisecond: 0
     utc2:
       year: 2020
       month: 4
       day: 26
       hour: 10
       minute: 15
-      second: 0
-      millisecond: 0
-    desc: "<b>Panel:</b> Ciira wa Maina, Paula Hidalgo-Sanchis, Sarvapali Ramchurn,
+    desc: "Panel: Ciira wa Maina, Paula Hidalgo-Sanchis, Sarvapali Ramchurn,
       Georgina Campbell Flatter, Daniel Rothenberg"
+    url: https://slideslive.com/38926837/tackling-climate-change-with-ml?time=1395s
     more: |-
-      Join us for a panel discussion on the theory and practice of doing work at the intersection of climate change and machine learning. Panelists include:
+      Join us for a panel discussion on the theory and practice of doing work
+      at the intersection of climate change and machine learning. Panelists
+      include:
 
-                <p>
-                <strong>Ciira wa Maina:</strong> Ciira wa Maina graduated from the University of Nairobi, Kenya with a Bsc. degree in Electrical Engineering in 2007 and with a Ph.D. from Drexel University in Philadelphia, USA in September 2011. Between October 2011 and August 2013 he was a postdoctoral researcher in computational Biology at the University of Sheffield. Since September 2013 he has been a Lecturer in Electrical Engineering at Dedan Kimathi University of Technology in Nyeri, Kenya where he also conducts research in the area of bioacoustics and other technological interventions for environmental monitoring. He is a member of the organizing committee for Data Science Africa.
-                </p>
+      <p>
+        <strong>Ciira wa Maina:</strong> Ciira wa Maina graduated from the
+        University of Nairobi, Kenya with a Bsc. degree in Electrical
+        Engineering in 2007 and with a Ph.D. from Drexel University in
+        Philadelphia, USA in September 2011. Between October 2011 and August
+        2013 he was a postdoctoral researcher in computational Biology at the
+        University of Sheffield. Since September 2013 he has been a Lecturer in
+        Electrical Engineering at Dedan Kimathi University of Technology in
+        Nyeri, Kenya where he also conducts research in the area of
+        bioacoustics and other technological interventions for environmental
+        monitoring. He is a member of the organizing committee for Data Science
+        Africa.
+      </p>
 
-                <p>
-                <strong>Paula Hidalgo-Sanchis:</strong> Paula Hidalgo-Sanchis works as Innovations Advisor at United Nations Global Pulse. Paula has done extensive applied research on the use of Big Data and Artificial Intelligence for the social good and led Pulse Lab Kampala in Uganda for 5 years before joining the team at UN Global Pulse in New York. She has worked as humanitarian and development practitioner during 19 years based in Africa, Asia and America. With working experience as Manager of Innovations, Social Policy Advisor and Analyst with the UN and a private Foundation Paula is passionate about promoting innovations for human development. She holds a PhD in Geography and Master’s level on International Assistance.
-                </p>
+      <p>
+        <strong>Paula Hidalgo-Sanchis:</strong> Paula Hidalgo-Sanchis works as
+        Innovations Advisor at United Nations Global Pulse. Paula has done
+        extensive applied research on the use of Big Data and Artificial
+        Intelligence for the social good and led Pulse Lab Kampala in Uganda
+        for 5 years before joining the team at UN Global Pulse in New York. She
+        has worked as humanitarian and development practitioner during 19 years
+        based in Africa, Asia and America. With working experience as Manager
+        of Innovations, Social Policy Advisor and Analyst with the UN and a
+        private Foundation Paula is passionate about promoting innovations for
+        human development. She holds a PhD in Geography and Master’s level on
+        International Assistance.
+      </p>
 
-                <p>
-                <strong>Sarvapali Ramchurn:</strong> Prof. Sarvapali Ramchurn is a Professor of Artificial Intelligence, Turing Fellow, and Fellow of the Institution of Engineering and Technology. He is the Director of the Centre for Machine Intelligence at the University of Southampton. His research is about the design of Responsible Artificial Intelligence for real-world socio-technical applications including energy systems and disaster management. His research involves applying techniques from Machine Learning, Data Science, and Game Theory.   He has won multiple best paper awards for his research and  is a winner of the AXA Research Fund Award for his work on Responsible Artificial Intelligence.  He is the Chief Scientist for North Star Solar Ltd and advises a number of SMEs and Defence suppliers. He has pioneered the development of AI-based disaster response systems using multi-UAV systems, AI-driven large-scale battery management for smart grids, and an AI bot that outperformed more than 5M human players (top 0.7%) in the English Premier League Fantasy Football Tournament. His papers have been cited more than 7000 times (according to Google scholar). He is originally from Mauritius and is interested in promoting applications of AI in developing countries.
-                </p>
+      <p>
+        <strong>Sarvapali Ramchurn:</strong> Prof. Sarvapali Ramchurn is a
+        Professor of Artificial Intelligence, Turing Fellow, and Fellow of the
+        Institution of Engineering and Technology. He is the Director of the
+        Centre for Machine Intelligence at the University of Southampton. His
+        research is about the design of Responsible Artificial Intelligence for
+        real-world socio-technical applications including energy systems and
+        disaster management. His research involves applying techniques from
+        Machine Learning, Data Science, and Game Theory.   He has won multiple
+        best paper awards for his research and  is a winner of the AXA Research
+        Fund Award for his work on Responsible Artificial Intelligence.  He is
+        the Chief Scientist for North Star Solar Ltd and advises a number of
+        SMEs and Defence suppliers. He has pioneered the development of
+        AI-based disaster response systems using multi-UAV systems, AI-driven
+        large-scale battery management for smart grids, and an AI bot that
+        outperformed more than 5M human players (top 0.7%) in the English
+        Premier League Fantasy Football Tournament. His papers have been cited
+        more than 7000 times (according to Google scholar). He is originally
+        from Mauritius and is interested in promoting applications of AI in
+        developing countries.
+      </p>
 
-                <p>
-                <strong>Georgina Campbell Flatter:</strong> Georgina Campbell Flatter leads ClimaCell’s emerging market activities, and is dedicated to ensuring that every human being on earth can benefit from the socio-economic opportunities of high quality accessible weather information, especially vulnerable communities. Prior to ClimaCell, Georgina spent a decade at MIT where her research and teaching centered around the role of business and entrepreneurship in tackling large systemic poverty issues. She was a Senior Lecturer with the Technological Innovation, Entrepreneurship and Strategic Management Group at MIT Sloan. Through this role, she developed several new academic courses and co-wrote cases on game-changing principled leaders and ventures working in emerging markets. She also served as Executive Director of the MIT Legatum Center for Development and Entrepreneurship and, prior to that, Director of MIT’s Regional Entrepreneurship Acceleration Program (REAP). She began her journey at MIT making gecko-inspired surgical adhesives at the MIT Langer Lab and hydrogen-generating nanoparticles at an MIT cleantech spinout. Some of her thoughts on entrepreneurship are captured in pieces recently published in the FT, Entrepreneur.com, and Forbes. She read Material Science at Trinity College Oxford and Technology and Policy at MIT.
-                </p>
+      <p>
+        <strong>Georgina Campbell Flatter:</strong> Georgina Campbell Flatter
+        leads ClimaCell’s emerging market activities, and is dedicated to
+        ensuring that every human being on earth can benefit from the
+        socio-economic opportunities of high quality accessible weather
+        information, especially vulnerable communities. Prior to ClimaCell,
+        Georgina spent a decade at MIT where her research and teaching centered
+        around the role of business and entrepreneurship in tackling large
+        systemic poverty issues. She was a Senior Lecturer with the
+        Technological Innovation, Entrepreneurship and Strategic Management
+        Group at MIT Sloan. Through this role, she developed several new
+        academic courses and co-wrote cases on game-changing principled leaders
+        and ventures working in emerging markets. She also served as Executive
+        Director of the MIT Legatum Center for Development and Entrepreneurship
+        and, prior to that, Director of MIT’s Regional Entrepreneurship
+        Acceleration Program (REAP). She began her journey at MIT making
+        gecko-inspired surgical adhesives at the MIT Langer Lab and
+        hydrogen-generating nanoparticles at an MIT cleantech spinout. Some of
+        her thoughts on entrepreneurship are captured in pieces recently
+        published in the FT, Entrepreneur.com, and Forbes. She read Material
+        Science at Trinity College Oxford and Technology and Policy at MIT.
+      </p>
 
-                <p>
-                <strong>Daniel Rothenberg:</strong> As an atmospheric scientist, Daniel Rothenberg’s research interests focus on applying new technology and techniques to solve challenging problems in meteorology and climate science. During his doctoral work at MIT, Dr. Rothenberg developed and applied new modeling approaches for improving the fidelity of aerosol-cloud interactions inside global climate models; later on at MIT in the Institute for Data Systems and Society, he studied the intersection of climate change, air quality, and policy by working to quantify the “time of emergence” of climate-forced air quality impacts and the policy co-benefits of mitigating them. Throughout these experiences, he has played a hands-on role in developing weather (WRF), climate (CESM/IGSM), and chemical transport (GEOS-Chem) models.  Currently, Dr. Rothenberg serves as the Chief Scientist of ClimaCell, a weather technology start-up, leading their R&D and engineering initiatives towards building novel technology for integrating micro-weather observations into large-scale weather analysis, forecast, and nowcasting systems.
-                </p>
+      <p>
+        <strong>Daniel Rothenberg:</strong> As an atmospheric scientist, Daniel
+        Rothenberg’s research interests focus on applying new technology and
+        techniques to solve challenging problems in meteorology and climate
+        science. During his doctoral work at MIT, Dr. Rothenberg developed and
+        applied new modeling approaches for improving the fidelity of
+        aerosol-cloud interactions inside global climate models; later on at
+        MIT in the Institute for Data Systems and Society, he studied the
+        intersection of climate change, air quality, and policy by working to
+        quantify the “time of emergence” of climate-forced air quality impacts
+        and the policy co-benefits of mitigating them. Throughout these
+        experiences, he has played a hands-on role in developing weather (WRF),
+        climate (CESM/IGSM), and chemical transport (GEOS-Chem) models.
+        Currently, Dr. Rothenberg serves as the Chief Scientist of ClimaCell, a
+        weather technology start-up, leading their R&D and engineering
+        initiatives towards building novel technology for integrating
+        micro-weather observations into large-scale weather analysis, forecast,
+        and nowcasting systems.
+      </p>
   - utc1:
       year: 2020
       month: 4
       day: 26
       hour: 10
       minute: 15
-      second: 0
-      millisecond: 0
     utc2:
       year: 2020
       month: 4
       day: 26
       hour: 11
       minute: 0
-      second: 0
-      millisecond: 0
-    desc: 'Ciira wa Maina: <a href="https://slideslive.com/38926247" target="_blank"><b>Climate Change - The price of "progress"? Exploring
-      AI Solutions</b></a> <em>(Invited talk)</em>'
+    desc: 'Ciira wa Maina: <a href="https://slideslive.com/38926837/tackling-climate-change-with-ml?time=5889s" target="_blank">Climate Change - The price of "progress"? Exploring
+      AI Solutions</a> <em>(Invited talk)</em>'
     more: |-
-      <strong>Abstract:</strong> In this talk we examine the the human cost of climate change and explore a number of technological interventions aimed at improving the monitoring of ecosystems. In particular we focus on the use of bioacoustic approaches to environmental monitoring and describe efforts currently underway in Kenya to develop a decision support system for ecosystem management that uses audio recordings collected in the ecosystems of interest to infer ecosystem health. We also explore the use of internet of things for water resource monitoring and improved agriculture which are essential if we are to lessen the impact of climate change on vulnerable communities.
+      <strong>Abstract:</strong> In this talk we examine the the human cost of
+      climate change and explore a number of technological interventions aimed
+      at improving the monitoring of ecosystems. In particular we focus on the
+      use of bioacoustic approaches to environmental monitoring and describe
+      efforts currently underway in Kenya to develop a decision support system
+      for ecosystem management that uses audio recordings collected in the
+      ecosystems of interest to infer ecosystem health. We also explore the use
+      of internet of things for water resource monitoring and improved
+      agriculture which are essential if we are to lessen the impact of climate
+      change on vulnerable communities.
 
-                <p>
-                  <strong>Speaker Bio:</strong> Ciira wa Maina graduated from the University of Nairobi, Kenya with a Bsc. degree in Electrical Engineering in 2007 and with a Ph.D. from Drexel University in Philadelphia, USA in September 2011. Between October 2011 and August 2013 he was a postdoctoral researcher in computational Biology at the University of Sheffield. Since September 2013 he has been a Lecturer in Electrical Engineering at Dedan Kimathi University of Technology in Nyeri, Kenya where he also conducts research in the area of bioacoustics and other technological interventions for environmental monitoring. He is a member of the organizing committee for Data Science Africa.
-                </p>
+      <p>
+        <strong>Speaker Bio:</strong> Ciira wa Maina graduated from the
+        University of Nairobi, Kenya with a Bsc. degree in Electrical
+        Engineering in 2007 and with a Ph.D. from Drexel University in
+        Philadelphia, USA in September 2011. Between October 2011 and August
+        2013 he was a postdoctoral researcher in computational Biology at the
+        University of Sheffield. Since September 2013 he has been a Lecturer in
+        Electrical Engineering at Dedan Kimathi University of Technology in
+        Nyeri, Kenya where he also conducts research in the area of
+        bioacoustics and other technological interventions for environmental
+        monitoring. He is a member of the organizing committee for Data Science
+        Africa.
+      </p>
   - utc1:
       year: 2020
       month: 4
       day: 26
       hour: 11
       minute: 0
-      second: 0
-      millisecond: 0
     utc2:
       year: 2020
       month: 4
       day: 26
       hour: 12
       minute: 0
-      second: 0
-      millisecond: 0
-    desc: "<b>Spotlight talks</b>"
-    more: |-
-      Tune in for talks from selected workshop poster presenters!
-
-                <p>
-                Talks:
-                <ul>
-                  <li>(15) K. Shankari, "MobilityNet: Towards a Public Dataset for Multi-modal Mobility Research"</li>
-                  <li>(18) Fred Otieno, "Machine Learning Approaches to Safeguarding Continuous Water Supply in the Arid and Semi-arid Lands of Northern Kenya"</li>
-                  <li>(5) Claudia Haworth, "Understanding the dynamics of climate-crucial food choice behaviours using Distributional Semantics"</li>
-                  <li>(27) Jefferson Sankara, "Machine Learning Applications That Can Help Pastoral Communities in Northern Kenya and Elsewhere Adapt to Climate Change"</li>
-                  <li>(4) Thomas Lees, "A Machine Learning Pipeline to Predict Vegetation Health"</li>
-                </ul>
-                </p>
+    desc: "Spotlight talks"
+    url: https://slideslive.com/38926837/tackling-climate-change-with-ml?time=8371s
+    subrows:
+      - paper_id: 15
+        row_text: |-
+          (15) K. Shankari, "MobilityNet: Towards a Public Dataset for Multi-modal Mobility Research"
+      - paper_id: 18
+        row_text: |-
+          (18) Fred Otieno, "Machine Learning Approaches to Safeguarding Continuous Water Supply
+          in the Arid and Semi-arid Lands of Northern Kenya"
+      - paper_id: 5
+        row_text: |-
+          (5) Claudia Haworth, "Understanding the dynamics of climate-crucial food choice
+          behaviours using Distributional Semantics"
+      - paper_id: 27
+        row_text: |-
+          (27) Jefferson Sankara, "Machine Learning Applications That Can Help Pastoral Communities
+          in Northern Kenya and Elsewhere Adapt to Climate Change"
+      - paper_id: 4
+        row_text: |-
+          (4) Thomas Lees, "A Machine Learning Pipeline to Predict Vegetation Health"
   - utc1:
       year: 2020
       month: 4
       day: 26
       hour: 12
       minute: 0
-      second: 0
-      millisecond: 0
     utc2:
       year: 2020
       month: 4
       day: 26
       hour: 13
       minute: 0
-      second: 0
-      millisecond: 0
-    desc: "<b>Poster session</b>"
+    desc: "Poster session"
     more: |-
-      Talk to poster poster presenters via Zoom about their accepted works; Zoom connection information for each poster can be found <a href='#accepted-works'>below</a>. You can also join the <a href="https://www.climatechange.ai/join/ICLRBreakroom" target="_blank">Zoom breakroom</a> at this time to mingle with other workshop participants.
+      <p>
+        Posters that were presented during this slot are listed below.
+      </p>
 
-              <p>
-              Posters being presented during this slot are listed below.
-              </p>
+      Papers track:
+      <p>
+        <ul>
+            <li><a href="/papers/iclr2020/2" target="_blank"> (2) Deep Reinforcement Learning based Renewable Energy Error Compensable Forecasting</a></li>
+            <li><a href="/papers/iclr2020/3" target="_blank"> (3) Missing-insensitive Short-term Load Forecasting Leveraging Autoencoder and LSTM</a></li>
+            <li><a href="/papers/iclr2020/4" target="_blank"> (4) A Machine Learning Pipeline to Predict Vegetation Health</a></li>
+            <li><a href="/papers/iclr2020/5" target="_blank"> (5) Understanding the dynamics of climate-crucial food choice behaviours using Distributional Semantics</a></li>
+            <li><a href="/papers/iclr2020/6" target="_blank"> (6) SolarNet: A Deep Learning Framework to Map Solar Plants In China From Satellite Imagery</a></li>
+            <li><a href="/papers/iclr2020/9" target="_blank"> (9) Non-linear interlinkages and key objectives amongst the Paris Agreement and the Sustainable Development Goals</a></li>
+            <li><a href="/papers/iclr2020/12" target="_blank"> (12) Modeling Cloud Reflectance Fields using Conditional Generative Adversarial Networks</a></li>
+            <li><a href="/papers/iclr2020/15" target="_blank"> (15) MobilityNet: Towards a Public Dataset for Multi-modal Mobility Research</a></li>
+        </ul>
+      </p>
 
-              Papers track:
-              <p>
-                <ul>
-                    <li> (2) Deep Reinforcement Learning based Renewable Energy Error Compensable Forecasting</li>
-                    <li> (3) Missing-insensitive Short-term Load Forecasting Leveraging Autoencoder and LSTM</li>
-                    <li> (4) A Machine Learning Pipeline to Predict Vegetation Health</li>
-                    <li> (5) Understanding the dynamics of climate-crucial food choice behaviours using Distributional Semantics</li>
-                    <li> (6) SolarNet: A Deep Learning Framework to Map Solar Plants In China From Satellite Imagery</li>
-                    <li> (9) Non-linear interlinkages and key objectives amongst the Paris Agreement and the Sustainable Development Goals</li>
-                    <li> (12) Modeling Cloud Reflectance Fields using Conditional Generative Adversarial Networks</li>
-                    <li> (15) MobilityNet: Towards a Public Dataset for Multi-modal Mobility Research</li>
-                </ul>
-              </p>
-
-              Proposals track:
-              <p>
-                <ul>
-                  <li> (17) Benchmarks for Grid Flexibility Prediction: Enabling Progress and Machine Learning Applications</li>
-                  <li> (18) Machine Learning Approaches to Safeguarding Continuous Water Supply in the Arid and Semi-arid Lands of Northern Kenya</li>
-                  <li> (20) YOU FORGOT IT IN THE GENOTYPE, MODELING TOWARDS ADAPTATION OF FOOD CROPS UNDER CLIMATE CHANGE THREAT</li>
-                  <li> (22) Indigenous Knowledge Aware Drought Monitoring, Forecasting and Prediction Model Using Deep Learning Techniques</li>
-                  <li> (25) Xingu: Explaining critical geospatial predictions in weak supervision for climate finance</li>
-                  <li> (26) Towards unified standards for smart infrastructure datasets</li>
-                  <li> (27) MACHINE   LEARNING   APPLICATIONS   THAT CAN HELP PASTORAL COMMUNITIES IN NORTHERN  KENYA  AND  ELSEWHERE  ADAPT TO CLIMATE CHANGE</li>
-                  <li> (28) Nutrient demand, Risk and Climate change: Evidence from historical rice yield trials in India</li>
-                  <li> (29) USING MACHINE LEARNING TO ANALYZE CLIMATE CHANGE TECHNOLOGY TRANSFER (CCTT)</li>
-                  <li> (30) Using ML to close the vocabulary gap in the context of environment and climate change in Chichewa</li>
-                </ul>
-              </p>
+      Proposals track:
+      <p>
+        <ul>
+          <li><a href="/papers/iclr2020/17" target="_blank"> (17) Benchmarks for Grid Flexibility Prediction: Enabling Progress and Machine Learning Applications</a></li>
+          <li><a href="/papers/iclr2020/18" target="_blank"> (18) Machine Learning Approaches to Safeguarding Continuous Water Supply in the Arid and Semi-arid Lands of Northern Kenya</a></li>
+          <li><a href="/papers/iclr2020/20" target="_blank"> (20) YOU FORGOT IT IN THE GENOTYPE, MODELING TOWARDS ADAPTATION OF FOOD CROPS UNDER CLIMATE CHANGE THREAT</a></li>
+          <li><a href="/papers/iclr2020/22" target="_blank"> (22) Indigenous Knowledge Aware Drought Monitoring, Forecasting and Prediction Model Using Deep Learning Techniques</a></li>
+          <li><a href="/papers/iclr2020/25" target="_blank"> (25) Xingu: Explaining critical geospatial predictions in weak supervision for climate finance</a></li>
+          <li><a href="/papers/iclr2020/26" target="_blank"> (26) Towards unified standards for smart infrastructure datasets</a></li>
+          <li><a href="/papers/iclr2020/27" target="_blank"> (27) MACHINE   LEARNING   APPLICATIONS   THAT CAN HELP PASTORAL COMMUNITIES IN NORTHERN  KENYA  AND  ELSEWHERE  ADAPT TO CLIMATE CHANGE</a></li>
+          <li><a href="/papers/iclr2020/28" target="_blank"> (28) Nutrient demand, Risk and Climate change: Evidence from historical rice yield trials in India</a></li>
+          <li><a href="/papers/iclr2020/29" target="_blank"> (29) USING MACHINE LEARNING TO ANALYZE CLIMATE CHANGE TECHNOLOGY TRANSFER (CCTT)</a></li>
+          <li><a href="/papers/iclr2020/30" target="_blank"> (30) Using ML to close the vocabulary gap in the context of environment and climate change in Chichewa</a></li>
+        </ul>
+      </p>
   - utc1:
       year: 2020
       month: 4
       day: 26
       hour: 13
       minute: 0
-      second: 0
-      millisecond: 0
     utc2:
       year: 2020
       month: 4
       day: 26
       hour: 13
       minute: 45
-      second: 0
-      millisecond: 0
-    desc: 'Georgina Campbell Flatter: <a href="https://slideslive.com/38926250" target="_blank"><b>Why the Climate Change AI Community Should
-      Care About Weather: A New Approach for Africa</b></a> <em>(Invited talk)</em>'
+    desc: 'Georgina Campbell Flatter: <a href="https://slideslive.com/38926837/tackling-climate-change-with-ml?time=15715s" target="_blank">Why the Climate Change AI Community Should Care About Weather: A New Approach for Africa</a> <em>(Invited talk)</em>'
     more: |-
-      <strong>Abstract:</strong> By improving weather services in Africa, we have the potential to unlock hundreds billions of dollars of opportunity for the continent, and, in turn, lift millions from poverty by helping individuals, businesses and governments proactively manage weather risk and adapt to changing weather patterns. While there have been significant technological advancements in weather forecasting globally  in recent years through the use of supercomputers, AI and user-facing tools, these benefits are yet to reach their full potential in Africa.
+      <strong>Abstract:</strong> By improving weather services in Africa, we
+      have the potential to unlock hundreds billions of dollars of opportunity
+      for the continent, and, in turn, lift millions from poverty by helping
+      individuals, businesses and governments proactively manage weather risk
+      and adapt to changing weather patterns. While there have been significant
+      technological advancements in weather forecasting globally  in recent
+      years through the use of supercomputers, AI and user-facing tools, these
+      benefits are yet to reach their full potential in Africa.
 
-                <p>
-                During this presentation for the Climate Change AI community, Georgina shares ClimaCell’s novel approach to bringing weather innovations to Africa’s hydro-met value chain. Through a set of powerful stories, she shares a community-level perspective of the game-changing socio-economic value that could be achieved with better forecasts, especially among vulnerable communities. She presents a new systems lense for how to view this opportunity by better understanding the problem, with the goal of inspiring the Climate Change AI community to contribute to this critical, but perhaps underappreciated, aspect of the climate adaptation agenda. Weather can drive people into poverty. Knowing the weather can lift them out.
-                </p>
+      <p>
+        During this presentation for the Climate Change AI community, Georgina
+        shares ClimaCell’s novel approach to bringing weather innovations to
+        Africa’s hydro-met value chain. Through a set of powerful stories, she
+        shares a community-level perspective of the game-changing socio-economic
+        value that could be achieved with better forecasts, especially among
+        vulnerable communities. She presents a new systems lense for how to view
+        this opportunity by better understanding the problem, with the goal of
+        inspiring the Climate Change AI community to contribute to this critical,
+        but perhaps underappreciated, aspect of the climate adaptation agenda.
+        Weather can drive people into poverty. Knowing the weather can lift them
+        out.
+      </p>
 
-                <p>
-                Georgina Campbell Flatter will be joined by her colleague Daniel Rothenberg for the Q&A portion of this talk.
-                </p>
+      <p>
+        Georgina Campbell Flatter will be joined by her colleague Daniel
+        Rothenberg for the Q&A portion of this talk.
+      </p>
 
-                <p>
-                  <strong>Speaker Bio:</strong> Georgina Campbell Flatter leads ClimaCell’s emerging market activities, and is dedicated to ensuring that every human being on earth can benefit from the socio-economic opportunities of high quality accessible weather information, especially vulnerable communities. Prior to ClimaCell, Georgina spent a decade at MIT where her research and teaching centered around the role of business and entrepreneurship in tackling large systemic poverty issues. She was a Senior Lecturer with the Technological Innovation, Entrepreneurship and Strategic Management Group at MIT Sloan. Through this role, she developed several new academic courses and co-wrote cases on game-changing principled leaders and ventures working in emerging markets. She also served as Executive Director of the MIT Legatum Center for Development and Entrepreneurship and, prior to that, Director of MIT’s Regional Entrepreneurship Acceleration Program (REAP). She began her journey at MIT making gecko-inspired surgical adhesives at the MIT Langer Lab and hydrogen-generating nanoparticles at an MIT cleantech spinout. Some of her thoughts on entrepreneurship are captured in pieces recently published in the FT, Entrepreneur.com, and Forbes. She read Material Science at Trinity College Oxford and Technology and Policy at MIT.
-                </p>
+      <p>
+        <strong>Speaker Bio:</strong> Georgina Campbell Flatter leads
+        ClimaCell’s emerging market activities, and is dedicated to ensuring
+        that every human being on earth can benefit from the socio-economic
+        opportunities of high quality accessible weather information,
+        especially vulnerable communities. Prior to ClimaCell, Georgina spent a
+        decade at MIT where her research and teaching centered around the role
+        of business and entrepreneurship in tackling large systemic poverty
+        issues. She was a Senior Lecturer with the Technological Innovation,
+        Entrepreneurship and Strategic Management Group at MIT Sloan. Through
+        this role, she developed several new academic courses and co-wrote
+        cases on game-changing principled leaders and ventures working in
+        emerging markets. She also served as Executive Director of the MIT
+        Legatum Center for Development and Entrepreneurship and, prior to that,
+        Director of MIT’s Regional Entrepreneurship Acceleration Program
+        (REAP). She began her journey at MIT making gecko-inspired surgical
+        adhesives at the MIT Langer Lab and hydrogen-generating nanoparticles
+        at an MIT cleantech spinout. Some of her thoughts on entrepreneurship
+        are captured in pieces recently published in the FT, Entrepreneur.com,
+        and Forbes. She read Material Science at Trinity College Oxford and
+        Technology and Policy at MIT.
+      </p>
 
-                <strong>Additional Speaker Bio:</strong> As an atmospheric scientist, Daniel Rothenberg’s research interests focus on applying new technology and techniques to solve challenging problems in meteorology and climate science. During his doctoral work at MIT, Dr. Rothenberg developed and applied new modeling approaches for improving the fidelity of aerosol-cloud interactions inside global climate models; later on at MIT in the Institute for Data Systems and Society, he studied the intersection of climate change, air quality, and policy by working to quantify the “time of emergence” of climate-forced air quality impacts and the policy co-benefits of mitigating them. Throughout these experiences, he has played a hands-on role in developing weather (WRF), climate (CESM/IGSM), and chemical transport (GEOS-Chem) models.  Currently, Dr. Rothenberg serves as the Chief Scientist of ClimaCell, a weather technology start-up, leading their R&D and engineering initiatives towards building novel technology for integrating micro-weather observations into large-scale weather analysis, forecast, and nowcasting systems.
-                </p>
+      <p>
+        <strong>Additional Speaker Bio:</strong> As an atmospheric scientist,
+        Daniel Rothenberg’s research interests focus on applying new technology
+        and techniques to solve challenging problems in meteorology and climate
+        science. During his doctoral work at MIT, Dr. Rothenberg developed and
+        applied new modeling approaches for improving the fidelity of
+        aerosol-cloud interactions inside global climate models; later on at MIT
+        in the Institute for Data Systems and Society, he studied the
+        intersection of climate change, air quality, and policy by working to
+        quantify the “time of emergence” of climate-forced air quality impacts
+        and the policy co-benefits of mitigating them. Throughout these
+        experiences, he has played a hands-on role in developing weather (WRF),
+        climate (CESM/IGSM), and chemical transport (GEOS-Chem) models.
+        Currently, Dr. Rothenberg serves as the Chief Scientist of ClimaCell, a
+        weather technology start-up, leading their R&D and engineering
+        initiatives towards building novel technology for integrating
+        micro-weather observations into large-scale weather analysis, forecast,
+        and nowcasting systems.
+      </p>
   - utc1:
       year: 2020
       month: 4
       day: 26
       hour: 13
       minute: 45
-      second: 0
-      millisecond: 0
     utc2:
       year: 2020
       month: 4
       day: 26
       hour: 15
       minute: 30
-      second: 0
-      millisecond: 0
     desc: Break and small-group discussions
-    more: Join the <a href="https://www.climatechange.ai/join/ICLRBreakroom" target="_blank">Zoom
-      breakroom</a> and mingle with other workshop participants!
   - utc1:
       year: 2020
       month: 4
       day: 26
       hour: 15
       minute: 30
-      second: 0
-      millisecond: 0
     utc2:
       year: 2020
       month: 4
       day: 26
       hour: 17
       minute: 0
-      second: 0
-      millisecond: 0
-    desc: "<b>Panel:</b> Dan Kammen, Dan Morris, Jessica Thorn, John Platt, Nana Ama
+    desc: "Panel: Dan Kammen, Dan Morris, Jessica Thorn, John Platt, Nana Ama
       Browne Klutse, Stefano Ermon"
+    url: https://slideslive.com/38926837/tackling-climate-change-with-ml?time=24789s
     more: |-
-      Join us for a panel discussion on the theory and practice of doing work at the intersection of climate change and machine learning. Panelists include:
+      Join us for a panel discussion on the theory and practice of doing work
+      at the intersection of climate change and machine learning. Panelists
+      include:
 
-                <p>
-                <strong>Dan Kammen:</strong> Dr. Daniel M. Kammen is a Professor at the University of California, Berkeley, with parallel appointments in the Energy and Resources Group where he serves as Chair, the Goldman School of Public Policy where he directs the Center for Environmental Policy, and the department of Nuclear Engineering.  Kammen is the founding director of the Renewable and Appropriate Energy Laboratory (RAEL; <a href="http://rael.berkeley.edu" target="_blank">http://rael.berkeley.edu</a>, and was director of the Transportation Sustainability Research Center from 2007 – 2015. He was appointed by then Secretary of State Hilary Clinton in April 2010 as the first energy fellow of the Environment and Climate Partnership for the Americas (ECPA) initiative.  He began service as the Science Envoy for U. S. Secretary of State John Kerry in 2016, but resigned over President Trump’s policies in August, 2017.  He has served the State of California and US federal government in expert and advisory capacities, including time at the US Environmental Protection Agency, US Department of Energy, the Agency for International Development (USAID) and the Office of Science and Technology Policy.
-                </p>
+      <p>
+        <strong>Dan Kammen:</strong> Dr. Daniel M. Kammen is a Professor at the
+        University of California, Berkeley, with parallel appointments in the
+        Energy and Resources Group where he serves as Chair, the Goldman School
+        of Public Policy where he directs the Center for Environmental Policy,
+        and the department of Nuclear Engineering.  Kammen is the founding
+        director of the Renewable and Appropriate Energy Laboratory (RAEL; <a
+        href="http://rael.berkeley.edu"
+        target="_blank">http://rael.berkeley.edu</a>, and was director of the
+        Transportation Sustainability Research Center from 2007 – 2015. He was
+        appointed by then Secretary of State Hilary Clinton in April 2010 as
+        the first energy fellow of the Environment and Climate Partnership for
+        the Americas (ECPA) initiative.  He began service as the Science Envoy
+        for U. S. Secretary of State John Kerry in 2016, but resigned over
+        President Trump’s policies in August, 2017.  He has served the State of
+        California and US federal government in expert and advisory capacities,
+        including time at the US Environmental Protection Agency, US Department
+        of Energy, the Agency for International Development (USAID) and the
+        Office of Science and Technology Policy.
+      </p>
 
-                <p>
-                <strong>Dan Morris:</strong> Dan Morris is a Principal Scientist at Microsoft, where he runs the <a href="http://aka.ms/aiforearth" target="_blank">AI for Earth</a> program, focused on accelerating innovation at the intersection of machine learning and environmental sustainability.  His work includes computer vision applications in wildlife conservation, for example the AI for Earth <a href="http://aka.ms/speciesclassification" target="_blank">Species Classification API</a>.  Prior to joining AI for Earth, he worked in Microsoft’s Medical Devices Group, developing signal processing and machine learning techniques for cardiovascular health monitoring, along with earlier work on <a href="http://research.microsoft.com/cue/mobilenui" target="_blank">signal processing and machine learning for input systems</a>, <a href="http://research.microsoft.com/cue/patientdisplays" target="_blank">making medical information more useful to hospital patients</a>, <a href="https://www.microsoft.com/en-us/research/project/workout/" target="_blank">automatic exercise analysis from wearable sensors</a>, and <a href="http://songsmith.ms/" target="_blank">generating accompaniment for vocal melodies</a>.  Before coming to Microsoft, he studied neuroscience at Brown, and developed brain-computer interfaces for research and clinical environments.  His PhD work at Stanford focused on haptics and physical simulation for virtual surgery.
-                </p>
+      <p>
+        <strong>Dan Morris:</strong> Dan Morris is a Principal Scientist at
+        Microsoft, where he runs the <a href="http://aka.ms/aiforearth"
+        target="_blank">AI for Earth</a> program, focused on accelerating
+        innovation at the intersection of machine learning and environmental
+        sustainability.  His work includes computer vision applications in
+        wildlife conservation, for example the AI for Earth <a
+        href="http://aka.ms/speciesclassification" target="_blank">Species
+        Classification API</a>.  Prior to joining AI for Earth, he worked in
+        Microsoft’s Medical Devices Group, developing signal processing and
+        machine learning techniques for cardiovascular health monitoring, along
+        with earlier work on <a
+        href="http://research.microsoft.com/cue/mobilenui"
+        target="_blank">signal processing and machine learning for input
+        systems</a>, <a
+        href="http://research.microsoft.com/cue/patientdisplays"
+        target="_blank">making medical information more useful to hospital
+        patients</a>, <a
+        href="https://www.microsoft.com/en-us/research/project/workout/"
+        target="_blank">automatic exercise analysis from wearable sensors</a>,
+        and <a href="http://songsmith.ms/" target="_blank">generating
+        accompaniment for vocal melodies</a>.  Before coming to Microsoft, he
+        studied neuroscience at Brown, and developed brain-computer interfaces
+        for research and clinical environments.  His PhD work at Stanford
+        focused on haptics and physical simulation for virtual surgery.
+      </p>
 
-                <p>
-                <strong>Jessica Thorn:</strong> Dr. Jessica Thorn is a Research Associate working with Prof. Marchant on the <a href="https://developmentcorridors.org/" target="_blank">Development Corridors Partnership</a>, supported by the Global Challenges Research Fund. Concurrently, she holds an <a href="https://www.idrc.ca/en/news/idrc-congratulates-first-cohort-women-climate-change-science-fellows" target="_blank">African Women in Climate Change Science fellowship (AWiCCS)</a>, and <a href="https://aasciences.ac.ke/aesa/programmes/climate-research-development-cr4d" target="_blank">Climate Research 4 Development fellowship</a> hosted by the <a href="http://www.acdi.uct.ac.za/" target="_blank">African Climate and Development Initiative</a> at the University of Cape Town, supported by the <a href="https://www.nexteinstein.org/" target="_blank">African Institute of Mathematical Sciences</a>. She combines participatory scenario analysis, probabilistic social-ecological modelling, multi-scalar institutional analysis, and ecosystem service quantification to measure potential impacts of Chinese foreign direct investment in transportation corridors in East Africa on ecosystem service provisioning, livelihoods, and social coherence.  She is also interested in the synergies and trade-offs of ecological infrastructure in peri-urban areas in Tanzania and Namibia.
-                </p>
+      <p>
+        <strong>Jessica Thorn:</strong> Dr. Jessica Thorn is a Research
+        Associate working with Prof. Marchant on the <a
+        href="https://developmentcorridors.org/" target="_blank">Development
+        Corridors Partnership</a>, supported by the Global Challenges Research
+        Fund. Concurrently, she holds an <a
+        href="https://www.idrc.ca/en/news/idrc-congratulates-first-cohort-women-climate-change-science-fellows"
+        target="_blank">African Women in Climate Change Science fellowship
+        (AWiCCS)</a>, and <a
+        href="https://aasciences.ac.ke/aesa/programmes/climate-research-development-cr4d"
+        target="_blank">Climate Research 4 Development fellowship</a> hosted by
+        the <a href="http://www.acdi.uct.ac.za/" target="_blank">African
+        Climate and Development Initiative</a> at the University of Cape Town,
+        supported by the <a href="https://www.nexteinstein.org/"
+        target="_blank">African Institute of Mathematical Sciences</a>. She
+        combines participatory scenario analysis, probabilistic
+        social-ecological modelling, multi-scalar institutional analysis, and
+        ecosystem service quantification to measure potential impacts of
+        Chinese foreign direct investment in transportation corridors in East
+        Africa on ecosystem service provisioning, livelihoods, and social
+        coherence.  She is also interested in the synergies and trade-offs of
+        ecological infrastructure in peri-urban areas in Tanzania and Namibia.
+      </p>
 
-                <p>
-                <strong>John Platt:</strong> John Platt is best known for his work in machine learning: the SMO algorithm for support vector machines and calibrating the output of models. He was an early adopter of convolutional neural networks in the 1990s. However, John has worked in many different fields: data systems, computational geometry, object recognition, media UIs, analog computation, handwriting recognition, and applied math. He has discovered two asteroids, and won a Technical Academy Award in 2006 for his work in computer graphics. John currently leads the Applied Science branch of Google Research, which works at the intersection between computer science and physical or biological science. His latest goal is to help to solve climate change. Previously, he was Deputy Director of the Microsoft Research Redmond lab, and was Director of Research at Synaptics.
-                </p>
+      <p>
+        <strong>John Platt:</strong> John Platt is best known for his work in
+        machine learning: the SMO algorithm for support vector machines and
+        calibrating the output of models. He was an early adopter of convolutional
+        neural networks in the 1990s. However, John has worked in many different
+        fields: data systems, computational geometry, object recognition, media
+        UIs, analog computation, handwriting recognition, and applied math. He has
+        discovered two asteroids, and won a Technical Academy Award in 2006 for his
+        work in computer graphics. John currently leads the Applied Science branch
+        of Google Research, which works at the intersection between computer
+        science and physical or biological science. His latest goal is to help to
+        solve climate change. Previously, he was Deputy Director of the Microsoft
+        Research Redmond lab, and was Director of Research at Synaptics.
+      </p>
 
-                <p>
-                <strong>Nana Ama Browne Klutse:</strong> Dr. Nana Ama Browne Klutse is currently an AIMS-Canada Research Chair in Climate Change Science with AIMS Rwanda, and a Senior Lecturer at the Department of Physics, University of Ghana. She is also a Lead Author in Working Group 1 of the Intergovernmental Panel on Climate Change Sixth Assessment Report (2018 to 2021). Her research focuses on climate modelling, and climate impact assessments on society (health, energy, and gender). The project she is currently embarking on is focused on understanding the climate dynamics of Africa, climate observations and projections for climate services. She has worked on both national and international projects and consultancies including the climate and health project in Ghana and the ongoing global CORDEX experiment. Previously, Nana was a Senior Research Scientist at the Ghana Space Science and Technology Institute of the Ghana Atomic Energy Commission, where she was the Manager of the Institute's Remote Sensing and Climate Center. She holds a PhD in Climatology from the University of Cape Town, South Africa.
-                </p>
+      <p>
+        <strong>Nana Ama Browne Klutse:</strong> Dr. Nana Ama Browne Klutse is
+        currently an AIMS-Canada Research Chair in Climate Change Science with
+        AIMS Rwanda, and a Senior Lecturer at the Department of Physics,
+        University of Ghana. She is also a Lead Author in Working Group 1 of
+        the Intergovernmental Panel on Climate Change Sixth Assessment Report
+        (2018 to 2021). Her research focuses on climate modelling, and climate
+        impact assessments on society (health, energy, and gender). The project
+        she is currently embarking on is focused on understanding the climate
+        dynamics of Africa, climate observations and projections for climate
+        services. She has worked on both national and international projects
+        and consultancies including the climate and health project in Ghana and
+        the ongoing global CORDEX experiment. Previously, Nana was a Senior
+        Research Scientist at the Ghana Space Science and Technology Institute
+        of the Ghana Atomic Energy Commission, where she was the Manager of the
+        Institute's Remote Sensing and Climate Center. She holds a PhD in
+        Climatology from the University of Cape Town, South Africa.
+      </p>
 
-                <p>
-                <strong>Stefano Ermon:</strong> Stefano Ermon is an Assistant Professor of
-                  Computer Science in the CS Department at Stanford University, where
-                  he is affiliated with the Artificial Intelligence Laboratory, and a
-                  fellow of the Woods Institute for the Environment. His research is
-                  centered on techniques for probabilistic modeling of data, inference,
-                  and optimization, and is motivated by a range of applications, in
-                  particular ones in the emerging field of computational
-                  sustainability. He has won several awards, including four Best Paper
-                  Awards (AAAI, UAI and CP), a NSF Career Award, ONR and AFOSR Young
-                  Investigator Awards, a Sony Faculty Innovation Award, a Hellman
-                  Faculty Fellowship, Microsoft Research Fellowship, Sloan Fellowship,
-                  and the IJCAI Computers and Thought Award. Stefano earned his Ph.D.
-                  in Computer Science at Cornell University in 2015.
-                </p>
+      <p>
+        <strong>Stefano Ermon:</strong> Stefano Ermon is an Assistant Professor of
+        Computer Science in the CS Department at Stanford University, where
+        he is affiliated with the Artificial Intelligence Laboratory, and a
+        fellow of the Woods Institute for the Environment. His research is
+        centered on techniques for probabilistic modeling of data, inference,
+        and optimization, and is motivated by a range of applications, in
+        particular ones in the emerging field of computational
+        sustainability. He has won several awards, including four Best Paper
+        Awards (AAAI, UAI and CP), a NSF Career Award, ONR and AFOSR Young
+        Investigator Awards, a Sony Faculty Innovation Award, a Hellman
+        Faculty Fellowship, Microsoft Research Fellowship, Sloan Fellowship,
+        and the IJCAI Computers and Thought Award. Stefano earned his Ph.D.
+        in Computer Science at Cornell University in 2015.
+      </p>
   - utc1:
       year: 2020
       month: 4
       day: 26
       hour: 17
       minute: 0
-      second: 0
-      millisecond: 0
     utc2:
       year: 2020
       month: 4
       day: 26
       hour: 17
       minute: 45
-      second: 0
-      millisecond: 0
-    desc: 'Stefano Ermon: <a href="https://slideslive.com/38926248" target="_blank"><b>Measuring Economic Development from Space with Machine
-      Learning</b></a> <em>(Invited talk)</em>'
+    desc: 'Stefano Ermon: <a href="https://slideslive.com/38926837/tackling-climate-change-with-ml?time=29936s" target="_blank">Measuring Economic Development from Space with Machine Learning</a> <em>(Invited talk)</em>'
     more: |-
       <strong>Abstract:</strong> Recent technological developments are
-                creating new spatio-temporal data streams that contain a wealth of
-                information relevant to climate adaptation strategies. Modern AI
-                techniques have the potential to yield accurate, inexpensive, and
-                highly scalable models to inform research and policy. A key challenge,
-                however, is the lack of large quantities of labeled data that often
-                characterize successful machine learning applications. In this talk, I
-                will present new approaches for learning useful spatio-temporal models
-                in contexts where labeled training data is scarce or not available at
-                all. I will show applications to predict and map poverty in developing
-                countries, monitor agricultural productivity and food security
-                outcomes, and map infrastructure access in Africa. Our methods can
-                reliably predict economic well-being using only high-resolution
-                satellite imagery. Because images are passively collected in every
-                corner of the world, our methods can provide timely and accurate
-                measurements in a very scalable end economic way, and could
-                significantly improve the effectiveness of climate adaptation efforts.
+      creating new spatio-temporal data streams that contain a wealth of
+      information relevant to climate adaptation strategies. Modern AI
+      techniques have the potential to yield accurate, inexpensive, and
+      highly scalable models to inform research and policy. A key challenge,
+      however, is the lack of large quantities of labeled data that often
+      characterize successful machine learning applications. In this talk, I
+      will present new approaches for learning useful spatio-temporal models
+      in contexts where labeled training data is scarce or not available at
+      all. I will show applications to predict and map poverty in developing
+      countries, monitor agricultural productivity and food security
+      outcomes, and map infrastructure access in Africa. Our methods can
+      reliably predict economic well-being using only high-resolution
+      satellite imagery. Because images are passively collected in every
+      corner of the world, our methods can provide timely and accurate
+      measurements in a very scalable end economic way, and could
+      significantly improve the effectiveness of climate adaptation efforts.
 
-                <p>
-                  <strong>Speaker Bio:</strong> Stefano Ermon is an Assistant Professor of
-                  Computer Science in the CS Department at Stanford University, where
-                  he is affiliated with the Artificial Intelligence Laboratory, and a
-                  fellow of the Woods Institute for the Environment. His research is
-                  centered on techniques for probabilistic modeling of data, inference,
-                  and optimization, and is motivated by a range of applications, in
-                  particular ones in the emerging field of computational
-                  sustainability. He has won several awards, including four Best Paper
-                  Awards (AAAI, UAI and CP), a NSF Career Award, ONR and AFOSR Young
-                  Investigator Awards, a Sony Faculty Innovation Award, a Hellman
-                  Faculty Fellowship, Microsoft Research Fellowship, Sloan Fellowship,
-                  and the IJCAI Computers and Thought Award. Stefano earned his Ph.D.
-                  in Computer Science at Cornell University in 2015.
-                </p>
+      <p>
+        <strong>Speaker Bio:</strong> Stefano Ermon is an Assistant Professor of
+        Computer Science in the CS Department at Stanford University, where
+        he is affiliated with the Artificial Intelligence Laboratory, and a
+        fellow of the Woods Institute for the Environment. His research is
+        centered on techniques for probabilistic modeling of data, inference,
+        and optimization, and is motivated by a range of applications, in
+        particular ones in the emerging field of computational
+        sustainability. He has won several awards, including four Best Paper
+        Awards (AAAI, UAI and CP), a NSF Career Award, ONR and AFOSR Young
+        Investigator Awards, a Sony Faculty Innovation Award, a Hellman
+        Faculty Fellowship, Microsoft Research Fellowship, Sloan Fellowship,
+        and the IJCAI Computers and Thought Award. Stefano earned his Ph.D.
+        in Computer Science at Cornell University in 2015.
+      </p>
   - utc1:
       year: 2020
       month: 4
       day: 26
       hour: 17
       minute: 45
-      second: 0
-      millisecond: 0
     utc2:
       year: 2020
       month: 4
       day: 26
       hour: 18
       minute: 45
-      second: 0
-      millisecond: 0
-    desc: "<b>Spotlight talks</b>"
-    more: |-
-      Tune in for talks from selected workshop poster presenters!
-
-                <p>
-                Talks:
-                <ul>
-                  <li>(24) Filip Tolovski, "Advancing Renewable Electricity Consumption With Reinforcement Learning"</li>
-                  <li>(21) Sookyung Kim, "Hurricane Nowcasting with Irregular Time-step using Neural-ODE and Video Prediction"</li>
-                  <li>(11) Soukayna Mouatadid, "WeatherBench: A benchmark dataset for data-driven weather forecasting"</li>
-                  <li>(12) Victor Schmidt, "Modeling Cloud Reflectance Fields using Conditional Generative Adversarial Networks"</li>
-                  <li>(23) Simona Santamaria, "TrueBranch: Robust Deep Learning-based Verification of Forest Conservation Projects"</li>
-                </ul>
-                </p>
+    desc: "Spotlight talks"
+    url: https://slideslive.com/38926837/tackling-climate-change-with-ml?time=32723s
+    subrows:
+      - paper_id: 24
+        row_text: |-
+          (24) Filip Tolovski, "Advancing Renewable Electricity Consumption With Reinforcement Learning"
+      - paper_id: 21
+        row_text: |-
+          (21) Sookyung Kim, "Hurricane Nowcasting with Irregular Time-step using Neural-ODE and Video Prediction"
+      - paper_id: 11
+        row_text: |-
+          (11) Soukayna Mouatadid, "WeatherBench: A benchmark dataset for data-driven weather forecasting"
+      - paper_id: 12
+        row_text: |-
+          (12) Victor Schmidt, "Modeling Cloud Reflectance Fields using Conditional Generative Adversarial Networks"
+      - paper_id: 23
+        row_text: |-
+          (23) Simona Santamaria, "TrueBranch: Robust Deep Learning-based Verification of Forest Conservation Projects"
   - utc1:
       year: 2020
       month: 4
       day: 26
       hour: 18
       minute: 45
-      second: 0
-      millisecond: 0
     utc2:
       year: 2020
       month: 4
       day: 26
       hour: 20
       minute: 0
-      second: 0
-      millisecond: 0
-    desc: "<b>Poster session</b>"
+    desc: "Poster session"
     more: |-
-      Talk to poster poster presenters via Zoom about their accepted works; Zoom connection information for each poster can be found <a href='#accepted-works'>below</a>. You can also join the <a href="https://www.climatechange.ai/join/ICLRBreakroom" target="_blank">Zoom breakroom</a> at this time to mingle with other workshop participants.
+      <p>
+        Posters that were presented during this slot are listed below.
+      </p>
 
-              <p>
-              Posters being presented during this slot are listed below.
-              </p>
+      <p>
+        Papers track:
+        <ul>
+            <li><a href="/papers/iclr2020/1" target="_blank"> (1) BISCUIT: Building Intelligent System Customer Investment Tools</a></li>
+            <li><a href="/papers/iclr2020/5" target="_blank"> (5) Understanding the dynamics of climate-crucial food choice behaviours using Distributional Semantics</a></li>
+            <li><a href="/papers/iclr2020/7" target="_blank"> (7) Embedding Hard Physical Constraints in Convolutional Neural Networks for 3D Turbulence</a></li>
+            <li><a href="/papers/iclr2020/8" target="_blank"> (8) DETECTION OF HOUSING AND AGRICULTURE AREAS ON DRY-RIVERBEDS FOR THE EVALUATION OF RISK BY LANDSLIDES USING LOW-RESOLUTION SATELLITE IMAGERY BASED ON DEEP LEARNING. STUDY ZONE: LIMA, PERU</a></li>
+            <li><a href="/papers/iclr2020/9" target="_blank"> (9) Non-linear interlinkages and key objectives amongst the Paris Agreement and the Sustainable Development Goals</a></li>
+            <li><a href="/papers/iclr2020/10" target="_blank"> (10) A CONTINUAL LEARNING APPROACH FOR LOCAL LEVEL ENVIRONMENTAL MONITORING IN LOW-RESOURCE SETTINGS</a></li>
+            <li><a href="/papers/iclr2020/11" target="_blank"> (11) WeatherBench: A benchmark dataset for data-driven weather forecasting</a></li>
+            <li><a href="/papers/iclr2020/12" target="_blank"> (12) Modeling Cloud Reflectance Fields using Conditional Generative Adversarial Networks</a></li>
+            <li><a href="/papers/iclr2020/13" target="_blank"> (13) SMArtCast: Predicting soil moisture interpolations into the future using Earth observation data in a deep learning framework</a></li>
+            <li><a href="/papers/iclr2020/14" target="_blank"> (14) Prediction of Bayesian Confidence Intervals for Tropical Storms</a></li>
+            <li><a href="/papers/iclr2020/15" target="_blank"> (15) MobilityNet: Towards a Public Dataset for Multi-modal Mobility Research</a></li>
+            <li><a href="/papers/iclr2020/16" target="_blank"> (16) Wavelet-Powered Neural Networks for Turbulence</a></li>
+        </ul>
+      </p>
 
-              <p>
-              Papers track:
-              <ul>
-                  <li> (1) BISCUIT: Building Intelligent System Customer Investment Tools</li>
-                  <li> (5) Understanding the dynamics of climate-crucial food choice behaviours using Distributional Semantics</li>
-                  <li> (7) Embedding Hard Physical Constraints in Convolutional Neural Networks for 3D Turbulence</li>
-                  <li> (8) DETECTION OF HOUSING AND AGRICULTURE AREAS ON DRY-RIVERBEDS FOR THE EVALUATION OF RISK BY LANDSLIDES USING LOW-RESOLUTION SATELLITE IMAGERY BASED ON DEEP LEARNING. STUDY ZONE: LIMA, PERU</li>
-                  <li> (9) Non-linear interlinkages and key objectives amongst the Paris Agreement and the Sustainable Development Goals</li>
-                  <li> (10) A CONTINUAL LEARNING APPROACH FOR LOCAL LEVEL ENVIRONMENTAL MONITORING IN LOW-RESOURCE SETTINGS</li>
-                  <li> (11) WeatherBench: A benchmark dataset for data-driven weather forecasting</li>
-                  <li> (12) Modeling Cloud Reflectance Fields using Conditional Generative Adversarial Networks</li>
-                  <li> (13) SMArtCast: Predicting soil moisture interpolations into the future using Earth observation data in a deep learning framework</li>
-                  <li> (14) Prediction of Bayesian Confidence Intervals for Tropical Storms</li>
-                  <li> (15) MobilityNet: Towards a Public Dataset for Multi-modal Mobility Research</li>
-                  <li> (16) Wavelet-Powered Neural Networks for Turbulence</li>
-              </ul>
-              </p>
-
-              <p>
-              Proposals track:
-              <ul>
-                <li> (17) Benchmarks for Grid Flexibility Prediction: Enabling Progress and Machine Learning Applications</li>
-                <li> (18) Machine Learning Approaches to Safeguarding Continuous Water Supply in the Arid and Semi-arid Lands of Northern Kenya</li>
-                <li> (19) Accelerated  Data Discovery for Scalable Climate Action</li>
-                <li> (20) YOU FORGOT IT IN THE GENOTYPE, MODELING TOWARDS ADAPTATION OF FOOD CROPS UNDER CLIMATE CHANGE THREAT</li>
-                <li> (21) Hurricane Nowcasting with Irregular Time-step using Neural-ODE and Video Prediction</li>
-                <li> (23) TrueBranch: Robust Deep Learning-based Verification of Forest Conservation Projects</li>
-                <li> (24) Advancing Renewable Electricity Consumption With Reinforcement Learning</li>
-                <li> (26) Towards unified standards for smart infrastructure datasets</li>
-                <li> (30) Using ML to close the vocabulary gap in the context of environment and climate change in Chichewa</li>
-              </ul>
-              </p>
+      <p>
+        Proposals track:
+        <ul>
+          <li><a href="/papers/iclr2020/17" target="_blank"> (17) Benchmarks for Grid Flexibility Prediction: Enabling Progress and Machine Learning Applications</a></li>
+          <li><a href="/papers/iclr2020/18" target="_blank"> (18) Machine Learning Approaches to Safeguarding Continuous Water Supply in the Arid and Semi-arid Lands of Northern Kenya</a></li>
+          <li><a href="/papers/iclr2020/19" target="_blank"> (19) Accelerated  Data Discovery for Scalable Climate Action</a></li>
+          <li><a href="/papers/iclr2020/20" target="_blank"> (20) YOU FORGOT IT IN THE GENOTYPE, MODELING TOWARDS ADAPTATION OF FOOD CROPS UNDER CLIMATE CHANGE THREAT</a></li>
+          <li><a href="/papers/iclr2020/21" target="_blank"> (21) Hurricane Nowcasting with Irregular Time-step using Neural-ODE and Video Prediction</a></li>
+          <li><a href="/papers/iclr2020/23" target="_blank"> (23) TrueBranch: Robust Deep Learning-based Verification of Forest Conservation Projects</a></li>
+          <li><a href="/papers/iclr2020/24" target="_blank"> (24) Advancing Renewable Electricity Consumption With Reinforcement Learning</a></li>
+          <li><a href="/papers/iclr2020/26" target="_blank"> (26) Towards unified standards for smart infrastructure datasets</a></li>
+          <li><a href="/papers/iclr2020/30" target="_blank"> (30) Using ML to close the vocabulary gap in the context of environment and climate change in Chichewa</a></li>
+        </ul>
+      </p>
   - utc1:
       year: 2020
       month: 4
       day: 26
       hour: 20
       minute: 0
-      second: 0
-      millisecond: 0
     utc2:
       year: 2020
       month: 4
       day: 26
       hour: 20
       minute: 45
-      second: 0
-      millisecond: 0
-    desc: 'Dan Morris: <a href="https://slideslive.com/38926249" target="_blank"><b>Climate, biodiversity, and land: using ML to protect and
-      restore ecosystems</b></a> <em>(Invited talk)</em>'
+    desc: 'Dan Morris: <a href="https://slideslive.com/38926837/tackling-climate-change-with-ml?time=40751s" target="_blank">Climate, biodiversity, and land: using ML to protect and restore ecosystems</a> <em>(Invited talk)</em>'
     more: |-
-      <strong>Abstract:</strong> When we think “ML for climate change”, we often think of climate forecasting, energy grid optimization, greenhouse gas reduction, and other opportunities for ML to impact the <i>direct</i> causes and effects of global warming. But in this talk, I will present the close relationships among <i>climate</i>, <i>biodiversity</i>, and <i>land use</i>, and I will discuss opportunities for ML to support climate change mitigation by accelerating efforts in all three of these areas. Furthermore, this workshop’s mission states that “many in the ML community wish to take action on climate change, yet feel their skills are inapplicable”; I hope to convince the audience that one of the best ways we can put ML to work – and often the easiest way for ML students and practitioners to get hands-on experience with environmental sustainability – is to focus on some of the “small” problems whose solutions will make the day-to-day work of conservation scientists and practitioners more efficient.
+      <strong>Abstract:</strong> When we think “ML for climate change”, we
+      often think of climate forecasting, energy grid optimization, greenhouse
+      gas reduction, and other opportunities for ML to impact the <i>direct</i>
+      causes and effects of global warming. But in this talk, I will present
+      the close relationships among <i>climate</i>, <i>biodiversity</i>, and
+      <i>land use</i>, and I will discuss opportunities for ML to support
+      climate change mitigation by accelerating efforts in all three of these
+      areas. Furthermore, this workshop’s mission states that “many in the ML
+      community wish to take action on climate change, yet feel their skills
+      are inapplicable”; I hope to convince the audience that one of the best
+      ways we can put ML to work – and often the easiest way for ML students
+      and practitioners to get hands-on experience with environmental
+      sustainability – is to focus on some of the “small” problems whose
+      solutions will make the day-to-day work of conservation scientists and
+      practitioners more efficient.
 
-                <p>
-                  <strong>Speaker Bio:</strong> Dan Morris is a Principal Scientist at Microsoft, where he runs the <a href="http://aka.ms/aiforearth" target="_blank">AI for Earth</a> program, focused on accelerating innovation at the intersection of machine learning and environmental sustainability.  His work includes computer vision applications in wildlife conservation, for example the AI for Earth <a href="http://aka.ms/speciesclassification" target="_blank">Species Classification API</a>.  Prior to joining AI for Earth, he worked in Microsoft’s Medical Devices Group, developing signal processing and machine learning techniques for cardiovascular health monitoring, along with earlier work on <a href="http://research.microsoft.com/cue/mobilenui" target="_blank">signal processing and machine learning for input systems</a>, <a href="http://research.microsoft.com/cue/patientdisplays" target="_blank">making medical information more useful to hospital patients</a>, <a href="https://www.microsoft.com/en-us/research/project/workout/" target="_blank">automatic exercise analysis from wearable sensors</a>, and <a href="http://songsmith.ms/" target="_blank">generating accompaniment for vocal melodies</a>.  Before coming to Microsoft, he studied neuroscience at Brown, and developed brain-computer interfaces for research and clinical environments.  His PhD work at Stanford focused on haptics and physical simulation for virtual surgery.
-                </p>
+      <p>
+        <strong>Speaker Bio:</strong> Dan Morris is a Principal Scientist at
+        Microsoft, where he runs the <a href="http://aka.ms/aiforearth"
+        target="_blank">AI for Earth</a> program, focused on accelerating
+        innovation at the intersection of machine learning and environmental
+        sustainability.  His work includes computer vision applications in
+        wildlife conservation, for example the AI for Earth <a
+        href="http://aka.ms/speciesclassification" target="_blank">Species
+        Classification API</a>.  Prior to joining AI for Earth, he worked in
+        Microsoft’s Medical Devices Group, developing signal processing and
+        machine learning techniques for cardiovascular health monitoring, along
+        with earlier work on <a
+        href="http://research.microsoft.com/cue/mobilenui"
+        target="_blank">signal processing and machine learning for input
+        systems</a>, <a
+        href="http://research.microsoft.com/cue/patientdisplays"
+        target="_blank">making medical information more useful to hospital
+        patients</a>, <a
+        href="https://www.microsoft.com/en-us/research/project/workout/"
+        target="_blank">automatic exercise analysis from wearable sensors</a>,
+        and <a href="http://songsmith.ms/" target="_blank">generating
+        accompaniment for vocal melodies</a>.  Before coming to Microsoft, he
+        studied neuroscience at Brown, and developed brain-computer interfaces
+        for research and clinical environments.  His PhD work at Stanford
+        focused on haptics and physical simulation for virtual surgery.
+      </p>
   - utc1:
       year: 2020
       month: 4
       day: 26
       hour: 20
       minute: 45
-      second: 0
-      millisecond: 0
     utc2:
       year: 2020
       month: 4
       day: 26
       hour: 21
       minute: 0
-      second: 0
-      millisecond: 0
     desc: Closing remarks and conclusion
-    more: ''
+    url: https://slideslive.com/38926837/tackling-climate-change-with-ml?time=43970s
 - day: 'April 27: Energy Day'
   anchor: energy-day
   collapsed: 1
@@ -483,16 +709,31 @@
     desc: Machine Learning for Low-carbon Urban Mobility
     url: https://youtu.be/7_StCs5KAt4
     more: |-
-      Urban transportation is rapidly changing with the advent of autonomous driving, shared mobility, and increased decarbonization efforts. ML is both an enabler of technological changes in transportation and can be employed to guide strategies for lowering the urban carbon footprint. This session will discuss key challenges in achieving sustainable urban mobility.
+      Urban transportation is rapidly changing with the advent of autonomous
+      driving, shared mobility, and increased decarbonization efforts. ML is
+      both an enabler of technological changes in transportation and can be
+      employed to guide strategies for lowering the urban carbon footprint.
+      This session will discuss key challenges in achieving sustainable urban
+      mobility.
 
-                <p>
-                Speakers:
-                <ul>
-                  <li><a href="http://www.wucathy.com/blog/" target="_blank">Cathy Wu</a> (MIT) <a class="tag is-info" href="https://www.dropbox.com/s/lrk7yjglr4go5g5/2020-04-27-Talk.pdf?dl=0" target="_blank">slides</a></li>
-                  <li><a href="https://konstantinklemmer.github.io/" target="_blank">Konstantin Klemmer</a> (University of Warwick)</li>
-                  <li><a href="https://www.linkedin.com/in/prithviacharya" target="_blank">Prithvi Acharya</a> (Carnegie Mellon)</li>
-                </ul>
-                </p>
+      <p>
+        Speakers:
+        <ul>
+          <li>
+            <a href="http://www.wucathy.com/blog/" target="_blank">Cathy Wu</a> (MIT)
+            (slides:https://drive.google.com/file/d/19pmbFQUIHbc7h5A4VTwFYKvhvQD9S8z8/view)
+          </li>
+          <li>
+            <a href="https://konstantinklemmer.github.io/" target="_blank">Konstantin Klemmer</a> (University of Warwick)
+            (slides:https://drive.google.com/file/d/1zwejICaBh3pbLcrmzYMu_-rjW9HeCeX4/view)
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/in/prithviacharya" target="_blank">
+              Prithvi Acharya
+            </a> (Carnegie Mellon)
+          </li>
+        </ul>
+      </p>
   - utc1:
       year: 2020
       month: 4
@@ -513,20 +754,34 @@
       Can Help Policymakers'
     url: https://youtu.be/cGsAYFTtTng
     more: |-
-      The global pandemic and economic recession are expected to have large impacts on the energy system and climate change mitigation strategies. In this discussion-based session, energy experts will address the implications of COVID-19 for machine learning and the energy transition. In particular, these experts will address:
-               <ul>
-                <li>how the the effectiveness of climate and energy policies is affected by COVID-19, and</li>
-                <li>what the implications are for the practice of machine learning for climate and energy.</li>
-               </ul>
+      The global pandemic and economic recession are expected to have large
+      impacts on the energy system and climate change mitigation strategies. In
+      this discussion-based session, energy experts will address the implications
+      of COVID-19 for machine learning and the energy transition. In particular,
+      these experts will address:
 
-               <p>
-               Speakers:
-                <ul>
-                  <li><a href="https://epg.ethz.ch/people/senior-researchers/dr--bjarne-steffen.html" target="_blank">Bjarne Steffen</a> (Energy Politics Group, ETH Zürich)</li>
-                  <li><a href="https://sites.google.com/view/maricavalente/about" target="_blank">Marica Valente</a> (Berlin School of Economics)</li>
-                  <li><a href="https://jack-kelly.com/" target="_blank">Jack Kelly</a> (Open Climate Fix)</li>
-                </ul>
-                </p>
+      <ul>
+        <li>how the the effectiveness of climate and energy policies is affected by COVID-19, and</li>
+        <li>what the implications are for the practice of machine learning for climate and energy.</li>
+      </ul>
+
+      <p>
+      Speakers:
+        <ul>
+          <li>
+            <a href="https://epg.ethz.ch/people/senior-researchers/dr--bjarne-steffen.html" target="_blank">Bjarne Steffen</a> (Energy Politics Group, ETH Zürich)
+            (slides:https://drive.google.com/file/d/16Tpuyh2dbY17mhpLPxrQhzahYvDswWrg/view)
+          </li>
+          <li>
+            <a href="https://sites.google.com/view/maricavalente/about" target="_blank">Marica Valente</a> (Berlin School of Economics)
+            (slides:https://drive.google.com/file/d/15oGNDR4AbTkNfBUsbARP1aM8k8cY5o4Q/view)
+          </li>
+          <li>
+            <a href="https://jack-kelly.com/" target="_blank">Jack Kelly</a> (Open Climate Fix)
+            (slides:https://docs.google.com/presentation/d/1N7xJiG-Y751Lxg1c8tpGkm6wm6Rn39txCyWIeZet3HM/edit)
+          </li>
+        </ul>
+      </p>
   - utc1:
       year: 2020
       month: 4
@@ -554,7 +809,7 @@
                 <ul>
                   <li><a href="https://orcid.org/0000-0002-3452-9581" target="_blank">Bhekisipho Twala</a> (Durban University of Technology)</li>
                   <li><a href="https://nsutezo.github.io/" target="_blank">Simone Fobi</a> (Columbia University)</li>
-                  <li><a href="https://www.rit.edu/directory/njwgis-nathan-williams" target="_blank">Nathan Williams</a> (Rochester Institute of Technology)</li>
+                  <li><a href="https://www.rit.edu/directory/njwgis-nathan-williams" target="_blank">Nathan Williams</a> (Rochester Institute of Technology) (slides:https://drive.google.com/file/d/1Td7KeqQl2hxTe6HCcm9gbQ5hB2Nf4Zlp/view)</li>
                 </ul>
                 </p>
   - utc1:
@@ -619,9 +874,9 @@
         Speakers:
          <ul>
           <li><a href="https://www.gfdrr.org/en/meet-our-team" target="_blank">Nicholas Jones</a> (World Bank)</li>
-          <li><a href="https://scholar.google.com/citations?user=zhYBF8QAAAAJ&hl=en&oi=sra" target="_blank">Alex Nutkiewicz</a> (Stanford)</li>
-          <li><a href="https://sokratispapadopoulos.com" target="_blank">Sokratis Papadopoulos</a> (New York University)</li>
-          <li><a href="https://people.utwente.nl/m.kuffer" target="_blank">Monika Kuffer</a> (University of Twente)</li>
+          <li><a href="https://scholar.google.com/citations?user=zhYBF8QAAAAJ&hl=en&oi=sra" target="_blank">Alex Nutkiewicz</a> (Stanford) (slides:https://drive.google.com/a/stanford.edu/file/d/1Iq4c4ul4B2UZKSfqqdN4d_3c5eFlNug1/view?usp=drive_web)</li>
+          <li><a href="https://sokratispapadopoulos.com" target="_blank">Sokratis Papadopoulos</a> (New York University) (slides:https://docs.google.com/presentation/d/1VkNpgOeIiWTFJ7TH7ZqfCfDhXGSNlnEdBru_49Yobv4/edit#slide=id.p)</li>
+          <li><a href="https://people.utwente.nl/m.kuffer" target="_blank">Monika Kuffer</a> (University of Twente) (slides:https://drive.google.com/open?id=1Xqj20PqR2O2kTTkxrUWck-23Nzw_1ddW)</li>
           </ul>
       </p>
   - utc1:
@@ -648,12 +903,12 @@
                 <p>
                 Speakers:
                 <ul>
-                  <li>Chris Heinrich, "Roof Age Determination for the Automated Site-Selection of Rooftop Solar" (AMLD 2020)</li>
-                  <li>Neel Guha, "Machine Learning for AC Optimal Power Flow" (ICML 2019)</li>
-                  <li>Kalai Ramea, "Unsupervised Temporal Clustering to Monitor the Performance of Alternative Fueling Infrastructure" (ICML 2019)</li>
-                  <li>Ján Drgoňa, "Stripping off the implementation complexity of physics-based model predictive control for buildings via deep learning" (NeurIPS 2019)</li>
-                  <li>Jacob Pettit, "Increasing performance of electric vehicles in ride-hailing services using deep reinforcement learning" (NeurIPS 2019)</li>
-                  <li>Gaby Baasch, "Targeting Buildings for Energy Retrofit Using Recurrent Neural Networks with Multivariate Time Series" (NeurIPS 2019)</li>
+                <li>Chris Heinrich, "Roof Age Determination for the Automated Site-Selection of Rooftop Solar" (AMLD 2020) (slides:https://drive.google.com/open?id=1p7igiVSnAErL4SkpY2I2ZJtRuoVr_Im5)</li>
+                <li>Neel Guha, "Machine Learning for AC Optimal Power Flow" (ICML 2019) (slides:https://docs.google.com/presentation/d/1o8hcDpYX3l--tPjwIHCyEIw2kY-dInyM3oErvvxVv2E/edit?usp=sharing)</li>
+                <li>Kalai Ramea, "Unsupervised Temporal Clustering to Monitor the Performance of Alternative Fueling Infrastructure" (ICML 2019) (slides:https://drive.google.com/open?id=1pcnCS0tE8RHBJhXL42ECtXTaTUjaLQvP)</li>
+                <li>Ján Drgoňa, "Stripping off the implementation complexity of physics-based model predictive control for buildings via deep learning" (NeurIPS 2019) (slides:https://drive.google.com/open?id=1qovmGlwIapYSz8VWTLgY703d24A8vKOP)</li>
+                <li>Jacob Pettit, "Increasing performance of electric vehicles in ride-hailing services using deep reinforcement learning" (NeurIPS 2019) (slides:https://drive.google.com/open?id=1Dukn_PgpwGtlh8UYya4naEuUd4q4nx_o)</li>
+                <li>Gaby Baasch, "Targeting Buildings for Energy Retrofit Using Recurrent Neural Networks with Multivariate Time Series" (NeurIPS 2019) (slides:https://drive.google.com/open?id=1SctqoNNFUS__VhGvmvObLi9zzoJ2z7s5)</li>
                 </ul>
                 </p>
   - utc1:
@@ -680,7 +935,7 @@
       Jon will draw upon his personal journey in this space -- where he has built
       nine businesses directly and hundreds indirectly -- to provide advice to researchers
       working in machine learning or climate/energy who would like to enter the cleantech
-      startup space.
+      startup space. (slides:https://drive.google.com/open?id=1hCMCTfBWhsc9Y9hMVwHWnpLSB4kWyFDN)
   - utc1:
       year: 2020
       month: 4
@@ -752,7 +1007,7 @@
       minute: 0
       second: 0
       millisecond: 0
-    desc: '<a href="https://drive.google.com/open?id=1dSKjMaCxTA3qEj5uVMEhCcutaMEiS3Ku" target="_blank"><b>Tutorial: Climate Change 101</b></a>'
+    desc: '<a href="https://drive.google.com/open?id=1dSKjMaCxTA3qEj5uVMEhCcutaMEiS3Ku" target="_blank">Tutorial: Climate Change 101</a>'
     more: Join Lynn Kaack, Kris Sankaran, and Priya Donti for an introduction to the
       topic of climate change and how machine learning can be relevant in reducing
       and responding to climate change.
@@ -780,8 +1035,8 @@
                 <p>
                 Speakers:
                 <ul>
-                  <li>Björn Lütjens, "Machine Learning-based Estimation of Forest Carbon Stocks to increase Transparency of Forest Preservation Efforts" (NeurIPS 2019)</li>
-                  <li>Benjamin Franchetti, "Deep Learning in Vertical Farming under Artificial Lighting" (AMLD 2020)</li>
+                <li>Björn Lütjens, "Machine Learning-based Estimation of Forest Carbon Stocks to increase Transparency of Forest Preservation Efforts" (NeurIPS 2019) (slides:https://drive.google.com/open?id=1CXzleg9bMmEJWrx9JTZnfuzP-mbJdhrA)</li>
+                <li>Benjamin Franchetti, "Deep Learning in Vertical Farming under Artificial Lighting" (AMLD 2020) (slides:https://drive.google.com/open?id=1Ira-KDfAqltQN-yH5_c0ljWVd97CqG6B)</li>
                 </ul>
                 </p>
   - utc1:
@@ -809,8 +1064,8 @@
               <p>
               Speakers:
               <ul>
-                  <li> <a href="https://www.linkedin.com/in/stevenprager/?originalSubdomain=co" target="_blank">Steve Prager</a> (International Center for Tropical Agriculture)</li>
-                  <li> <a href="https://www.linkedin.com/in/dianewu" target="_blank">Diane Wu</a> (Trace Genomics)</li>
+              <li> <a href="https://www.linkedin.com/in/stevenprager/?originalSubdomain=co" target="_blank">Steve Prager</a> (International Center for Tropical Agriculture) (slides:https://drive.google.com/open?id=1gOgX8LTDbD6WGDzxUtgKN_THrMCI2QUZ)</li>
+              <li> <a href="https://www.linkedin.com/in/dianewu" target="_blank">Diane Wu</a> (Trace Genomics) (slides:https://drive.google.com/open?id=15dykCyuaQFS-eSd_hOIWhnGNE2ZGiMJ-)</li>
                   <li> <a href="https://www.linkedin.com/in/subit-chakrabarti-74045456/" target="_blank">Subit Chakrabarti</a> (Indigo Ag)</li>
                   <li> <a href="https://www.zerinakapetanovic.com/" target="_blank">Zerina Kapetanovic</a> (Microsoft FarmBeats)</li>
               </ul>
@@ -840,9 +1095,9 @@
               <p>
               Speakers:
               <ul>
-                <li><a href="https://www.linkedin.com/in/maxnova/" target="_blank">Max Nova</a> (SilviaTerra)</li>
-                <li><a href="https://www.crowtherlab.com/team_members/simeon-max/" target="_blank">Simeon Max</a> (ETH Zürich)</li>
-                <li><a href="https://janinagrabs.com/" target="_blank">Janina Grabs</a> and <a href="https://www.linkedin.com/in/sam-levy-7b2728a7/" target="_blank">Sam Levy</a> (ETH Zürich)</li>
+              <li><a href="https://www.linkedin.com/in/maxnova/" target="_blank">Max Nova</a> (SilviaTerra) (slides:https://drive.google.com/open?id=1i6GWBTy-OT-QIMbAtJVHmsaUwj3k8U2o)</li>
+              <li><a href="https://www.crowtherlab.com/team_members/simeon-max/" target="_blank">Simeon Max</a> (ETH Zürich) (slides:https://drive.google.com/open?id=1KeR5tsdpXi0VsWCdpVVd4U0_Wh6mZbwB)</li>
+              <li><a href="https://janinagrabs.com/" target="_blank">Janina Grabs</a> and <a href="https://www.linkedin.com/in/sam-levy-7b2728a7/" target="_blank">Sam Levy</a> (ETH Zürich) (slides:https://drive.google.com/file/d/1QEhhzm5aE0aiiTH-EM0hdHDEv-fY9OFm/view)</li>
               </ul>
               </p>
   - utc1:
@@ -943,9 +1198,9 @@
       - <a href=\"https://www.microsoft.com/en-us/research/people/lujoppa/\" target=\"_blank\">Lucas
       Joppa</a> (Microsoft)</li>\n          <li>15:20-15:40 - Discussion and breakout
       rooms</li>\n          <li>15:40-15:50 - <a href=\"https://www.linkedin.com/in/kolya-malkin-5b54658b/\"
-      target=\"_blank\">Kolya Malkin</a> (Yale University)</li>\n          <li>15:50-16:00
+      target=\"_blank\">Kolya Malkin</a> (Yale University) (slides:http://kmalkin.com/File/presentation.pdf)</li>\n          <li>15:50-16:00
       - <a href=\"https://www.linkedin.com/in/ankurmahesh\" target=\"_blank\">Ankur
-      Mahesh</a> (ClimateAI)</li></ul></p>"
+        Mahesh</a> (ClimateAI) (slides:https://drive.google.com/open?id=1BzMnOSICziRGfE2qpDt8qbwEpdAVDIgd)</li></ul></p>"
   - utc1:
       year: 2020
       month: 4
@@ -969,11 +1224,11 @@
       \       Detailed schedule (times are in UTC):\n        <ul>\n          <li>16:00-16:25
       - <a href=\"https://research.google/people/YossiMatias/\" target=\"_blank\">Yossi
       Matias</a> (Google AI)</li>\n          <li>16:25-16:50 - <a href=\"https://www2.physics.ox.ac.uk/contacts/people/kasim\"
-      target=\"_blank\">Muhammad Kasim</a> (University of Oxford)</li>\n          <li>16:50-17:10
+      target=\"_blank\">Muhammad Kasim</a> (University of Oxford) (slides:https://mfkasim91.github.io/assets/talks/200429-DENSE.pdf)</li>\n          <li>16:50-17:10
       - Discussion and breakout rooms</li>\n          <li>17:10-17:20 - <a href=\"https://www.linkedin.com/in/soo-kyung-kim-a9758217/\"
       target=\"_blank\">Sookyung Kim</a> (Lawrence Livermore)</li>\n          <li>17:20-17:30
       - <a href=\"http://vzantedeschi.com/\" target=\"_blank\">Valentina Zantedeschi</a>
-      (GE Global Research)</li></ul></p>"
+        (GE Global Research) (slides:https://drive.google.com/file/d/1HY80dJ9bJSzxdqOU5GPDidBY8brH7Qpp/view?usp=sharing)</li></ul></p>"
   - utc1:
       year: 2020
       month: 4
@@ -998,9 +1253,9 @@
               <p>
               Detailed schedule (times are in UTC):
               <ul>
-                <li>17:30-17:55 - <a href="http://stanford.edu/~lmackey/" target="_blank">Lester Mackey</a> (Microsoft Research)</li>
-                <li>17:55-18:20 - <a href="https://public.lanl.gov/balu/" target="_blank">Balu Nadiga</a> (Los Alamos)</li>
-                <li>18:20-18:45 - <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-cwatson" target="_blank">Campbell Watson</a> (IBM)</li>
+              <li>17:30-17:55 - <a href="http://stanford.edu/~lmackey/" target="_blank">Lester Mackey</a> (Microsoft Research) (slides:https://drive.google.com/file/d/1V3NsYQkqEi_dJGWSyxgFaUbW9qNp4N2u/view?usp=sharing)</li>
+              <li>17:55-18:20 - <a href="https://public.lanl.gov/balu/" target="_blank">Balu Nadiga</a> (Los Alamos) (slides:https://drive.google.com/open?id=1pkT0tMEJy8dgNvWhyA5lGpsRAXknFIy7)</li>
+              <li>18:20-18:45 - <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-cwatson" target="_blank">Campbell Watson</a> (IBM) (slides:https://drive.google.com/file/d/1BFZctCKdusAxj_7kXP0ywJQ7ORRCAkC8/view?usp=sharing)</li>
                 <li>18:45-19:05 - Discussion and breakout rooms</li>
                 <li>19:05-19:25 - <a href="https://www.linkedin.com/in/adrian-albert-17529a14" target="_blank">Adrian Albert</a> (Terrafuse, Lawrence Berkeley)</li>
               </ul>
@@ -1044,16 +1299,17 @@
       second: 0
       millisecond: 0
     desc: Next Steps for Forecasting across Climate-relevant Domains
+    url: https://youtu.be/wSEtCXEE-G4
     more: |-
       Forecasting is a key ingredient in many projects at the machine learning and climate change boundary, as knowing about the future can help (1) optimize systems operating in real-time and (2) design targeted interventions over the long-run. Join our discussion with experts who use forecasting across problem areas, including intelligent buildings, climate science, water resources, and transportation, and hear about systems deployed in these contexts as well as the challenges that lie on the horizon.
 
               <p>
                 Speakers:
                 <ul>
-                  <li><a href="https://www.empa.ch/web/s313/kristina-orehounig" target="_blank">Kristina Orehounig</a> (Empa)</li>
-                  <li><a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-lloydt" target="_blank">Lloyd Treinish</a> (IBM Research)</li>
-                  <li><a href="https://www.sarahmfletcher.com/" target="_blank">Sarah Fletcher</a> (MIT, Stanford)</li>
-                  <li><a href="https://viterbi-web.usc.edu/~liu32/" target="_blank">Yan Liu</a> (University of Southern California)</li>
+                <li><a href="https://www.empa.ch/web/s313/kristina-orehounig" target="_blank">Kristina Orehounig</a> (Empa) (slides:https://drive.google.com/open?id=1SP7Kd1S3VLvNOgVqbvay9wrnH00UIw4A)</li>
+                <li><a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-lloydt" target="_blank">Lloyd Treinish</a> (IBM Research) (slides:https://docs.google.com/presentation/d/1xHfZbdFvvaUaJs9lWqFv2tG-IMnU-R6QWBLsqjC7Wv4/edit?usp=sharing)</li>
+                  <li><a href="https://www.sarahmfletcher.com/" target="_blank">Sarah Fletcher</a> (MIT, Stanford) (slides:https://drive.google.com/open?id=1o-Df5_QlPTCH_yroie9hQJWUm92PXfPH)</li>
+                  <li><a href="https://viterbi-web.usc.edu/~liu32/" target="_blank">Yan Liu</a> (University of Southern California) (slides:https://drive.google.com/open?id=10lZiFpz-nXUD4LdsZbPnbZVAo0bkG42j)</li>
                   <li><a href="https://n.ethz.ch/~martinhe/" target="_blank">Henry Martin</a> (ETH Zürich)</li>
                 </ul>
                 </p>
@@ -1125,7 +1381,7 @@
                 <p>
                 Speakers:
                 <ul>
-                  <li><a href="https://www.hughes.cam.ac.uk/about-us/our-people/senior-members/yunwei-zhang/" target="_blank">Yunwei Zhang</a> (Cambridge)</li>
+                <li><a href="https://www.hughes.cam.ac.uk/about-us/our-people/senior-members/yunwei-zhang/" target="_blank">Yunwei Zhang</a> (Cambridge) (slides:https://drive.google.com/open?id=1syCyIYZjz4x9xFo9o2W0mIpnQsZNQhyr)</li>
                   <li><a href="https://scholar.google.com/citations?hl=en&user=HYADEZ8AAAAJ&view_op=list_works" target="_blank">Julian Kates-Harbeck</a> (Harvard)</li>
                   <li><a href="https://pv.mit.edu/pvmit_people/felipe-oviedo/" target="_blank">Felipe Oviedo</a> (MIT)</li>
                 </ul>
