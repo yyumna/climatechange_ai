@@ -58,7 +58,7 @@ layout: default
   {% endif %}
 
   {% if p.slideslive_id or p.youtube_id %}
-    <a href='#recording' class='button'>Prerecorded Talk</a>
+    <a href='#recording' class='button'>Recorded Talk</a>
   {% endif %}
 
   {% if p.rocketchat_channel %}
@@ -70,7 +70,7 @@ layout: default
 <p class='abstract-text'>{{ p.abstract }}</p>
 
 {% if p.slideslive_id %}
-  <h3 id='recording'>Prerecorded talk (<a href="https://slideslive.com/{{ p.slideslive_id }}">direct link</a>)</h3>
+  <h3 id='recording'>Recorded Talk (<a href="https://slideslive.com/{{ p.slideslive_id }}">direct link</a>)</h3>
 
   <div id="presentation-embed-{{ p.slideslive_id }}" class="slp"></div>
   <div id='status-message'>
@@ -95,15 +95,13 @@ layout: default
     });
   </script>
 {% elsif p.youtube_id %}
-  <h3 id='recording'>Prerecorded talk (<a href="https://youtu.be/{{ p.youtube_id }}">direct link</a>)</h3>
+  <h3 id='recording'>Recorded Talk (<a href="https://youtu.be/{{ p.youtube_id }}">direct link</a>)</h3>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ p.youtube_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {% endif %}
 
 {% if p.rocketchat_channel %}
-  <h3 id='rocketchat'>Discuss this paper (ICLR registration required)</h3>
+  <h3 id='rocketchat'>Paper Chatroom (for registered ICLR 2020 attendees)</h3>
   <div class="rocket card">
     <iframe frameborder="0" src="{{ p.rocketchat_channel }}?layout=embedded" width="100%" height="400px" style="display: block"></iframe>
   </div>
-
-  <p>If the embedded chat is not loading, you can visit the chatroom <a href='{{ p.rocketchat_channel }}' target='_blank'>directly</a>. Note that <a href='https://iclr.cc/Register/view-registration' target='_blank'>ICLR registration</a> is required for this feature!</p>
 {% endif %}
