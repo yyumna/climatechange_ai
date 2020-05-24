@@ -19,10 +19,11 @@ slideslive_id: 38926837
   <a class='button' href='#accepted-works'>Posters</a>
   <a class='button' href='#sponsors'>Sponsors</a>
   <a class='button' href='#organizers'>Organizers</a>
+  <a class='button' href='#call-for-submissions'><s>Submit</s></a>
   <a class='button' href='#frequently-asked-questions'>FAQ</a>
 </div>
 
-Welcome! This workshop is focused on impactful uses of machine learning in reducing and responding to climate change, and is intended to be a venue for discourse between experts in machine learning and other fields. Our program (with links to recordings below):
+This workshop is focused on impactful uses of machine learning in reducing and responding to climate change, and is intended to be a venue for discourse between experts in machine learning and other fields. Recordings and slides are available at the links below:
 <ul>
 <li><b><a href='#main-workshop'>April 26:</a></b> Main workshop</li>
 <li><b><a href='#energy-day'>April 27:</a></b> Energy Day</li>
