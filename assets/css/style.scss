@@ -432,6 +432,10 @@ td details, .paper details, details.small {
   td:last-child {
     width: 100%;
   }
+
+  details .tag {
+    height: 1.67em;
+  }
 }
 
 
