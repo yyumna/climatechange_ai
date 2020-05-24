@@ -1240,6 +1240,7 @@
       second: 0
       millisecond: 0
     desc: 'Session III: Climate Forecasting'
+    url: https://youtu.be/jVFcjkgsY54
     more: |-
       Learn more about advances (and challenges) in climate forecasting using machine learning from leaders in climate science from industry and national laboratories.
 
@@ -1292,6 +1293,7 @@
       second: 0
       millisecond: 0
     desc: Next Steps for Forecasting across Climate-relevant Domains
+    url: https://youtu.be/wSEtCXEE-G4
     more: |-
       Forecasting is a key ingredient in many projects at the machine learning and climate change boundary, as knowing about the future can help (1) optimize systems operating in real-time and (2) design targeted interventions over the long-run. Join our discussion with experts who use forecasting across problem areas, including intelligent buildings, climate science, water resources, and transportation, and hear about systems deployed in these contexts as well as the challenges that lie on the horizon.
 
