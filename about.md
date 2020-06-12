@@ -273,6 +273,9 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 * Nov. 11, 2019: <a href="/press_releases/2019-11-11/release.html" target="_blank">press release</a> and [press packet](/press_releases/2019-11-11/press_packet.zip)
 
 ## Selected coverage
+* Deutschlandfunk: <a href="https://www.deutschlandfunk.de/umwelt-kuenstliche-intelligenz-gegen-den-klimawandel.684.de.html?dram:article_id=477738" target="_blank">"Künstliche Intelligenz gegen den Klimawandel"</a>
+* The Interchange by Greentech Media: <a href="https://www.greentechmedia.com/articles/read/beyond-forecasting-artificial-intelligence-is-a-powerful-decarbonization-tool" target="_blank">"Beyond Forecasting: Artificial Intelligence Is a Powerful Decarbonization Tool"</a>
+* Living Lab Radio: <a href="https://www.capeandislands.org/post/artificial-intelligence-can-help-fight-climate-change#stream/0" target="_blank">"Artificial Intelligence Can Help Fight Climate Change"</a>
 * "Not Cool: A Climate Podcast" by the Future of Life Institute: <a href="https://futureoflife.org/2019/10/22/not-cool-ep-16-tackling-climate-change-with-machine-learning-part-1/" target="_blank">Part 1</a> and <a href="https://futureoflife.org/2019/10/24/not-cool-ep-17-tackling-machine-learning-with-climate-change-part-2/" target="_blank">Part 2</a>
 * Eye on A.I. podcast: <a href="https://www.eye-on.ai/podcast-024" target="_blank">"Climate Change and AI"</a>
 * National Geographic: <a href="https://www.nationalgeographic.com/environment/2019/07/artificial-intelligence-climate-change/" target="_blank">"How artificial intelligence can tackle climate change"</a>
