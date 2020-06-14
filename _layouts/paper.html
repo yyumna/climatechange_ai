@@ -4,14 +4,20 @@ layout: default
 
 {% assign p = site.data[page.workshop_key][page.paper_index] %}
 
-{% if page.workshop_key == 'iclr2020_papers' %}
+{% if p.next_paper_id %}
 <nav class="breadcrumb" aria-label="breadcrumbs">
   <ul>
-    <li><a href="/ICLR2020_workshop">ICLR 2020 Workshop</a></li>
+    {% if page.workshop_key == 'iclr2020_papers' %}
+      <li><a href="/ICLR2020_workshop">ICLR 2020 Workshop</a></li>
+    {% elsif page.workshop_key == 'neurips2019_papers' %}
+      <li><a href="/NeurIPS2019_workshop">NeurIPS 2019 Workshop</a></li>
+    {% elsif page.workshop_key == 'icml2019_papers' %}
+      <li><a href="/ICML2019_workshop">ICML 2019 Workshop</a></li>
+    {% endif %}
     <li class="is-active"><a href="#" aria-current="page">Paper #{{ p.id }}</a></li>
     <li class="next-prev">
       {% if p.prev_paper_id %}
-        <a href="/papers/iclr2020/{{p.prev_paper_id}}">
+        <a href="/papers/{{page.workshop_key | replace:'_papers',''}}/{{p.prev_paper_id}}">
           <span class="icon is-small">
             <i class="mdi mdi-arrow-left" aria-hidden="true"></i>
           </span>
@@ -21,7 +27,7 @@ layout: default
         <span class='cursor-no'>Previous</span>
       {% endif %}
       {% if p.next_paper_id %}
-        <a href="/papers/iclr2020/{{p.next_paper_id}}">
+        <a href="/papers/{{page.workshop_key | replace:'_papers',''}}/{{p.next_paper_id}}">
           Next
           <span class="icon is-small">
             <i class="mdi mdi-arrow-right" aria-hidden="true"></i>
