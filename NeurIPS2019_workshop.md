@@ -361,7 +361,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
  From an environmental standpoint, there are a few crucial aspects of training a neural network that have a major impact on the quantity of carbon that it emits. These factors include: the location of the server used for training and the energy grid that it uses, the length of the training procedure, and even the make and model of hardware on which the training takes place. In order to approximate these emissions, we present our Machine Learning Emissions Calculator, a tool for our community to better understand the environmental impact of training ML models. We accompany this tool with an explanation of the factors cited above, as well as concrete actions that individual practitioners as well as organizations can take to mitigate their carbon emissions.</details>
 
 
-### (26) Measuring Impact of Climate Change on Tree Species: analysis of JSDM on FIA data [pdf](./CameraReadySubmissions 2-119/56/CameraReadySubmission/climatechangeAI_NeurIPS) <span class='badge'>Honorable Mention</span>
+### (26) Measuring Impact of Climate Change on Tree Species: analysis of JSDM on FIA data [pdf](./CameraReadySubmissions 2-119/56/CameraReadySubmission/climatechangeAI_NeurIPS.pdf) <span class='badge'>Honorable Mention</span>
 
 *Hyun Choi (University of Florida); Sergio Marconi (University of Florida); Ali Sadeghian (University of Florida); Ethan White (University of Florida); Daisy Zhe Wang (Univeresity of Florida)*
 
