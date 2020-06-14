@@ -4,7 +4,6 @@ layout: default
 
 {% assign p = site.data[page.workshop_key][page.paper_index] %}
 
-{% if p.next_paper_id %}
 <nav class="breadcrumb" aria-label="breadcrumbs">
   <ul>
     {% if page.workshop_key == 'iclr2020_papers' %}
@@ -40,7 +39,6 @@ layout: default
   </ul>
 </nav>
 <hr>
-{% endif %}
 
 <h2>{{ p.paper_title }}
   {% if p.q1_track %}
@@ -53,6 +51,8 @@ layout: default
   {% elsif p.is_honorable_mention %}
     <span class='badge'>Honorable Mention</span>
   {% elsif p.status == "Accept (spotlight)" %}
+    <span class='badge lighter'>Spotlight</span>
+  {% elsif p.is_spotlight %}
     <span class='badge lighter'>Spotlight</span>
   {% endif %}
 </h2>
@@ -93,6 +93,7 @@ layout: default
       allowHiddenControlsWhenPaused: true,
       zoomRatio: 0.25,
       hideTitle: true,
+      startTime: '{{ p.slideslive_time }}'
     });
     sle.addCallback("onError", (err) => {
       document.getElementById('status-message').innerHTML = "<em>Video coming soon!</em>";

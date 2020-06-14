@@ -175,7 +175,7 @@
   prev_paper_id: 7
   next_paper_id: 9
 - id: 9
-  paper_title: "(Spotlight: 4:30PM) Machine Learning for AC Optimal Power Flow"
+  paper_title: "Machine Learning for AC Optimal Power Flow"
   abstract: |-
     F(
 
@@ -185,11 +185,13 @@
   paper_path: "/papers/icml2019/9/paper.pdf"
   is_best_paper: false
   is_honorable_mention: true
+  is_spotlight: true
+  slideslive_id: '38917844'
   q1_track: Research
   prev_paper_id: 8
   next_paper_id: 10
 - id: 10
-  paper_title: "(Spotlight: 2:50PM) Targeted Meta-Learning for Critical Incident Detection
+  paper_title: "Targeted Meta-Learning for Critical Incident Detection
     in Weather Data"
   abstract: Due to imbalanced or heavy-tailed  nature of weather- and climate-related
     datasets, the performance of standard deep learning models significantly deviates
@@ -211,6 +213,8 @@
   paper_path: "/papers/icml2019/10/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
+  is_spotlight: true
+  slideslive_id: '38917859'
   q1_track: Research
   prev_paper_id: 9
   next_paper_id: 11
@@ -400,7 +404,7 @@
   prev_paper_id: 17
   next_paper_id: 19
 - id: 19
-  paper_title: "(Spotlight: 4:20PM) Truck Traffic Monitoring with Satellite Images"
+  paper_title: "Truck Traffic Monitoring with Satellite Images"
   abstract: The road freight sector is responsible for a large and growing share of
     greenhouse gas emissions, but reliable data on the amount of freight that is moved
     on roads in many parts of the world are scarce.  Many low- and middle-income countries
@@ -414,11 +418,13 @@
   paper_path: 
   is_best_paper: false
   is_honorable_mention: false
+  is_spotlight: true
+  slideslive_id: '38917841'
   q1_track: Research
   prev_paper_id: 18
   next_paper_id: 20
 - id: 20
-  paper_title: "(Spotlight: 2:40PM) Evaluating aleatoric and epistemic uncertainties
+  paper_title: "Evaluating aleatoric and epistemic uncertainties
     of time series deep learning models for soil moisture predictions"
   abstract: Soil moisture is an important variable that determines floods, vegetation
     health, agriculture productivity, and land surface feedbacks to the atmosphere,
@@ -440,11 +446,13 @@
   paper_path: http://arxiv.org/abs/1906.04595
   is_best_paper: false
   is_honorable_mention: false
+  is_spotlight: true
+  slideslive_id: '38917857'
   q1_track: Research
   prev_paper_id: 19
   next_paper_id: 21
 - id: 21
-  paper_title: "(Spotlight: 2:30PM) Detecting anthropogenic cloud perturbations with
+  paper_title: "Detecting anthropogenic cloud perturbations with
     deep learning"
   abstract: One of the most pressing questions in climate science is that of the effect
     of anthropogenic aerosol on the Earth's energy balance. Aerosols provide the `seeds'
@@ -465,6 +473,8 @@
   paper_path: "/papers/icml2019/21/paper.pdf"
   is_best_paper: true
   is_honorable_mention: false
+  is_spotlight: true
+  slideslive_id: '38917855'
   q1_track: Research
   prev_paper_id: 20
   next_paper_id: 22
@@ -525,7 +535,7 @@
   prev_paper_id: 22
   next_paper_id: 24
 - id: 24
-  paper_title: "(Spotlight: 4:40PM) Planetary Scale Monitoring of Urban Growth in
+  paper_title: "Planetary Scale Monitoring of Urban Growth in
     High Flood Risk Areas"
   abstract: Climate  change  is  increasing  the  incidence of flooding. Many areas
     in the developing world are experiencing strong population growth but lack adequate
@@ -539,6 +549,8 @@
   paper_path: "/papers/icml2019/24/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
+  is_spotlight: true
+  slideslive_id: '38917845'
   q1_track: Research
   prev_paper_id: 23
   next_paper_id: 25
@@ -595,7 +607,7 @@
   prev_paper_id: 25
   next_paper_id: 27
 - id: 27
-  paper_title: "(Spotlight: 10:10AM) Towards a Sustainable Food Supply Chain Powered
+  paper_title: "Towards a Sustainable Food Supply Chain Powered
     by Artificial Intelligence"
   abstract: About 30-40% of food produced worldwide is wasted. This puts a severe
     strain on the environment and represents a $165B loss to the US economy. This
@@ -613,9 +625,11 @@
   paper_path: 
   is_best_paper: false
   is_honorable_mention: true
+  is_spotlight: true
   q1_track: Deployed
   prev_paper_id: 26
   next_paper_id: 28
+  slideslive_id: '38917853'
 - id: 28
   paper_title: 'PVNet: A LRCN Architecture for Spatio-Temporal Photovoltaic Power
     Forecasting from Numerical Weather Prediction'
@@ -682,7 +696,7 @@
   prev_paper_id: 29
   next_paper_id: 31
 - id: 31
-  paper_title: "(Spotlight: 10:30AM) Deep Learning for Wildlife Conservation and Restoration
+  paper_title: "Deep Learning for Wildlife Conservation and Restoration
     Efforts"
   abstract: Climate change and environmental degradation are causing species extinction
     worldwide. Automatic wildlife sensing is an urgent requirement to track biodiversity
@@ -696,11 +710,13 @@
   paper_path: "/papers/icml2019/31/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
+  is_spotlight: true
+  slideslive_id: '38917860'
   q1_track: Deployed
   prev_paper_id: 30
   next_paper_id: 32
 - id: 32
-  paper_title: "(Spotlight: 4:50PM) Reinforcement Learning for Sustainable Agriculture"
+  paper_title: "Reinforcement Learning for Sustainable Agriculture"
   abstract: The growing population and the changing climate will push modern agriculture
     to its limits in an increasing number of regions on earth. Establishing next-generation
     sustainable food supply systems will mean producing more food on less arable land,
@@ -720,11 +736,13 @@
   paper_path: "/papers/icml2019/32/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
+  is_spotlight: true
   q1_track: Ideas
+  slideslive_id: '38917846'
   prev_paper_id: 31
   next_paper_id: 33
 - id: 33
-  paper_title: "(Spotlight: 4:55PM) Stratospheric Aerosol Injection as a Deep Reinforcement
+  paper_title: "Stratospheric Aerosol Injection as a Deep Reinforcement
     Learning Problem"
   abstract: As global greenhouse gas emissions continue to rise, the use of geoengineering
     in order to artificially mitigate climate change effects is increasingly considered.
@@ -748,13 +766,16 @@
   authors: Christian A Schroeder (University of Oxford); Thomas Hornigold (University
     of Oxford)
   paper_path: "/papers/icml2019/33/paper.pdf"
+  slideslive_id: '38917846'
+  slideslive_time: '303s'
   is_best_paper: false
   is_honorable_mention: true
+  is_spotlight: true
   q1_track: Ideas
   prev_paper_id: 32
   next_paper_id: 34
 - id: 34
-  paper_title: "(Spotlight: 5:00PM) Using Natural Language Processing to Analyze Financial
+  paper_title: "Using Natural Language Processing to Analyze Financial
     Climate Disclosures"
   abstract: According to U.S. financial legislation, companies traded on the stock
     market are obliged to regularly disclose risks and uncertainties that are likely
@@ -768,6 +789,9 @@
   paper_path: "/papers/icml2019/34/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
+  is_spotlight: true
+  slideslive_id: '38917846'
+  slideslive_time: '130s'
   q1_track: Ideas
   prev_paper_id: 33
   next_paper_id: 35
@@ -864,7 +888,7 @@
   prev_paper_id: 37
   next_paper_id: 39
 - id: 39
-  paper_title: "(Spotlight: 5:05PM) ML-driven search for zero-emissions ammonia production
+  paper_title: "ML-driven search for zero-emissions ammonia production
     materials"
   abstract: Ammonia (NH3) production is an industrial process that consumes between
     1-2% of global energy  annually  and  is  responsible  for  2-3%  of greenhouse
@@ -892,11 +916,14 @@
   paper_path: "/papers/icml2019/39/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
+  is_spotlight: true
+  slideslive_id: '38917846'
+  slideslive_time: '8m50s'
   q1_track: Ideas
   prev_paper_id: 38
   next_paper_id: 40
 - id: 40
-  paper_title: "(Spotlight: 5:10PM) Low-carbon urban planning with machine learning"
+  paper_title: "Low-carbon urban planning with machine learning"
   abstract: Widespread climate action is urgently needed, but current solutions do
     not account enough for local differences. Here, we take the example of cities
     to point to the potential of machine learning (ML) for generating at scale high-resolution
@@ -911,7 +938,10 @@
   paper_path: "/papers/icml2019/40/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
+  is_spotlight: true
   q1_track: Ideas
+  slideslive_id: '38917846'
+  slideslive_time: '11m58s'
   prev_paper_id: 39
   next_paper_id: 41
 - id: 41
