@@ -242,6 +242,8 @@
   paper_path: "/papers/neurips2019/11/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
+  is_spotlight: true
+  slideslive_id: '38922369'
   q1_track: 
   prev_paper_id: 10
   next_paper_id: 12
@@ -304,6 +306,8 @@
   paper_path: 
   is_best_paper: true
   is_honorable_mention: false
+  is_spotlight: true
+  slideslive_id: '38922389'
   q1_track: 
   prev_paper_id: 13
   next_paper_id: 15
@@ -580,6 +584,8 @@
   paper_path: "/papers/neurips2019/26/paper.pdf"
   is_best_paper: false
   is_honorable_mention: true
+  is_spotlight: true
+  slideslive_id: '38922411'
   q1_track: 
   prev_paper_id: 25
   next_paper_id: 27
@@ -603,6 +609,8 @@
   paper_path: 
   is_best_paper: false
   is_honorable_mention: true
+  is_spotlight: true
+  slideslive_id: '38922408'
   q1_track: 
   prev_paper_id: 26
   next_paper_id: 28
@@ -644,6 +652,8 @@
   paper_path: "/papers/neurips2019/29/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
+  is_spotlight: true
+  slideslive_id: '38922410'
   q1_track: 
   prev_paper_id: 28
   next_paper_id: 30
@@ -822,6 +832,8 @@
   paper_path: "/papers/neurips2019/36/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
+  is_spotlight: true
+  slideslive_id: '38922417'
   q1_track: 
   prev_paper_id: 35
   next_paper_id: 37
@@ -842,6 +854,8 @@
   paper_path: "/papers/neurips2019/37/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
+  is_spotlight: true
+  slideslive_id: '38922392'
   q1_track: 
   prev_paper_id: 36
   next_paper_id: 38
@@ -882,6 +896,8 @@
   paper_path: "/papers/neurips2019/39/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
+  is_spotlight: true
+  slideslive_id: '38922416'
   q1_track: 
   prev_paper_id: 38
   next_paper_id: 40
@@ -959,6 +975,8 @@
   paper_path: "/papers/neurips2019/42/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
+  is_spotlight: true
+  slideslive_id: '38922407'
   q1_track: 
   prev_paper_id: 41
   next_paper_id: 43
@@ -999,6 +1017,8 @@
   paper_path: 
   is_best_paper: true
   is_honorable_mention: false
+  is_spotlight: true
+  slideslive_id: '38922390'
   q1_track: 
   prev_paper_id: 43
   next_paper_id: 45
@@ -1017,6 +1037,8 @@
   paper_path: "/papers/neurips2019/45/paper.pdf"
   is_best_paper: true
   is_honorable_mention: false
+  is_spotlight: true
+  slideslive_id: '38922395'
   q1_track: 
   prev_paper_id: 44
   next_paper_id: 46
@@ -1095,6 +1117,8 @@
   paper_path: "/papers/neurips2019/48/paper.pdf"
   is_best_paper: false
   is_honorable_mention: true
+  is_spotlight: true
+  slideslive_id: '38922409'
   q1_track: 
   prev_paper_id: 47
   next_paper_id: 49
