@@ -86,6 +86,12 @@ Many in the ML community wish to take action on climate change, yet feel their s
 
 ## Accepted Works
 
+Works were submitted to one of two tracks: [Papers](#Papers) or [Proposals](#Proposals). 
+
+{% assign tracks = "Papers Proposals" | split: " " %}
+{% for track in tracks %}
+<h3 id='{{ track }}'>{{ track }}</h3>
+
 <table class='paper-table'>
   <thead><tr>
   <th>Title</th>
@@ -94,6 +100,7 @@ Many in the ML community wish to take action on climate change, yet feel their s
   
   <tbody>
   {% for p in site.data.neurips2019_papers %}
+  {% if p.q1_track == track %}
   <tr>
   <td>
   <a href="/papers/neurips2019/{{ p.id }}">({{ p.id }}) {{ p.paper_title }}</a>
@@ -105,9 +112,11 @@ Many in the ML community wish to take action on climate change, yet feel their s
   </td>
   <td>{{ p.authors }}</td>
   </tr>
+  {% endif %}
   {% endfor %}
   </tbody>
 </table>
+{% endfor %}
 
 
 ## Program Committee

@@ -15,7 +15,7 @@
   paper_path: "/papers/neurips2019/1/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   next_paper_id: 2
 - id: 2
   paper_title: Quantifying Urban Canopy Cover with Deep Convolutional Neural Networks
@@ -34,7 +34,7 @@
   paper_path: "/papers/neurips2019/2/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 1
   next_paper_id: 3
 - id: 3
@@ -60,7 +60,7 @@
   paper_path: "/papers/neurips2019/3/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 2
   next_paper_id: 4
 - id: 4
@@ -85,7 +85,7 @@
   paper_path: 
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Proposals
   prev_paper_id: 3
   next_paper_id: 5
 - id: 5
@@ -106,7 +106,7 @@
   paper_path: 
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 4
   next_paper_id: 6
 - id: 6
@@ -130,7 +130,7 @@
   paper_path: "/papers/neurips2019/6/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 5
   next_paper_id: 7
 - id: 7
@@ -149,7 +149,7 @@
   paper_path: "/papers/neurips2019/7/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 6
   next_paper_id: 8
 - id: 8
@@ -173,7 +173,7 @@
   paper_path: "/papers/neurips2019/8/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 7
   next_paper_id: 9
 - id: 9
@@ -196,7 +196,7 @@
   paper_path: "/papers/neurips2019/9/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 8
   next_paper_id: 10
 - id: 10
@@ -218,7 +218,7 @@
   paper_path: "/papers/neurips2019/10/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 9
   next_paper_id: 11
 - id: 11
@@ -244,7 +244,7 @@
   is_honorable_mention: false
   is_spotlight: true
   slideslive_id: '38922369'
-  q1_track: 
+  q1_track: Proposals
   prev_paper_id: 10
   next_paper_id: 12
 - id: 12
@@ -259,7 +259,7 @@
   paper_path: "/papers/neurips2019/12/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Proposals
   prev_paper_id: 11
   next_paper_id: 13
 - id: 13
@@ -281,7 +281,7 @@
   paper_path: "/papers/neurips2019/13/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 12
   next_paper_id: 14
 - id: 14
@@ -308,7 +308,7 @@
   is_honorable_mention: false
   is_spotlight: true
   slideslive_id: '38922389'
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 13
   next_paper_id: 15
 - id: 15
@@ -328,7 +328,7 @@
   paper_path: "/papers/neurips2019/15/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 14
   next_paper_id: 16
 - id: 16
@@ -350,7 +350,7 @@
   paper_path: 
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 15
   next_paper_id: 17
 - id: 17
@@ -371,7 +371,7 @@
   paper_path: 
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 16
   next_paper_id: 18
 - id: 18
@@ -406,7 +406,7 @@
   paper_path: "/papers/neurips2019/18/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 17
   next_paper_id: 19
 - id: 19
@@ -425,7 +425,7 @@
   paper_path: "/papers/neurips2019/19/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 18
   next_paper_id: 20
 - id: 20
@@ -451,7 +451,7 @@
   paper_path: 
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 19
   next_paper_id: 21
 - id: 21
@@ -471,7 +471,7 @@
   paper_path: "/papers/neurips2019/21/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 20
   next_paper_id: 22
 - id: 22
@@ -494,7 +494,7 @@
   paper_path: "/papers/neurips2019/22/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 21
   next_paper_id: 23
 - id: 23
@@ -520,7 +520,7 @@
   paper_path: "/papers/neurips2019/23/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 22
   next_paper_id: 24
 - id: 24
@@ -542,7 +542,7 @@
   paper_path: "/papers/neurips2019/24/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 23
   next_paper_id: 25
 - id: 25
@@ -562,7 +562,7 @@
   paper_path: 
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 24
   next_paper_id: 26
 - id: 26
@@ -586,7 +586,7 @@
   is_honorable_mention: true
   is_spotlight: true
   slideslive_id: '38922411'
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 25
   next_paper_id: 27
 - id: 27
@@ -611,7 +611,7 @@
   is_honorable_mention: true
   is_spotlight: true
   slideslive_id: '38922408'
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 26
   next_paper_id: 28
 - id: 28
@@ -630,7 +630,7 @@
   paper_path: "/papers/neurips2019/28/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 27
   next_paper_id: 29
 - id: 29
@@ -654,7 +654,7 @@
   is_honorable_mention: false
   is_spotlight: true
   slideslive_id: '38922410'
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 28
   next_paper_id: 30
 - id: 30
@@ -678,7 +678,7 @@
   paper_path: "/papers/neurips2019/30/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 29
   next_paper_id: 31
 - id: 31
@@ -705,7 +705,7 @@
   paper_path: "/papers/neurips2019/31/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Proposals
   prev_paper_id: 30
   next_paper_id: 32
 - id: 32
@@ -726,7 +726,7 @@
   paper_path: "/papers/neurips2019/32/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 31
   next_paper_id: 33
 - id: 33
@@ -743,7 +743,7 @@
   paper_path: "/papers/neurips2019/33/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Proposals
   prev_paper_id: 32
   next_paper_id: 34
 - id: 34
@@ -771,7 +771,7 @@
   paper_path: "/papers/neurips2019/34/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Proposals
   prev_paper_id: 33
   next_paper_id: 35
 - id: 35
@@ -801,7 +801,7 @@
   paper_path: 
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 34
   next_paper_id: 36
 - id: 36
@@ -834,7 +834,7 @@
   is_honorable_mention: false
   is_spotlight: true
   slideslive_id: '38922417'
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 35
   next_paper_id: 37
 - id: 37
@@ -856,7 +856,7 @@
   is_honorable_mention: false
   is_spotlight: true
   slideslive_id: '38922392'
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 36
   next_paper_id: 38
 - id: 38
@@ -874,7 +874,7 @@
   paper_path: 
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 37
   next_paper_id: 39
 - id: 39
@@ -898,7 +898,7 @@
   is_honorable_mention: false
   is_spotlight: true
   slideslive_id: '38922416'
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 38
   next_paper_id: 40
 - id: 40
@@ -921,7 +921,7 @@
   paper_path: 
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Proposals
   prev_paper_id: 39
   next_paper_id: 41
 - id: 41
@@ -948,7 +948,7 @@
   paper_path: 
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Proposals
   prev_paper_id: 40
   next_paper_id: 42
 - id: 42
@@ -977,7 +977,7 @@
   is_honorable_mention: false
   is_spotlight: true
   slideslive_id: '38922407'
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 41
   next_paper_id: 43
 - id: 43
@@ -997,7 +997,7 @@
   paper_path: "/papers/neurips2019/43/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Proposals
   prev_paper_id: 42
   next_paper_id: 44
 - id: 44
@@ -1019,7 +1019,7 @@
   is_honorable_mention: false
   is_spotlight: true
   slideslive_id: '38922390'
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 43
   next_paper_id: 45
 - id: 45
@@ -1039,7 +1039,7 @@
   is_honorable_mention: false
   is_spotlight: true
   slideslive_id: '38922395'
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 44
   next_paper_id: 46
 - id: 46
@@ -1065,7 +1065,7 @@
   paper_path: "/papers/neurips2019/46/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 45
   next_paper_id: 47
 - id: 47
@@ -1088,7 +1088,7 @@
   paper_path: "/papers/neurips2019/47/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 46
   next_paper_id: 48
 - id: 48
@@ -1119,7 +1119,7 @@
   is_honorable_mention: true
   is_spotlight: true
   slideslive_id: '38922409'
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 47
   next_paper_id: 49
 - id: 49
@@ -1133,7 +1133,7 @@
   paper_path: "/papers/neurips2019/49/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Proposals
   prev_paper_id: 48
   next_paper_id: 50
 - id: 50
@@ -1151,7 +1151,7 @@
   paper_path: "/papers/neurips2019/50/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Proposals
   prev_paper_id: 49
   next_paper_id: 51
 - id: 51
@@ -1173,7 +1173,7 @@
   paper_path: 
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Proposals
   prev_paper_id: 50
   next_paper_id: 52
 - id: 52
@@ -1198,5 +1198,5 @@
   paper_path: "/papers/neurips2019/52/paper.pdf"
   is_best_paper: false
   is_honorable_mention: false
-  q1_track: 
+  q1_track: Papers
   prev_paper_id: 51
