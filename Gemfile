@@ -5,6 +5,3 @@ gem 'kramdown'
 gem 'pdf-reader'
 gem 'roo'
 gem 'roo-xls'
-
-gem 'rb-readline'
-gem 'pry'
