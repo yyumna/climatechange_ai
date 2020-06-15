@@ -11,7 +11,7 @@ description: 'ICML 2019 Workshop: Climate Change: How Can AI Help?'
   <a class='button' href='#speakers'>Speakers</a>
   <a class='button' href='#schedule'>Schedule</a>
   <a class='button' href='#organizers'>Organizers</a>
-  <a class='button' href='#research-track'>Accepted Works</a>
+  <a class='button' href='#Research-Track'>Accepted Works</a>
   <a class='button' href='#call-for-submissions'>Call for Submissions</a>
   <a class='button' href='#frequently-asked-questions'>FAQ</a>
 </div>
