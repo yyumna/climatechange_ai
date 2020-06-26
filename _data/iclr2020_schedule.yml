@@ -1007,7 +1007,8 @@
       minute: 0
       second: 0
       millisecond: 0
-    desc: '<a href="https://drive.google.com/open?id=1dSKjMaCxTA3qEj5uVMEhCcutaMEiS3Ku" target="_blank">Tutorial: Climate Change 101</a>'
+    desc: 'Tutorial: Climate Change 101'
+    url: https://youtu.be/KB4vUk1-yNQ
     more: Join Lynn Kaack, Kris Sankaran, and Priya Donti for an introduction to the
       topic of climate change and how machine learning can be relevant in reducing
       and responding to climate change.
@@ -1353,7 +1354,8 @@
       minute: 0
       second: 0
       millisecond: 0
-    desc: '<a href="https://drive.google.com/open?id=1dSKjMaCxTA3qEj5uVMEhCcutaMEiS3Ku" target="_blank">Tutorial: Climate Change 101</a>'
+    desc: 'Tutorial: Climate Change 101'
+    url: https://youtu.be/KB4vUk1-yNQ
     more: Join Lynn Kaack, Kris Sankaran, and Priya Donti for an introduction to the
       topic of climate change and how machine learning can be relevant in reducing
       and responding to climate change.
