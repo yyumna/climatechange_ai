@@ -423,15 +423,15 @@ PDF location: page=38&zoom=100,0,170
 
 Title: Working with climate models
 1-2 sentence summary: Climate models can be extremely complex, and climate predictions are often made using the outputs of 20+ climate models. ML can help identify and leverage relationships between variables within climate models, and intelligently combine the outputs of multiple climate models.
-ML keywords: unsupervised learning
+ML keywords: unsupervised learning, interpretable ML
 Topic keywords:
-Thematic keywords: accelerated experimentation, hybrid physical models
+Thematic keywords: hybrid physical models
 Paper flags:
 Section number: 7.1.3
 
 Title: Storm tracking
 1-2 sentence summary: Identifying extreme events in climate model outputs can inform scientific understanding of where and when these events may occur. ML can help classify, detect, and track climate-related extreme events such as hurricanes in climate model outputs.
-ML keywords: unsupervised learning, time-series, computer vision
+ML keywords: unsupervised learning, time-series, computer vision, uncertainty quantification, interpretable ML
 Topic keywords:
 Thematic keywords: remote sensing
 Paper flags:
@@ -464,15 +464,15 @@ PDF location: page=42&zoom=100,0,650
 
 Title: Designing infrastructure
 1-2 sentence summary: Infrastructure such as roads, power grids, and water mains must be designed to account for the increasing frequency and severity of extreme weather events. ML can help pinpoint vulnerable areas, provide localized predictions, and incorporate historical or proxy data to identify what infrastructure is needed.
-ML keywords: uncertainty quantification, interpretable ML
+ML keywords: uncertainty quantification
 Topic keywords: intelligent infrastructure, resilient infrastructure, adaptive islands
-Thematic keywords: forecasting, data mining and generation
+Thematic keywords: forecasting, data mining and generation, system optimization 
 Paper flags: Long-term
 Section number: 8.2
 
 Title: Maintaining infrastructure
 1-2 sentence summary: Under the increased threat of extreme events, society must efficiently allocate limited resources to effectively maintain infrastructure. ML can help predict where failures are most likely to occur and pinpoint failures if they do occur.
-ML keywords: reinforcement learning, time-series, uncertainty quantification, transfer learning
+ML keywords: computer vision, uncertainty quantification
 Topic keywords: intelligent infrastructure, resilient infrastructure
 Thematic keywords: predictive maintenance, data mining and generation
 Paper flags: High Leverage
@@ -481,7 +481,7 @@ PDF location: page=43&zoom=100,0,900
 
 Title: Food security
 1-2 sentence summary: Climate change is expected to decrease crop yields in many locations, due to drought and desertification. ML can help monitor the real-time risk of food shortages, forecast longer-term crop yields, and improve the resilience of food supply chains to help society better manage food security threats.
-ML keywords: computer vision, time-series, transfer learning
+ML keywords: computer vision, time-series, transfer learning, unsupervised learning
 Topic keywords: early warning systems, crop health
 Thematic keywords: remote sensing, data mining and generation, system optimization, forecasting
 Paper flags: High Leverage
@@ -489,7 +489,7 @@ Section number: 8.3
 
 Title: Resilient livelihoods
 1-2 sentence summary: Farmers and other individuals whose livelihoods depend directly on ecological systems are at especially high risk from climate change. ML can help increase resilience by facilitating equipment and information sharing, better target social interventions by monitoring economic health, and improve online employment matching and skill training systems.
-ML keywords: natural language processing, time-series, interpretable ML, recommender systems
+ML keywords: recommender systems
 Topic keywords: mobile money, cooperatives, social networks, skill-matching
 Thematic keywords: data mining and generation, system optimization, human interaction
 Paper flags:
@@ -498,7 +498,7 @@ PDF location: page=44&zoom=100,0,780
 
 Title: Supporting displaced people
 1-2 sentence summary: Climate change will likely have large-scale economic and socio-political consequences, which can lead to mass human migration. ML can help provide support to migrants by monitoring and predicting large-scale migration patterns, though care must be taken to ensure such monitoring is not used to exploit migrants.
-ML keywords: unsupervised learning, natural language processing, time-series, uncertainty quantification, transfer learning, recommender systems
+ML keywords: unsupervised learning, natural language processing, computer vision
 Topic keywords: social data mining, humanitarian aid
 Thematic keywords: remote sensing, data mining and generation, human interaction
 Paper flags: Long-term, Uncertain Impact
@@ -507,7 +507,7 @@ PDF location: page=45&zoom=100,0,100
 
 Title: Assessing health risks
 1-2 sentence summary: Climate change is expected to exacerbate existing health hazards, by increasing the frequency and severity of heatwaves, expanding the range of vector borne diseases, and reducing air quality. ML can monitor exposures and drive strategies to protect vulnerable populations.
-ML keywords: time-series, causal inference, interpretable ML
+ML keywords: time-series, causal inference, interpretable ML, uncertainty quantification
 Topic keywords: exposure monitoring, public health, vector-borne diseases, point-of-care diagnostics, epidemiology
 Thematic keywords: data mining and generation, forecasting
 Paper flags:
@@ -516,15 +516,15 @@ PDF location: page=45&zoom=100,0,300
 
 Title: Managing epidemics
 1-2 sentence summary: Climate change may increase the likelihood of disease epidemics. ML can help model the spread of disease and provide scalable tools for diagnosis to help society better respond to epidemics.
-ML keywords: reinforcement learning, time-series, uncertainty quantification
+ML keywords: reinforcement learning, time-series, uncertainty quantification, computer vision
 Topic keywords: disease surveillance, epidemiology
-Thematic keywords: forecasting, data mining and generation
+Thematic keywords: forecasting, data mining and generation, human interaction
 Paper flags:
 Section number: 8.4
 
 Title: Disaster response
 1-2 sentence summary: Storms, droughts, fires, floods, and other disasters will continue to become stronger and more frequent as climate change progresses. ML can help inform evacuation plans, infrastructure retrofits, and relief efforts by improving maps and retrieving information from social media.
-ML keywords: unsupervised learning, natural language processing, transfer learning, interpretable ML
+ML keywords: unsupervised learning, natural language processing, interpretable ML, computer vision
 Topic keywords: social data mining
 Thematic keywords: remote sensing, data mining and generation
 Paper flags: High Leverage
@@ -559,9 +559,9 @@ Section number: 9.2
 
 Title: Modeling impacts
 1-2 sentence summary: It remains unclear what consequences will result from geoengineering proposals such as injecting aerosols into the stratosphere. ML can help model the impact of aerosols on human health, the effect of diminished light on agriculture, and other potential consequences of solar geoengineering. 
-ML keywords: uncertainty quantification
+ML keywords: uncertainty quantification, time-series
 Topic keywords: integrated assessment modeling, agriculture yield prediction, stratospheric aerosols
-Thematic keywords: 
+Thematic keywords: forecasting, hybrid physical models
 Paper flags: Long-term
 Section number: 9.3
 
@@ -569,7 +569,7 @@ Section number: 9.3
 # Individual Action
 Title: Understanding personal carbon footprint
 1-2 sentence summary: Individuals and households constantly make decisions that affect their carbon footprint, and many wish to reduce their impact. ML can help quantify the climate impact of consumer products and actions, estimate the benefits resulting from personal behavior change, provide appliance-level residential energy use data, identify households with high potential for efficiency gain, and optimize appliances to operate when low-carbon electricity is available.
-ML keywords: reinforcement learning, computer vision, natural language processing, time-series, causal inference
+ML keywords: reinforcement learning, natural language processing, time-series, causal inference, unsupervised learning, interpretable ML
 Topic keywords: flights, groceries, ride-sharing, household carbon footprint, energy disaggregation, scheduling appliances, household emissions
 Thematic keywords: data mining and generation, system optimization, forecasting, control systems
 Paper flags:
@@ -577,9 +577,9 @@ Section number: 10.1
 
 Title: Facilitating behavior change
 1-2 sentence summary: Many individuals are eager to contribute to climate change solutions, and engaging them can be highly impactful. ML can help effectively inform people and provide them constructive opportunities by modeling consumer behavior and simplifying information on climate-relevant laws and policies.
-ML keywords: unsupervised learning, natural language processing, recommender systems
+ML keywords: unsupervised learning, natural language processing, recommender systems, generative models
 Topic keywords: targeting interventions, consumption characteristics, demographics
-Thematic keywords: data mining and generation, human interaction
+Thematic keywords: human interaction
 Paper flags: High Leverage
 Section number: 10.2
 
@@ -590,14 +590,14 @@ Title: Modeling social interactions
 1-2 sentence summary: When designing climate change strategies, it is critical to understand how organizations and individuals act and interact in response to different incentives and constraints. ML can help model social interactions by integrating data-driven insights into agent-based models and by providing new tools such as multi-agent reinforcement learning.
 ML keywords: unsupervised learning, reinforcement learning, generative models, interpretable ML
 Topic keywords: agent-based models, game theory
-Thematic keywords: data mining and generation, human interaction
+Thematic keywords: data mining and generation
 Paper flags:
 Section number: 11.1
 
 Title: Gathering data
 1-2 sentence summary: When creating policies, decision-makers must often negotiate fundamental uncertainties in the underlying data. ML can help alleviate some of this uncertainty by extracting information from satellite imagery, sensors, social media posts, policy documents, and other sources (as detailed elsewhere in the paper).
-ML keywords: unsupervised learning, computer vision, natural language processing, uncertainty quantification
-Topic keywords: remote sensing, data mining and generation
+ML keywords: unsupervised learning, computer vision, natural language processing
+Topic keywords: data mining and generation, remote sensing
 Thematic keywords:
 Paper flags: High Leverage
 Section number: 11.2
@@ -607,16 +607,16 @@ Title: Assessing policy options
 1-2 sentence summary: Decision-makers often construct mathematical models to help them assess or trade off between different policy alternatives. ML can help provide new techniques for working with integrated assessment models, multi-objective optimization, and other models commonly used by decision-makers.
 ML keywords: unsupervised learning, uncertainty quantification, time-series, interpretable ML
 Topic keywords: integrated assessment models, operations research, multi-criteria decision-making, downscaling
-Thematic keywords: human interaction
+Thematic keywords: human interaction, hybrid physical models
 Paper flags:
 Section number: 11.2
 PDF location: page=53&zoom=100,0,390
 
 Title: Evaluating policy effects
 1-2 sentence summary: When creating new policies, decision-makers may wish to understand previous policies and analyze how these policies performed. ML can help on both fronts by analyzing the text of existing policies and by performing causal inference on historical data.
-ML keywords: unsupervised learning, natural language processing, causal inference, interpretable ML
+ML keywords: natural language processing, causal inference, computer vision
 Topic keywords: text analysis, causal inference
-Thematic keywords: 
+Thematic keywords: remote sensing
 Paper flags: High Leverage
 Section number: 11.2
 PDF location: page=54&zoom=100,0,330
@@ -631,16 +631,16 @@ Section number: 11.3
 
 Title: Non-carbon markets
 1-2 sentence summary: Market design can influence greenhouse gas emissions even in settings where such emissions are not directly penalized, for instance by enabling more renewables in electricity markets or encouraging more efficient shipping of goods. ML can help analyze market behavior, set dynamic prices, and solve auctions with the goal of encouraging climate-beneficial behavior in the markets where it is applied.
-ML keywords: unsupervised learning, reinforcement learning
+ML keywords: reinforcement learning, time-series
 Topic keywords: bandit problem, auction market, market power
-Thematic keywords: control systems, forecasting
+Thematic keywords: forecasting, system optimization
 Paper flags:
 Section number: 11.3
 PDF location: page=55&zoom=100,0,100
 
 Title: Assessing market effects
 1-2 sentence summary: When designing market-based strategies, it is necessary to understand how effectively each strategy will reduce emissions, as well as how the underlying socio-technical system may be affected. ML can help assess the outcomes of market-based strategies to ensure they are effective and equitable. 
-ML keywords: unsupervised learning, interpretable ML, causal inference
+ML keywords: unsupervised learning, causal inference
 Topic keywords: hedonic pricing, equity, carbon offsetting
 Thematic keywords: 
 Paper flags:
@@ -649,7 +649,7 @@ PDF location: page=55&zoom=100,0,280
 # Education
 Title: AI in Education
 1-2 sentence summary: In addition to being universally beneficial, education can improve the resilience of communities to climate change, especially in developing countries. ML can help enable personalized and scalable tools for education.
-ML keywords:
+ML keywords: reinforcement learning, natural language processing, unsupervised learning
 Topic keywords: AIED, learner analytics, educational data mining.
 Thematic keywords: human interaction
 Paper flags: Long-term
@@ -658,7 +658,7 @@ PDF location: page=56&zoom=100,0,330
 
 Title: Learning about climate
 1-2 sentence summary: Education can empower individuals to adopt more sustainable lifestyles. ML can help educate the public about climate change through conversational agents and adaptive learning techniques.
-ML keywords: natural language processing
+ML keywords: recommender systems, generative models
 Topic keywords: climate education, sustainability education.
 Thematic keywords: human interaction
 Paper flags:
@@ -667,18 +667,18 @@ PDF location: page=56&zoom=100,0,850
 # Finance
 Title: Climate investment
 1-2 sentence summary: There is wide demand for investment in companies with low carbon footprint or those that actively address the climate crisis, both for reasons of societal benefit and because these are widely expected to be good investments in the long term. ML can help, potentially, both in designing portfolios and in timing investments.
-ML keywords: natural language processing, time-series
+ML keywords: time-series
 Topic keywords: carbon-neutral investment, green finance
-Thematic keywords: forecasting
+Thematic keywords: forecasting, system optimization
 Paper flags:
 Section number: 13
 PDF location: page=58&zoom=100,0,330
 
 Title: Climate analytics
 1-2 sentence summary: Climate change will seriously impact a wide swath of global companies, and quantifying the expected financial impacts can incentivize investors and companies to act. ML can help forecast prices in carbon markets, identify climate risks and investment opportunities from corporate disclosures, and quantify the monetary impact of climate change on supply and demand. 
-ML keywords: natural language processing, time-series, uncertainty quantification
+ML keywords: natural language processing, time-series, uncertainty quantification, interpretable ML, causal inference
 Topic keywords: climate risk, financial impact, carbon markets
-Thematic keywords: forecasting, data mining and generation
+Thematic keywords: forecasting, data mining and generation, system optimization
 Paper flags: High Leverage
 Section number: 13
 PDF location: page=58&zoom=100,0,560

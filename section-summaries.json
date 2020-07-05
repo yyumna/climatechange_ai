@@ -1101,13 +1101,13 @@
         "title": "Working with climate models",
         "summary": "Climate models can be extremely complex, and climate predictions are often made using the outputs of 20+ climate models. ML can help identify and leverage relationships between variables within climate models, and intelligently combine the outputs of multiple climate models.",
         "ml_keywords": [
-          "unsupervised learning"
+          "unsupervised learning",
+          "interpretable ML"
         ],
         "topic_keywords": [
 
         ],
         "thematic_keywords": [
-          "accelerated experimentation",
           "hybrid physical models"
         ],
         "paper_flags": [
@@ -1121,7 +1121,9 @@
         "ml_keywords": [
           "unsupervised learning",
           "time-series",
-          "computer vision"
+          "computer vision",
+          "uncertainty quantification",
+          "interpretable ML"
         ],
         "topic_keywords": [
 
@@ -1201,8 +1203,7 @@
         "title": "Designing infrastructure",
         "summary": "Infrastructure such as roads, power grids, and water mains must be designed to account for the increasing frequency and severity of extreme weather events. ML can help pinpoint vulnerable areas, provide localized predictions, and incorporate historical or proxy data to identify what infrastructure is needed.",
         "ml_keywords": [
-          "uncertainty quantification",
-          "interpretable ML"
+          "uncertainty quantification"
         ],
         "topic_keywords": [
           "intelligent infrastructure",
@@ -1211,7 +1212,8 @@
         ],
         "thematic_keywords": [
           "forecasting",
-          "data mining and generation"
+          "data mining and generation",
+          "system optimization"
         ],
         "paper_flags": [
           "Long-term"
@@ -1222,10 +1224,8 @@
         "title": "Maintaining infrastructure",
         "summary": "Under the increased threat of extreme events, society must efficiently allocate limited resources to effectively maintain infrastructure. ML can help predict where failures are most likely to occur and pinpoint failures if they do occur.",
         "ml_keywords": [
-          "reinforcement learning",
-          "time-series",
-          "uncertainty quantification",
-          "transfer learning"
+          "computer vision",
+          "uncertainty quantification"
         ],
         "topic_keywords": [
           "intelligent infrastructure",
@@ -1247,7 +1247,8 @@
         "ml_keywords": [
           "computer vision",
           "time-series",
-          "transfer learning"
+          "transfer learning",
+          "unsupervised learning"
         ],
         "topic_keywords": [
           "early warning systems",
@@ -1268,9 +1269,6 @@
         "title": "Resilient livelihoods",
         "summary": "Farmers and other individuals whose livelihoods depend directly on ecological systems are at especially high risk from climate change. ML can help increase resilience by facilitating equipment and information sharing, better target social interventions by monitoring economic health, and improve online employment matching and skill training systems.",
         "ml_keywords": [
-          "natural language processing",
-          "time-series",
-          "interpretable ML",
           "recommender systems"
         ],
         "topic_keywords": [
@@ -1296,10 +1294,7 @@
         "ml_keywords": [
           "unsupervised learning",
           "natural language processing",
-          "time-series",
-          "uncertainty quantification",
-          "transfer learning",
-          "recommender systems"
+          "computer vision"
         ],
         "topic_keywords": [
           "social data mining",
@@ -1323,7 +1318,8 @@
         "ml_keywords": [
           "time-series",
           "causal inference",
-          "interpretable ML"
+          "interpretable ML",
+          "uncertainty quantification"
         ],
         "topic_keywords": [
           "exposure monitoring",
@@ -1348,7 +1344,8 @@
         "ml_keywords": [
           "reinforcement learning",
           "time-series",
-          "uncertainty quantification"
+          "uncertainty quantification",
+          "computer vision"
         ],
         "topic_keywords": [
           "disease surveillance",
@@ -1356,7 +1353,8 @@
         ],
         "thematic_keywords": [
           "forecasting",
-          "data mining and generation"
+          "data mining and generation",
+          "human interaction"
         ],
         "paper_flags": [
 
@@ -1369,8 +1367,8 @@
         "ml_keywords": [
           "unsupervised learning",
           "natural language processing",
-          "transfer learning",
-          "interpretable ML"
+          "interpretable ML",
+          "computer vision"
         ],
         "topic_keywords": [
           "social data mining"
@@ -1460,7 +1458,8 @@
         "title": "Modeling impacts",
         "summary": "It remains unclear what consequences will result from geoengineering proposals such as injecting aerosols into the stratosphere. ML can help model the impact of aerosols on human health, the effect of diminished light on agriculture, and other potential consequences of solar geoengineering.",
         "ml_keywords": [
-          "uncertainty quantification"
+          "uncertainty quantification",
+          "time-series"
         ],
         "topic_keywords": [
           "integrated assessment modeling",
@@ -1468,7 +1467,8 @@
           "stratospheric aerosols"
         ],
         "thematic_keywords": [
-
+          "forecasting",
+          "hybrid physical models"
         ],
         "paper_flags": [
           "Long-term"
@@ -1485,10 +1485,11 @@
         "summary": "Individuals and households constantly make decisions that affect their carbon footprint, and many wish to reduce their impact. ML can help quantify the climate impact of consumer products and actions, estimate the benefits resulting from personal behavior change, provide appliance-level residential energy use data, identify households with high potential for efficiency gain, and optimize appliances to operate when low-carbon electricity is available.",
         "ml_keywords": [
           "reinforcement learning",
-          "computer vision",
           "natural language processing",
           "time-series",
-          "causal inference"
+          "causal inference",
+          "unsupervised learning",
+          "interpretable ML"
         ],
         "topic_keywords": [
           "flights",
@@ -1516,7 +1517,8 @@
         "ml_keywords": [
           "unsupervised learning",
           "natural language processing",
-          "recommender systems"
+          "recommender systems",
+          "generative models"
         ],
         "topic_keywords": [
           "targeting interventions",
@@ -1524,7 +1526,6 @@
           "demographics"
         ],
         "thematic_keywords": [
-          "data mining and generation",
           "human interaction"
         ],
         "paper_flags": [
@@ -1551,8 +1552,7 @@
           "game theory"
         ],
         "thematic_keywords": [
-          "data mining and generation",
-          "human interaction"
+          "data mining and generation"
         ],
         "paper_flags": [
 
@@ -1565,12 +1565,11 @@
         "ml_keywords": [
           "unsupervised learning",
           "computer vision",
-          "natural language processing",
-          "uncertainty quantification"
+          "natural language processing"
         ],
         "topic_keywords": [
-          "remote sensing",
-          "data mining and generation"
+          "data mining and generation",
+          "remote sensing"
         ],
         "thematic_keywords": [
 
@@ -1597,7 +1596,8 @@
           "downscaling"
         ],
         "thematic_keywords": [
-          "human interaction"
+          "human interaction",
+          "hybrid physical models"
         ],
         "paper_flags": [
 
@@ -1609,17 +1609,16 @@
         "title": "Evaluating policy effects",
         "summary": "When creating new policies, decision-makers may wish to understand previous policies and analyze how these policies performed. ML can help on both fronts by analyzing the text of existing policies and by performing causal inference on historical data.",
         "ml_keywords": [
-          "unsupervised learning",
           "natural language processing",
           "causal inference",
-          "interpretable ML"
+          "computer vision"
         ],
         "topic_keywords": [
           "text analysis",
           "causal inference"
         ],
         "thematic_keywords": [
-
+          "remote sensing"
         ],
         "paper_flags": [
           "High Leverage"
@@ -1649,8 +1648,8 @@
         "title": "Non-carbon markets",
         "summary": "Market design can influence greenhouse gas emissions even in settings where such emissions are not directly penalized, for instance by enabling more renewables in electricity markets or encouraging more efficient shipping of goods. ML can help analyze market behavior, set dynamic prices, and solve auctions with the goal of encouraging climate-beneficial behavior in the markets where it is applied.",
         "ml_keywords": [
-          "unsupervised learning",
-          "reinforcement learning"
+          "reinforcement learning",
+          "time-series"
         ],
         "topic_keywords": [
           "bandit problem",
@@ -1658,8 +1657,8 @@
           "market power"
         ],
         "thematic_keywords": [
-          "control systems",
-          "forecasting"
+          "forecasting",
+          "system optimization"
         ],
         "paper_flags": [
 
@@ -1672,7 +1671,6 @@
         "summary": "When designing market-based strategies, it is necessary to understand how effectively each strategy will reduce emissions, as well as how the underlying socio-technical system may be affected. ML can help assess the outcomes of market-based strategies to ensure they are effective and equitable.",
         "ml_keywords": [
           "unsupervised learning",
-          "interpretable ML",
           "causal inference"
         ],
         "topic_keywords": [
@@ -1698,7 +1696,9 @@
         "title": "AI in Education",
         "summary": "In addition to being universally beneficial, education can improve the resilience of communities to climate change, especially in developing countries. ML can help enable personalized and scalable tools for education.",
         "ml_keywords": [
-
+          "reinforcement learning",
+          "natural language processing",
+          "unsupervised learning"
         ],
         "topic_keywords": [
           "AIED",
@@ -1718,7 +1718,8 @@
         "title": "Learning about climate",
         "summary": "Education can empower individuals to adopt more sustainable lifestyles. ML can help educate the public about climate change through conversational agents and adaptive learning techniques.",
         "ml_keywords": [
-          "natural language processing"
+          "recommender systems",
+          "generative models"
         ],
         "topic_keywords": [
           "climate education",
@@ -1742,7 +1743,6 @@
         "title": "Climate investment",
         "summary": "There is wide demand for investment in companies with low carbon footprint or those that actively address the climate crisis, both for reasons of societal benefit and because these are widely expected to be good investments in the long term. ML can help, potentially, both in designing portfolios and in timing investments.",
         "ml_keywords": [
-          "natural language processing",
           "time-series"
         ],
         "topic_keywords": [
@@ -1750,7 +1750,8 @@
           "green finance"
         ],
         "thematic_keywords": [
-          "forecasting"
+          "forecasting",
+          "system optimization"
         ],
         "paper_flags": [
 
@@ -1764,7 +1765,9 @@
         "ml_keywords": [
           "natural language processing",
           "time-series",
-          "uncertainty quantification"
+          "uncertainty quantification",
+          "interpretable ML",
+          "causal inference"
         ],
         "topic_keywords": [
           "climate risk",
@@ -1773,7 +1776,8 @@
         ],
         "thematic_keywords": [
           "forecasting",
-          "data mining and generation"
+          "data mining and generation",
+          "system optimization"
         ],
         "paper_flags": [
           "High Leverage"
