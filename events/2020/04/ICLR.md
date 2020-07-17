@@ -7,6 +7,8 @@ og_image_type: 'image/png'
 og_image_width: 1063
 og_image_height: 555
 slideslive_id: 38926837
+redirect_from:
+  - /ICLR2020_workshop
 ---
 
 <h1>ICLR 2020 Workshop <br> Tackling Climate Change with Machine Learning</h1>
@@ -324,7 +326,7 @@ Please see the [Tips for Submissions](#tips-for-submissions) and [FAQ](#frequent
 
 There are two tracks for submissions. Submissions are limited to 4 pages for the Papers track and 3 pages for the Proposals track (in PDF format), and *must* be anonymized. References do not count towards the page total. Supplementary appendices are allowed but will be read at the discretion of the reviewers. All submissions *must* explain why the proposed work has (or could have) positive impacts regarding climate change. 
 
-For examples of previous submissions, see our [ICML 2019](https://www.climatechange.ai/ICML2019_workshop) and [NeurIPS 2019](https://www.climatechange.ai/NeurIPS2019_workshop) workshops. **We strongly encourage authors to consider applying for our mentorship program,** for which applications are due Jan 14 (more information [here](#submission-mentorship-program)).
+For examples of previous submissions, see our [ICML 2019](https://www.climatechange.ai/events/2019/06/ICML) and [NeurIPS 2019](https://www.climatechange.ai/events/2019/12/NeurIPS) workshops. **We strongly encourage authors to consider applying for our mentorship program,** for which applications are due Jan 14 (more information [here](#submission-mentorship-program)).
 
 #### PAPERS track  
 *Work that is in progress, published, and/or deployed*
@@ -344,7 +346,7 @@ Submissions for the Proposals track should describe detailed ideas for how machi
 
 ### Tips for submissions
 
-- **For examples** of typical formatting and content, see submissions from our previous workshops at [ICML 2019](https://www.climatechange.ai/ICML2019_workshop) and [NeurIPS 2019](https://www.climatechange.ai/NeurIPS2019_workshop).
+- **For examples** of typical formatting and content, see submissions from our previous workshops at [ICML 2019](/events/2019/06/ICML) and [NeurIPS 2019](/events/2019/12/NeurIPS).
 - **Be explicit:** Describe how your proposed approach addresses climate change, demonstrating an understanding of the application area.
 - **Frame your work:** The specific problem and/or data proposed should be contextualized in terms of prior work.
 - **Address the impact:** Describe the practical ramifications of your method in addressing the problem you identify, as well as any relevant societal impacts or potential side-effects.

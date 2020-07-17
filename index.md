@@ -38,12 +38,12 @@ Climate change is one of the greatest problems society has ever faced, with incr
   <div class='column'>
     <h3 class='no-anchor-padding'>Updates</h3>
     <ul>
-      <li>Apr 26-30, 2020 - Climate Change AI <a href="/ICLR2020_workshop" target="_blank">workshop</a> held virtually at ICLR 2020.</li>
+      <li>Apr 26-30, 2020 - Climate Change AI <a href="/events/2020/04/ICLR" target="_blank">workshop</a> held virtually at ICLR 2020.</li>
       <li>Feb 19, 2020 - P. Donti featured on <a href="https://www.greentechmedia.com/articles/read/beyond-forecasting-artificial-intelligence-is-a-powerful-decarbonization-tool" target="_blank">The Interchange</a> podcast by Greentech Media.</li>
-      <li>Jan 27-28, 2020 - Climate Change AI <a href="/AMLD2020_event" target="_blank">conference track</a> held at AMLD 2020.</li>
-      <li>Jan 21, 2020 - <a href="/NeurIPS2019_workshop#schedule" target="_blank">Recordings</a> available for Climate Change AI workshop at NeurIPS 2019.</li>
-      <li>Dec 14, 2019 - Climate Change AI <a href="/NeurIPS2019_workshop" target="_blank">workshop</a> held at NeurIPS 2019.</li>
-      <li>Dec 4, 2019 - Climate Change AI <a href="/COP25_event" target="_blank">panel discussion</a> at UN Climate Change Conference (COP25).</li>
+      <li>Jan 27-28, 2020 - Climate Change AI <a href="/events/2020/01/AMLD" target="_blank">conference track</a> held at AMLD 2020.</li>
+      <li>Jan 21, 2020 - <a href="/events/2019/12/NeurIPS#schedule" target="_blank">Recordings</a> available for Climate Change AI workshop at NeurIPS 2019.</li>
+      <li>Dec 14, 2019 - Climate Change AI <a href="/events/2019/12/NeurIPS" target="_blank">workshop</a> held at NeurIPS 2019.</li>
+      <li>Dec 4, 2019 - Climate Change AI <a href="/events/2019/12/COP25" target="_blank">panel discussion</a> at UN Climate Change Conference (COP25).</li>
       <li>Nov 30, 2019 - Climate Change AI workshop <a href="https://twitter.com/iclr_conf/status/1068525834611253248?lang=en" target="_blank">announced</a> for ICLR 2020 (April 26, Addis Ababa).</li>
       <li>Nov 17, 2019 - D. Rolnick featured on <a href="https://www.capeandislands.org/post/artificial-intelligence-can-help-fight-climate-change#stream/0" target="_blank">Living Lab Radio</a>.</li>
       <li>Nov 11, 2019 - <a href="/press_releases/2019-11-11/release">Press release</a> issued for our paper.</li>
