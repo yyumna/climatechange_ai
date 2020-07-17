@@ -224,7 +224,7 @@ Please see the [Tips for Submissions](#tips-for-submissions) and [FAQ](#frequent
 
 ### Submission tracks  
 
-There are two tracks for submissions. Submissions are limited to 3 pages for the Papers track, and 2 pages for the Proposals track, in PDF format (see examples [here](/events/2019/06/ICML)). References do not count towards this total. Supplementary appendices are allowed but will be read at the discretion of the reviewers. All submissions *must* explain why the proposed work has (or could have) positive impacts regarding climate change. 
+There are two tracks for submissions. Submissions are limited to 3 pages for the Papers track, and 2 pages for the Proposals track, in PDF format (see examples [here](/events/icml2019)). References do not count towards this total. Supplementary appendices are allowed but will be read at the discretion of the reviewers. All submissions *must* explain why the proposed work has (or could have) positive impacts regarding climate change. 
 
 #### PAPERS track  
 *Work that is in progress, published, and/or deployed*
@@ -244,7 +244,7 @@ Submissions for the Proposals track should describe detailed ideas for how machi
 
 ### Tips for submissions
 
-- **For examples** of typical formatting and content, see submissions from [our previous workshop](/events/2019/06/ICML).
+- **For examples** of typical formatting and content, see submissions from [our previous workshop](/events/icml2019).
 - **Be explicit:** Describe how your proposed approach addresses climate change, demonstrating an understanding of the application area.
 - **Frame your work:** The specific problem and/or data proposed should be contextualized in terms of prior work.
 - **Address the impact:** Describe the practical ramifications of your method in addressing the problem you identify, as well as any relevant societal impacts or potential side-effects.
