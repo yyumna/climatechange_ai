@@ -2,6 +2,8 @@
 layout: default
 title: 'Climate Change: <br>How Can AI Help?'
 description: 'ICML 2019 Workshop: Climate Change: How Can AI Help?'
+redirect_from:
+  - /ICML2019_workshop
 ---
 
 <h1>ICML 2019 Workshop <br>Climate Change: How Can AI Help?</h1>

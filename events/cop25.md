@@ -2,6 +2,8 @@
 layout: default
 title: 'Tackling Climate Change with Machine Learning'
 description: 'COP25 Panel: Artificial Intelligence: Applications in Climate Mitigation and Adaptation'
+redirect_from:
+  - /COP25_event
 ---
 
 <h1>COP25 Side Event</h1> 
