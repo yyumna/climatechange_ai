@@ -1,3 +1,9 @@
+---
+layout: default
+title: Climate Change AI - Join the Core Team
+description: Join the CCAI Core Team
+---
+
 # Join the CCAI Core Team!
 
 Climate Change AI (CCAI) is an organization to catalyze impactful work at the intersection of climate change and machine learning by providing education and infrastructure, building a community, and advancing discourse.
