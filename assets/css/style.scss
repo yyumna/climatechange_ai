@@ -496,3 +496,24 @@ td details, .paper details, details.small {
 {
     height: 100%;
 }
+
+.card.index__card {
+  padding: 2rem;
+  margin-bottom: 1rem;
+  padding-top: 1rem;
+}
+
+.get-involved.columns {
+  margin-left: 0;
+  margin-right: 0;
+}
+.get-involved ul, .get-involved h3 {
+  margin-bottom: 5px;
+}
+
+.get-involved .column:nth-child(2n+1) {
+  background: #f8f8f8;
+}
+.get-involved .column:nth-child(2n) {
+  background: #eee;
+}
