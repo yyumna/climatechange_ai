@@ -454,11 +454,45 @@ td details, .paper details, details.small {
   margin-top: -5px;
 }
 
-.carousel__item a {
-  display: inline-block;
-  padding: 1rem;
-  min-height: 10rem;
+@media screen and (max-width: 768px) {
+  .index__news {
+    padding: 0 1rem;
+  }
+}
+
+.carousel__item {
+  min-height: 10rem !important;
+  position: relative;
+}
+
+.carousel__background, .carousel__link {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.carousel__background {
   background-size: cover;
+}
+
+.carousel__link {
+  padding: 1rem;
+  display: inline-block;
   color: white;
-  text-shadow: 2px 2px 2px black;
+  text-shadow: 1px 1px 1px black;
+  background: rgba(0,0,0,0.4);
+}
+
+
+.carousel .slick-prev:before,
+.carousel .slick-next:before {
+  color: rgb(96, 108, 113);
+}
+
+.carousel .slick-prev,
+.carousel .slick-next
+{
+    height: 100%;
 }
