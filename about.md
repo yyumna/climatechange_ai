@@ -5,24 +5,17 @@ description: Climate Change AI is a group of volunteers from academia and indust
 
 # About Climate Change AI
 
-Climate Change AI is a group of volunteers from academia and industry who believe in using machine learning, where it is relevant, to help tackle the climate crisis.  We aim to facilitate meaningful action by a range of stakeholders &mdash; researchers and engineers, entrepreneurs and investors, established businesses, the public sector, and more.
+Climate Change AI (CCAI) is a group of volunteers from academia and industry who believe that tackling climate change requires concerted societal action, in which machine learning can play an impactful role. Since it was founded in June 2019, CCAI has led the creation of a global movement in climate change and machine learning, encompassing researchers, engineers, entrepreneurs, investors, policymakers, companies, and NGOs.
 
-We believe that:
-* **There are many ways to have an impact:** The diversity of problems posed by climate change can be seen as an opportunity; there are many ways to have an impact.
-* **AI is a powerful tool:** AI and ML can enable or accelerate many strategies to address climate change. That said, it is not a silver bullet.
-* **Collaboration is key:** Effective solutions require cooperation between AI/ML experts and other stakeholders working in areas relevant to climate change.
+### Our Mission
+To catalyze impactful work at the intersection of climate change and machine learning.
 
-## Our Vision
-A world where effective climate change mitigation and robust adaptation strategies are deployed for the benefit of all.
+### Our Goals
+* To build a community of diverse stakeholders.
+* To guide impactful work through educational resources and programs.
+* To fill gaps in essential infrastructure such as funding, tools, and datasets. 
+* To advance discourse and advise relevant players.
 
-## Our Mission
-To empower work that meaningfully addresses the climate crisis and is well-served by machine learning tools.
-
-## Our Goals
-
-* To facilitate work at the intersection of climate change and machine learning through resource- and knowledge-sharing.
-* To enable impactful collaborations by connecting machine learning experts and experts working in areas relevant to climate change through physical and digital platforms.
-* To promote discourse about best practices regarding the use of machine learning in climate change domains.
 
 # People
 
