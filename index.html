@@ -1,9 +1,37 @@
 ---
+layout: default
 title: Climate Change AI
 description: Tackling Climate Change with Machine Learning
 ---
 
-Climate change is one of the greatest problems society has ever faced, with increasingly severe consequences for humanity as natural disasters multiply, sea levels rise, and ecosystems falter. While no silver bullet, machine learning can be an invaluable tool in fighting climate change via a wide array of applications and techniques. Climate Change AI aims to facilitate work at the nexus of climate change and machine learning.
+<div class='index__welcome'>
+  <h1>Climate Change AI</h1>
+  <p>
+    Climate change is one of the greatest problems society has ever faced, with
+    increasingly severe consequences for humanity as natural disasters
+    multiply, sea levels rise, and ecosystems falter. While no silver bullet,
+    machine learning can be an invaluable tool in fighting climate change via a
+    wide array of applications and techniques. Climate Change AI aims to
+    facilitate work at the nexus of climate change and machine learning.
+  </p>
+</div>
+
+<br/>
+
+<div class='index__news'>
+  <h2>News</h2>
+  <div class='carousel' data-slick='{"slidesToShow": 4, "slidesToScroll": 4}'>
+    {% for news in site.data.news %}
+      <div class='carousel__item'>
+        <a href='{{ news.url }}' style='background-image: url("{{ news.image }}")'>
+          {{ news.title }}
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<br/>
 
 <div class='columns'>
   <div class='column'>
@@ -54,3 +82,13 @@ Climate change is one of the greatest problems society has ever faced, with incr
     </ul>
   </div>
 </div>
+
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+<script>
+ $(document).ready(function(){
+  $('.carousel').slick();
+});
+</script>
