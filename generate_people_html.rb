@@ -84,7 +84,7 @@ puts <<-HTML
 ## Communications Committee
 - Kris Sankaran (<em>Newsletter Lead, Forum Lead</em>)
 - Andrew Ross (<em>Web Lead</em>)
-- Natasha Jaques (<em>Social Media Lead</em>)
+- Konstantin Klemmer (<em>Social Media Lead</em>)
 
 ## Community Leads
 - David Rolnick (<em>Tech Industry and ML Academia</em>)
