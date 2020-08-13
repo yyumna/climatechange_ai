@@ -19,7 +19,7 @@ description: 'NeurIPS 2020 Workshop: Tackling Climate Change with Machine Learni
 
 <center> <h3>Announcements</h3> </center>
 * Applications for the submission mentorship program are now open! Mentors and mentees may apply until August 25. More information [here](#submission-mentorship-program).
-* Call for submissions of Papers or Proposals is now available [here](#call-for-submissions). CMT submissions will open shortly.
+* Call for submissions of Papers or Proposals is now available [here](#call-for-submissions).
 
 ***
 
@@ -41,8 +41,9 @@ NeurIPS is one of the premier conferences on machine learning, and includes a wi
 
 ## Call for Submissions
 
-We invite submissions of short papers using machine learning to address problems in climate mitigation, adaptation, or modeling, including but not limited to the following topics:
+We invite submissions of short papers using machine learning to address problems in climate mitigation, adaptation, and science, including but not limited to the following topics:
  - Agriculture
+ - Behavioral and social science
  - Buildings and cities
  - Carbon capture and sequestration
  - Climate and earth science
@@ -55,9 +56,9 @@ We invite submissions of short papers using machine learning to address problems
  - Power generation and grids
  - Societal adaptation
  - Transportation
- - Behavioral and social science
+ 
 
-All machine learning techniques are welcome, from kernel methods to deep learning. Each submission should make clear why the application has (or could have) a pathway to positive impacts regarding climate change. We highly encourage submissions which make their data publicly available. Accepted submissions will be invited to give poster presentations, of which some will be selected for spotlight talks.
+All machine learning techniques are welcome, from kernel methods to deep learning. Each submission should make clear why the application has (or could have) a pathway to positive impacts regarding climate change. We highly encourage submissions that make their data publicly available. Accepted submissions will be invited to give poster presentations, of which some will be selected for spotlight talks.
 
 The workshop does not publish proceedings, and submissions are non-archival. Submission to this workshop does not preclude future publication. Previously published work may be submitted under certain circumstances (see the [FAQ](#frequently-asked-questions)).
 
@@ -75,7 +76,7 @@ There are two tracks for submissions. Submissions are limited to 4 pages for the
 
 Submissions for the Papers track should describe projects relevant to climate change that involve machine learning. These may include (but are not limited to) academic research; deployed results from startups, industry, public institutions, etc.; and climate-relevant datasets.
 
-Submissions should provide experimental or theoretical validation of the method presented, as well as specifying what gap the method fills. Authors should clearly illustrate a [pathway to climate impact](#addressing-impact), i.e., identify the way in which this work fits into broader efforts to address climate change. Algorithms need not be novel from a machine learning perspective if they are applied in a novel setting. Details of methodology need not be revealed if they are proprietary, though transparency is highly encouraged.
+Submissions should provide experimental or theoretical validation of the method presented, as well as specifying what gap the method fills. Authors should clearly illustrate a [pathway to climate impact](#addressing-impact), i.e., identify the way in which this work fits into broader efforts to address climate change. Algorithms need not be novel from a machine learning perspective if they are applied in a novel setting. Details of methods need not be revealed if they are proprietary, though transparency is highly encouraged.
 
 Submissions creating novel datasets are welcomed. Datasets should be designed to permit machine learning research (e.g. formatted with clear benchmarks for evaluation). In this case, baseline experimental results on the dataset are preferred, but not required.
 
@@ -97,13 +98,15 @@ Submissions for the Proposals track should describe detailed ideas for how machi
 
 ### Addressing Impact
 
+Tackling climate change requires translating ideas into action. The guidelines below will help you clearly present the importance of your work to a broad audience, hopefully including relevant decision-makers in industry, government, nonprofits, and other areas.
+
 - **Illustrate the link:** Many types of work, from highly theoretical to deeply applied, can have clear pathways to climate impact. Some links may be direct, such as improving solar forecasting to increase utilization within existing electric grids. Others may take several steps to explain, such as improving computer vision techniques for classifying clouds, which could help climate scientists seeking to understand fundamental climate dynamics.
 
-- **Consider your target audience:** Try to convey with relative specificity why and to whom solving the problem at hand will be useful. If studying extreme weather prediction, consider how you would communicate your key findings to a government disaster response agency. If analyzing a supply chain optimization pilot program, what are the main takeaways for industries who might adopt this technology? To ensure your work will be impactful, where possible, we highly recommend co-developing projects with relevant stakeholders or reaching out early in the process for feedback. We encourage you to use this opportunity to reach out!
+- **Consider your target audience:** Try to convey with relative specificity why and to whom solving the problem at hand will be useful. If studying extreme weather prediction, consider how you would communicate your key findings to a government disaster response agency. If analyzing a supply chain optimization pilot program, what are the main takeaways for industries who might adopt this technology? To ensure your work will be impactful, where possible we recommend co-developing projects with relevant stakeholders or reaching out early in the process for feedback. We encourage you to use this opportunity to reach out!
 
-- **Outline key metrics:** Quantitative assessments of how well your results (or for proposals, anticipated results) compare to existing methods are highly encouraged, as this will give a sense of the importance of the problem and your findings. We encourage you to convey why the particular metrics you choose are relevant from a climate change perspective; for instance, how does improved accuracy on a machine learning model translate to climate impact, and is accuracy necessarily the best measure?
+- **Outline key metrics:** Quantitative or qualitative assessments of how well your results (or for proposals, anticipated results) compare to existing methods are encouraged. Try to give a sense of the importance of your problem and your findings. We encourage you to convey why the particular metrics you choose are relevant from a climate change perspective. For instance, how does improved accuracy on a machine learning model translate to climate impact, and is accuracy necessarily the best measure?
 
-- **Be clear and concise:** The discussion of pathway to impact does not need to be lengthy, just clear.
+- **Be clear and concise:** The discussion of impact does not need to be lengthy, just clear.
 
 - **Convey the big picture:** Ultimately, the goal of Climate Change AI is to "empower work that meaningfully addresses the climate crisis." Try to make sure that from the beginning, you contextualize your method and its impacts in terms of this objective.
 
