@@ -9,10 +9,10 @@ description: 'NeurIPS 2020 Workshop: Tackling Climate Change with Machine Learni
 <div class='buttons'>
   <a class='button' href='#about-the-workshop'>About</a>
   <a class='button' href='#call-for-submissions'>Call for Submissions</a>
+  <a class='button' href='#tips-for-submissions'>Tips for Submissions</a>
   <a class='button' href='#submission-mentorship-program'>Mentorship Program</a>
   <a class='button' href='#organizers'>Organizers</a>
   <a class='button' href='#frequently-asked-questions'>FAQ</a>
-  <a class='button' href='/events/neurips2020/impact'>Pathway to Impact</a>
 </div>
 
 ***
@@ -75,7 +75,7 @@ There are two tracks for submissions. Submissions are limited to 4 pages for the
 
 Submissions for the Papers track should describe projects relevant to climate change that involve machine learning. These may include (but are not limited to) academic research; deployed results from startups, industry, public institutions, etc.; and climate-relevant datasets.
 
-Submissions should provide experimental or theoretical validation of the method presented, as well as specifying what gap the method fills. Authors should clearly illustrate a [pathway to climate impact](/events/neurips2020/impact), i.e., identify the way in which this work fits into broader efforts to address climate change. Algorithms need not be novel from a machine learning perspective if they are applied in a novel setting. Details of methodology need not be revealed if they are proprietary, though transparency is highly encouraged.
+Submissions should provide experimental or theoretical validation of the method presented, as well as specifying what gap the method fills. Authors should clearly illustrate a [pathway to climate impact](#addressing-impact), i.e., identify the way in which this work fits into broader efforts to address climate change. Algorithms need not be novel from a machine learning perspective if they are applied in a novel setting. Details of methodology need not be revealed if they are proprietary, though transparency is highly encouraged.
 
 Submissions creating novel datasets are welcomed. Datasets should be designed to permit machine learning research (e.g. formatted with clear benchmarks for evaluation). In this case, baseline experimental results on the dataset are preferred, but not required.
 
@@ -83,17 +83,31 @@ Submissions creating novel datasets are welcomed. Datasets should be designed to
 
 *Detailed descriptions of ideas for future work*
 
-Submissions for the Proposals track should describe detailed ideas for how machine learning can be used to solve climate-relevant problems. While less constrained than the Papers track, Proposals will be subject to a very high standard of review. No results need to be demonstrated, but ideas should be justified as extensively as possible, including motivation for why the problem being solved is important in tackling climate change, discussion of why current methods are inadequate, explanation of the proposed method, and discussion of the [pathway to climate impact](/events/neurips2020/impact).
+Submissions for the Proposals track should describe detailed ideas for how machine learning can be used to solve climate-relevant problems. While less constrained than the Papers track, Proposals will be subject to a very high standard of review. No results need to be demonstrated, but ideas should be justified as extensively as possible, including motivation for why the problem being solved is important in tackling climate change, discussion of why current methods are inadequate, explanation of the proposed method, and discussion of the [pathway to climate impact](#addressing-impact).
 
 ### Tips for Submissions
 
 - **For examples** of typical formatting and content, see submissions from our previous workshops at [ICLR 2020](https://www.climatechange.ai/events/iclr2020https://www.climatechange.ai/ICLR2020_workshop), [NeurIPS 2019](https://www.climatechange.ai/events/neurips2019https://www.climatechange.ai/NeurIPS2019_workshop), and [ICML 2019](https://www.climatechange.ai/events/icml2019https://www.climatechange.ai/ICML2019_workshop)).
 - **Be explicit:** Describe how your proposed approach addresses climate change, demonstrating an understanding of the application area.
 - **Frame your work:** The specific problem and/or data proposed should be contextualized in terms of prior work.
-- **Address the impact:** Describe the practical ramifications of your method in addressing the problem you identify, as well as any relevant societal impacts or potential side-effects. We recommend reading our further guidelines on this aspect [here](/events/neurips2020/impact).
+- **Address the impact:** Describe the practical ramifications of your method in addressing the problem you identify, as well as any relevant societal impacts or potential side-effects. We recommend reading our further guidelines on this aspect [here](#addressing-impact).
 - **Explain the ML:** Readers may not be familiar with the exact techniques you are using or may desire further detail.
 - **Justify the ML:** Describe why the ML method involved is needed, and why it is a good match for the problem.
 - **Avoid jargon:** Jargon is sometimes unavoidable but should be minimized. Ideal submissions will be accessible both to an ML audience and to experts in other relevant fields, without the need for field-specific knowledge. Feel free to direct readers to accessible overviews or review articles for background, where it is impossible to include context directly.
+
+### Addressing Impact
+
+- **Illustrate the link to climate impact:** Many types of work, from highly theoretical to deeply applied, fit under this umbrella. What they all have in common is a clear pathway to climate change impact. This link may be very direct, such as improving solar forecasting to make it easier for the electric grid to take in high levels of solar electricity. This link may take a few steps to explain, such as improved computer vision techniques for classification of different types of clouds, which could create enormously useful datasets for climate scientists seeking to understand the fundamental dynamics of the climate.
+
+- **Convey the big picture:** Climate Change AI is building a community of thoughtful researchers and practitioners in machine learning and in numerous other domains, in academia, industry, government, and beyond, who keep an eye on the big picture as they thoughtfully apply machine learning to problems that will help humanity address climate change.
+
+- **Consider your target audience:** In your submission, try to convey to the reader with relative specificity why and to whom solving the problem at hand will be useful. If you are studying extreme weather prediction, think of how you would communicate your key findings to a government disaster response agency. If you are presenting results of a supply chain optimization pilot program, what are the main takeaways for industries who might adopt this technology? In order to make sure your work will actually be impactful, where possible, we highly recommend co-developing projects with your target audience/relevant stakeholders or reaching out to them starting early in the process for feedback. We encourage you to use this opportunity to reach out!
+
+- **Outline key metrics:** Quantitative assessments of how well your results (or for proposals, anticipated results) compare to existing methods are highly encouraged, as this will give a sense of the importance of the problem at hand and your findings. We encourage you to convey why the particular metrics you choose are relevant from a climate change perspective; for instance, how does improved accuracy on a machine learning model translate to climate impact, and is accuracy necessarily the best measure to use?
+
+- **Be clear and concise:** The discussion of pathway to impact does not need to be lengthy. It just needs to be clear and it should not read like an afterthought. 
+
+- **Start with the end in mind:** The most useful papers often start from this big picture view, which then guides the rest of the analysis. We are hoping to instill this approach as the norm within the Climate Change AI community.
 
 ## Submission Mentorship Program
 
