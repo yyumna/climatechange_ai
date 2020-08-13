@@ -99,15 +99,13 @@ Submissions for the Proposals track should describe detailed ideas for how machi
 
 - **Illustrate the link:** Many types of work, from highly theoretical to deeply applied, can have clear pathways to climate impact. Some links may be direct, such as improving solar forecasting to increase utilization within existing electric grids. Others may take several steps to explain, such as improving computer vision techniques for classifying clouds, which could help climate scientists seeking to understand fundamental climate dynamics.
 
-- **Convey the big picture:** Climate Change AI is building a community of thoughtful researchers and practitioners in machine learning and in numerous other domains, in academia, industry, government, and beyond, who keep an eye on the big picture as they thoughtfully apply machine learning to problems that will help humanity address climate change.
-
 - **Consider your target audience:** Try to convey with relative specificity why and to whom solving the problem at hand will be useful. If studying extreme weather prediction, consider how you would communicate your key findings to a government disaster response agency. If analyzing a supply chain optimization pilot program, what are the main takeaways for industries who might adopt this technology? To ensure your work will be impactful, where possible, we highly recommend co-developing projects with relevant stakeholders or reaching out early in the process for feedback. We encourage you to use this opportunity to reach out!
 
 - **Outline key metrics:** Quantitative assessments of how well your results (or for proposals, anticipated results) compare to existing methods are highly encouraged, as this will give a sense of the importance of the problem and your findings. We encourage you to convey why the particular metrics you choose are relevant from a climate change perspective; for instance, how does improved accuracy on a machine learning model translate to climate impact, and is accuracy necessarily the best measure?
 
 - **Be clear and concise:** The discussion of pathway to impact does not need to be lengthy, just clear.
 
-- **Start with the end in mind:** The most useful papers often start from the end goal, which then guides the rest of the analysis. We are hoping to instill this approach as the norm within the Climate Change AI community.
+- **Convey the big picture:** Ultimately, the goal of Climate Change AI is to "empower work that meaningfully addresses the climate crisis." Try to make sure that from the beginning, you contextualize your method and its impacts in terms of this objective.
 
 ## Submission Mentorship Program
 
