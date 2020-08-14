@@ -120,15 +120,34 @@ Examples of mentor-mentee interactions may include:
 - Iterating on the core idea of a Proposal to ensure that the climate change application is well-posed and the ML techniques used are well-suited.
 - Giving feedback on the writing or presentation of a Paper or Proposal to bring it to the right level of maturity for submission.
 
-Mentees are expected to initiate contact with their assigned mentor and put in the work and effort necessary to prepare a Paper or Proposal submission by Oct 6.
+Mentees are expected to initiate contact with their assigned mentor and put in the work and effort necessary to prepare a Paper or Proposal submission by Oct 6. In turn, mentors are expected to commit at least 5 hours over the time period of the mentorship program.
 
 We suggest that after the mentor-mentee matching is made, a first (physical or digital) meeting should take place within the first week (Aug 28 - Sep 4) to discuss the Paper or Proposal and set expectations for the mentorship period. Subsequent interactions can take place either through meetings or via email discussions, following the expectations set during the initial meeting, culminating in a final version of a Paper or Proposal submitted via the CMT portal by Oct 6.
 
 ### Application
 
 Applications are due by Aug 25.
-- Mentor application: <https://forms.gle/g2xyFkvh9A5LouoZA>
-- Mentee application: <https://cmt3.research.microsoft.com/CCAIMNeurIPS2020>
+
+#### Mentee application
+
+Mentees should apply via the mentorship program CMT site: <https://cmt3.research.microsoft.com/CCAIMNeurIPS2020>
+
+In the application, mentees will be asked to answer questions describing their project, their project's relevance to climate change and machine learning, and the areas on which they are looking for feedback.
+
+Important instructions:
+* In your abstract (100-150 words), please summarize your project and the kinds of feedback you are looking to receive from a mentor.
+* The primary subject area you select in CMT should represent the area on which you are primarily looking to obtain feedback. Secondary subject areas should reflect other areas of relevance to your submission.
+
+(While the mentorship program is primarily targeted at students and early-career researchers, individuals at any level of seniority are welcome and encouraged to apply for mentorship.)
+
+#### Mentor application
+
+Mentors should apply via the following Google form: <https://forms.gle/g2xyFkvh9A5LouoZA>
+
+We suggest that mentor applicants have at least 3 years of research or industry experience in climate change and/or machine learning.
+
+Between August 26-28, selected mentors may be asked to provide additional input in order to facilitate the mentor/mentee matching process. As the mentor/mentee matching period is short, we ask that mentors be responsive during this period.
+
 
 ### Mentorship Program FAQ
 
@@ -142,10 +161,10 @@ Applications are due by Aug 25.
 **A:** While we will do our best, we cannot guarantee pairings for everyone. Even if you do not get paired with a mentor, we encourage you to submit a Paper or Proposal to the workshop, and our reviewers will provide you with guidance and feedback on how to improve it.
 
 **Q:** What happens if my submission does not get accepted to the workshop?<br>
-**A:** While the mentorship program is meant to give young-career researchers and students the opportunity to improve the quality of their work, sometimes submissions will need further polishing and elaboration before being ready for presentation at a CCAI workshop. If this is the case, we invite you to take into account the comments made by the reviewers and to resubmit again to a subsequent CCAI workshop.
+**A:** While the mentorship program is meant to give students and early-career researchers the opportunity to improve the quality of their work, sometimes submissions will need further polishing and elaboration before being ready for presentation at a CCAI workshop. If this is the case, we invite you to take into account the comments made by the reviewers and to resubmit again to a subsequent CCAI workshop.
 
-**Q:** I cannot guarantee that I can commit at least 4 hours to the program over the time period. Should I still apply as a mentor?<br>
-**A:** No. While the 4 hour time commitment is a suggestion, we do believe that it is necessary to ensure that all mentees receive the help and guidance they need.
+**Q:** I cannot guarantee that I can commit at least 5 hours to the program over the time period. Should I still apply as a mentor?<br>
+**A:** No. While the 5 hour time commitment is a suggestion, we do believe that it is necessary to ensure that all mentees receive the help and guidance they need.
 
 **Q:** I do not have a background in machine learning; can I still apply to be a mentor/mentee?<br>
 **A:** Yes! We welcome applications from domains that are complementary to machine learning to solve the problems that we are targeting.
