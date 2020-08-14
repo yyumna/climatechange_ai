@@ -187,6 +187,12 @@ Claire Monteleoni (CU Boulder) <br>
 Yoshua Bengio (Mila) <br>
 \* Denotes co-lead organizers
 
+## Webinar: What are we looking for?
+
+Thinking about submitting a paper or proposal? Considering applying as a mentee or mentor? If you have questions about any part of the workshop, we encourage you to attend our webinar on Wednesday, 8/19, or Thursday, 8/20 (more information to come). 
+
+During the webinar, we will discuss what sort of submissions we are looking for and the idea behind the mentorship program, as well as fielding questions from the community. The webinar will be recorded and posted here for future reference.
+
 ## Frequently Asked Questions
 
 **Q:** How can I keep up to date on this kind of stuff?<br>
