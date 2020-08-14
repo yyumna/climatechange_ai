@@ -20,6 +20,7 @@ description: 'NeurIPS 2020 Workshop: Tackling Climate Change with Machine Learni
 <center> <h3>Announcements</h3> </center>
 * Applications for the submission mentorship program are now open! Mentors and mentees may apply until August 25. More information [here](#submission-mentorship-program).
 * Call for submissions of Papers or Proposals is now available [here](#call-for-submissions).
+* We will be holding a [webinar](#how-to-webinar) on August 19 or 20 to provide advice on how to prepare a successful submission, and field any questions you may have.
 
 ***
 
@@ -130,7 +131,7 @@ We suggest that after the mentor-mentee matching is made, a first (physical or d
 
 ### Application
 
-Applications are due by Aug 25.
+Applications are due by August 25.
 
 #### Mentee application
 
@@ -188,6 +189,12 @@ Catherine Nakalembe (UMD) <br>
 Claire Monteleoni (CU Boulder) <br>
 Yoshua Bengio (Mila) <br>
 \* Denotes co-lead organizers
+
+## "How-to" Webinar
+
+Thinking about submitting a paper or proposal? Considering applying as a mentee or mentor? If you have questions about any part of the workshop, we encourage you to attend our webinar on Wednesday 8/19, or Thursday 8/20 (more information to come). 
+
+During the webinar, we will provide advice on how to prepare a successful workshop submission, discuss the logistics behind the mentorship program, and field questions from the community. The webinar will be recorded and posted here for future reference.
 
 ## Frequently Asked Questions
 
