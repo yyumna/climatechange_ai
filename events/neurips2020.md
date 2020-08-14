@@ -48,12 +48,13 @@ We invite submissions of short papers using machine learning to address problems
  - Carbon capture and sequestration
  - Climate and earth science
  - Climate finance
+ - Climate justice
  - Disaster prediction, management, and relief
  - Ecosystems and natural systems
  - Forestry and other land use
  - Industry
  - Policy
- - Power generation and grids
+ - Power and energy
  - Societal adaptation
  - Transportation
  
@@ -68,7 +69,7 @@ Please see the [Tips for Submissions](#tips-for-submissions) and [FAQ](#frequent
 
 ### Submission Tracks
 
-There are two tracks for submissions. Submissions are limited to 4 pages for the Papers track, and 3 pages for the Proposals track, in PDF format (see examples from  [ICLR 2020](https://www.climatechange.ai/events/iclr2020), [NeurIPS 2019](https://www.climatechange.ai/events/neurips2019https://www.climatechange.ai/NeurIPS2019_workshop) and [ICML 2019](https://www.climatechange.ai/events/icml2019https://www.climatechange.ai/ICML2019_workshop)). References do not count towards this total. Supplementary appendices are allowed but will be read at the discretion of the reviewers. All submissions *must* explain why the proposed work has (or could have) positive impacts regarding climate change.
+There are two tracks for submissions. Submissions are limited to 4 pages for the Papers track, and 3 pages for the Proposals track, in PDF format (see examples from  [ICLR 2020](https://www.climatechange.ai/events/iclr2020), [NeurIPS 2019](https://www.climatechange.ai/events/neurips2019) and [ICML 2019](https://www.climatechange.ai/events/icml2019)). References do not count towards this total. Supplementary appendices are allowed but will be read at the discretion of the reviewers. All submissions *must* explain why the proposed work has (or could have) positive impacts regarding climate change.
 
 #### PAPERS Track
 
@@ -102,9 +103,9 @@ Tackling climate change requires translating ideas into action. The guidelines b
 
 - **Illustrate the link:** Many types of work, from highly theoretical to deeply applied, can have clear pathways to climate impact. Some links may be direct, such as improving solar forecasting to increase utilization within existing electric grids. Others may take several steps to explain, such as improving computer vision techniques for classifying clouds, which could help climate scientists seeking to understand fundamental climate dynamics.
 
-- **Consider your target audience:** Try to convey with relative specificity why and to whom solving the problem at hand will be useful. If studying extreme weather prediction, consider how you would communicate your key findings to a government disaster response agency. If analyzing a supply chain optimization pilot program, what are the main takeaways for industries who might adopt this technology? To ensure your work will be impactful, where possible we recommend co-developing projects with relevant stakeholders or reaching out early in the process for feedback. We encourage you to use this opportunity to reach out!
+- **Consider your target audience:** Try to convey with relative specificity why and to whom solving the problem at hand will be useful. If studying extreme weather prediction, consider how you would communicate your key findings to a government disaster response agency. If analyzing a supply chain optimization pilot program, what are the main takeaways for industries who might adopt this technology? To ensure your work will be impactful, where possible we recommend co-developing projects with relevant stakeholders or reaching out to them early in the process for feedback. We encourage you to use this opportunity to do so!
 
-- **Outline key metrics:** Quantitative or qualitative assessments of how well your results (or for proposals, anticipated results) compare to existing methods are encouraged. Try to give a sense of the importance of your problem and your findings. We encourage you to convey why the particular metrics you choose are relevant from a climate change perspective. For instance, how does improved accuracy on a machine learning model translate to climate impact, and is accuracy necessarily the best measure?
+- **Outline key metrics:** Quantitative or qualitative assessments of how well your results (or for proposals, anticipated results) compare to existing methods are encouraged. Try to give a sense of the importance of your problem and your findings. We encourage you to convey why the particular metrics you choose are relevant from a climate change perspective. For instance, if you are evaluating your machine learning model on the basis of accuracy, how does improved accuracy on a machine learning model translate to climate impact, and why is accuracy the best metric to use in this context?
 
 - **Be clear and concise:** The discussion of impact does not need to be lengthy, just clear.
 
@@ -133,7 +134,8 @@ Applications are due by Aug 25.
 
 #### Mentee application
 
-Mentees should apply via the mentorship program CMT site: <https://cmt3.research.microsoft.com/CCAIMNeurIPS2020>
+Mentees should apply via the mentorship program CMT site: <https://cmt3.research.microsoft.com/CCAIMNeurIPS2020><br>
+(After logging in, click the "create new submission" button to start your application.)
 
 In the application, mentees will be asked to answer questions describing their project, their project's relevance to climate change and machine learning, and the areas on which they are looking for feedback.
 
