@@ -10,6 +10,7 @@ Our events provide opportunities to share work at the intersection of climate ch
 
 ## Workshops
 
+* [NeurIPS 2020](/events/neurips2020) -- December 11 or 12 2020, virtual
 * [ICLR 2020](/events/iclr2020) -- April 26, 2020 in Addis Ababa, Ethiopia
 * [AMLD 2020](/events/amld2020) -- Jan 27-28, 2020 in Lausanne, Switzerland
 * [NeurIPS 2019](/events/neurips2019) -- Dec 14, 2019 in Vancouver, BC, Canada
