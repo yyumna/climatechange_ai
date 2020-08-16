@@ -20,7 +20,7 @@ description: 'NeurIPS 2020 Workshop: Tackling Climate Change with Machine Learni
 <center> <h3>Announcements</h3> </center>
 * Applications for the submission mentorship program are now open! Mentors and mentees may apply until August 25. More information [here](#submission-mentorship-program).
 * Call for submissions of Papers or Proposals is now available [here](#call-for-submissions).
-* We will be holding a [webinar](#how-to-webinar) on August 19 or 20 to provide advice on how to prepare a successful submission, and field any questions you may have.
+* We will be holding a [webinar](#how-to-webinar) at 9am PDT on August 19 to provide advice on how to prepare a successful submission, and field any questions you may have.
 
 ***
 
@@ -192,9 +192,22 @@ Yoshua Bengio (Mila) <br>
 
 ## "How-to" Webinar
 
-Thinking about submitting a paper or proposal? Considering applying as a mentee or mentor? If you have questions about any part of the workshop, we encourage you to attend our webinar on Wednesday 8/19, or Thursday 8/20 (more information to come). 
+This workshop aims to attract submissions and participants from a broad range of fields and stakeholder groups across the world to highlight work that uses machine learning to help tackle climate change. Both our main <b>workshop</b> and the supplementary <b>mentorship program</b> aim to facilitate exchange between individuals from many different backgrounds who work at the intersection of climate change and machine learning.
 
-During the webinar, we will provide advice on how to prepare a successful workshop submission, discuss the logistics behind the mentorship program, and field questions from the community. The webinar will be recorded and posted here for future reference.
+Because this call is so broad, potential submitters likely have many questions. E.g: 
+* “I am a materials scientist applying machine learning to speed up materials discovery. What aspects of my work should I highlight in my submission?”
+* “I am a machine learning expert applying reinforcement learning to supply chain optimization. How do I communicate the climate impact of my work?”
+* “I study forestry and have a giant database of images of trees from Canadian forests increasingly strained by rising temperatures. I think machine learning could help answer important scientific questions, but I’m not sure where to start!”
+
+To help answer these and other questions, we are holding a webinar on Thursday, August 20th, at 9am PDT (12pm EDT, 1pm BRT, 5pm CEST, 9:30pm IST, midnight Beijing time).
+You can register [here](https://register.gotowebinar.com/register/24188565271534096).
+
+In particular, the webinar will explain:
+* How to prepare a successful submission for the workshop.
+* Our mentorship program (applications due August 25), which will pair applicants from a variety of backgrounds with experienced mentors to help improve their submission. 
+
+The webinar will be recorded and posted as a resource here, on the CCAI NeurIPS 2020 website.
+
 
 ## Frequently Asked Questions
 
