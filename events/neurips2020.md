@@ -192,6 +192,8 @@ Yoshua Bengio (Mila) <br>
 
 ## "How-to" Webinar
 
+Register [here](https://register.gotowebinar.com/register/24188565271534096).
+
 This workshop aims to attract submissions and participants from a broad range of fields and stakeholder groups across the world to highlight work that uses machine learning to help tackle climate change. Both our main <b>workshop</b> and the supplementary <b>mentorship program</b> aim to facilitate exchange between individuals from many different backgrounds who work at the intersection of climate change and machine learning.
 
 Because this call is so broad, potential submitters likely have many questions. E.g: 
@@ -200,7 +202,6 @@ Because this call is so broad, potential submitters likely have many questions. 
 * “I study forestry and have a giant database of images of trees from Canadian forests increasingly strained by rising temperatures. I think machine learning could help answer important scientific questions, but I’m not sure where to start!”
 
 To help answer these and other questions, we are holding a webinar on Thursday, August 20th, at 9am PDT (12pm EDT, 1pm BRT, 5pm CEST, 9:30pm IST, midnight Beijing time).
-You can register [here](https://register.gotowebinar.com/register/24188565271534096).
 
 In particular, the webinar will explain:
 * How to prepare a successful submission for the workshop.
