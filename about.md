@@ -34,7 +34,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
     <img class="person__pic" src="images/people/davidrolnick_400x400.jpg">
   </div>
   <div class="person__name">David Rolnick</div>
-  <div class="person__affil">University of Pennsylvania</div>
+  <div class="person__affil">McGill, Mila</div>
 </a>
 
 <a class="person__item" href="https://priyadonti.com/" target="_blank">
@@ -58,7 +58,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
     <img class="person__pic" src="images/people/krissankaran_400x400.jpg">
   </div>
   <div class="person__name">Kris Sankaran</div>
-  <div class="person__affil">Mila, U. de Montréal</div>
+  <div class="person__affil">UW Madison</div>
 </a>
 
 <a class="person__item" href="https://www.sashaluccioni.com/" target="_blank">
