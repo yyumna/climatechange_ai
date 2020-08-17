@@ -192,7 +192,7 @@ Yoshua Bengio (Mila) <br>
 
 ## "How-to" Webinar
 
-Register [here](https://register.gotowebinar.com/register/24188565271534096).
+Register [here](/events/neurips2020/webinar-registration).
 
 This workshop aims to attract submissions and participants from a broad range of fields and stakeholder groups across the world to highlight work that uses machine learning to help tackle climate change. Both our main <b>workshop</b> and the supplementary <b>mentorship program</b> aim to facilitate exchange between individuals from many different backgrounds who work at the intersection of climate change and machine learning.
 
