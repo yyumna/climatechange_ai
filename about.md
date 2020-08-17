@@ -53,7 +53,7 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
   <div class="person__affil">ETH Zürich</div>
 </a>
 
-<a class="person__item" href="https://mila.quebec/en/person/kris-sankaran/" target="_blank">
+<a class="person__item" href="http://krisrs1128.github.io/personal-site/" target="_blank">
   <div class="person__pic-wrapper">
     <img class="person__pic" src="images/people/krissankaran_400x400.jpg">
   </div>
