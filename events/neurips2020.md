@@ -201,7 +201,7 @@ Because this call is so broad, potential submitters likely have many questions. 
 * “I am a machine learning expert applying reinforcement learning to supply chain optimization. How do I communicate the climate impact of my work?”
 * “I study forestry and have a giant database of images of trees from Canadian forests increasingly strained by rising temperatures. I think machine learning could help answer important scientific questions, but I’m not sure where to start!”
 
-To help answer these and other questions, we are holding a webinar on Thursday, August 20th, at 9am PDT (12pm EDT, 1pm BRT, 5pm CEST, 9:30pm IST, midnight Beijing time).
+To help answer these and other questions, we are holding a webinar on Thursday, August 20th, at 9am PDT (12pm EDT, 1pm BRT, 6pm CEST, 9:30pm IST, midnight Beijing time).
 
 In particular, the webinar will explain:
 * How to prepare a successful submission for the workshop.
