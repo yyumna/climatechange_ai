@@ -1,0 +1,111 @@
+---
+- group: 'Core Team'
+  anchor: 'core-team'
+  members:
+    - website_url: http://www.davidrolnick.com
+      image_url: images/people/davidrolnick_400x400.jpg
+      name: David Rolnick
+      affiliation: McGill, Mila
+    - website_url: https://priyadonti.com/
+      image_url: images/people/priyadonti_400x400.jpg
+      name: Priya L. Donti
+      affiliation: Carnegie Mellon
+    - website_url: https://epg.ethz.ch/people/senior-researchers/dr--lynn-kaack.html
+      image_url: images/people/lynnkaack_400x400.jpg
+      name: Lynn H. Kaack
+      affiliation: ETH Zürich
+    - website_url: http://krisrs1128.github.io/personal-site/
+      image_url: images/people/krissankaran_400x400.jpg
+      name: Kris Sankaran
+      affiliation: UW Madison
+    - website_url: https://www.sashaluccioni.com/
+      image_url: images/people/sashaluccioni_400x400.jpg
+      name: Sasha Luccioni
+      affiliation: Mila, U. de Montréal
+    - website_url: https://asross.github.io/
+      image_url: images/people/andrew_ross_400x400.jpg
+      name: Andrew Slavin Ross
+      affiliation: Harvard University
+    - website_url: http://www.kochanski.org/kelly/
+      image_url: images/people/kellykochanski_400x400.jpg
+      name: Kelly Kochanski
+      affiliation: CU Boulder
+    - website_url: https://scholar.google.com/citations?user=71a2-WMAAAAJ&hl=en
+      image_url: images/people/Alexandre_Lacoste_400x400.jpg
+      name: Alexandre Lacoste
+      affiliation: Element AI
+    - website_url: https://www.mcc-berlin.net/en/about/team/milojevic-dupont-nikola.html
+      image_url: images/people/nikolamilojevicdupont_400x400.jpg
+      name: Nikola Milojevic-Dupont
+      affiliation: MCC Berlin, TU Berlin
+    - website_url: https://konstantinklemmer.github.io
+      image_url: images/people/konstantin_400x400.jpg
+      name: Konstantin Klemmer
+      affiliation: University of Warwick
+    - website_url: http://www.teganmaharaj.com
+      image_url: images/people/teganmaharaj_400x400.jpg
+      name: Tegan Maharaj
+      affiliation: Mila, Polytechnique Montréal
+    - website_url: https://www.evansherwin.com/
+      image_url: images/people/evansherwin_400x400.jpg
+      name: Evan D. Sherwin
+      affiliation: Stanford University
+    - website_url: http://sharonzhou.me/
+      image_url: images/people/sharonzhou_400x400.jpg
+      name: Sharon Zhou
+      affiliation: Stanford University
+    - website_url: https://daviddao.org/
+      image_url: images/people/daviddao_400x400.jpg
+      name: David Dao
+      affiliation: ETH Zurich
+- group: 'Advisors'
+  anchor: 'advisors'
+  members:
+    - website_url: https://mila.quebec/en/yoshua-bengio/
+      image_url: images/people/yb_400x400.jpg
+      name: Yoshua Bengio
+      affiliation: Mila, U. de Montréal
+    - website_url: https://data.berkeley.edu/jennifer-chayes
+      image_url: images/people/jenniferchayes_400x400.jpg
+      name: Jennifer Chayes
+      affiliation: UC Berkeley
+    - website_url: https://www.mcc-berlin.net/en/about/team/creutzig-felix.html
+      image_url: images/people/felixcreuzig_400x400.jpg
+      name: Felix Creutzig
+      affiliation: MCC Berlin, TU Berlin
+    - website_url: https://ai.google/research/people/JohnPlatt
+      image_url: images/people/johnplatt_400x400.jpg
+      name: John C. Platt
+      affiliation: Google AI
+    - website_url: https://deepmind.com/
+      image_url: images/people/Demis_Hassabis_400x400.jpg
+      name: Demis Hassabis
+      affiliation: DeepMind
+    - website_url: https://www.andrewng.org/
+      image_url: images/people/andrewng_400x400.jpg
+      name: Andrew Y. Ng
+      affiliation: Stanford University
+    - website_url: https://www.cs.cornell.edu/gomes/
+      image_url: images/people/carlagomes_400x400.jpg
+      name: Carla Gomes
+      affiliation: Cornell University
+    - website_url: http://koerding.com/
+      image_url: images/people/konradkording_400x400.jpg
+      name: Konrad P. Körding
+      affiliation: University of Pennsylvania
+    - name: Zico Kolter
+      website_url: http://zicokolter.com/
+      image_url: images/people/zicokolter_400x400.jpg
+      affiliation: Carnegie Mellon
+    - name: Inês Azevedo
+      website_url: https://ines.stanford.edu
+      image_url: images/people/inesazevedo_400x400.jpg
+      affiliation: Stanford University
+    - name: Tobias Schmidt
+      website_url: https://epg.ethz.ch/people/group-head/prof--dr--tobias-schmidt.html
+      image_url: images/people/tobiasschmidt_400x400.jpg
+      affiliation: ETH Zürich
+    - website_url: https://www.eye-on.ai
+      image_url: images/people/craigsmith_400x400.jpg
+      name: Craig Smith
+      affiliation: Eye on AI
