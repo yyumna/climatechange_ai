@@ -59,6 +59,10 @@ To empower work that meaningfully addresses the climate crisis and is well-serve
 - Andrew Ross (<em>Web Lead</em>)
 - Konstantin Klemmer (<em>Social Media Lead</em>)
 
+## Programs Committee
+- Evan D. Sherwin (<em>Committee Chair</em>)
+- Konstantin Klemmer
+
 ## Community Leads
 - David Rolnick (<em>Tech Industry and ML Academia</em>)
 - Priya L. Donti (<em>Power Sector</em>)
