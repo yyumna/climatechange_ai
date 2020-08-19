@@ -24,7 +24,7 @@ og_image_height: 327
 <center> <h3>Announcements</h3> </center>
 * Applications for the submission mentorship program are now open! Mentors and mentees may apply until August 25. More information [here](#submission-mentorship-program).
 * Call for submissions of Papers or Proposals is now available [here](#call-for-submissions).
-* We will be holding a [webinar](#how-to-webinar) at 9am PDT on Thursday, August 20, to provide advice on how to prepare a successful submission, and field any questions you may have.
+* We will be holding a [webinar](#how-to-webinar) at 9am PDT on Thursday, August 20, to provide advice on how to prepare a successful submission, and field any questions you may have. Attendance limit 100.
 
 ***
 
