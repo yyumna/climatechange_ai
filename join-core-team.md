@@ -6,10 +6,28 @@ description: Join the CCAI Core Team
 
 # Join the CCAI Core Team!
 
+<ul class='buttons' id='subnav'>
+  <a class='button' href='/core-team-application' target='_blank'>Application Form</a>
+</ul>
+
+<style>
+#subnav {
+  margin: 0;
+  padding: 0;
+}
+</style>
+<script>
+$(document).ready(() => {
+  $('.main-content h3').each((idx, el) => {
+    $('#subnav').append(`<a class='button' href='#${el.id}'>${$(el).text()}</a>`);
+  });
+});
+</script>
+
 CCAI is looking for new core team members to play leading roles in the organization’s ongoing activities. Core team members are expected to dedicate at least 5 hours of volunteer time per week and work closely with other members of the organization. Most [core team members](/about#people) have a background in either machine learning or areas relevant to climate change (such as energy, transportation, climate science, etc.), and a strong interest in both topics.
 
 To be considered for a core team role, we require the following:
-1. **Mission alignment:** Team members must be passionate about catalyzing impactful work at the intersection of climate change and machine learning, per our mission and goals.
+1. **Mission alignment:** Team members must be passionate about catalyzing impactful work at the intersection of climate change and machine learning, per our [mission and goals](/about).
 2. **Proactiveness and responsibility:** Team members must be proactive and responsible to ensure our organization can run as effectively as possible.
 3. **Time commitment:** Team members are expected to dedicate around 5 hours of volunteer time per week, including conference calls, and be responsive on Slack.
 4. **Attention to detail:** Team members are mindful of the work that they carry out, which helps CCAI ensure high quality of its activities. 
@@ -23,9 +41,11 @@ CCAI is a fast-moving and fun environment to help facilitate meaningful and imme
  
 Below is a list of roles in which CCAI is especially interested at the moment. Please apply by filling out [this application form](/core-team-application). If you are interested in joining but do not fit any of the specific roles, we still encourage you to apply and describe in your application how you see yourself contributing to CCAI. We would be particularly excited to hear from general applications with experience in social science, economics, heavy industry, biodiversity and conservation, agriculture, and resilience, entrepreneurship, and public policy. Applications will be assessed on a rolling basis.
 
+If you are looking for other ways to get involved, see [here](/get_involved).
+
 ## Role Descriptions
 
-### Media outreach
+### Media Outreach
 CCAI is recruiting someone to support communication and media outreach. We are looking for someone with experience in science journalism, ideally with extensive knowledge of climate change communication and at least basic familiarity with machine learning. 
 
 Position-specific requirements:
@@ -38,7 +58,7 @@ Optional but preferred skills:
 * Professional network in journalism
 * Experienced with science communication through social media
 
-### Graphic and web design
+### Graphic and Web Design
 CCAI is looking for someone to contribute to the organization via graphic and web design. This person would contribute to the integrated design strategy of CCAI, including within our main website, reports, and events.
 
 Position-specific requirements:
@@ -49,7 +69,7 @@ Optional but preferred skills:
 * Experience implementing as well as creating website designs
 * Experience in branding and marketing
 
-### Educational event development
+### Educational Event Development
 CCAI will be organizing events for education, cohort-building, and professional development at the intersection of climate change and AI. We are looking for someone to work with members of the existing CCAI core team on all aspects of those events, including curriculum design and logistics. Please see here for examples of past CCAI events.
 
 Position-specific requirements:
@@ -60,7 +80,7 @@ Optional but preferred skills:
 * Experience organizing physical or online events
 * Professional network in areas related to climate change and machine learning
 
-### Support for community-organized events
+### Support for Community-Organized Events
 CCAI is seeking a core team member to support the broader CCAI community in organizing programs and events, such as (virtual) happy hours, reading groups, and research gatherings. This role will entail creating guides or curating resources about organizing various types of events, as well as providing advice to community members who are organizing events.
 
 Position-specific requirements:
@@ -68,7 +88,7 @@ Position-specific requirements:
 * Experience organizing physical or online events
 * Enthusiasm for mentoring and supporting others
 
-### Webinars and virtual information sessions 
+### Webinars and Virtual Information Sessions 
 CCAI is looking for new core team members to organize webinars, AMAs, and similar events. Team members in this role will be expected to curate content, manage event logistics, interact with potential speakers, and moderate sessions. 
 
 Position-specific requirements:
@@ -92,7 +112,7 @@ Optional but preferred skills:
 * Prior background in creating tutorials or educational materials
 * Familiarity with screen capturing and editing tools (Camtasia, Screencastify, etc.)
 
-### Course curriculum
+### Course Curriculum
 CCAI is seeking a core team member to support the creation of a university-level course curriculum covering topics relevant to doing work in climate change and machine learning. This is an opportunity to distill the key ideas of climate change and AI for dissemination to the wider community. This role will entail designing the curriculum outline and structure; managing the creation of lectures and instructional materials; scheduling and overseeing test runs and subsequent revisions of various aspects of the curriculum; and ensuring the quality and cohesion of the final curriculum.
 
 Position-specific requirements:
