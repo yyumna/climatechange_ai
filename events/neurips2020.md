@@ -211,7 +211,7 @@ In particular, the webinar will explain:
 * How to prepare a successful submission for the workshop.
 * Our mentorship program (applications due August 25), which will pair applicants from a variety of backgrounds with experienced mentors to help improve their submission. 
 
-The webinar will be recorded and posted as a resource here, on the CCAI NeurIPS 2020 website.
+The webinar will be recorded and posted as a resource here, on the CCAI NeurIPS 2020 website. Attendance limit 100.
 
 
 ## Frequently Asked Questions
