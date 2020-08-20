@@ -118,7 +118,7 @@ Tackling climate change requires translating ideas into action. The guidelines b
 
 ## Submission Mentorship Program
 
-We are hosting a mentorship program to facilitate exchange between potential workshop submitters and experts working in topic areas relevant to the workshop. The goal of this program is to foster cross-disciplinary collaborations and ultimately increase the quality and potential impact of submitted work.
+We are hosting a mentorship program to facilitate exchange between potential workshop submitters and experts working in topic areas relevant to the workshop. The goal of this program is to foster cross-disciplinary collaborations and ultimately increase the quality and potential impact of submitted work. See also [this video](https://www.youtube.com/watch?v=aZnsLrL0CQ8) explaining the program.
 
 ### Expectations:
 
