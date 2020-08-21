@@ -24,7 +24,7 @@ og_image_height: 327
 <center> <h3>Announcements</h3> </center>
 * Applications for the submission mentorship program are now open! Mentors and mentees may apply until August 25. More information [here](#submission-mentorship-program).
 * Call for submissions of Papers or Proposals is now available [here](#call-for-submissions).
-* We will be holding a [webinar](#how-to-webinar) at 9am PDT on Thursday, August 20, to provide advice on how to prepare a successful submission, and field any questions you may have. Attendance limit 100.
+* To provide advice and answer questions on how to prepare a successful submission, and field any questions you may have, we held a webinar on Thursday, August 20. View recording [here]( https://www.youtube.com/watch?v=prDI7Oy-VMM)
 
 ***
 
@@ -196,7 +196,7 @@ Yoshua Bengio (Mila) <br>
 
 ## "How-to" Webinar
 
-Register [here](/events/neurips2020/webinar-registration).
+View recording [here]( https://www.youtube.com/watch?v=prDI7Oy-VMM)
 
 This workshop aims to attract submissions and participants from a broad range of fields and stakeholder groups across the world to highlight work that uses machine learning to help tackle climate change. Both our main <b>workshop</b> and the supplementary <b>mentorship program</b> aim to facilitate exchange between individuals from many different backgrounds who work at the intersection of climate change and machine learning.
 
@@ -205,13 +205,11 @@ Because this call is so broad, potential submitters likely have many questions. 
 * “I am a machine learning expert applying reinforcement learning to supply chain optimization. How do I communicate the climate impact of my work?”
 * “I study forestry and have a giant database of images of trees from Canadian forests increasingly strained by rising temperatures. I think machine learning could help answer important scientific questions, but I’m not sure where to start!”
 
-To help answer these and other questions, we are holding a webinar on Thursday, August 20th, at 9am PDT (12pm EDT, 1pm BRT, 6pm CEST, 9:30pm IST, midnight Beijing time).
+To help answer these and other questions, we held a webinar on Thursday, August 20th, at 9am PDT (12pm EDT, 1pm BRT, 6pm CEST, 9:30pm IST, midnight Beijing time), explaining:
 
-In particular, the webinar will explain:
 * How to prepare a successful submission for the workshop.
-* Our mentorship program (applications due August 25), which will pair applicants from a variety of backgrounds with experienced mentors to help improve their submission. 
+* Our mentorship program (applications due August 25), which will pair applicants from a variety of backgrounds with experienced mentors to help improve their submission.
 
-The webinar will be recorded and posted as a resource here, on the CCAI NeurIPS 2020 website. Attendance limit 100.
 
 
 ## Frequently Asked Questions
