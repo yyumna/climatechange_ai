@@ -6,25 +6,18 @@ description: Join the CCAI Core Team
 
 # Join the CCAI Core Team!
 
+CCAI is looking for new core team members to play leading roles in the organization’s ongoing activities. Core team members are expected to dedicate at least 5 hours of volunteer time per week and work closely with other members of the organization. Most [core team members](/about#people) have a background in either machine learning or areas relevant to climate change (such as energy, transportation, climate science, etc.), and a strong interest in both topics. We are currently recruiting for the following open positions:
 
-<style>
-#subnav {
-  margin: 0;
-  padding: 0;
-}
-</style>
+<ul class='buttons' id='recruitment-subnav'>
+</ul>
+
 <script>
 $(document).ready(() => {
   $('.main-content h3').each((idx, el) => {
-    $('#subnav').append(`<a class='button' href='#${el.id}'>${$(el).text()}</a>`);
+    $('#recruitment-subnav').append(`<a class='button' href='#${el.id}'>${$(el).text()}</a>`);
   });
 });
 </script>
-
-CCAI is looking for new core team members to play leading roles in the organization’s ongoing activities. Core team members are expected to dedicate at least 5 hours of volunteer time per week and work closely with other members of the organization. Most [core team members](/about#people) have a background in either machine learning or areas relevant to climate change (such as energy, transportation, climate science, etc.), and a strong interest in both topics. We are currently recruiting for the following open positions:
-
-<ul class='buttons' id='subnav'>
-</ul>
 
 Applications should be submitted [here](/core-team-application).
 
