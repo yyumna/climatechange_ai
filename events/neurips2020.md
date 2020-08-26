@@ -22,8 +22,8 @@ og_image_height: 327
 ***
 
 <center> <h3>Announcements</h3> </center>
-* Call for submissions of Papers or Proposals is now available [here](#call-for-submissions).
-* To provide advice and answer questions on how to prepare a successful submission, and field any questions you may have, we held a webinar on Thursday, August 20. View recording [here]( https://www.youtube.com/watch?v=prDI7Oy-VMM).
+* The call for submissions of Papers or Proposals is now available [here](#call-for-submissions). Submissions are due by Oct 6.
+* We held a webinar on Thursday, August 20 to provide advice on how to prepare a successful submission. View the recording [here](https://www.youtube.com/watch?v=prDI7Oy-VMM).
 
 ***
 
@@ -36,8 +36,8 @@ NeurIPS is one of the premier conferences on machine learning, and includes a wi
 ## About the Workshop
 
  - Date: December 11 or 12 (TBD)
- - Location:  Virtual
-~~- [Mentorship program](#submission-mentorship-program) application deadline: August 25~~
+ - Location:  Virtual  
+ - ~~[Mentorship program](#submission-mentorship-program) application deadline: August 25~~
  - Paper/Proposal submission deadline: October 6
  - Notification:  October 30
  - Submission website: <https://cmt3.research.microsoft.com/CCAINeurIPS2020>
@@ -195,7 +195,7 @@ Yoshua Bengio (Mila) <br>
 
 ## "How-to" Webinar
 
-View recording [here]( https://www.youtube.com/watch?v=prDI7Oy-VMM)
+View recording [here](https://www.youtube.com/watch?v=prDI7Oy-VMM)
 
 This workshop aims to attract submissions and participants from a broad range of fields and stakeholder groups across the world to highlight work that uses machine learning to help tackle climate change. Both our main <b>workshop</b> and the supplementary <b>mentorship program</b> aim to facilitate exchange between individuals from many different backgrounds who work at the intersection of climate change and machine learning.
 
