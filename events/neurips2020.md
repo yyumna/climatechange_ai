@@ -22,9 +22,8 @@ og_image_height: 327
 ***
 
 <center> <h3>Announcements</h3> </center>
-* Applications for the submission mentorship program are now open! Mentors and mentees may apply until August 25. More information [here](#submission-mentorship-program).
 * Call for submissions of Papers or Proposals is now available [here](#call-for-submissions).
-* To provide advice and answer questions on how to prepare a successful submission, and field any questions you may have, we held a webinar on Thursday, August 20. View recording [here]( https://www.youtube.com/watch?v=prDI7Oy-VMM)
+* To provide advice and answer questions on how to prepare a successful submission, and field any questions you may have, we held a webinar on Thursday, August 20. View recording [here]( https://www.youtube.com/watch?v=prDI7Oy-VMM).
 
 ***
 
@@ -38,7 +37,7 @@ NeurIPS is one of the premier conferences on machine learning, and includes a wi
 
  - Date: December 11 or 12 (TBD)
  - Location:  Virtual
- - [Mentorship program](#submission-mentorship-program) application deadline: August 25
+~~- [Mentorship program](#submission-mentorship-program) application deadline: August 25~~
  - Paper/Proposal submission deadline: October 6
  - Notification:  October 30
  - Submission website: <https://cmt3.research.microsoft.com/CCAINeurIPS2020>
@@ -135,12 +134,12 @@ We suggest that after the mentor-mentee matching is made, a first (physical or d
 
 ### Application
 
-Applications are due by August 25.
+~~Applications are due by August 25.~~
 
 #### Mentee application
 
-Mentees should apply via the mentorship program CMT site: <https://cmt3.research.microsoft.com/CCAIMNeurIPS2020><br>
-(After logging in, click the "create new submission" button to start your application.)
+~~Mentees should apply via the mentorship program CMT site: <https://cmt3.research.microsoft.com/CCAIMNeurIPS2020><br>
+(After logging in, click the "create new submission" button to start your application.)~~
 
 In the application, mentees will be asked to answer questions describing their project, their project's relevance to climate change and machine learning, and the areas on which they are looking for feedback.
 
@@ -152,7 +151,7 @@ Important instructions:
 
 #### Mentor application
 
-Mentors should apply via the following Google form: <https://forms.gle/g2xyFkvh9A5LouoZA>
+~~Mentors should apply via the following Google form: <https://forms.gle/g2xyFkvh9A5LouoZA>~~
 
 We suggest that mentor applicants have at least 3 years of research or industry experience in climate change and/or machine learning.
 
