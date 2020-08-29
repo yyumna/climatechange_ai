@@ -121,7 +121,7 @@ We are hosting a mentorship program to facilitate exchange between potential wor
 
 ### Expectations:
 
-Mentors are expected to guide mentees during the three weeks of the CCAI mentorship program (Aug 28 - Oct 6) as they prepare submissions for this workshop.
+Mentors are expected to guide mentees during the six weeks of the CCAI mentorship program (Aug 28 - Oct 6) as they prepare submissions for this workshop.
 
 Examples of mentor-mentee interactions may include:
 - In-depth discussion of relevant related work in the area of the Paper or Proposal, to ensure submissions are well-framed and contextualized in terms of prior work.
