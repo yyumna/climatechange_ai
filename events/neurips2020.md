@@ -160,6 +160,9 @@ Between August 26-28, selected mentors may be asked to provide additional input 
 
 ### Mentorship Program FAQ
 
+**Q:** Am I required to participate in the mentorship program if I want to submit to the workshop?<br>
+**A:** No -- while encouraged, participation in the mentorship program is strictly optional.
+
 **Q:** Are mentors allowed to be authors on the paper for which they provided mentorship?<br>
 **A:** Yes, mentors can be co-authors but not reviewers.
 
