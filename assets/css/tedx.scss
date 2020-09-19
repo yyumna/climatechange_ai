@@ -25,3 +25,25 @@ html {
 #landing {
   background: rgba(0,0,0,0.25) !important;
 }
+
+.countdown-logo {
+  width: 100%;
+  max-width: 600px;
+}
+
+.countdown-logo-wrapper {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.yellow-highlight {
+  background: #F1FF39;
+  color: $dark;
+  margin-left: -1000px;
+  margin-right: -1000px;
+  padding-left: 1000px;
+  padding-right: 1000px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
