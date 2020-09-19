@@ -18,7 +18,7 @@ html {
   max-width: none;
 }
 
-nav.navbar.is-dark {
+.parallax-mirror[style*="visible"] + .navbar.is-dark {
   background: transparent;
 }
 
