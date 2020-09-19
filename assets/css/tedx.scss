@@ -3,8 +3,13 @@
 
 $dark: black;
 $primary: rgba(230, 43, 30, 0.9);
+$navbar-background-color: transparent;
 
 @import "bulma-scss/bulma";
+
+html {
+  background: $dark;
+}
 
 .navbar-brand img {
   position: absolute;
@@ -14,9 +19,7 @@ $primary: rgba(230, 43, 30, 0.9);
   max-width: none;
 }
 
-section.landing .hero-body {
-  background-position: center center;
-  background-size: 75%;
-  background-image: url('/images/asia_vir_2016.jpg');
-  background-repeat: no-repeat;
+section.hero.landing,
+nav.navbar.is-dark {
+  background: transparent;
 }
