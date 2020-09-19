@@ -3,7 +3,6 @@
 
 $dark: black;
 $primary: rgba(230, 43, 30, 0.9);
-$navbar-background-color: transparent;
 
 @import "bulma-scss/bulma";
 
@@ -19,7 +18,10 @@ html {
   max-width: none;
 }
 
-section.hero.landing,
 nav.navbar.is-dark {
   background: transparent;
+}
+
+section.hero.landing {
+  background: rgba(0,0,0,0.25);
 }
