@@ -1,0 +1,22 @@
+---
+---
+
+$dark: black;
+$primary: rgba(230, 43, 30, 0.9);
+
+@import "bulma-scss/bulma";
+
+.navbar-brand img {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: auto;
+  max-width: none;
+}
+
+section.landing .hero-body {
+  background-position: center center;
+  background-size: 75%;
+  background-image: url('/images/asia_vir_2016.jpg');
+  background-repeat: no-repeat;
+}
