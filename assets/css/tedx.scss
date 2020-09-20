@@ -10,6 +10,7 @@ $info: #F1FF39;
 $info-invert: black;
 $family-sans-serif: Raleway, sans-serif;
 $title-font-family: Cairo; 
+$link: $primary;
 
 @import "bulma-scss/bulma";
 
@@ -24,14 +25,21 @@ html {
 .content {
   font-size: large;
   font-weight: 500;
+
+  a:not(.button):hover {
+    color: $link;
+    text-decoration: underline;
+  }
 }
 
 .navbar-brand img {
-  position: absolute;
-  top: 0;
-  height: 100%;
-  width: auto;
-  max-width: none;
+  max-height: 52px;
+}
+
+@media screen and (min-width: 1024px) {
+  .navbar-brand .navbar-item {
+    padding: 0;
+  }
 }
 
 .parallax-mirror[style*="visible"] + .navbar.is-dark {
@@ -156,7 +164,7 @@ html {
 }
 @media screen and (max-width: 1023px) {
   #speakers, #team, #contact {
-    padding-top: 52px;
+    padding-top: 62px;
   }
   h2.title {
     text-align: center;

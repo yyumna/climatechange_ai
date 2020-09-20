@@ -13,7 +13,8 @@
     {% endif %}
     <meta charset="UTF-8">
 
-{% seo %}
+    {% seo %}
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -32,41 +33,27 @@
     {% endif %}
 
     <meta property="og:type" content="website">
-
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@ClimateChangeAI">
-
     <link rel="stylesheet" href="{{ '/assets/css/tedx.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <link rel="stylesheet" href="//cdn.materialdesignicons.com/5.1.45/css/materialdesignicons.min.css">
   </head>
+
   <body class="tedx">
     {{ content }}
   </body>
 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="assets/js/parallax.min.js"></script>
-
-  <script>
-    document.addEventListener('DOMContentLoaded', () => {
-      const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
-      if ($navbarBurgers.length > 0) {
-        $navbarBurgers.forEach( el => {
-          el.addEventListener('click', () => {
-            const target = el.dataset.target;
-            const $target = document.getElementById(target);
-            el.classList.toggle('is-active');
-            $target.classList.toggle('is-active');
-          });
-        });
-      }
-    });
-  </script>
-
   <script>
     $(document).ready(function() {
-      $(document).on('click', '.collapsible-header', function(ev) {
-        var h = $(ev.currentTarget);
-        h.closest('.collapsible').toggleClass('is-expanded');
+      $(".navbar-burger").click(function() {
+        $(".navbar-burger").toggleClass("is-active");
+        $(".navbar-menu").toggleClass("is-active");
+      });
+      $('.navbar-item').click(() => {
+        $('.navbar-menu').removeClass('is-active');
+        $('.navbar-burger').removeClass('is-active');
       });
     });
   </script>
