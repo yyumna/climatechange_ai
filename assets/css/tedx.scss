@@ -103,13 +103,13 @@ html {
 
 // Ensure that anchor links don't skip the headers
 @media screen and (min-width: 1024px) {
-  .hero {
+  #speakers, #team, #contact {
     margin-top: -84px;
     padding-top: 84px;
   }
 }
 @media screen and (max-width: 1023px) {
-  .hero {
+  #speakers, #team, #contact {
     margin-top: -52px;
     padding-top: 52px;
   }
