@@ -101,16 +101,22 @@ html {
   }
 }
 
+#speakers, #team, #contact {
+  border-top: 1px dotted #333;
+}
+
 // Ensure that anchor links don't skip the headers
 @media screen and (min-width: 1024px) {
   #speakers, #team, #contact {
-    margin-top: -84px;
     padding-top: 84px;
+    padding-bottom: 24px;
   }
 }
 @media screen and (max-width: 1023px) {
   #speakers, #team, #contact {
-    margin-top: -52px;
     padding-top: 52px;
+  }
+  h2.title {
+    text-align: center;
   }
 }
