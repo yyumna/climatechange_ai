@@ -19,7 +19,7 @@ $(document).ready(() => {
 });
 </script>
 
-Applications should be submitted [here](/core-team-application).
+Applications should be submitted [here](/core-team-application), and are due by **Sept 25**.
 
 To be considered for a core team role, we require the following:
 1. **Mission alignment:** Team members must be passionate about catalyzing impactful work at the intersection of climate change and machine learning, per our [mission and goals](/about).
