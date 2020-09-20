@@ -1,7 +1,7 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700;800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@700&display=swap');
 
 $dark: black;
@@ -17,8 +17,13 @@ html {
   background: $dark;
 }
 
+.page-title {
+		font-weight: 600;
+}
+
 .content {
   font-size: large;
+  font-weight: 500;
 }
 
 .navbar-brand img {
@@ -72,11 +77,26 @@ html {
 .register {
   border-radius: 15px;
   padding: 20px 24px;
+  font-size: medium;
+}
+
+.tedx-link {
+  color: $primary;
+  text-decoration: underline;
 }
 
 .links {
   color: $info;
   text-decoration: underline;
+}
+
+.contact-link {
+  color: white;
+  text-decoration: underline;
+}
+
+.icon {
+  color: $info-invert;
 }
 
 .tba {
@@ -102,6 +122,7 @@ html {
   position: relative;
   display: block;
   width: calc(20% - 1rem);
+  font-weight: regular;
 }
 
 @media only screen and (max-width: 950px) {
