@@ -1,13 +1,22 @@
 ---
 ---
 
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
 $dark: black;
 $primary: rgba(230, 43, 30, 0.9);
+$info: #F1FF39;
+$info-invert: black;
+$family-sans-serif: Raleway, sans-serif;
 
 @import "bulma-scss/bulma";
 
 html {
   background: $dark;
+}
+
+.content {
+  font-size: large;
 }
 
 .navbar-brand img {
@@ -38,7 +47,7 @@ html {
 }
 
 .yellow-highlight {
-  background: #F1FF39;
+  background: $info;
   color: $dark;
   margin-left: -1000px;
   margin-right: -1000px;
@@ -46,4 +55,62 @@ html {
   padding-right: 1000px;
   padding-top: 5px;
   padding-bottom: 5px;
+  margin-bottom: 1rem;
+}
+
+.tba {
+  font-size: x-large;
+  text-align: center;
+  color: $info;
+}
+
+.team-list {
+  text-align: center;
+  padding-top: 2.5rem;
+  padding-bottom: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -1rem;
+}
+
+.team-member {
+  padding: 0.5rem;
+  text-align: center;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  position: relative;
+  display: block;
+  width: calc(20% - 1rem);
+}
+
+@media only screen and (max-width: 950px) {
+  .team-member {
+    width: calc(33.33% - 1rem);
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .team-member {
+    width: calc(50% - 1rem);
+  }
+}
+
+@media only screen and (max-width: 350px) {
+  .team-member {
+    width: 100%;
+  }
+}
+
+// Ensure that anchor links don't skip the headers
+@media screen and (min-width: 1024px) {
+  .hero {
+    margin-top: -84px;
+    padding-top: 84px;
+  }
+}
+@media screen and (max-width: 1023px) {
+  .hero {
+    margin-top: -52px;
+    padding-top: 52px;
+  }
 }
