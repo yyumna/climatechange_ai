@@ -2,12 +2,14 @@
 ---
 
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@700&display=swap');
 
 $dark: black;
 $primary: rgba(230, 43, 30, 0.9);
 $info: #F1FF39;
 $info-invert: black;
 $family-sans-serif: Raleway, sans-serif;
+$title-font-family: Cairo; 
 
 @import "bulma-scss/bulma";
 
@@ -56,6 +58,25 @@ html {
   padding-top: 5px;
   padding-bottom: 5px;
   margin-bottom: 1rem;
+}
+
+::selection {
+  color: $info-invert;
+  background: $info;
+}
+
+.title-font {
+  font-family: $title-font-family;
+}
+
+.register {
+  border-radius: 15px;
+  padding: 20px 24px;
+}
+
+.links {
+  color: $info;
+  text-decoration: underline;
 }
 
 .tba {
