@@ -9,7 +9,7 @@ $primary: rgba(230, 43, 30, 0.9);
 $info: #F1FF39;
 $info-invert: black;
 $family-sans-serif: Raleway, sans-serif;
-$title-font-family: Cairo; 
+$title-font-family: Cairo;
 $link: $primary;
 
 @import "bulma-scss/bulma";
@@ -25,11 +25,6 @@ html {
 .content {
   font-size: large;
   font-weight: 500;
-
-  a:not(.button):hover {
-    color: $link;
-    text-decoration: underline;
-  }
 }
 
 .navbar-brand img {
