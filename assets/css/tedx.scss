@@ -18,6 +18,10 @@ html {
   background: $dark;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 .page-title {
 		font-weight: 600;
 }
