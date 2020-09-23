@@ -25,7 +25,7 @@ speakers:
     image_url: /images/bw_george_kamiya.png
     website_url: 'https://www.iea.org/authors/george-kamiya'
     twitter_url: 'https://twitter.com/georgekamiya'
-    speaker_path: '/tedx/speakers/george-kamiya.html'
+    speaker_path: '/events/tedx/speakers/george-kamiya.html'
     bio_html: |-
       <p>
         George coordinates
@@ -46,7 +46,7 @@ speakers:
     image_url: /images/bw_catherine_nakalembe.png
     website_url: 'https://geog.umd.edu/facultyprofile/nakalembe/catherine'
     twitter_url: 'https://twitter.com/clnakalembe'
-    speaker_path: '/tedx/speakers/catherine-nakalembe.html'
+    speaker_path: '/events/tedx/speakers/catherine-nakalembe.html'
     bio_html: |-
       <p>
         Catherine Nakalembe is Assistant Research Professor at the University

@@ -34,9 +34,8 @@
 
   {% assign navroot = "" %}
   {% assign navkls = "is-fixed-top" %}
-  {% assign depth = page.url | split: '/' | size | minus: 1 %}
-  {% if depth > 1 %}
-    {% assign navroot = "/tedx" %}
+  {% if page.url contains "speakers" %}
+    {% assign navroot = "/events/tedx" %}
     {% assign navkls = "" %}
   {% endif %}
 

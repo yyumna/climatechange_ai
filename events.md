@@ -17,5 +17,6 @@ Our events provide opportunities to share work at the intersection of climate ch
 * [ICML 2019](/events/icml2019) -- Jun 14, 2019 in Long Beach, CA, USA
 
 ## Other Events
+* [TEDx Countdown](/events/tedx) -- Oct 17, 2020, virtual
 * [Energy Happy Hour](/events/energy_happy_hour) -- Aug 4, 2020 via Zoom
 * [COP25](/events/cop25) -- Dec 4, 2019 in Madrid, Spain
