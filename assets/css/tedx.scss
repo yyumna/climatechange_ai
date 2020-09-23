@@ -18,7 +18,7 @@ html {
   background: $dark;
 }
 
-body {
+body:not(.depth-3) {
   overflow-x: hidden;
 }
 
@@ -60,8 +60,7 @@ body {
   margin-bottom: 2rem;
 }
 
-.yellow-highlight {
-  background: $info;
+.highlight-stripe {
   color: $dark;
   margin-left: -1000px;
   margin-right: -1000px;
@@ -70,6 +69,17 @@ body {
   padding-top: 5px;
   padding-bottom: 5px;
   margin-bottom: 1rem;
+
+  &.highlight-stripe--yellow {
+    background: $info;
+  }
+
+  &.highlight-stripe--red {
+    background: $primary;
+    &, a {
+      color: whitesmoke;
+    }
+  }
 }
 
 ::selection {
@@ -107,12 +117,23 @@ body {
 }
 
 .tba {
-  font-size: x-large;
   text-align: center;
-  color: $info;
+  color: black;
+  background: whitesmoke;
+  width: 100%;
+  height: calc(100% - 2rem);
+  min-height: 5.25rem;
+  position: relative;
+
+  .tba-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translatex(-50%);
+  }
 }
 
-.team-list {
+.team-list, .speaker-list {
   text-align: center;
   padding-top: 2.5rem;
   padding-bottom: 1rem;
@@ -121,20 +142,31 @@ body {
   margin-right: -1rem;
 }
 
-.team-member {
+.team-member, .speaker {
   padding: 0.5rem;
   text-align: center;
   margin-right: 1rem;
   margin-bottom: 1rem;
   position: relative;
   display: block;
-  width: calc(20% - 1rem);
   font-weight: regular;
+}
+
+.team-member {
+  width: calc(20% - 1rem);
+}
+
+.speaker {
+  width: calc(25% - 1rem);
 }
 
 @media only screen and (max-width: 950px) {
   .team-member {
     width: calc(33.33% - 1rem);
+  }
+
+  .speaker {
+    width: calc(50% - 1rem);
   }
 }
 
@@ -145,7 +177,7 @@ body {
 }
 
 @media only screen and (max-width: 350px) {
-  .team-member {
+  .team-member, .speaker {
     width: 100%;
   }
 }
@@ -169,3 +201,23 @@ body {
     text-align: center;
   }
 }
+
+.tedx-speaker {
+  color: whitesmoke;
+  min-height: calc(100vh - 4.5rem);
+
+  .column {
+    padding: 5.25rem 3.24rem;
+    padding-bottom: 2rem;
+
+    h2.title-font {
+      margin-bottom: 0;
+    }
+  }
+
+  .column:first-child {
+    background: $info;
+  }
+}
+
+
