@@ -104,11 +104,13 @@ body:not(.depth-3) {
 
 .links {
   color: $info;
-  text-decoration: underline;
 }
 
 .contact-link {
   color: white;
+}
+
+.links, .contact-link, .speaker a {
   text-decoration: underline;
 }
 
