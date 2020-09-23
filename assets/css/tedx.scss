@@ -1,0 +1,225 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@700&display=swap');
+
+$dark: black;
+$primary: rgba(230, 43, 30, 0.9);
+$info: #F1FF39;
+$info-invert: black;
+$family-sans-serif: Raleway, sans-serif;
+$title-font-family: Cairo;
+$link: $primary;
+
+@import "bulma-scss/bulma";
+
+html {
+  background: $dark;
+}
+
+body:not(.depth-3) {
+  overflow-x: hidden;
+}
+
+.page-title {
+		font-weight: 600;
+}
+
+.content {
+  font-size: large;
+  font-weight: 500;
+}
+
+.navbar-brand img {
+  max-height: 52px;
+}
+
+@media screen and (min-width: 1024px) {
+  .navbar-brand .navbar-item {
+    padding: 0;
+  }
+}
+
+.parallax-mirror[style*="visible"] + .navbar.is-dark {
+  background: transparent;
+}
+
+.hero#landing {
+  background: rgba(0,0,0,0.25);
+}
+
+.countdown-logo {
+  width: 100%;
+  max-width: 600px;
+}
+
+.countdown-logo-wrapper {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.highlight-stripe {
+  color: $dark;
+  margin-left: -1000px;
+  margin-right: -1000px;
+  padding-left: 1000px;
+  padding-right: 1000px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 1rem;
+
+  &.highlight-stripe--yellow {
+    background: $info;
+  }
+
+  &.highlight-stripe--red {
+    background: $primary;
+    &, a {
+      color: whitesmoke;
+    }
+  }
+}
+
+::selection {
+  color: $info-invert;
+  background: $info;
+}
+
+.title-font {
+  font-family: $title-font-family;
+}
+
+.register {
+  border-radius: 15px;
+  padding: 20px 24px;
+  font-size: medium;
+}
+
+.tedx-link {
+  color: $primary;
+  text-decoration: underline;
+}
+
+.links {
+  color: $info;
+}
+
+.contact-link {
+  color: white;
+}
+
+.links, .contact-link, .speaker a {
+  text-decoration: underline;
+}
+
+.icon {
+  color: $info-invert;
+}
+
+.tba {
+  text-align: center;
+  color: black;
+  background: whitesmoke;
+  width: 100%;
+  height: calc(100% - 35px);
+  min-height: 5.25rem;
+  position: relative;
+
+  .tba-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translatex(-50%);
+  }
+}
+
+.team-list, .speaker-list {
+  text-align: center;
+  padding-top: 2.5rem;
+  padding-bottom: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -1rem;
+}
+
+.team-member, .speaker {
+  padding: 0.5rem;
+  text-align: center;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  position: relative;
+  display: block;
+  font-weight: regular;
+}
+
+.team-member {
+  width: calc(20% - 1rem);
+}
+
+.speaker {
+  width: calc(25% - 1rem);
+}
+
+@media only screen and (max-width: 950px) {
+  .team-member {
+    width: calc(33.33% - 1rem);
+  }
+
+  .speaker {
+    width: calc(50% - 1rem);
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .team-member {
+    width: calc(50% - 1rem);
+  }
+}
+
+@media only screen and (max-width: 350px) {
+  .team-member, .speaker {
+    width: 100%;
+  }
+}
+
+#speakers, #team, #contact {
+  border-top: 1px dotted #333;
+}
+
+// Ensure that anchor links don't skip the headers
+@media screen and (min-width: 1024px) {
+  #speakers, #team, #contact {
+    padding-top: 84px;
+    padding-bottom: 24px;
+  }
+}
+@media screen and (max-width: 1023px) {
+  #speakers, #team, #contact {
+    padding-top: 62px;
+  }
+  h2.title {
+    text-align: center;
+  }
+}
+
+.tedx-speaker {
+  color: whitesmoke;
+  min-height: calc(100vh - 4.5rem);
+
+  .column {
+    padding: 5.25rem 3.24rem;
+    padding-bottom: 2rem;
+
+    h2.title-font {
+      margin-bottom: 0;
+    }
+  }
+
+  .column:first-child {
+    background: $info;
+  }
+}
+
+

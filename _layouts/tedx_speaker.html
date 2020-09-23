@@ -1,0 +1,36 @@
+---
+layout: tedx
+---
+
+{% assign ps = site.data.tedx_2020.speakers | where: "speaker_path", page.url %}
+{% assign p = ps.first %}
+
+<div class='columns tedx-speaker'>
+  <div class='column is-one-third'>
+    <div class='container has-text-centered'>
+      <div class='content'>
+        <img src='{{p.image_url}}'/>
+        <br />
+        <h2 class='title title-font'>{{ p.name }}</h2>
+        <br />
+        <a href="{{ p.website_url }}" target="_blank">
+          <span class="icon">
+            <i class="mdi mdi-earth" aria-hidden="true"></i>
+          </span>
+        </a>
+        <a href="{{ p.twitter_url }}" target="_blank">
+          <span class="icon">
+            <i class="mdi mdi-twitter" aria-hidden="true"></i>
+          </span>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class='column is-two-thirds'>
+    <div class='container'>
+      <div class='content'>
+        {{p.bio_html}}
+      </div>
+    </div>
+  </div>
+</div>

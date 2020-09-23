@@ -1,0 +1,246 @@
+---
+layout: tedx
+title: TEDx + Climate Change AI
+description: Tackling Climate Change with Machine Learning
+---
+
+<section
+  class="hero is-dark is-fullheight"
+  id="landing"
+  data-parallax="scroll"
+  data-image-src="/images/asia_vir_2016_1600.png"
+  data-natural-width="1600"
+  data-natural-height="1290"
+>
+  <div class="hero-head"></div>
+  <div class="hero-body">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-2"></div>
+        <div class="column is-8">
+          <h1 class="title page-title">
+            Climate Change + Machine Learning
+          </h1>
+
+          <div class="content">
+            <p>
+              A day of talks and critical conversations about how machine
+              learning fits in with climate action.
+            </p>
+
+            <p>
+              Join us in the
+              <a class="links" href="https://countdown.ted.com/" target="_blank"
+                >effort</a
+              >
+              to help build a better future.
+            </p>
+
+            <a
+              class="button is-primary register"
+              href="https://www.eventbrite.com/e/tedxclimatechangeai-tickets-121959864237"
+              >Register</a
+            >
+          </div>
+        </div>
+
+        <div class="column is-2"></div>
+      </div>
+    </div>
+  </div>
+  <div class="hero-foot"></div>
+</section>
+
+<section class="hero is-dark is-fullheight-with-navbar" id="about">
+  <div class="hero-head"></div>
+  <div class="hero-body">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-2"></div>
+        <div class="column is-8">
+          <div class="countdown-logo-wrapper">
+            <img src="/images/countdown_logo.gif" class="countdown-logo" />
+          </div>
+          <div class="content">
+            <p>
+              We at
+              <a class="links" href="/" target="_blank">Climate Change AI</a>
+              believe in the power of
+              <a
+                class="tedx-link"
+                href="https://www.ted.com/about/programs-initiatives/tedx-program"
+                target="_blank"
+                >ideas worth spreading</a
+              >. Ideas that start out as an inkling of hope, a call to a better
+              future, but ones that eventually transform our lives through our
+              collective belief and action.
+            </p>
+            <p>
+              Our planet and society face a formidable challenge in the decades
+              ahead as natural disasters multiply, sea levels rise, and natural
+              ecosystems falter due to climate change.
+            </p>
+            <p class="highlight-stripe highlight-stripe--yellow">
+              Addressing climate change will require systems solutions, with
+              participation from across academia, industry, the public sector,
+              and the grassroots.
+            </p>
+            <p>
+              It is with this belief that we are organizing a TEDx
+              <a class="links" href="https://countdown.ted.com/" target="_blank"
+                >Countdown</a
+              >
+              event this October to further the conversation around climate
+              change, and how machine learning fits into the narrative. Join us.
+            </p>
+          </div>
+        </div>
+        <div class="column is-2"></div>
+      </div>
+    </div>
+  </div>
+  <div class="hero-foot"></div>
+</section>
+
+<section class="hero is-dark" id="speakers">
+  <div class="hero-head">
+    <div class="container">
+      <h2 class="title title-font">
+        Speakers
+      </h2>
+    </div>
+  </div>
+  <div class="hero-body">
+    <div class="container">
+      <div class="highlight-stripe highlight-stripe--red">
+        <div class="speaker-list">
+          {% for p in site.data.tedx_2020.speakers %}
+          <div class="speaker">
+            {% if p.name %}
+            <a href="{{ p.speaker_path }}">
+              <img src="{{ p.image_url }}" />
+            </a>
+            <br />
+            <a href="{{ p.speaker_path }}">{{ p.name }}</a>
+            {% else %}
+            <div class="tba">
+              <div class="tba-text">
+                To Be Announced
+              </div>
+            </div>
+            {% endif %}
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+
+      <div class="content">
+        <p>
+          + a mixture of diverse content from TED
+          <a class="links" href="https://countdown.ted.com/" target="_blank"
+            >Countdown</a
+          >.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="hero-foot"></div>
+</section>
+
+<section class="hero is-dark" id="team">
+  <div class="hero-head">
+    <div class="container">
+      <h2 class="title title-font">
+        The Team
+      </h2>
+    </div>
+  </div>
+  <div class="hero-body">
+    <div class="container">
+      <div class="highlight-stripe highlight-stripe--yellow">
+        <div class="team-list">
+          {% for p in site.data.tedx_2020.team %}
+          <div class="team-member">
+            <img src="{{ p.image_url }}" />
+            <br />
+            <span>{{ p.name }}</span>
+            <br />
+            <a href="{{ p.website_url }}" target="_blank">
+              <span class="icon">
+                <i class="mdi mdi-earth" aria-hidden="true"></i>
+              </span>
+            </a>
+            <a href="{{ p.twitter_url }}" target="_blank">
+              <span class="icon">
+                <i class="mdi mdi-twitter" aria-hidden="true"></i>
+              </span>
+            </a>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+
+      <div class="content">
+        <p>
+          And invaluable help from the broader
+          <a class="links" href="https://www.climatechange.ai" target="_blank"
+            >CCAI organization</a
+          >.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="hero-foot"></div>
+</section>
+
+<section class="hero is-dark" id="contact">
+  <div class="hero-head">
+    <div class="container">
+      <h2 class="title title-font">
+        Contact
+      </h2>
+    </div>
+  </div>
+  <div class="hero-body has-text-centered">
+    <div class="container">
+      <div class="content">
+        <a
+          class="button is-info register"
+          href="https://www.eventbrite.com/e/tedxclimatechangeai-tickets-121959864237"
+          >Register</a
+        >
+        <br />
+        <br />
+        <span>
+          <a
+            class="contact-link"
+            href="mailto:climatechangeai+tedxcountdown@gmail.com"
+            >Email</a
+          >
+          /
+          <a
+            class="contact-link"
+            href="https://twitter.com/ClimateChangeAI"
+            target="_blank"
+            >Twitter</a
+          >
+          /
+          <a
+            class="contact-link"
+            href="https://www.facebook.com/climatechangeai/"
+            target="_blank"
+            >Facebook</a
+          >
+          /
+          <a
+            class="contact-link"
+            href="https://www.linkedin.com/company/climatechangeai"
+            target="_blank"
+            >LinkedIn</a
+          >
+        </span>
+      </div>
+    </div>
+  </div>
+  <div class="hero-foot"></div>
+</section>

@@ -1,0 +1,82 @@
+---
+team:
+  - image_url: "/images/bw_shuby.png"
+    name: Shuby Deshpande
+    website_url: "https://shuby.de"
+    twitter_url: "https://twitter.com/bhaprayan"
+  - image_url: "/images/bw_priya.png"
+    name: Priya Donti
+    website_url: "https://priyadonti.com"
+    twitter_url: "https://twitter.com/priyald17"
+  - image_url: "/images/bw_lynn.png"
+    name: Lynn Kaack
+    website_url: "https://epg.ethz.ch/people/senior-researchers/dr--lynn-kaack.html"
+    twitter_url: "https://twitter.com/lynnhkaack"
+  - image_url: "/images/bw_sasha.png"
+    name: Sasha Luccioni
+    website_url: "https://sashaluccioni.com"
+    twitter_url: "https://twitter.com/sashamtl"
+  - image_url: "/images/bw_davidr.png"
+    name: David Rolnick
+    website_url: "http://www.davidrolnick.com"
+    twitter_url: "https://twitter.com/david_rolnick"
+speakers:
+  - name: George Kamiya
+    image_url: /images/bw_george_kamiya.png
+    website_url: 'https://www.iea.org/authors/george-kamiya'
+    twitter_url: 'https://twitter.com/georgekamiya'
+    speaker_path: '/events/tedx/speakers/george-kamiya.html'
+    bio_html: |-
+      <p>
+        George coordinates
+        <a href='https://www.iea.org/' target='_blank'>the IEA's</a> work
+        on digitalisation and tracking clean energy progress, and leads the
+        agency’s analysis on ICT energy use and automated and shared mobility.
+      </p>
+
+      <p>
+        He was a lead author of the
+        <a href='https://www.iea.org/reports/digitalisation-and-energy' target='_blank'>
+          2017 Digitalization & Energy report
+        </a>
+        and has contributed to the agency's work on climate
+        change mitigation and adaptation.
+      </p>
+  - name: Catherine Nakalembe
+    image_url: /images/bw_catherine_nakalembe.png
+    website_url: 'https://geog.umd.edu/facultyprofile/nakalembe/catherine'
+    twitter_url: 'https://twitter.com/clnakalembe'
+    speaker_path: '/events/tedx/speakers/catherine-nakalembe.html'
+    bio_html: |-
+      <p>
+        Catherine Nakalembe is Assistant Research Professor at the University
+        of Maryland. She grew up in Kampala, Uganda, where she earned a BSc. at
+        Makerere University in Environmental Science. Dr. Nakalembe earned an
+        MSc. in Geography and Environmental Engineering from Johns Hopkins
+        University and her Ph.D. in Geographical Science at the University of
+        Maryland. Most recently, she was awarded the 2020 Africa Food Prize
+        (AFP) for her contributions to the promotion of food security across
+        the continent.
+      </p>
+
+      <p>
+        Dr. Nakalembe has broad interests including agriculture, food security,
+        remote sensing, and climate change. She has worked with the World Bank
+        Environment Group and Climate Change Unit, The Nature Conservancy,
+        Washington Adventist University, The United Nations Development Program
+        (UNDP) and the NASA LCLUC program. She is currently working with
+        government agencies in Kenya, Tanzania, and Uganda as a co-investigator
+        on the NASA SERVIR Applied Sciences Team and NASA Harvest. She also
+        serves as the Program Assistant for the NASA Land Cover and Land Use
+        Change Program.
+      </p>
+
+      <p>
+        Dr. Nakalembe's doctoral research focused on drought and its impacts on
+        land use and livelihoods in the Karamoja region of North Eastern
+        Uganda. She pioneered the repurposing of remote sensing by unmanned
+        aerial vehicles (UAVs) from agricultural monitoring, to the survey of
+        major refugee camps in her native Uganda.
+      </p>
+  - bio_html: "TBA"
+  - bio_html: "TBA"
