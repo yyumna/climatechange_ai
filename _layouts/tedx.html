@@ -34,12 +34,14 @@
 
   {% assign navroot = "" %}
   {% assign navkls = "is-fixed-top" %}
+  {% assign bodkls = "" %}
   {% if page.url contains "speakers" %}
     {% assign navroot = "/events/tedx" %}
     {% assign navkls = "" %}
+    {% assign bodkls = "speakers" %}
   {% endif %}
 
-  <body class='depth-{{depth}}'>
+  <body class='{{bodkls}}'>
     <nav
       class="navbar is-dark is-spaced {{navkls}}"
       role="navigation"
