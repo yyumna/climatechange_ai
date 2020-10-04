@@ -35,13 +35,13 @@ NeurIPS is one of the premier conferences on machine learning, and includes a wi
 
 ## About the Workshop
 
- - Date: December 11 or 12 (TBD)
- - Location:  Virtual  
- - ~~[Mentorship program](#submission-mentorship-program) application deadline: August 25~~
- - Paper/Proposal submission deadline: October 6, 11:59pm Anywhere on Earth (UTC-12).
- - Notification:  October 30
- - Submission website: <https://cmt3.research.microsoft.com/CCAINeurIPS2020>
- - Contact: <climatechangeai.neurips2020@gmail.com>
+ - **Date:** December 11 or 12 (TBD)
+ - **Location:**  Virtual  
+ - ~~**[Mentorship program](#submission-mentorship-program) application deadline:** August 25~~
+ - **Paper/Proposal submission deadline:** October 6, 11:59pm Anywhere on Earth (UTC-12).
+ - **Notification:**  October 30
+ - **Submission website:** <https://cmt3.research.microsoft.com/CCAINeurIPS2020>
+ - **Contact:** <climatechangeai.neurips2020@gmail.com>
 
 ## Call for Submissions
 
