@@ -22,7 +22,7 @@ og_image_height: 327
 ***
 
 <center> <h3>Announcements</h3> </center>
-* The call for submissions of Papers or Proposals is now available [here](#call-for-submissions). Submissions are due by Oct 6.
+* The call for submissions of Papers or Proposals is now available [here](#call-for-submissions). Submissions are due by Oct 6, Anywhere on Earth (i.e., by 11:59pm UTC-12).
 * We held a webinar on Thursday, August 20 to provide advice on how to prepare a successful submission. View the recording [here](https://www.youtube.com/watch?v=prDI7Oy-VMM).
 
 ***
@@ -38,7 +38,7 @@ NeurIPS is one of the premier conferences on machine learning, and includes a wi
  - **Date:** December 11 or 12 (TBD)
  - **Location:**  Virtual  
  - ~~**[Mentorship program](#submission-mentorship-program) application deadline:** August 25~~
- - **Paper/Proposal submission deadline:** October 6, 11:59pm Anywhere on Earth (UTC-12).
+ - **Paper/Proposal submission deadline:** October 6, Anywhere on Earth
  - **Notification:**  October 30
  - **Submission website:** <https://cmt3.research.microsoft.com/CCAINeurIPS2020>
  - **Contact:** <climatechangeai.neurips2020@gmail.com>
