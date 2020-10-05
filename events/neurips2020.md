@@ -189,8 +189,10 @@ Between August 26-28, selected mentors may be asked to provide additional input 
 David Dao* (ETH) <br>
 Evan Sherwin* (Stanford) <br>
 Priya Donti (CMU) <br>
+Lynn Kaack (ETH) <br>
 Lauren Kuntz (Gaiascope) <br>
 Yumna Yusuf (UK Gov) <br>
+David Rolnick (McGill) <br>
 Catherine Nakalembe (UMD) <br>
 Claire Monteleoni (CU Boulder) <br>
 Yoshua Bengio (Mila) <br>
