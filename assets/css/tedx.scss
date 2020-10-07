@@ -83,6 +83,10 @@ body.speakers {
     background: $info;
   }
 
+  &.highlight-stripe--white {
+    background: whitesmoke;
+  }
+
   &.highlight-stripe--red {
     background: $primary;
     &, a {
@@ -193,19 +197,27 @@ body.speakers {
   }
 }
 
-#speakers, #team, #contact {
+#speakers, #team, #contact, #sponsors {
   border-top: 1px dotted #333;
+}
+
+.sponsor {
+  text-align: center;
+
+  img {
+    max-width: 175px;
+  }
 }
 
 // Ensure that anchor links don't skip the headers
 @media screen and (min-width: 1024px) {
-  #speakers, #team, #contact {
+  #speakers, #team, #contact, #sponsors {
     padding-top: 84px;
     padding-bottom: 24px;
   }
 }
 @media screen and (max-width: 1023px) {
-  #speakers, #team, #contact {
+  #speakers, #team, #contact, #sponsors {
     padding-top: 62px;
   }
   h2.title {
