@@ -117,4 +117,35 @@ speakers:
         (2016), and the VERGE Vanguard Award (2018).
       </p>
 
-  - bio_html: "TBA"
+  - name: "CCAI Team"
+    website_url: https://www.climatechange.ai
+    twitter_url: https://twitter.com/climatechangeai
+    image_url: /images/bw_collage.png
+    speaker_path: '/events/tedx/speakers/ccai-team.html'
+    bio_html: |-
+      <p>
+        Climate Change AI (CCAI) is a group of volunteers from academia and
+        industry who believe that tackling climate change requires concerted
+        societal action, in which machine learning can play an impactful role.
+        Since it was founded in June 2019, CCAI has led the creation of a
+        global movement in climate change and machine learning, encompassing
+        researchers, engineers, entrepreneurs, investors, policymakers,
+        companies, and NGOs.
+      </p>
+
+      <p>
+        Speakers:
+        <ul>
+          <li><a href="http://www.davidrolnick.com/" target="_blank">David Rolnick</a>, Assistant Professor in the School of Computer Science at McGill University and at Mila</li>
+          <li><a href="https://priyadonti.com/" target="_blank">Priya Donti</a>, PhD Student in Computer Science & Public Policy at Carnegie Mellon University</li>
+          <li><a href="https://epg.ethz.ch/people/senior-researchers/dr--lynn-kaack.html" target="_blank">Lynn Kaack</a>, Postdoctoral Researcher in the Energy Politics Group at ETH Zürich</li>
+          <li><a href="https://www.mcc-berlin.net/en/about/team/milojevic-dupont-nikola.html" target="_blank">Nikola Milojevic-Dupont</a>, PhD student in Land Use, Infrastructure and Transport at the MCC Berlin and at the TU Berlin</li>
+          <li><a href="https://workofthefuture.mit.edu/team-member/anna-waldman-brown/" target="_blank">Anna Waldman-Brown</a>, PhD student in Political Economy at the Department of Urban Studies and Planning at MIT</li>
+          <li><a href="https://scholar.google.com/citations?user=71a2-WMAAAAJ&hl=en" target="_blank">Alexandre Lacoste</a>, Research Scientist at Element AI</li>
+          <li><a href="https://www.evansherwin.com/" target="_blank">Evan D. Sherwin</a>, Postdoctoral Research Fellow, Energy and Resources Engineering at Stanford University</li>
+          <li><a href="http://www.kochanski.org/kelly/" target="_blank">Kelly Kochanski</a>, Data Scientist in Climate Analytics at McKinsey & Company</li>
+          <li><a href="https://krisrs1128.github.io/personal-site/" target="_blank">Kris Sankaran</a>, Assistant Professor in the Department of Statistics at UW Madison</li>
+          <li><a href="https://scholar.google.ca/citations?user=8iCb2TwAAAAJ&hl=en" target="_blank">Natasha Jaques</a>, Research Scientist at Google Research (Brain Team), Post-doctoral Researcher at UC Berkeley</li>
+          <li><a href="https://sashaluccioni.com/" target="_blank">Sasha Luccioni</a>, Postdoctoral researcher at Université de Montréal and Mila</li>
+        </ul>
+      </p>
