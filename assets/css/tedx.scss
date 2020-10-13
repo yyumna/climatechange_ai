@@ -197,7 +197,7 @@ body.speakers {
   }
 }
 
-#speakers, #team, #contact, #sponsors {
+#speakers, #team, #contact, #sponsors, #schedule {
   border-top: 1px dotted #333;
 }
 
@@ -211,18 +211,64 @@ body.speakers {
 
 // Ensure that anchor links don't skip the headers
 @media screen and (min-width: 1024px) {
-  #speakers, #team, #contact, #sponsors {
+  #speakers, #team, #contact, #sponsors, #schedule {
     padding-top: 84px;
     padding-bottom: 24px;
   }
 }
 @media screen and (max-width: 1023px) {
-  #speakers, #team, #contact, #sponsors {
+  #speakers, #team, #contact, #sponsors, #schedule {
     padding-top: 62px;
   }
   h2.title {
     text-align: center;
   }
+}
+
+.schedule-table {
+  width: 100%;
+  font-size: large;
+  td {
+    padding-top: 16px;
+  }
+  td.schedule-table-when {
+    font-weight: bold;
+    border-right: 2px solid $info;
+    text-align: center !important;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    white-space: nowrap;
+  }
+  td.schedule-table-what {
+    padding-left: 4rem;
+    width: 100%;
+  }
+  tr {
+    border-bottom: 2px solid $info;
+  }
+  tr:first-child {
+    border-bottom: none;
+  }
+  tr:last-child {
+    border-bottom: none;
+    td {
+      padding-bottom: 16px;
+    }
+  }
+
+}
+@media screen and (max-width: 1023px) {
+  .schedule-table {
+    td.schedule-table-when {
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+    td.schedule-table-what {
+      padding-left: 1rem;
+      width: 100%;
+    }
+  }
+
 }
 
 .tedx-speaker {

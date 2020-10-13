@@ -147,6 +147,40 @@ description: Tackling Climate Change with Machine Learning
   <div class="hero-foot"></div>
 </section>
 
+<section class="hero is-dark" id="schedule">
+  <div class="hero-head">
+    <div class="container">
+      <h2 class="title title-font">
+        Schedule
+      </h2>
+    </div>
+  </div>
+  <div class="hero-body">
+    <div class="container">
+      <p class='content'>
+      All times in ET.
+      </p>
+      <table class="schedule-table">
+        <tr>
+          <td class='schedule-table-when'></td>
+          <td class='schedule-table-what'></td>
+        </tr>
+        {% for s in site.data.tedx_2020.schedule %}
+          <tr>
+            <td class='schedule-table-when'>{{ s.when }}</td>
+            <td class='schedule-table-what'>{{ s.what }}</td>
+          </tr>
+        {% endfor %}
+        <tr>
+          <td class='schedule-table-when'></td>
+          <td class='schedule-table-what'></td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="hero-foot"></div>
+</section>
+
 <section class="hero is-dark" id="team">
   <div class="hero-head">
     <div class="container">

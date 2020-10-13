@@ -20,6 +20,41 @@ team:
     name: David Rolnick
     website_url: "http://www.davidrolnick.com"
     twitter_url: "https://twitter.com/david_rolnick"
+schedule:
+  - what: Opening Remarks
+    when: '9:00 - 9:10'
+  - what: TED Countdown Talk 4
+    when: '9:10 - 9:20'
+  - what: "<a class='tedx-link' href='/events/tedx/speakers/catherine-nakalembe.html'>Catherine Nakalembe</a>"
+    when: '9:20 - 9:50'
+  - what: Breakout (Gather)
+    when: '9:50 - 10:15'
+  - what: Tea Break
+    when: '10:15 - 10:30'
+  - what: TED Countdown Talk 3
+    when: '10:30 - 10:45'
+  - what: "<a class='tedx-link' href='/events/tedx/speakers/george-kamiya.html'>George Kamiya</a>"
+    when: '10:45 - 11:15'
+  - what: Breakout (Gather)
+    when: '11:15 - 11:40'
+  - what: Lunch Break
+    when: '11:40 - 12:30'
+  - what: TED Countdown Talk 2
+    when: '12:30 - 12:40'
+  - what: "<a class='tedx-link' href='/events/tedx/speakers/ccai-team.html'>CCAI Team</a>"
+    when: '12:40 - 13:10'
+  - what: Breakout (Gather)
+    when: '13:10 - 13:35'
+  - what: Tea Break
+    when: '13:35 - 13:50'
+  - what: TED Countdown Talk 1
+    when: '13:50 - 14:00'
+  - what: "<a class='tedx-link' href='/events/tedx/speakers/bill-weihl.html'>Bill Weihl</a>"
+    when: '14:00 - 14:30'
+  - what: Breakout (Gather)
+    when: '14:30 - 14:50'
+  - what: Closing Remarks
+    when: '14:50 - 15:00'
 speakers:
   - name: George Kamiya
     image_url: /images/bw_george_kamiya.png
