@@ -5,7 +5,7 @@
   image: /images/summaries_teaser.png
   url: /summaries
 - title: Watch our Climate Change 101 and Machine Learning 101 tutorials
-  url: https://www.youtube.com/watch?v=KB4vUk1-yNQ
+  url: /tutorials
 - title: Check out recordings from our virtual ICLR 2020 workshop
   image: /images/ICLR_workshop_preview.png
   url: https://www.climatechange.ai/events/iclr2020
