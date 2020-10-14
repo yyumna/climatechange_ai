@@ -1,12 +1,12 @@
-- title: Contribute to the CCAI datasets wishlist
-  image: /images/wishlist_img.jpg
-  url: https://docs.google.com/document/d/1E1vhuGNiUWUbij8WxqNbTfytxfyaS9LnaBEdx58KQQc/edit
-- title: Browse interactive summaries of topics in climate change and ML
+- title: Check out an interactive summary of our paper on climate change and ML
   image: /images/summaries_teaser.png
   url: /summaries
-- title: Watch our Climate Change 101 and Machine Learning 101 tutorials
+- title: Watch our tutorials on climate change or machine learning
   url: /tutorials
-- title: Check out recordings from our virtual ICLR 2020 workshop
+- title: Contribute to our wishlist of critical datasets
+  image: /images/wishlist_img.jpg
+  url: https://docs.google.com/document/d/1E1vhuGNiUWUbij8WxqNbTfytxfyaS9LnaBEdx58KQQc/edit
+- title: Browse recorded talks from our workshop at ICLR 2020
   image: /images/ICLR_workshop_preview.png
   url: https://www.climatechange.ai/events/iclr2020
 - title: Join the conversation on our discussion forum
