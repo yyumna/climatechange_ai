@@ -1,0 +1,87 @@
+---
+layout: default
+title: Climate Change AI
+description: Tackling Climate Change with Machine Learning
+---
+
+<section>
+  <h1>Climate Change AI</h1>
+  Climate Change AI aims to catalyze impactful work at the intersection of climate change and machine learning.
+</section>
+
+<section>
+  <h2>News and events</h2>
+
+  <div class='carousel'>
+    {% for e in site.data.news %}
+      <div class='carousel__item'>
+        {% if e.image %}
+          <div class='carousel__background' style='background-image: url("{{ e.image }}")'></div>
+        {% else %}
+          <div class='carousel__background' style='background-image: url("/images/full_light_earth_lowres.jpeg")'></div>
+        {% endif %}
+        <a class='carousel__link' href='{{ e.url }}' target='_blank'>
+          {{ e.title }}
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section>
+  <h2>Featured content</h2>
+
+  <div class='carousel'>
+    {% for e in site.data.featured_content %}
+      <div class='carousel__item'>
+        {% if e.image %}
+          <div class='carousel__background' style='background-image: url("{{ e.image }}")'></div>
+        {% else %}
+          <div class='carousel__background' style='background-image: url("/images/full_light_earth_lowres.jpeg")'></div>
+        {% endif %}
+        <a class='carousel__link' href='{{ e.url }}' target='_blank'>
+          {{ e.title }}
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section>
+  <h2>Sign up for our newsletter</h2>
+
+  {% include newsletter_signup_email_only.html %}
+</section>
+
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+<style>
+section {
+  margin-bottom: 2rem;
+}
+</style>
+<script>
+$(document).ready(function(){
+   $('.carousel').slick({
+       slidesToShow: 4,
+       slidesToScroll: 4,
+       responsive: [
+        {
+          breakpoint: 768,
+          settings: {
+            slidesToShow: 3,
+            slidesToScroll: 1
+          }
+        },
+        {
+          breakpoint: 480,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1
+          }
+        }
+      ]
+   });
+});
+</script>
