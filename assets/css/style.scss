@@ -40,9 +40,9 @@ body {
 }
 
 .navbar-brand {
-  h1 {
-    margin: .5rem 0;
-  }
+  //h1 {
+    //margin: .5rem 0;
+  //}
   .navbar-item {
     &:focus,
     &:hover,
@@ -50,9 +50,17 @@ body {
       background: transparent !important;
     }
   }
-  background-position: center center;
-  background-size: cover;
-  background-image: url('/images/asia_vir_2016.jpg');
+  //background-position: center center;
+  //background-size: cover;
+  //background-image: url('/images/asia_vir_2016.jpg');
+
+  img {
+    max-height: 4rem; // change this to change size of logo
+  }
+}
+
+.navbar-end {
+  margin-right: 2.5rem; // increase this to further center links
 }
 
 @media screen and (max-width: 1023px) {
