@@ -5,7 +5,7 @@ description: Climate Change AI is a group of volunteers from academia and indust
 
 # About Climate Change AI
 
-Climate Change AI (CCAI) is a group of volunteers from academia and industry who believe that tackling climate change requires concerted societal action, in which machine learning can play an impactful role. Since it was founded in June 2019, CCAI has led the creation of a global movement in climate change and machine learning, encompassing researchers, engineers, entrepreneurs, investors, policymakers, companies, and NGOs.
+Climate Change AI (CCAI) is an organization composed of volunteers from academia and industry who believe that tackling climate change requires concerted societal action, in which machine learning can play an impactful role. Since it was founded in June 2019, CCAI has led the creation of a global movement in climate change and machine learning, encompassing researchers, engineers, entrepreneurs, investors, policymakers, companies, and NGOs.
 
 ### Our Mission
 To catalyze impactful work at the intersection of climate change and machine learning.
