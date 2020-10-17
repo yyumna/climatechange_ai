@@ -23,13 +23,21 @@ To catalyze impactful work at the intersection of climate change and machine lea
 <h2 id="{{grp.anchor}}">{{grp.group}}</h2>
 <div class="person__list">
 {% for p in grp.members %}
+{% if p.website_url %}
 <a class="person__item" href="{{p.website_url}}" target="_blank">
+{% else %}
+<div class="person__item">
+{% endif %}
 <div class="person__pic-wrapper">
 <img class="person__pic" src="{{p.image_url}}">
 </div>
 <div class="person__name">{{p.name}}</div>
 <div class="person__affil">{{p.affiliation}}</div>
+{% if p.website_url %}
 </a>
+{% else %}
+</div>
+{% endif %}
 {% endfor %}
 </div>
 {% endfor %}
