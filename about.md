@@ -51,17 +51,18 @@ To catalyze impactful work at the intersection of climate change and machine lea
 
 ## Content Committee
 - Sasha Luccioni (<em>Committee Chair</em>)
-- Alexandre Lacoste (<em>Datasets Lead</em>)
-- Evan D. Sherwin (<em>Meetups Lead</em>)
+- Alexandre Lacoste
+- Tegan Maharaj
 - Kris Sankaran
 
 ## Communications Committee
+- Konstantin Klemmer (<em>Committee Chair, Social Media Lead</em>)
 - Kris Sankaran (<em>Newsletter Lead, Forum Lead</em>)
 - Andrew Ross (<em>Web Lead</em>)
-- Konstantin Klemmer (<em>Social Media Lead</em>)
 
 ## Programs Committee
 - Evan D. Sherwin (<em>Committee Chair</em>)
+- Yumna Yusuf (<em>Meetups Lead</em>)
 - Konstantin Klemmer
 
 ## Community Leads
@@ -71,7 +72,7 @@ To catalyze impactful work at the intersection of climate change and machine lea
 - Kelly Kochanski (<em>Climate and Earth Sciences</em>)
 - Nikola Milojevic-Dupont (<em>Buildings and Transportation</em>)
 - David Dao (<em>Agriculture, Forestry, and Other Land Use</em>)
-- Sharon Zhao (<em>Entrepreneurship</em>)
+- Sharon Zhou (<em>Entrepreneurship</em>)
 
 # Press
 
