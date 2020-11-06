@@ -31,7 +31,7 @@ Many in the ML community wish to take action on climate change, but are unsure o
 
 ## About NeurIPS
 
-NeurIPS is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting at or attending the main NeurIPS conference. Those interested should register for the Workshops component of NeurIPS at <https://neurips.cc/Register/view-registration> starting in September.
+NeurIPS is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting at or attending the main NeurIPS conference. Those interested should register for NeurIPS at <https://neurips.cc/Register/view-registration> starting in September.
 
 ## About the Workshop
 
