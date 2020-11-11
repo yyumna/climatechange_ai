@@ -35,13 +35,24 @@ NeurIPS is one of the premier conferences on machine learning, and includes a wi
 
 ## About the Workshop
 
- - **Date:** December 11 or 12 (TBD)
+ - **Date:** December 11
  - **Location:**  Virtual  
  - ~~**[Mentorship program](#submission-mentorship-program) application deadline:** August 25~~
- - **Paper/Proposal submission deadline:** October 6, Anywhere on Earth
- - **Notification:**  October 30
+ - ~~**Paper/Proposal submission deadline:** October 6, Anywhere on Earth~~
+ - ~~**Notification:**  October 30~~
+ - **Grants application deadline:** November 20
  - **Submission website:** <https://cmt3.research.microsoft.com/CCAINeurIPS2020>
  - **Contact:** <climatechangeai.neurips2020@gmail.com>
+ 
+## Available Grants
+
+### NeurIPS Registration Grants
+
+Although conference fees have been significantly reduced, if cost is still a burden then please apply for financial assistance though the link below. CCAI will do our best to meet financial assistance needs for the NeurIPS registration fee. The application deadline is **November 20th, 2020**. Please apply [here](https://docs.google.com/forms/d/e/1FAIpQLSft_c2HuQCCW2s861Brc0np-PfnEIHy9WXf_XGWMsQFgUPqWw/viewform?usp=sf_link).
+
+### Data Grants
+
+Given the COVID-19 pandemic and the virtual nature of NeurIPS this year, CCAI is offering Data Grants to participants who have limited access to the internet. The application deadline is **November 20th, 2020**. Please apply here [here](https://docs.google.com/forms/d/e/1FAIpQLScrj7BFMUIB1-IDja9jwUsCEF6FnnKaK3MUBiHGWOvV5Pq4Eg/viewform).
 
 ## Call for Submissions
 
