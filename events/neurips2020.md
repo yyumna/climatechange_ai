@@ -47,7 +47,7 @@ NeurIPS is one of the premier conferences on machine learning, and includes a wi
 
 ### NeurIPS Registration Grants
 
-Although conference fees have been significantly reduced, if cost is still a burden, then please apply for financial assistance though the link below. CCAI will do our best to meet financial assistance needs for the NeurIPS registration fee. The application deadline is **November 20th, 2020**. Please apply [here](https://docs.google.com/forms/d/e/1FAIpQLSft_c2HuQCCW2s861Brc0np-PfnEIHy9WXf_XGWMsQFgUPqWw/viewform?usp=sf_link).
+Although conference fees have been significantly reduced, if cost is still a burden, then please apply for financial assistance [here](https://docs.google.com/forms/d/e/1FAIpQLSft_c2HuQCCW2s861Brc0np-PfnEIHy9WXf_XGWMsQFgUPqWw/viewform?usp=sf_link). CCAI will do our best to meet financial assistance needs for the NeurIPS registration fee. The application deadline is **November 20th, 2020**. 
 
 Participants may also apply for registration grants through the main NeurIPS conference. Applications can be submitted [here](https://neurips.cc/Surveys/49) through November 27.
 
