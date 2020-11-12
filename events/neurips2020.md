@@ -12,8 +12,8 @@ og_image_height: 327
 
 <div class='buttons'>
   <a class='button' href='#about-the-workshop'>About</a>
+  <a class='button' href='#available-grants'>Available Grants</a>
   <a class='button' href='#call-for-submissions'>Call for Submissions</a>
-  <a class='button' href='#tips-for-submissions'>Tips for Submissions</a>
   <a class='button' href='#submission-mentorship-program'>Mentorship Program</a>
   <a class='button' href='#organizers'>Organizers</a>
   <a class='button' href='#frequently-asked-questions'>FAQ</a>
@@ -22,6 +22,7 @@ og_image_height: 327
 ***
 
 <center> <h3>Announcements</h3> </center>
+* We provide grants to attend our NeurIPS workshop [here](#available-grants). Applications are due by Nov 20.
 * The call for submissions of Papers or Proposals is now available [here](#call-for-submissions). Submissions are due by Oct 6, Anywhere on Earth (i.e., by 11:59pm UTC-12).
 * We held a webinar on Thursday, August 20 to provide advice on how to prepare a successful submission. View the recording [here](https://www.youtube.com/watch?v=prDI7Oy-VMM).
 
