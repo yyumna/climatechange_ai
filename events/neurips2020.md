@@ -22,9 +22,7 @@ og_image_height: 327
 ***
 
 <center> <h3>Announcements</h3> </center>
-* We provide grants to attend our NeurIPS workshop [here](#available-grants). Applications are due by Nov 20.
-* The call for submissions of Papers or Proposals is now available [here](#call-for-submissions). Submissions are due by Oct 6, Anywhere on Earth (i.e., by 11:59pm UTC-12).
-* We held a webinar on Thursday, August 20 to provide advice on how to prepare a successful submission. View the recording [here](https://www.youtube.com/watch?v=prDI7Oy-VMM).
+* We are offering limited registration and data grants for workshop attendees (see [here](#available-grants)). Applications are due by Nov 20.
 
 ***
 
@@ -49,7 +47,9 @@ NeurIPS is one of the premier conferences on machine learning, and includes a wi
 
 ### NeurIPS Registration Grants
 
-Although conference fees have been significantly reduced, if cost is still a burden then please apply for financial assistance though the link below. CCAI will do our best to meet financial assistance needs for the NeurIPS registration fee. The application deadline is **November 20th, 2020**. Please apply [here](https://docs.google.com/forms/d/e/1FAIpQLSft_c2HuQCCW2s861Brc0np-PfnEIHy9WXf_XGWMsQFgUPqWw/viewform?usp=sf_link).
+Although conference fees have been significantly reduced, if cost is still a burden, then please apply for financial assistance though the link below. CCAI will do our best to meet financial assistance needs for the NeurIPS registration fee. The application deadline is **November 20th, 2020**. Please apply [here](https://docs.google.com/forms/d/e/1FAIpQLSft_c2HuQCCW2s861Brc0np-PfnEIHy9WXf_XGWMsQFgUPqWw/viewform?usp=sf_link).
+
+Participants may also apply for registration grants through the main NeurIPS conference. Applications can be submitted [here](https://neurips.cc/Surveys/49) through November 27.
 
 ### Data Grants
 
