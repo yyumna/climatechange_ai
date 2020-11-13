@@ -52,7 +52,7 @@ As the two co-founders of Buzz Solutions, <b>Kaitlyn Albertoli</b> and <b>Vik Ch
 
 A webinar for current and prospective entrepreneurs on commercializing innovations in the area of AI and climate change. Topics covered include funding milestones, early team formation, pitch deck structure, and fundraising best practices.<br><br>
 
-<b>Speaker:</b> Jessica Eastling is an Associate at Better Ventures who has has first-hand experience working across non-profits, foundations, and social enterprises, exposing her to a wide range of impact models. Prior to Better Ventures, Jessica worked with Zola (Off Grid) Electric, an energy access startup providing solar in Sub-Saharan Africa. She earned her B.S. and M.S. in Earth Systems from Stanford University, studying the intersection of society and the environment.<br><br>
+<b>Speaker:</b> Jessica Eastling is an Associate at Better Ventures who has first-hand experience working across non-profits, foundations, and social enterprises, exposing her to a wide range of impact models. Prior to Better Ventures, Jessica worked with Zola (Off Grid) Electric, an energy access startup providing solar in Sub-Saharan Africa. She earned her B.S. and M.S. in Earth Systems from Stanford University, studying the intersection of society and the environment.<br><br>
 
 <b>Moderators</b>: Lynn Kaack and Alexandre Lacoste (Climate Change AI)
 
