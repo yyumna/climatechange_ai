@@ -25,25 +25,27 @@ og_image_height: 555
 
     How can machine learning help decarbonize the power sector? Join us for a
     conversation with leaders from academia, startups, and the power industry,
-    who will share insights from their own work in this space, as well as advice
-    on how to make the leap from innovation to deployment. This webinar is
-    co-hosted by Climate Change AI and the Energy Innovation Network. Speakers
-    include:<br><br>
+    who will share insights from their own work in this space, as well as
+    advice on how to make the leap from innovation to deployment. This webinar
+    is co-hosted by Climate Change AI and the Energy Innovation Network.
+    Speakers include:<br><br>
 
-    <b>Dr. Kyri Baker</b> received her B.S., M.S., and Ph.D. in Electrical and
-    Computer Engineering from Carnegie Mellon University in 2009, 2010, and
-    2014, respectively. From 2015 to 2017, she worked at the National Renewable
-    Energy Laboratory. Since Fall 2017, she has been an Assistant Professor at
-    the University of Colorado Boulder. Dr. Baker is a Fellow of the Renewable
-    and Sustainable Energy Institute (RASEI). Her research focuses on renewable
-    energy integration by changing the way the electric power grid operates. In
+    <a href="http://www.kyrib.com/" target="_blank"><b>Dr. Kyri Baker</b></a>
+    received her B.S., M.S., and Ph.D. in Electrical and Computer Engineering
+    from Carnegie Mellon University in 2009, 2010, and 2014, respectively. From
+    2015 to 2017, she worked at the National Renewable Energy Laboratory. Since
+    Fall 2017, she has been an Assistant Professor at the University of
+    Colorado Boulder. Dr. Baker is a Fellow of the Renewable and Sustainable
+    Energy Institute (RASEI). Her research focuses on renewable energy
+    integration by changing the way the electric power grid operates. In
     particular, she develops computationally efficient optimization and
     learning algorithms for energy systems ranging from building-level assets
     to transmission grids.<br><br>
 
-    <b>Eric Hsieh</b> is the Head of Product for AI/ML Applications for
-    AutoGrid, an energy industry software company. Previously working as a Sr.
-    Machine Learning Engineer for AutoGrid, he built and deployed a Predictive
+    <a href="https://www.linkedin.com/in/erichsieh1/" target="_blank"><b>Eric
+    Hsieh</b></a> is the Head of Product for AI/ML Applications for AutoGrid,
+    an energy industry software company. Previously working as a Sr. Machine
+    Learning Engineer for AutoGrid, he built and deployed a Predictive
     Maintenance model at a Fortune 500 energy company that catches distribution
     outages with IoT data in realtime. Now, as the Head of Product, Eric aims
     to make the energy grid more efficient by productizing AI applications. He
@@ -51,10 +53,11 @@ og_image_height: 555
     of Michigan at Ann Arbor, where he founded a biofuel startup that made
     energy from brewery wastewater. In his free time, Eric enjoys gardening and
     golfing.<br><br>
-   
-    <b>Antoine Marot</b> is the lead AI scientist at RTE, the French
-    transmission system operator. He holds a double master’s degree in
-    Engineering from Ecole Centrale Paris and Stanford University. After
+     
+    <a href="https://www.linkedin.com/in/antoine-marot/"
+    target="_blank"><b>Antoine Marot</b></a> is the lead AI scientist at RTE,
+    the French transmission system operator. He holds a double master’s degree
+    in Engineering from Ecole Centrale Paris and Stanford University. After
     interning at Tesla Motors, he joined RTE R&D on the Apogee project 6 years
     ago, with the long-term goal of developing a personal assistant for control
     room operators with AI. Through collaboration with INRIA (the French AI
@@ -67,10 +70,14 @@ og_image_height: 555
     both fields to accelerate the application of AI. The “Learning to Run a
     Power Network” challenge running along NeurIPS 2020, the largest AI
     conference, is a strong step forward towards it.<br><br>
-   
-    As the two co-founders of Buzz Solutions, <b>Kaitlyn Albertoli</b> and
-    <b>Vik Chaudhry</b> met during their time at Stanford University and
-    created Buzz Solutions from a launchpad course there in the spring of 2017.
+     
+    As the two co-founders of <a href="https://www.buzzsolutions.co/"
+    target="_blank">Buzz Solutions</a>, <a
+    href="https://www.linkedin.com/in/kaitlyn-claire-albertoli/"
+    target="_blank"><b>Kaitlyn Albertoli</b></a> and <a
+    href="https://www.linkedin.com/in/vikhyatchaudhry/" target="_blank"><b>Vik
+    Chaudhry</b></a> met during their time at Stanford University and created
+    Buzz Solutions from a launchpad course there in the spring of 2017.
     Jointly, the two bring a well-rounded and complimentary skillset to the
     table. Vik has a Masters degree from Stanford in Energy Engineering
     focusing on applications of Machine Learning and AI for Smart Grid
@@ -86,14 +93,15 @@ og_image_height: 555
     shutdowns, and network failures as a result of failed
     infrastructure.<br><br>
 
-    <b>Moderators</b>: Priya Donti (Climate Change AI), Na Yu (Energy Innovation Network)
-
+    <b>Moderators</b>: <a href="https://priyadonti.com/" target="_blank">Priya
+    Donti</a> (Climate Change AI), <a href="https://www.linkedin.com/in/nayu/"
+    target="_blank">Na Yu</a> (Energy Innovation Network)
   </details>
 
   <div class='webinar-info'>
     <b>When:</b> Mon, November 23, 2020 from noon-1:30pm Eastern Time<br>
     <b>Speakers:</b> Kyri Baker (CU Boulder), Eric Hsieh (AutoGrid), Antoine Marot (RTE), Kaitlyn Albertoli & Vik Chaudhry (Buzz Solutions)<br>
-    <a class='button is-link' href='#'>Register for Free</a>
+    <a class='button is-link' href='https://ein1123event.eventbrite.com/' target='_blank'>Register via Eventbrite (Free)</a>
   </div>
 </section>
 
