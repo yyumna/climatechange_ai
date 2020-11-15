@@ -73,6 +73,11 @@ To catalyze impactful work at the intersection of climate change and machine lea
 - Nikola Milojevic-Dupont (<em>Buildings and Transportation</em>)
 - David Dao (<em>Agriculture, Forestry, and Other Land Use</em>)
 
+## Former Core Team Members
+- Natasha Jaques
+- Anna Waldman-Brown
+- Sharon Zhou
+
 # Press
 
 ## Releases
