@@ -1,0 +1,29 @@
+- title: 'News and events'
+  entries:
+    - title: Attend our virtual workshop at NeurIPS 2020
+      image: /images/neurips2019_attendees.jpg
+      url: /events/neurips2020
+    - title: Check out the CCAI community events calendar
+      image: /images/core_team_zoom.png
+      url: /community-events
+    - title: David Rolnick featured on ASP Flashpoint
+      image: /images/people/davidrolnick_400x400.jpg
+      url: https://www.americansecurityproject.org/climate-and-ai-with-dr-david-rolnick/
+    - title: Lynn Kaack and David Dao featured on ETH Zürich podcast
+      image: /images/lynn-davidd.jpg
+      url: https://ethz.ch/en/news-and-events/eth-news/news/2020/05/podcast-ai-climate-change.html
+- title: 'Featured content'
+  entries:
+    - title: Check out an interactive summary of our paper on climate change and ML
+      image: /images/summaries_teaser.png
+      url: /summaries
+    - title: Watch our tutorials on climate change or machine learning
+      url: /tutorials
+    - title: Contribute to our wishlist of critical datasets
+      image: /images/wishlist_img.jpg
+      url: https://docs.google.com/document/d/1E1vhuGNiUWUbij8WxqNbTfytxfyaS9LnaBEdx58KQQc/edit
+    - title: Browse recorded talks from our workshop at ICLR 2020
+      image: /images/ICLR_workshop_preview.png
+      url: /events/iclr2020
+    - title: Join the conversation on our discussion forum
+      url: https://forum.climatechange.ai/
