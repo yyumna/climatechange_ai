@@ -43,18 +43,58 @@ As the two co-founders of Buzz Solutions, <b>Kaitlyn Albertoli</b> and <b>Vik Ch
 
 ## Past
 
-<b><a href="https://www.youtube.com/watch?v=TCeBXxj5GUU&ab_channel=ClimateChangeAI" target="_blank">Start-up Webinar with Better Ventures and CCAI</a></b><br>
-<i>Thu, November 14, 2019 from 11:30am-12:30pm Eastern Time</i><br>
-<details>
-<summary>Details: (click to expand)</summary>
+<table class='webinar-table'>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Webinar</th>
+    </tr>
+  </thead>
 
-<i>Co-hosted with <a href="https://www.better.vc/" target="_blank">Better Ventures</a></i><br><br>
+  <tbody>
+    <tr>
+      <td>
+        November 14, 2019
+      </td>
+      <td>
+        <a href="https://www.youtube.com/watch?v=TCeBXxj5GUU&ab_channel=ClimateChangeAI" target="_blank">
+          Start-up Webinar with Better Ventures and CCAI
+        </a>
 
-A webinar for current and prospective entrepreneurs on commercializing innovations in the area of AI and climate change. Topics covered include funding milestones, early team formation, pitch deck structure, and fundraising best practices.<br><br>
+        <details>
+          <summary>Details: (click to expand)</summary>
 
-<b>Speaker:</b> Jessica Eastling is an Associate at Better Ventures who has first-hand experience working across non-profits, foundations, and social enterprises, exposing her to a wide range of impact models. Prior to Better Ventures, Jessica worked with Zola (Off Grid) Electric, an energy access startup providing solar in Sub-Saharan Africa. She earned her B.S. and M.S. in Earth Systems from Stanford University, studying the intersection of society and the environment.<br><br>
+          <i>
+            Co-hosted with
+            <a href="https://www.better.vc/" target="_blank">
+              Better Ventures
+            </a>
+          </i>
 
-<b>Moderators</b>: Lynn Kaack and Alexandre Lacoste (Climate Change AI)
+          <br><br>
 
-</details>
+          A webinar for current and prospective entrepreneurs on
+          commercializing innovations in the area of AI and climate change.
+          Topics covered include funding milestones, early team formation,
+          pitch deck structure, and fundraising best practices.
+
+          <br><br>
+
+          <b>Speaker:</b> Jessica Eastling is an Associate at Better Ventures
+          who has first-hand experience working across non-profits,
+          foundations, and social enterprises, exposing her to a wide range of
+          impact models. Prior to Better Ventures, Jessica worked with Zola
+          (Off Grid) Electric, an energy access startup providing solar in
+          Sub-Saharan Africa. She earned her B.S. and M.S. in Earth Systems
+          from Stanford University, studying the intersection of society and
+          the environment.
+
+          <br><br>
+
+          <b>Moderators</b>: Lynn Kaack and Alexandre Lacoste (Climate Change AI)
+        </details>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
