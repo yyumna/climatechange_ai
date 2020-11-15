@@ -72,7 +72,6 @@ To catalyze impactful work at the intersection of climate change and machine lea
 - Kelly Kochanski (<em>Climate and Earth Sciences</em>)
 - Nikola Milojevic-Dupont (<em>Buildings and Transportation</em>)
 - David Dao (<em>Agriculture, Forestry, and Other Land Use</em>)
-- Sharon Zhou (<em>Entrepreneurship</em>)
 
 # Press
 
