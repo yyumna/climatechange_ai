@@ -473,6 +473,14 @@ td details, .paper details, details.small {
   }
 }
 
+.carousel {
+  display: none;
+
+  &.slick-initialized {
+    display: block;
+  }
+}
+
 .carousel__item {
   min-height: 10rem !important;
   position: relative;
