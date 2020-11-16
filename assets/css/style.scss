@@ -359,6 +359,15 @@ details[open] > summary {
   margin-bottom: 1rem;
 }
 
+details {
+  font-size: 14px;
+  margin-top: 5px !important;
+  margin-bottom: 5px;
+  padding: 5px;
+  border: 1px solid #eee;
+  background: #f8f8f8;
+}
+
 // Ensure that anchor links don't skip the headers
 @media screen and (min-width: 1024px) {
   h1:not(.no-anchor-padding)::before,
@@ -387,15 +396,6 @@ p:last-child {
 
 td {
   vertical-align: top;
-}
-
-td details, .paper details, details.small {
-  font-size: 14px;
-  margin-top: 5px !important;
-  margin-bottom: 5px;
-  padding: 5px;
-  border: 1px solid #eee;
-  background: #f8f8f8;
 }
 
 .paper .card-content {
@@ -429,6 +429,38 @@ td details, .paper details, details.small {
 .paper-table,
 .remote-workshop-table-subrow {
   font-size: 14px;
+}
+
+.webinar {
+  padding: 1rem;
+
+  .webinar-title {
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+  }
+
+  .webinar-subtitle {
+    font-style: italic;
+    margin-bottom: 1rem;
+  }
+
+  details {
+    margin-bottom: 1rem;
+  }
+
+  .button {
+    margin-top: 1rem;
+  }
+}
+
+.webinar-table {
+  td:first-child {
+    white-space: nowrap;
+  }
+
+  td:last-child {
+    width: 100%;
+  }
 }
 
 .remote-workshop-table {
