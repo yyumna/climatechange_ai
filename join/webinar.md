@@ -1,8 +1,8 @@
 ---
 layout: default
 title: 'Climate Change AI'
-description: 'Webinar link for November 23'
-<!-- redirect_to:  -->
+description: 'Zoom link for November 23 webinar'
+redirect_to: https://cmu.zoom.us/meeting/register/tJMldOqrrT4rEty8KA_B4NwfMHFh7SISsNqG
 ---
 
 Webinar link coming soon!
