@@ -45,33 +45,33 @@ To catalyze impactful work at the intersection of climate change and machine lea
 # Organizational Structure
 
 ## CCAI Chairs
-- David Rolnick
 - Priya L. Donti
 - Lynn H. Kaack
+- David Rolnick
 
 ## Content Committee
-- Sasha Luccioni (<em>Committee Chair</em>)
+- Sasha Luccioni <em>(Committee Chair)</em>
 - Alexandre Lacoste
 - Tegan Maharaj
 - Kris Sankaran
 
 ## Communications Committee
-- Konstantin Klemmer (<em>Committee Chair, Social Media Lead</em>)
-- Kris Sankaran (<em>Newsletter Lead, Forum Lead</em>)
-- Andrew Ross (<em>Web Lead</em>)
+- Konstantin Klemmer <em>(Committee Chair, Social Media Lead)</em>
+- Andrew Ross <em>(Web Lead)</em>
+- Kris Sankaran <em>(Newsletter Lead, Forum Lead)</em>
 
 ## Programs Committee
-- Evan D. Sherwin (<em>Committee Chair</em>)
-- Yumna Yusuf (<em>Meetups Lead</em>)
+- Evan D. Sherwin <em>(Committee Chair)</em>
 - Konstantin Klemmer
+- Yumna Yusuf <em>(Meetups Lead)</em>
 
 ## Community Leads
-- David Rolnick (<em>Tech Industry and ML Academia</em>)
-- Priya L. Donti (<em>Power Sector</em>)
-- Lynn H. Kaack (<em>Public Sector and International Organizations</em>)
-- Kelly Kochanski (<em>Climate and Earth Sciences</em>)
-- Nikola Milojevic-Dupont (<em>Buildings and Transportation</em>)
-- David Dao (<em>Agriculture, Forestry, and Other Land Use</em>)
+- David Dao <em>(Agriculture, Forestry, and Other Land Use)</em>
+- Priya L. Donti <em>(Power Sector)</em>
+- Lynn H. Kaack <em>(Public Sector and International Organizations)</em>
+- Kelly Kochanski <em>(Climate and Earth Sciences)</em>
+- Nikola Milojevic-Dupont <em>(Buildings and Transportation)</em>
+- David Rolnick <em>(Tech Industry and ML Academia)</em>
 
 ## Former Core Team Members
 - Natasha Jaques
