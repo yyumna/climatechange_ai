@@ -2,10 +2,6 @@
 - group: 'Core Team'
   anchor: 'core-team'
   members:
-    - website_url: http://www.davidrolnick.com
-      image_url: images/people/davidrolnick_400x400.jpg
-      name: David Rolnick
-      affiliation: McGill, Mila
     - website_url: https://priyadonti.com/
       image_url: images/people/priyadonti_400x400.jpg
       name: Priya L. Donti
@@ -14,6 +10,10 @@
       image_url: images/people/lynnkaack_400x400.jpg
       name: Lynn H. Kaack
       affiliation: ETH Zürich
+    - website_url: http://www.davidrolnick.com
+      image_url: images/people/davidrolnick_400x400.jpg
+      name: David Rolnick
+      affiliation: McGill, Mila
     - website_url: https://www.sashaluccioni.com/
       image_url: images/people/sashaluccioni_400x400.jpg
       name: Sasha Luccioni
