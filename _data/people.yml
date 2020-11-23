@@ -14,14 +14,14 @@
       image_url: images/people/davidrolnick_400x400.jpg
       name: David Rolnick
       affiliation: McGill, Mila
-    - website_url: https://www.sashaluccioni.com/
-      image_url: images/people/sashaluccioni_400x400.jpg
-      name: Sasha Luccioni
-      affiliation: Mila, U. de Montréal
     - website_url: https://konstantinklemmer.github.io
       image_url: images/people/konstantin_400x400.jpg
       name: Konstantin Klemmer
       affiliation: University of Warwick
+    - website_url: https://www.sashaluccioni.com/
+      image_url: images/people/sashaluccioni_400x400.jpg
+      name: Sasha Luccioni
+      affiliation: Mila, U. de Montréal
     - website_url: https://www.evansherwin.com/
       image_url: images/people/evansherwin_400x400.jpg
       name: Evan D. Sherwin
