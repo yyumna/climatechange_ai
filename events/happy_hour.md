@@ -1,6 +1,6 @@
 # Climate Change AI Happy Hour Series
 
-## First event: Wednesday 3 December @ 12:30-1:30pm Eastern Time/6:30pm CET
+## First event: Wednesday 2 December @ 12:30-1:30pm Eastern Time/6:30pm CET
 
 Join us via Gather.Town for our regular virtual happy hour community events taking place on the first and third Wednesday of every month.
 
