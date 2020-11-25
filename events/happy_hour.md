@@ -2,11 +2,9 @@
 
 ## First event: Wednesday 2 December @ 12:30-1:30pm Eastern Time/6:30pm CET
 
-Join us via Gather.Town for our regular virtual happy hour community events taking place on the first and third Wednesday of every month.
+Join us for our regular virtual happy hour community events taking place on the first and third Wednesday of every month.
 
 The events aim to provide an informal space for people to network and engage in discussions with others interested in or currently working at the intersection of climate change and machine learning. They are open to all and we hope to see you there!
-
-The events will take place via Gather.Town. If you would like to familiarise yourself with the platform, have a look at [this guide](https://drive.google.com/file/d/1FGDyjc1Z7zYctYNwzkUeZ5YZ9qap0iN8/view).
 
 To register, sign up here:
 
