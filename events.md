@@ -18,6 +18,6 @@ Our events provide opportunities to share work at the intersection of climate ch
 
 ## Other Events
 * [Webinars](/webinars)
+* [Happy Hours](/events/happy_hour) -- every two weeks, virtual
 * [TEDx Countdown](/events/tedx) -- Oct 17, 2020, virtual
-* [Energy Happy Hour](/events/energy_happy_hour) -- Aug 4, 2020 via Zoom
 * [COP25](/events/cop25) -- Dec 4, 2019 in Madrid, Spain
