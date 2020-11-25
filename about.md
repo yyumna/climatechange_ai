@@ -51,6 +51,7 @@ To catalyze impactful work at the intersection of climate change and machine lea
 
 ## Content Committee
 - Sasha Luccioni <em>(Committee Chair)</em>
+- Lauren Kuntz
 - Alexandre Lacoste
 - Tegan Maharaj
 - Kris Sankaran

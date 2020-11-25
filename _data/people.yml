@@ -30,6 +30,10 @@
       image_url: images/people/daviddao_400x400.jpg
       name: David Dao
       affiliation: ETH Zurich
+    - website_url: https://www.gaia-scope.com/
+      image_url: images/people/lauren_400x400.jpg
+      name: Lauren Kuntz
+      affiliation: Gaiascope, Inc.
     - website_url: http://www.kochanski.org/kelly/
       image_url: images/people/kellykochanski_400x400.jpg
       name: Kelly Kochanski
