@@ -50,21 +50,36 @@ NeurIPS is one of the premier conferences on machine learning, and includes a wi
 **Zico Kolter** (Carnegie Mellon University)  
 
 ## Schedule 
-All times are in Central European Standard Time. US Eastern Time is 7 hours earlier, US Pacific is 10 hours earlier
+All times are given in Central European Standard Time as well as US Pacific, 10 hours earlier
+
 13:00 -  13:15 CEST (03:00-0:3:15 PST) - **Welcome and opening remarks**
+
 13:15 - 14:00 CEST (03:15-0:4:00 PST) - Rose Mwebaza (UN Climate Technology Centre & Network) *(Invited talk)*
+
 14:00 - 15:00 CEST (04:00-05:00 PST) - *Spotlight talks*
+
 15:00 - 16:00 CEST (05:00-06:00 PST) - *Poster session*
+
 16:00 - 17:00 CEST (06:00-07:00 PST) - ML Climate Impact Through Policy *(Panel discussion)*
+
 17:00 - 18:00 CEST (07:00-08:00 PST) - *Spotlight talks*
+
 18:00 - 19:15 CEST (08:00-09:15 PST) - *Poster session*
+
 19:15 - 20:00 CEST (09:15-10:00 PST) - Zico Kolter (Carnegie Mellon University) *(Invited talk)*
+
 20:00 - 21:00 CEST (10:00-11:00 PST) - ML Climate Impact Through the Private Sector *(Panel discussion)*
+
 21:00 - 22:00 CEST (11:00-12:00 PST) - *Spotlight talks*
+
 22:00 - 23:00 CEST (12:00-13:00 PST) - *Poster session*
+
 23:15 - 24:00 CEST (13:15-14:00 PST) - Jennifer Chayes (UC Berkeley) *(Invited talk)*
+
 00:00 - 00:45 CEST (14:00-14:45 PST) - Vinod Khosla (Khosla Ventures) *(Fireside chat)*
+
 00:45-01:00 CEST (14:45-15:00 PST) - Closing remarks
+
 01:00 - 02:00 CEST (15:00-16:00 PST) - Poster reception
 
 ## Available Grants
