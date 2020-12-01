@@ -12,7 +12,7 @@ og_image_height: 327
 
 <div class='buttons'>
   <a class='button' href='#about-the-workshop'>About</a>
-  <a class='button' href='#available-grants'>Available Grants</a>
+  <a class='button' href='#schedule'>Schedule</a>
   <a class='button' href='#call-for-submissions'>Call for Submissions</a>
   <a class='button' href='#submission-mentorship-program'>Mentorship Program</a>
   <a class='button' href='#organizers'>Organizers</a>
@@ -22,7 +22,7 @@ og_image_height: 327
 ***
 
 <center> <h3>Announcements</h3> </center>
-* We are offering limited registration and data grants for workshop attendees (see [here](#available-grants)). Applications are due by Nov 20.
+* To participate fully in the workshop, including interactive poster sessions and live Q&A with speakers, register here! <https://neurips.cc/Register/view-registration>
 
 ***
 
@@ -30,7 +30,7 @@ Many in the ML community wish to take action on climate change, but are unsure o
 
 ## About NeurIPS
 
-NeurIPS is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting at or attending the main NeurIPS conference. Those interested should register for NeurIPS at <https://neurips.cc/Register/view-registration> starting in September.
+NeurIPS is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting at or attending the main NeurIPS conference. Those interested should register for NeurIPS at <https://neurips.cc/Register/view-registration>.
 
 ## About the Workshop
 
@@ -50,39 +50,39 @@ NeurIPS is one of the premier conferences on machine learning, and includes a wi
 **Zico Kolter** (Carnegie Mellon University)  
 
 ## Schedule 
-All times are given in Central European Standard Time as well as US Pacific, 10 hours earlier
+All times are given in Central European Time as well as US Pacific, 9 hours earlier
 
-13:00 -  13:15 CEST (03:00-0:3:15 PST) - **Welcome and opening remarks**
+12:00 -  12:15 CET (03:00-0:3:15 PST) - **Welcome and opening remarks**
 
-13:15 - 14:00 CEST (03:15-0:4:00 PST) - Rose Mwebaza (UN Climate Technology Centre & Network) *(Invited talk)*
+12:15 - 13:00 CET (03:15-0:4:00 PST) - Rose Mwebaza (UN Climate Technology Centre & Network) *(Invited talk)*
 
-14:00 - 15:00 CEST (04:00-05:00 PST) - *Spotlight talks*
+13:00 - 14:00 CET (04:00-05:00 PST) - *Spotlight talks*
 
-15:00 - 16:00 CEST (05:00-06:00 PST) - *Poster session*
+14:00 - 15:00 CET (05:00-06:00 PST) - *Poster session*
 
-16:00 - 17:00 CEST (06:00-07:00 PST) - ML Climate Impact Through Policy *(Panel discussion)*
+15:00 - 16:00 CET (06:00-07:00 PST) - ML Climate Impact Through Policy *(Panel discussion)*
 
-17:00 - 18:00 CEST (07:00-08:00 PST) - *Spotlight talks*
+16:00 - 17:00 CET (07:00-08:00 PST) - *Spotlight talks*
 
-18:00 - 19:15 CEST (08:00-09:15 PST) - *Poster session*
+17:00 - 18:15 CET (08:00-09:15 PST) - *Poster session*
 
-19:15 - 20:00 CEST (09:15-10:00 PST) - Zico Kolter (Carnegie Mellon University) *(Invited talk)*
+18:15 - 19:00 CET (09:15-10:00 PST) - Zico Kolter (Carnegie Mellon University) *(Invited talk)*
 
-20:00 - 21:00 CEST (10:00-11:00 PST) - ML Climate Impact Through the Private Sector *(Panel discussion)*
+19:00 - 20:00 CET (10:00-11:00 PST) - ML Climate Impact Through the Private Sector *(Panel discussion)*
 
-21:00 - 22:00 CEST (11:00-12:00 PST) - *Spotlight talks*
+20:00 - 21:00 CET (11:00-12:00 PST) - *Spotlight talks*
 
-22:00 - 23:00 CEST (12:00-13:00 PST) - *Poster session*
+21:00 - 22:00 CET (12:00-13:00 PST) - *Poster session*
 
-23:15 - 24:00 CEST (13:15-14:00 PST) - Jennifer Chayes (UC Berkeley) *(Invited talk)*
+22:15 - 23:00 CET (13:15-14:00 PST) - Jennifer Chayes (UC Berkeley) *(Invited talk)*
 
-00:00 - 00:45 CEST (14:00-14:45 PST) - Vinod Khosla (Khosla Ventures) *(Fireside chat)*
+23:00 - 23:45 CET (14:00-14:45 PST) - Vinod Khosla (Khosla Ventures) *(Fireside chat)*
 
-00:45-01:00 CEST (14:45-15:00 PST) - Closing remarks
+23:45-00:15 CET (14:45-15:15 PST) - Closing remarks and awards
 
-01:00 - 02:00 CEST (15:00-16:00 PST) - Poster reception
+00:15 - 01:00 CET (15:15-16:00 PST) - Poster reception
 
-## Available Grants
+## Grants
 
 ### NeurIPS Registration Grants
 
