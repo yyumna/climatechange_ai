@@ -128,6 +128,8 @@ papers.each do |p|
   front_matter = {
     "layout" => "paper",
     "paper_index" => p['id']-1,
+    "title" => "Climate Change AI - ICLR 2020 Accepted Work",
+    "description" => p['paper_title'],
     "workshop_key" => "#{workshop}_papers"
   }
 
