@@ -77,7 +77,7 @@ layout: default
 <p class='abstract-text'>{{ p.abstract }}</p>
 
 {% if p.slideslive_id %}
-  <h3 id='recording'>Recorded Talk (<a href="https://slideslive.com/{{ p.slideslive_id }}">direct link</a>)</h3>
+  <h3 id='recording'>Recorded Talk (<a href="https://slideslive.com/{{ p.slideslive_id }}" target="_blank">direct link</a>)</h3>
 
   <div id="presentation-embed-{{ p.slideslive_id }}" class="slp"></div>
   <div id='status-message'>
@@ -95,8 +95,14 @@ layout: default
       hideTitle: true,
       startTime: '{{ p.slideslive_time }}'
     });
+    sle.addCallback("error", (err) => {
+      document.getElementById('status-message').innerHTML = "<em>Error loading video -- try a <a href='https://slideslive.com/{{ p.slideslive_id }}' target='_blank'>direct link</a> instead!</em>";
+    });
     sle.addCallback("onError", (err) => {
-      document.getElementById('status-message').innerHTML = "<em>Video coming soon!</em>";
+      document.getElementById('status-message').innerHTML = "<em>Error loading video -- try a <a href='https://slideslive.com/{{ p.slideslive_id }}' target='_blank'>direct link</a> instead!</em>";
+    });
+    sle.addCallback("load", () => {
+      document.getElementById('status-message').innerHTML = "";
     });
     sle.addCallback("onLoad", () => {
       document.getElementById('status-message').innerHTML = "";
