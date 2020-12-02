@@ -464,9 +464,10 @@ td {
 }
 
 .remote-workshop-table {
-  td.fill-utc {
+  td.fill-utc, td.fill-local {
     white-space: nowrap;
     width: 6rem;
+    text-align: center;
   }
 
   td:last-child {

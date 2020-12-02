@@ -12,17 +12,19 @@ og_image_height: 327
 
 <div class='buttons'>
   <a class='button' href='#about-the-workshop'>About</a>
-  <a class='button' href='#available-grants'>Available Grants</a>
-  <a class='button' href='#call-for-submissions'>Call for Submissions</a>
-  <a class='button' href='#submission-mentorship-program'>Mentorship Program</a>
+  <a class='button' href='#schedule'>Schedule</a>
+  <a class='button' href='#accepted-works'>Accepted Works</a>
   <a class='button' href='#organizers'>Organizers</a>
+  <a class='button' href='#grants'><s>Grants</s></a>
+  <a class='button' href='#call-for-submissions'><s>Submit</s></a>
+  <a class='button' href='#submission-mentorship-program'><s>Mentorship</s></a>
   <a class='button' href='#frequently-asked-questions'>FAQ</a>
 </div>
 
 ***
 
 <center> <h3>Announcements</h3> </center>
-* We are offering limited registration and data grants for workshop attendees (see [here](#available-grants)). Applications are due by Nov 20.
+* To participate fully in the workshop, including interactive poster sessions and live Q&A with speakers, register at https://neurips.cc/Register/view-registration
 
 ***
 
@@ -30,7 +32,7 @@ Many in the ML community wish to take action on climate change, but are unsure o
 
 ## About NeurIPS
 
-NeurIPS is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting at or attending the main NeurIPS conference. Those interested should register for NeurIPS at <https://neurips.cc/Register/view-registration> starting in September.
+NeurIPS is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting at or attending the main NeurIPS conference. Those interested should register for NeurIPS at <https://neurips.cc/Register/view-registration>.
 
 ## About the Workshop
 
@@ -39,11 +41,162 @@ NeurIPS is one of the premier conferences on machine learning, and includes a wi
  - ~~**[Mentorship program](#submission-mentorship-program) application deadline:** August 25~~
  - ~~**Paper/Proposal submission deadline:** October 6, Anywhere on Earth~~
  - ~~**Notification:**  October 30~~
- - **Grants application deadline:** November 20
+ - ~~**Grants application deadline:**  November 20~~
  - **Submission website:** <https://cmt3.research.microsoft.com/CCAINeurIPS2020>
  - **Contact:** <climatechangeai.neurips2020@gmail.com>
  
-## Available Grants
+## Invited Speakers
+**Jennifer Chayes** (UC Berkeley)  
+**Rose Mwebaza** (UN Climate Technology Centre & Network)  
+**Vinod Khosla** (Khosla Ventures)  
+**Zico Kolter** (Carnegie Mellon University)  
+
+## Schedule 
+
+<table class='remote-workshop-table'>
+  <thead>
+  <tr>
+  <th>Time (UTC)</th>
+  <th>Time (<span class='fill-local-tz'>Local</span>)</th>
+  <th>Event</th>
+  </tr>
+  </thead>
+
+  <tbody>
+  {% for r in site.data.neurips2020_schedule %}
+  <tr class='range-row' data-d1="{{ r.utc1.day }}" data-d2="{{ r.utc2.day }}" data-h1="{{ r.utc1.hour }}" data-h2="{{ r.utc2.hour }}" data-m1="{{ r.utc1.minute }}" data-m2="{{ r.utc2.minute }}">
+
+  {% if r.subrows %}
+  <td class='fill-utc' rowspan="{{ r.subrows.size | plus: 1 }}"> </td>
+  <td class='fill-local' rowspan="{{ r.subrows.size | plus: 1 }}"> </td>
+  {% else %}
+  <td class='fill-utc'> </td>
+  <td class='fill-local'> </td>
+  {% endif %}
+
+  <td>
+  {% if r.url %}
+  <a href="{{ r.url }}" target="_blank">{{r.desc | strip_newlines | strip }}</a>
+  {% else %}
+  {{r.desc | strip_newlines | strip }}
+  {% endif %}
+  {% if r.more.size > 0 %}
+  <details>
+  <summary>Details: (click to expand)</summary>
+  {{ r.more | strip_newlines | strip }}
+  </details>
+  {% endif %}
+  </td>
+  </tr>
+
+  {% if r.subrows %}
+  {% for rr in r.subrows %}
+  <tr class='remote-workshop-table-subrow'>
+  <td>
+    {% if rr.paper_id %}
+    <a href="/papers/neurips2020/{{ rr.paper_id }}" target="_blank">
+      {{rr.row_text}}
+    </a>
+    {% else %}
+    {{rr.row_text}}
+    {% endif %}
+  </td>
+  </tr>
+  {% endfor %}
+  {% endif %}
+
+  {% endfor %}
+  </tbody>
+</table>
+
+<script src="https://cdn.jsdelivr.net/npm/luxon@1.23.0/build/global/luxon.min.js"></script>
+<script>
+$(document).ready(function() {
+  const DateTime = luxon.DateTime;
+  const tz = DateTime.local().zoneName;
+  const tzShort = DateTime.local().toFormat("ZZZZ");
+
+  function wd(day, hour, minute) {
+    return DateTime.utc(2020, 4, parseInt(day), parseInt(hour), parseInt(minute), 0, 0);
+  }
+
+  function formatRange(t1, t2, zone) {
+    const h1 = t1.setZone(zone).toFormat("H:mm");
+    const h2 = t2.setZone(zone).toFormat("H:mm");
+    return `${h1} - ${h2}`;
+  }
+
+  for (let el of Array.from(document.getElementsByClassName('fill-local-tz'))) {
+    el.innerText = tzShort;
+  }
+
+  for (let tr of Array.from(document.getElementsByClassName('range-row'))) {
+    const t1 = wd(tr.getAttribute("data-d1"), tr.getAttribute("data-h1"), tr.getAttribute("data-m1"));
+    const t2 = wd(tr.getAttribute("data-d2"), tr.getAttribute("data-h2"), tr.getAttribute("data-m2"));
+    tr.querySelector('.fill-utc').innerText = formatRange(t1, t2, 'utc');
+    tr.querySelector('.fill-local').innerText = formatRange(t1, t2, tz);
+  }
+
+  $('details').each((i, el) => {
+    el.innerHTML = el.innerHTML.replace(
+      /\(slides:([^\)]+)\)/g,
+      "<a href='$1' target='_blank' class='tag is-info'>slides</a>"
+    );
+  });
+});
+</script>
+
+## Accepted Works
+
+Works were submitted to one of two tracks: [Papers](#Papers) or [Proposals](#Proposals). 
+
+Click the links below for information about each submission, including the paper itself, slides, and videos (coming soon).
+
+{% assign tracks = "Papers Proposals" | split: " " %}
+{% for track in tracks %}
+<h3 id='{{ track }}'>{{ track }}</h3>
+
+<table class='paper-table'>
+  <thead><tr>
+  <th>Title</th>
+  <th>Authors</th>
+  </tr></thead>
+  
+  <tbody>
+  {% for p in site.data.neurips2020_papers %}
+  {% if p.q1_track == track %}
+  <tr>
+  <td>
+  <a href="/papers/neurips2020/{{ p.id }}">({{ p.id }}) {{ p.paper_title }}</a>
+  {% if p.is_best_paper %}
+  <span class='tag best-paper'>Best Paper Award</span>
+  {% elsif p.is_best_proposal %}
+  <span class='tag best-paper'>Best Proposal Award</span>
+  {% endif %}
+  </td>
+  <td>{{ p.authors }}</td>
+  </tr>
+  {% endif %}
+  {% endfor %}
+  </tbody>
+</table>
+{% endfor %}
+
+## Organizers
+
+David Dao* (ETH) <br>
+Evan Sherwin* (Stanford) <br>
+Priya Donti (CMU) <br>
+Lynn Kaack (ETH) <br>
+Lauren Kuntz (Gaiascope) <br>
+Yumna Yusuf (UK Gov) <br>
+David Rolnick (McGill) <br>
+Catherine Nakalembe (UMD) <br>
+Claire Monteleoni (CU Boulder) <br>
+Yoshua Bengio (Mila) <br>
+\* Denotes co-lead organizers
+
+## Grants
 
 ### NeurIPS Registration Grants
 
@@ -54,6 +207,7 @@ Participants may also apply for registration grants through the main NeurIPS con
 ### Data Grants
 
 Given the COVID-19 pandemic and the virtual nature of NeurIPS this year, CCAI is offering Data Grants to participants who have limited access to the internet. The application deadline is **November 20th, 2020**. Please apply here [here](https://docs.google.com/forms/d/e/1FAIpQLScrj7BFMUIB1-IDja9jwUsCEF6FnnKaK3MUBiHGWOvV5Pq4Eg/viewform).
+
 
 ## Call for Submissions
 
@@ -195,20 +349,6 @@ Between August 26-28, selected mentors may be asked to provide additional input 
 
 **Q:** What happens if my mentor/mentee wants to continue meeting after the workshop?<br>
 **A:** We welcome and encourage continued interactions after the official mentorship period. That said, neither the mentor nor the mentee should feel obligated to maintain contact.
-
-## Organizers
-
-David Dao* (ETH) <br>
-Evan Sherwin* (Stanford) <br>
-Priya Donti (CMU) <br>
-Lynn Kaack (ETH) <br>
-Lauren Kuntz (Gaiascope) <br>
-Yumna Yusuf (UK Gov) <br>
-David Rolnick (McGill) <br>
-Catherine Nakalembe (UMD) <br>
-Claire Monteleoni (CU Boulder) <br>
-Yoshua Bengio (Mila) <br>
-\* Denotes co-lead organizers
 
 ## "How-to" Webinar
 

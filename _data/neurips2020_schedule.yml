@@ -1,0 +1,196 @@
+---
+- utc1:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 11
+    minute: 0
+  utc2:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 11
+    minute: 15
+  desc: <b>Welcome and opening remarks</b>
+- utc1:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 11
+    minute: 15
+  utc2:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 12
+    minute: 0
+  desc: Rose Mwebaza (UN Climate Technology Centre & Network) <i>(Invited talk)</i>
+- utc1:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 12
+    minute: 0
+  utc2:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 13
+    minute: 0
+  desc: <i>Spotlight talks</i>
+- utc1:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 13
+    minute: 0
+  utc2:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 14
+    minute: 0
+  desc: <i>Poster session</i>
+- utc1:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 14
+    minute: 0
+  utc2:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 15
+    minute: 0
+  desc: ML Climate Impact Through Policy <i>(Panel discussion)</i>
+- utc1:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 15
+    minute: 0
+  utc2:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 16
+    minute: 0
+  desc: <i>Spotlight talks</i>
+- utc1:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 16
+    minute: 0
+  utc2:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 17
+    minute: 15
+  desc: <i>Poster session</i>
+- utc1:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 17
+    minute: 15
+  utc2:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 18
+    minute: 0
+  desc: Zico Kolter (Carnegie Mellon University) <i>(Invited talk)</i>
+- utc1:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 18
+    minute: 0
+  utc2:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 19
+    minute: 0
+  desc: ML Climate Impact Through the Private Sector <i>(Panel discussion)</i>
+- utc1:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 19
+    minute: 0
+  utc2:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 20
+    minute: 0
+  desc: <i>Spotlight talks</i>
+- utc1:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 20
+    minute: 0
+  utc2:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 21
+    minute: 0
+  desc: <i>Poster session</i>
+- utc1:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 21
+    minute: 15
+  utc2:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 22
+    minute: 0
+  desc: Jennifer Chayes (UC Berkeley) <i>(Invited talk)</i>
+- utc1:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 22
+    minute: 0
+  utc2:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 22
+    minute: 45
+  desc: Vinod Khosla (Khosla Ventures) <i>(Fireside chat)</i>
+- utc1:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 22
+    minute: 45
+  utc2:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 23
+    minute: 15
+  desc: Closing remarks and awards
+- utc1:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 23
+    minute: 15
+  utc2:
+    year: 2020
+    month: 12
+    day: 11
+    hour: 0
+    minute: 0
+  desc: Poster reception
