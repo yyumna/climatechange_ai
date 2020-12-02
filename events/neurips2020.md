@@ -13,9 +13,11 @@ og_image_height: 327
 <div class='buttons'>
   <a class='button' href='#about-the-workshop'>About</a>
   <a class='button' href='#schedule'>Schedule</a>
-  <a class='button' href='#call-for-submissions'>Call for Submissions</a>
-  <a class='button' href='#submission-mentorship-program'>Mentorship Program</a>
+  <a class='button' href='#accepted-works'>Accepted Works</a>
   <a class='button' href='#organizers'>Organizers</a>
+  <a class='button' href='#grants'><s>Grants</s></a>
+  <a class='button' href='#call-for-submissions'><s>Submit</s></a>
+  <a class='button' href='#submission-mentorship-program'><s>Mentorship</s></a>
   <a class='button' href='#frequently-asked-questions'>FAQ</a>
 </div>
 
@@ -50,37 +52,149 @@ NeurIPS is one of the premier conferences on machine learning, and includes a wi
 **Zico Kolter** (Carnegie Mellon University)  
 
 ## Schedule 
-All times are given in Central European Time as well as US Pacific, 9 hours earlier
 
-12:00 -  12:15 CET (03:00-0:3:15 PST) - **Welcome and opening remarks**
+<table class='remote-workshop-table'>
+  <thead>
+  <tr>
+  <th>Time (UTC)</th>
+  <th>Time (<span class='fill-local-tz'>Local</span>)</th>
+  <th>Event</th>
+  </tr>
+  </thead>
 
-12:15 - 13:00 CET (03:15-0:4:00 PST) - Rose Mwebaza (UN Climate Technology Centre & Network) *(Invited talk)*
+  <tbody>
+  {% for r in site.data.neurips2020_schedule %}
+  <tr class='range-row' data-d1="{{ r.utc1.day }}" data-d2="{{ r.utc2.day }}" data-h1="{{ r.utc1.hour }}" data-h2="{{ r.utc2.hour }}" data-m1="{{ r.utc1.minute }}" data-m2="{{ r.utc2.minute }}">
 
-13:00 - 14:00 CET (04:00-05:00 PST) - *Spotlight talks*
+  {% if r.subrows %}
+  <td class='fill-utc' rowspan="{{ r.subrows.size | plus: 1 }}"> </td>
+  <td class='fill-local' rowspan="{{ r.subrows.size | plus: 1 }}"> </td>
+  {% else %}
+  <td class='fill-utc'> </td>
+  <td class='fill-local'> </td>
+  {% endif %}
 
-14:00 - 15:00 CET (05:00-06:00 PST) - *Poster session*
+  <td>
+  {% if r.url %}
+  <a href="{{ r.url }}" target="_blank">{{r.desc | strip_newlines | strip }}</a>
+  {% else %}
+  {{r.desc | strip_newlines | strip }}
+  {% endif %}
+  {% if r.more.size > 0 %}
+  <details>
+  <summary>Details: (click to expand)</summary>
+  {{ r.more | strip_newlines | strip }}
+  </details>
+  {% endif %}
+  </td>
+  </tr>
 
-15:00 - 16:00 CET (06:00-07:00 PST) - ML Climate Impact Through Policy *(Panel discussion)*
+  {% if r.subrows %}
+  {% for rr in r.subrows %}
+  <tr class='remote-workshop-table-subrow'>
+  <td>
+    {% if rr.paper_id %}
+    <a href="/papers/neurips2020/{{ rr.paper_id }}" target="_blank">
+      {{rr.row_text}}
+    </a>
+    {% else %}
+    {{rr.row_text}}
+    {% endif %}
+  </td>
+  </tr>
+  {% endfor %}
+  {% endif %}
 
-16:00 - 17:00 CET (07:00-08:00 PST) - *Spotlight talks*
+  {% endfor %}
+  </tbody>
+</table>
 
-17:00 - 18:15 CET (08:00-09:15 PST) - *Poster session*
+<script src="https://cdn.jsdelivr.net/npm/luxon@1.23.0/build/global/luxon.min.js"></script>
+<script>
+$(document).ready(function() {
+  const DateTime = luxon.DateTime;
+  const tz = DateTime.local().zoneName;
+  const tzShort = DateTime.local().toFormat("ZZZZ");
 
-18:15 - 19:00 CET (09:15-10:00 PST) - Zico Kolter (Carnegie Mellon University) *(Invited talk)*
+  function wd(day, hour, minute) {
+    return DateTime.utc(2020, 4, parseInt(day), parseInt(hour), parseInt(minute), 0, 0);
+  }
 
-19:00 - 20:00 CET (10:00-11:00 PST) - ML Climate Impact Through the Private Sector *(Panel discussion)*
+  function formatRange(t1, t2, zone) {
+    const h1 = t1.setZone(zone).toFormat("H:mm");
+    const h2 = t2.setZone(zone).toFormat("H:mm");
+    return `${h1} - ${h2}`;
+  }
 
-20:00 - 21:00 CET (11:00-12:00 PST) - *Spotlight talks*
+  for (let el of Array.from(document.getElementsByClassName('fill-local-tz'))) {
+    el.innerText = tzShort;
+  }
 
-21:00 - 22:00 CET (12:00-13:00 PST) - *Poster session*
+  for (let tr of Array.from(document.getElementsByClassName('range-row'))) {
+    const t1 = wd(tr.getAttribute("data-d1"), tr.getAttribute("data-h1"), tr.getAttribute("data-m1"));
+    const t2 = wd(tr.getAttribute("data-d2"), tr.getAttribute("data-h2"), tr.getAttribute("data-m2"));
+    tr.querySelector('.fill-utc').innerText = formatRange(t1, t2, 'utc');
+    tr.querySelector('.fill-local').innerText = formatRange(t1, t2, tz);
+  }
 
-22:15 - 23:00 CET (13:15-14:00 PST) - Jennifer Chayes (UC Berkeley) *(Invited talk)*
+  $('details').each((i, el) => {
+    el.innerHTML = el.innerHTML.replace(
+      /\(slides:([^\)]+)\)/g,
+      "<a href='$1' target='_blank' class='tag is-info'>slides</a>"
+    );
+  });
+});
+</script>
 
-23:00 - 23:45 CET (14:00-14:45 PST) - Vinod Khosla (Khosla Ventures) *(Fireside chat)*
+## Accepted Works
 
-23:45-00:15 CET (14:45-15:15 PST) - Closing remarks and awards
+Works were submitted to one of two tracks: [Papers](#Papers) or [Proposals](#Proposals). 
 
-00:15 - 01:00 CET (15:15-16:00 PST) - Poster reception
+Click the links below for information about each submission, including the paper itself, slides, and videos (coming soon).
+
+{% assign tracks = "Papers Proposals" | split: " " %}
+{% for track in tracks %}
+<h3 id='{{ track }}'>{{ track }}</h3>
+
+<table class='paper-table'>
+  <thead><tr>
+  <th>Title</th>
+  <th>Authors</th>
+  </tr></thead>
+  
+  <tbody>
+  {% for p in site.data.neurips2020_papers %}
+  {% if p.q1_track == track %}
+  <tr>
+  <td>
+  <a href="/papers/iclr2020/{{ p.id }}">({{ p.id }}) {{ p.paper_title }}</a>
+  {% if p.is_best_paper %}
+  <span class='tag best-paper'>Best Paper Award</span>
+  {% elsif p.is_best_proposal %}
+  <span class='tag best-paper'>Best Proposal Award</span>
+  {% endif %}
+  </td>
+  <td>{{ p.authors }}</td>
+  </tr>
+  {% endif %}
+  {% endfor %}
+  </tbody>
+</table>
+{% endfor %}
+
+## Organizers
+
+David Dao* (ETH) <br>
+Evan Sherwin* (Stanford) <br>
+Priya Donti (CMU) <br>
+Lynn Kaack (ETH) <br>
+Lauren Kuntz (Gaiascope) <br>
+Yumna Yusuf (UK Gov) <br>
+David Rolnick (McGill) <br>
+Catherine Nakalembe (UMD) <br>
+Claire Monteleoni (CU Boulder) <br>
+Yoshua Bengio (Mila) <br>
+\* Denotes co-lead organizers
 
 ## Grants
 
@@ -93,6 +207,7 @@ Participants may also apply for registration grants through the main NeurIPS con
 ### Data Grants
 
 Given the COVID-19 pandemic and the virtual nature of NeurIPS this year, CCAI is offering Data Grants to participants who have limited access to the internet. The application deadline is **November 20th, 2020**. Please apply here [here](https://docs.google.com/forms/d/e/1FAIpQLScrj7BFMUIB1-IDja9jwUsCEF6FnnKaK3MUBiHGWOvV5Pq4Eg/viewform).
+
 
 ## Call for Submissions
 
@@ -234,20 +349,6 @@ Between August 26-28, selected mentors may be asked to provide additional input 
 
 **Q:** What happens if my mentor/mentee wants to continue meeting after the workshop?<br>
 **A:** We welcome and encourage continued interactions after the official mentorship period. That said, neither the mentor nor the mentee should feel obligated to maintain contact.
-
-## Organizers
-
-David Dao* (ETH) <br>
-Evan Sherwin* (Stanford) <br>
-Priya Donti (CMU) <br>
-Lynn Kaack (ETH) <br>
-Lauren Kuntz (Gaiascope) <br>
-Yumna Yusuf (UK Gov) <br>
-David Rolnick (McGill) <br>
-Catherine Nakalembe (UMD) <br>
-Claire Monteleoni (CU Boulder) <br>
-Yoshua Bengio (Mila) <br>
-\* Denotes co-lead organizers
 
 ## "How-to" Webinar
 
