@@ -167,7 +167,7 @@ Click the links below for information about each submission, including the paper
   {% if p.q1_track == track %}
   <tr>
   <td>
-  <a href="/papers/iclr2020/{{ p.id }}">({{ p.id }}) {{ p.paper_title }}</a>
+  <a href="/papers/neurips2020/{{ p.id }}">({{ p.id }}) {{ p.paper_title }}</a>
   {% if p.is_best_paper %}
   <span class='tag best-paper'>Best Paper Award</span>
   {% elsif p.is_best_proposal %}
