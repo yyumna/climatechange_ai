@@ -24,7 +24,7 @@ og_image_height: 327
 ***
 
 <center> <h3>Announcements</h3> </center>
-* To participate fully in the workshop, including interactive poster sessions and live Q&A with speakers, register here! <https://neurips.cc/Register/view-registration>
+* To participate fully in the workshop, including interactive poster sessions and live Q&A with speakers, register at https://neurips.cc/Register/view-registration
 
 ***
 
