@@ -119,7 +119,7 @@ $(document).ready(function() {
   const tzShort = DateTime.local().toFormat("ZZZZ");
 
   function wd(day, hour, minute) {
-    return DateTime.utc(2020, 4, parseInt(day), parseInt(hour), parseInt(minute), 0, 0);
+    return DateTime.utc(2020, 12, parseInt(day), parseInt(hour), parseInt(minute), 0, 0);
   }
 
   function formatRange(t1, t2, zone) {
