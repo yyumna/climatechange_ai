@@ -72,7 +72,7 @@ Events will be taking place digitally on December 11. The schedule is available 
 
   <tbody>
   {% for r in site.data.neurips2020_schedule %}
-  <tr class='range-row' data-d1="{{ r.utc1.day }}" data-d2="{{ r.utc2.day }}" data-h1="{{ r.utc1.hour }}" data-h2="{{ r.utc2.hour }}" data-m1="{{ r.utc1.minute }}" data-m2="{{ r.utc2.minute }}">
+  <tr class='range-row' data-d1='{{ r.utc1 | jsonify }}' data-d2='{{ r.utc2 | jsonify }}'>
 
   {% if r.subrows %}
   <td class='fill-utc' rowspan="{{ r.subrows.size | plus: 1 }}"> </td>
@@ -124,8 +124,9 @@ $(document).ready(function() {
   const tz = DateTime.local().zoneName;
   const tzShort = DateTime.local().toFormat("ZZZZ");
 
-  function wd(day, hour, minute) {
-    return DateTime.utc(2020, 12, parseInt(day), parseInt(hour), parseInt(minute), 0, 0);
+  function parseDate(s) {
+    const d = JSON.parse(s);
+    return DateTime.utc(d.year, d.month, d.day, d.hour, d.minute, 0, 0);
   }
 
   function formatRange(t1, t2, zone) {
@@ -139,8 +140,8 @@ $(document).ready(function() {
   }
 
   for (let tr of Array.from(document.getElementsByClassName('range-row'))) {
-    const t1 = wd(tr.getAttribute("data-d1"), tr.getAttribute("data-h1"), tr.getAttribute("data-m1"));
-    const t2 = wd(tr.getAttribute("data-d2"), tr.getAttribute("data-h2"), tr.getAttribute("data-m2"));
+    const t1 = parseDate(tr.getAttribute("data-d1"));
+    const t2 = parseDate(tr.getAttribute("data-d2"));
     tr.querySelector('.fill-utc').innerText = formatRange(t1, t2, 'utc');
     tr.querySelector('.fill-local').innerText = formatRange(t1, t2, tz);
   }
