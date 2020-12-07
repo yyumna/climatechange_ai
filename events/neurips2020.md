@@ -184,18 +184,22 @@ Click the links below for information about each submission, including the paper
 </table>
 {% endfor %}
 
+
+## Sponsors
+![Microsoft logo](/images/microsoft.png)
+
 ## Organizers
 
-David Dao* (ETH) <br>
-Evan Sherwin* (Stanford) <br>
-Priya Donti (CMU) <br>
-Lynn Kaack (ETH) <br>
-Lauren Kuntz (Gaiascope) <br>
-Yumna Yusuf (UK Gov) <br>
-David Rolnick (McGill) <br>
-Catherine Nakalembe (UMD) <br>
-Claire Monteleoni (CU Boulder) <br>
-Yoshua Bengio (Mila) <br>
+<a href="https://daviddao.org/" target="_blank">David Dao* (ETH Zürich)</a> <br> 
+<a href="https://www.evansherwin.com/" target="_blank"> Evan Sherwin* (Stanford)</a> <br>
+<a href="https://priyadonti.com/" target="_blank">Priya Donti (CMU)</a> <br>
+<a href="https://scholar.google.fr/citations?user=jsy-VxMAAAAJ" target="_blank">Lynn Kaack (ETH Zürich)</a> <br>
+<a href="https://www.gaia-scope.com/contact" target="_blank">Lauren Kuntz (Gaiascope)</a> <br>
+<a href="https://www.researchgate.net/profile/Yumna_Yusuf" target="_blank">Yumna Yusuf (UK Gov)</a> <br>
+<a href="http://www.davidrolnick.com" target="_blank">David Rolnick (McGill)</a> <br>
+<a href="https://nasaharvest.org/partner/catherine-nakalembe"> Catherine Nakalembe (UMD)</a> <br>
+<a href="https://www.colorado.edu/faculty/claire-monteleoni/">Claire Monteleoni (CU Boulder)</a> <br>
+<a href="https://mila.quebec/en/yoshua-bengio/" target="_blank">Yoshua Bengio (Mila)</a> <br>
 \* Denotes co-lead organizers
 
 ## Grants
