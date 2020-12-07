@@ -63,7 +63,7 @@
     day: 11
     hour: 15
     minute: 0
-  desc: ML Climate Impact Through Policy <i>(Panel discussion)</i>
+  desc: <i>Spotlight talks</i>
 - utc1:
     year: 2020
     month: 12
@@ -76,7 +76,7 @@
     day: 11
     hour: 16
     minute: 0
-  desc: <i>Spotlight talks</i>
+  desc: Climate Change and ML for Policy <i>(Panel discussion)</i>
 - utc1:
     year: 2020
     month: 12
@@ -115,7 +115,7 @@
     day: 11
     hour: 19
     minute: 0
-  desc: ML Climate Impact Through the Private Sector <i>(Panel discussion)</i>
+  desc: Climate Change and ML in the Private Sector <i>(Panel discussion)</i>
 - utc1:
     year: 2020
     month: 12
