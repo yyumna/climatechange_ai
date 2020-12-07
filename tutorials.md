@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Climate Change AI - Community Events Calendar
-description: Calendar of relevant events in climate change and machine learning
+title: Climate Change AI - Tutorials
+description: Tutorials on climate change and machine learning
 ---
 
 # Tutorials
