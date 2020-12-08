@@ -37,6 +37,7 @@
     Kaushik (General Motors Global Research and Development); Bahram Khalighi (General
     Motors Global Research and Development); Michael Cruse (Siemens Digital Industries
     Software); Ganesh Venkatesan (Siemens Digital Industries Software)
+  slideslive_id: '38942179'
   cmt_id: 5
   is_spotlight: false
   id: 1
@@ -73,6 +74,7 @@
     alex.money@smithschool.ox.ac.uk
   authors: Galina Alova (University of Oxford); Philipp Trotter (University of Oxford);
     Alex Money (University of Oxford)
+  slideslive_id: '38942177'
   cmt_id: 11
   is_spotlight: false
   id: 2
@@ -107,6 +109,7 @@
     alami1859@hotmail.fr; philippe.cordier@total.com
   authors: Gonzague Henri (Total); Tanguy Levent (Ecole Polytechnique); Avishai Halev
     (Total, UC Davis); Reda ALAMI (Total R&D); Philippe Cordier (Total S.A.)
+  slideslive_id: '38942178'
   cmt_id: 13
   is_spotlight: false
   id: 3
@@ -134,6 +137,7 @@
   author_names: Le Coz, Adrien*; Nabil, Tahar; Courtot, Francois
   author_emails: adrien.le-coz@edf.fr*; tahar-t.nabil@edf.fr; francois.courtot@edf.fr
   authors: Adrien Le Coz (EDF); Tahar Nabil (EDF); Francois Courtot (EDF)
+  slideslive_id: '38942176'
   cmt_id: 17
   is_spotlight: false
   id: 4
@@ -171,6 +175,7 @@
   authors: Alexander J. M. Kell (Newcastle University); Pablo Salas (University of
     Cambridge); Jean-Francois Mercure (University of Exeter); Matthew Forshaw (Newcastle
     University); A. Stephen McGough (Newcastle University)
+  slideslive_id: '38942175'
   cmt_id: 18
   is_spotlight: false
   id: 5
@@ -209,6 +214,7 @@
     University); Avati Anand (Stanford University); Jack Kelly (Open Climate Fix);
     Ram Rajagopal (Stanford University); Andrew Ng (Stanford University); David J
     Gagne (National Center for Atmospheric Research)
+  slideslive_id: '38942174'
   cmt_id: 19
   is_spotlight: false
   id: 6
@@ -242,6 +248,7 @@
     Würzburg); Katrin Ziegler (University of Würzburg); Anna Krause (Universität Würzburg,
     Department of Computer Science, CHair X Data Science); Heiko Paeth (University
     of Würzburg); Andreas Hotho (Universitat Wurzburg)
+  slideslive_id: '38942195'
   cmt_id: 24
   is_spotlight: true
   id: 7
@@ -276,6 +283,7 @@
   author_emails: qp208@cam.ac.uk*; jl221@cam.ac.uk
   authors: Quentin Paletta (University of Cambridge); Joan Lasenby (University of
     Cambridge)
+  slideslive_id: '38942197'
   cmt_id: 25
   is_spotlight: false
   id: 8
@@ -300,6 +308,7 @@
   authors: Michael Mommert (University of St. Gallen); Mario Sigel (Sociovestix Labs
     Ltd.); Marcel Neuhausler (ISS Technology Innovation Lab); Linus M. Scheibenreif
     (University of St. Gallen); Damian Borth (University of St. Gallen)
+  slideslive_id: '38942196'
   cmt_id: 26
   is_spotlight: false
   id: 9
@@ -331,6 +340,7 @@
   author_names: Hess, Philipp*; Boers, Niklas
   author_emails: hess@pik-potsdam.de*; boers@pik-potsdam.de
   authors: Philipp Hess (Free University Berlin); Niklas Boers (Free University Berlin)
+  slideslive_id: '38942180'
   cmt_id: 28
   is_spotlight: false
   id: 10
@@ -369,6 +379,7 @@
     Kargar (WattTime); Thomas Kassel (WattTime); Brian Goldman (Google); Daniel Tyrrell
     (Google); Wanda Czerwinski (Google); Alok Talekar (Google); Colin McCormick (Georgetown
     University)
+  slideslive_id: '38942194'
   cmt_id: 29
   is_spotlight: true
   id: 11
@@ -398,6 +409,7 @@
   author_names: Kamdem De Teyou, Gael*
   author_emails: gael.kamdemdeteyou@gmail.com*
   authors: Gael Kamdem De Teyou (Huawei)
+  slideslive_id: '38942202'
   cmt_id: 32
   is_spotlight: false
   id: 12
@@ -425,6 +437,7 @@
   author_names: Skinner, Dominic J*; Maulik, Romit
   author_emails: dskinner@mit.edu*; rmaulik@anl.gov
   authors: Dominic J Skinner (MIT); Romit Maulik (Argonne National Laboratory)
+  slideslive_id: '38942201'
   cmt_id: 33
   is_spotlight: false
   id: 13
@@ -458,6 +471,7 @@
   author_emails: yahyaallawati@gmail.com*; jack@openclimatefix.org; dan.stowell@qmul.ac.uk
   authors: Yahya Hasan Al Lawati (Queen Mary University of London); Jack Kelly (Open
     Climate Fix); Dan Stowell (Queen Mary University of London)
+  slideslive_id: '38942172'
   cmt_id: 37
   is_spotlight: false
   id: 14
@@ -495,6 +509,7 @@
   author_emails: langer.tomas@yahoo.com*; natalia_fedorova@eva.mpg.de; ron@osir.io
   authors: Tomas Langer (Intuition Machines); Natalia Fedorova (Max Planck Institute
     for Evolutionary Anthropology); Ron Hagensieker (Osir.io)
+  slideslive_id: '38942170'
   cmt_id: 41
   is_spotlight: false
   id: 15
@@ -525,6 +540,7 @@
   author_emails: lm.mejiamendoza@utoronto.ca*; alan@aspuru.com; martham14@gmail.com
   authors: Luis M Mejia Mendoza (University of Toronto); Alan Aspuru-Guzik (Harvard
     University); Martha Flores Leonar (University of Toronto)
+  slideslive_id: '38942169'
   cmt_id: 43
   is_spotlight: false
   id: 16
@@ -553,6 +569,7 @@
   author_names: Bouabid, Shahine*; Gamper, Jevgenij
   author_emails: shahine.bouabid@lmh.ox.ac.uk*; jev@cervest.earth
   authors: Shahine Bouabid (University of Oxford); Jevgenij Gamper (Cervest Ltd.)
+  slideslive_id: '38942168'
   cmt_id: 45
   is_spotlight: false
   id: 17
@@ -590,6 +607,7 @@
   authors: Beichen Zhang (University of Nebraska-Lincoln); Fatima K Abu Salem (American
     University of Beirut); Michael Hayes (University of Nebraska-Lincoln); Tsegaye
     Tadesse (University of Nebraska-Lincoln)
+  slideslive_id: '38942166'
   cmt_id: 47
   is_spotlight: false
   id: 18
@@ -619,6 +637,7 @@
   author_emails: 1997pranoy@gmail.com; mbarczyk@ualberta.ca*; jbeverly@ualberta.ca
   authors: Pranoy Panda (Indian Institute of Technology, Hyderabad); Martin Barczyk
     (University of Alberta); Jen Beverly (University of Alberta)
+  slideslive_id: '38942165'
   cmt_id: 48
   is_spotlight: false
   id: 19
@@ -658,6 +677,7 @@
   authors: Jiayang Wang (Harrisburg University); Selvaprabu Nadarajah (University
     of Illinois at Chicago); Jingfan Wang (Stanford University); Arvind Ravikumar
     (Harrisburg University)
+  slideslive_id: '38942192'
   cmt_id: 49
   is_spotlight: true
   id: 20
@@ -688,6 +708,7 @@
   author_names: Zhou, Wang*; Klein, Levente
   author_emails: Wang.Zhou@ibm.com*; kleinl@us.ibm.com
   authors: Wang Zhou (IBM Research); Levente Klein (IBM Research)
+  slideslive_id: '38942159'
   cmt_id: 55
   is_spotlight: false
   id: 21
@@ -727,6 +748,7 @@
     University); Kyle Story (Descartes Labs); Rose Rustowicz (Descartes Labs); Cooper
     Elsworth (Descartes Labs); Kemen Austin (RTI International); Andrew Ng (Stanford
     University)
+  slideslive_id: '38942160'
   cmt_id: 56
   is_spotlight: false
   id: 22
@@ -768,6 +790,7 @@
   authors: Dillon Hicks (Engineers for Exploration); Ryan Kastner (University of California
     San Diego); Curt Schurgers (University of California San Diego); Astrid  Hsu (University
     of California San Diego); Octavio  Aburto (University of California San Diego)
+  slideslive_id: '38942157'
   cmt_id: 58
   is_spotlight: false
   id: 23
@@ -797,6 +820,7 @@
   author_emails: benchoi@stanford.edu*; alexer@stanford.edu; rishee.jain@stanford.edu
   authors: Benjamin Choi (Stanford University); Alex Nutkiewicz (Stanford University);
     Rishee Jain (Stanford University)
+  slideslive_id: '38942156'
   cmt_id: 60
   is_spotlight: false
   id: 24
@@ -823,6 +847,7 @@
   author_names: Falconer, Thomas*; Mones, Letif
   author_emails: thomas.falconer.19@ucl.ac.uk*; letif.mones@invenialabs.co.uk
   authors: Thomas Falconer (University College London); Letif Mones (Invenia Labs)
+  slideslive_id: '38942155'
   cmt_id: 63
   is_spotlight: false
   id: 25
@@ -861,6 +886,7 @@
     (nam.R); Julien LENHARDT (nam.R; ENSTA); JORDI BADOSA (Ecole Polytechnique); Sylvain  GAVOILLE
     (nam.R); Stéphane GAIFFAS (nam.R; LPSM (Université de Paris)); Emmanuel BACRY
     (nam.R; CEREMADE (Université Paris Dauphine, PSL))
+  slideslive_id: '38942154'
   cmt_id: 65
   is_spotlight: false
   id: 26
@@ -897,6 +923,7 @@
     schroederdewitt@gmail.com
   authors: Dylan Radovic (Imperial College London); Lucas Kruitwagen (University of
     Oxford); Christian Schroeder de Witt (University of Oxford)
+  slideslive_id: '38942153'
   cmt_id: 67
   is_spotlight: false
   id: 27
@@ -927,6 +954,7 @@
   author_emails: bohm@diag.uniroma1.it*; mirco.nanni@isti.cnr.it; luca.pappalardo@isti.cnr.it
   authors: Matteo Bohm (Sapienza University of Rome); Mirco Nanni (ISTI-CNR Pisa,
     Italy); Luca Pappalardo (ISTI)
+  slideslive_id: '38942152'
   cmt_id: 68
   is_spotlight: false
   id: 28
@@ -963,6 +991,7 @@
   authors: Gabriel Tseng (NASA Harvest); Hannah R Kerner (University of Maryland);
     Catherine L Nakalembe (University of Maryland); Inbal Becker-Reshef (University
     of Maryland)
+  slideslive_id: '38942151'
   cmt_id: 71
   is_spotlight: false
   id: 29
@@ -1000,6 +1029,7 @@
     (University of Bern); Sofija Stefanovic (University of Oxford); Yuhan Rao (North
     Carolina Institute for Climate Studies); Peter Manshausen (University of Oxford);
     Duncan Watson-Parris (University of Oxford)
+  slideslive_id: '38942150'
   cmt_id: 73
   is_spotlight: false
   id: 30
@@ -1030,6 +1060,7 @@
   author_emails: luccionis@mila.quebec*; emily.baylor@mail.mcgill.ca; nicolas.duchene@umontreal.ca
   authors: Sasha Luccioni (Mila); Emi Baylor (McGill); Nicolas Duchene (Universite
     de Montreal)
+  slideslive_id: '38942149'
   cmt_id: 74
   is_spotlight: false
   id: 31
@@ -1063,6 +1094,7 @@
     tim.vaughn@colostate.edu
   authors: SONU DILEEP (Colorado State University); Daniel Zimmerle (Colorado State
     University); Ross Beveridge (CSU); Timothy Vaughn (Colorado State University)
+  slideslive_id: '38942148'
   cmt_id: 81
   is_spotlight: false
   id: 32
@@ -1104,6 +1136,7 @@
   authors: Max Kleinebrahm (Karlsruhe Institut für Technologie); Jacopo Torriti (University
     Reading); Russell McKenna (University of Aberdeen); Armin Ardone (Karlsruhe Institut
     für Technologie); Wolf Fichtner (Karlsruhe Institute of Technology)
+  slideslive_id: '38942147'
   cmt_id: 82
   is_spotlight: false
   id: 33
@@ -1132,6 +1165,7 @@
     Jennifer.Adams@esa.int
   authors: Veda Sunkara (Cloud to Street); Matthew Purri (Rutgers University); Bertrand
     Le Saux (European Space Agency (ESA)); Jennifer Adams (European Space Agency (ESA))
+  slideslive_id: '38942146'
   cmt_id: 83
   is_spotlight: false
   id: 34
@@ -1164,6 +1198,7 @@
   author_names: Doyle, Shannon*; Borovykh, Anastasia
   author_emails: sjdoyle46@gmail.com*; a.borovykh@imperial.ac.uk
   authors: Shannon Doyle (UvA); Anastasia Borovykh (Imperial College London)
+  slideslive_id: '38942145'
   cmt_id: 85
   is_spotlight: false
   id: 35
@@ -1198,6 +1233,7 @@
   authors: Declan GD McIntosh (University Of Victoria); Tunai Porto Marques (University
     of Victoria); Alexandra Branzan Albu (University of Victoria); Rodney Rountree
     (University of Victoria); Fabio De Leo Cabrera (Ocean Networks Canada)
+  slideslive_id: '38942143'
   cmt_id: 88
   is_spotlight: false
   id: 36
@@ -1234,6 +1270,7 @@
   authors: Issam Hadj Laradji (Element AI); Pau Rodriguez (Element AI); Alfredo Kalaitzis
     (University of Oxford); David Vazquez (Element AI); Ross Young (Element AI); Ed
     Davey (Global Witness); Alexandre Lacoste (Element AI)
+  slideslive_id: '38942141'
   cmt_id: 90
   is_spotlight: false
   id: 37
@@ -1277,6 +1314,7 @@
     of Oxford); Alfredo Kalaitzis (University of Oxford); Matthew Chantry (University
     of Oxford); Duncan Watson-Parris (University of Oxford); Piotr Bilinski (University
     of Warsaw / University of Oxford)
+  slideslive_id: '38942190'
   cmt_id: 91
   is_spotlight: true
   id: 38
@@ -1312,6 +1350,7 @@
   authors: Matthias Demant (Fraunhofer ISE); Leslie Kurumundayil (Fraunhofer ISE);
     Philipp Kunze (Fraunhofer ISE); Aditya Kovvali (Fraunhofer ISE); Alexandra Woernhoer
     (Fraunhofer ISE); Stefan Rein (Fraunhofer ISE)
+  slideslive_id: '38942140'
   cmt_id: 92
   is_spotlight: false
   id: 39
@@ -1336,6 +1375,7 @@
   author_emails: sharm636@umn.edu; dray@umn.edu; chatt019@umn.edu*
   authors: Somya Sharma (U. Minnesota); Deepak Ray (University of Minnesota); Snigdhansu
     Chatterjee (University of Minnesota)
+  slideslive_id: '38942200'
   cmt_id: 93
   is_spotlight: true
   id: 40
@@ -1358,6 +1398,7 @@
     draguna.vrabie@pnnl.gov
   authors: Jan Drgona (Pacific Northwest National Laboratory); Aaron R Tuor (Pacific
     Northwest National Laboratory); Vikas Chandan (PNNL); Draguna Vrabie (PNNL)
+  slideslive_id: '38942139'
   cmt_id: 94
   is_spotlight: false
   id: 41
@@ -1390,6 +1431,7 @@
     Marcelo Sandoval-Castañeda (New York University Abu Dhabi); Michelle Ng (International
     Water Management Institute); Rachel von Gnechten (International Water Management
     Institute)
+  slideslive_id: '38942097'
   cmt_id: 96
   is_spotlight: false
   id: 42
@@ -1419,6 +1461,7 @@
   author_names: Godfried, Isaac*
   author_emails: igodfrie@brandeis.edu*
   authors: Isaac Godfried (CoronaWhy)
+  slideslive_id: '38942137'
   cmt_id: 97
   is_spotlight: false
   id: 43
@@ -1457,6 +1500,7 @@
     Oxford); Daniel J Beutel (Adap GmbH / University of Cambridge); Taner Topal (Adap
     GmbH); Akhil Mathur (Nokia Bell Labs); Nicholas Lane (University of Cambridge
     and Samsung AI)
+  slideslive_id: '38942136'
   cmt_id: 99
   is_spotlight: false
   id: 44
@@ -1493,6 +1537,7 @@
   author_emails: tballard@stanford.edu*; gopal@sustglobal.com
   authors: Tristan C Ballard (Sust Global, Stanford University); Gopal  Erinjippurath
     (Sust Global)
+  slideslive_id: '38942189'
   cmt_id: 101
   is_spotlight: true
   id: 45
@@ -1529,6 +1574,7 @@
     (Stanford); Gunther Gust (University of Freiburg); Philipp Staudt (KIT); Christof
     Weinhardt (Karlsruhe Institute of Technology); Dirk Neumann (Universität Freiburg);
     Ram Rajagopal (Stanford University)
+  slideslive_id: '38942188'
   cmt_id: 104
   is_spotlight: true
   id: 46
@@ -1563,6 +1609,7 @@
   author_emails: bright.s.e.aboh@aims-senegal.org*; mutalpho@hotmail.com
   authors: Bright Aboh (African Institute for Mathematical Sciences); Alphonse  Mutabazi
     (UN Environment Program)
+  slideslive_id: '38942133'
   cmt_id: 105
   is_spotlight: false
   id: 47
@@ -1617,6 +1664,7 @@
     Group, Friedrich Schiller University Jena, Germany); Markus Reichstein (Max Planck
     Institute for Biogeochemistry, Jena; Michael Stifel Center Jena for Data-Driven
     and Simulation Science, Jena)
+  slideslive_id: '38942132'
   cmt_id: 106
   is_spotlight: false
   id: 48
@@ -1647,6 +1695,7 @@
   author_names: Narayan, Yash*
   author_emails: yasnara@nuevaschool.org*
   authors: Yash Narayan (The Nueva School)
+  slideslive_id: '38942131'
   cmt_id: 107
   is_spotlight: false
   id: 49
@@ -1683,6 +1732,7 @@
     (Vulcan, Inc.); Anna Kwa (Vulcan, Inc.); Jeremy McGibbon (Vulcan, Inc.); W. Andre
     Perkins (Vulcan, Inc.); Oliver Watt-Meyer (Vulcan, Inc.); Christopher S. Bretherton
     (Vulcan, Inc.)
+  slideslive_id: '38942129'
   cmt_id: 109
   is_spotlight: false
   id: 50
@@ -1726,6 +1776,7 @@
     Rustowicz (Descartes Labs); Cooper Elsworth (Descartes Labs); Mark Omara (Environmental
     Defense Fund); Ritesh Gautam (Environmental Defense Fund); Rob Jackson (Stanford
     University); Andrew Ng (Stanford University)
+  slideslive_id: '38942187'
   cmt_id: 111
   is_spotlight: true
   id: 51
@@ -1759,6 +1810,7 @@
   author_names: Ehrler, Matthew*; Ernst, Neil
   author_emails: mehrler@uvic.ca*; nernst@uvic.ca
   authors: Matthew Ehrler (University of Victoria); Neil Ernst (University of Victoria)
+  slideslive_id: '38942130'
   cmt_id: 112
   is_spotlight: false
   id: 52
@@ -1801,6 +1853,7 @@
     Danielle Christianson (Lawrence Berkeley National Lab); Boris Faybishenko (Lawrence
     Berkeley National Lab); Val Hendrix (Lawrence Berkeley National Lab); Charuleka
     Varadharajan (Lawrence Berkeley National Lab)
+  slideslive_id: '38942127'
   cmt_id: 114
   is_spotlight: false
   id: 53
@@ -1837,6 +1890,7 @@
   authors: Peter Kulits (Caltech); Angelina Pan (Caltech); Sara M Beery (Caltech);
     Erik Young (Trout Unlimited); Pietro Perona (California Institute of Technology);
     Grant Van Horn (Cornell University)
+  slideslive_id: '38942126'
   cmt_id: 116
   is_spotlight: false
   id: 54
@@ -1870,6 +1924,7 @@
   author_emails: ynie@stanford.edu*; ahmed.zamzam@nrel.gov; abrandt@stanford.edu
   authors: Yuhao Nie (Stanford University); Ahmed S Zamzam (The National Renewable
     Energy Laboratory); Adam Brandt (Stanford University)
+  slideslive_id: '38942123'
   cmt_id: 121
   is_spotlight: false
   id: 55
@@ -1903,6 +1958,7 @@
     Berkeley); Utkarsha Agwan (U.C. Berkeley); Joseph Palakapilly (UC Berkeley); Manan
     Khattar (University of California at Berkeley); Akaash Tawade (University of California
     at Berkeley); Costas J. Spanos (University of California at Berkeley)
+  slideslive_id: '38942122'
   cmt_id: 122
   is_spotlight: false
   id: 56
@@ -1938,6 +1994,7 @@
     Mountain Development); Anthony Ortiz (Microsoft); Kris Sankaran (University of
     Wisconsin-Madison); Juan M Lavista Ferres (Microsoft); Mir A Matin (International
     Center for Integrated Mountain Development); Yoshua Bengio (Mila)
+  slideslive_id: '38942186'
   cmt_id: 124
   is_spotlight: true
   id: 57
@@ -1970,6 +2027,7 @@
   author_emails: anaeem@stanford.edu*; smbenson@stanford.edu; jdechalendar@stanford.edu
   authors: Aqsa Naeem (Stanford University); Sally Benson (Stanford University); Jacques
     de Chalendar (Stanford University)
+  slideslive_id: '38942184'
   cmt_id: 125
   is_spotlight: true
   id: 58
@@ -2000,6 +2058,7 @@
     k.weldemariam@ke.ibm.com
   authors: Campbell Watson (IBM); Chulin Wang (Northwestern University); Tim Lynar
     (University of New South Wales); Komminist  Weldemariam (IBM Research)
+  slideslive_id: '38942120'
   cmt_id: 126
   is_spotlight: false
   id: 59
@@ -2034,6 +2093,7 @@
   author_names: Shi, Lin*; Truong Vu, Nhi
   author_emails: linshi@stanford.edu*; ntruongv@stanford.edu
   authors: Lin Shi (Stanford University); Nhi Truong Vu (Stanford University)
+  slideslive_id: '38942119'
   cmt_id: 128
   is_spotlight: false
   id: 60
@@ -2080,6 +2140,7 @@
   authors: Alex Ayala (Western Washington University); Chris Drazic (Western Washington
     University); Brian Hutchinson (Western Washington University); Ben Kravitz (Indiana
     University); Claudia Tebaldi (Joint Global Change Research Institute)
+  slideslive_id: '38942118'
   cmt_id: 130
   is_spotlight: false
   id: 61
@@ -2111,6 +2172,7 @@
     Bermejo (Universidad Nacional del Altiplano); Manasses A. Mauricio (Universidad
     Católica San Pablo); Ricardo Zarate (Instituto de Investigaciones de la Amazonía
     Peruana); Erwin Dianderas (Instituto de Investigaciones de la Amazonía Peruana)
+  slideslive_id: '38942185'
   cmt_id: 131
   is_spotlight: true
   id: 62
@@ -2143,6 +2205,7 @@
   author_emails: martaskreta@cs.toronto.edu*; luccionis@mila.quebec; drolnick@cs.mcgill.ca
   authors: Marta Skreta (University of Toronto); Sasha Luccioni (Mila); David Rolnick
     (McGill University, Mila)
+  slideslive_id: '38942182'
   cmt_id: 132
   is_spotlight: true
   id: 63
@@ -2180,6 +2243,7 @@
     puyavahabi@berkeley.edu; todeschini@berkeley.edu
   authors: Will Hawkins (UC Berkeley); Weixin Wu (UC Berkeley); Sonal Thakkar (UC
     Berkeley); Puya Vahabi (UC Berkeley); Alberto Todeschini (UC Berkeley)
+  slideslive_id: '38942115'
   cmt_id: 134
   is_spotlight: false
   id: 64
@@ -2216,6 +2280,7 @@
   authors: Hari Prasanna Das  (UC Berkeley); Ioannis C. Konstantakopoulos (UC Berkeley);
     Aummul Baneen Manasawala (UC Berkeley); Tanya Veeravalli (UC Berkeley); Huihan
     Liu (UC Berkeley); Costas J. Spanos (University of California at Berkeley)
+  slideslive_id: '38942114'
   cmt_id: 135
   is_spotlight: false
   id: 65
@@ -2256,6 +2321,7 @@
   authors: Robbie M Jones (Stanford University); Sang Michael Xie (Stanford University);
     Ananya Kumar (Stanford University); Fereshte Khani (Stanford); Tengyu Ma (Stanford
     University); Percy Liang (Stanford University)
+  slideslive_id: '38942113'
   cmt_id: 141
   is_spotlight: false
   id: 66
@@ -2288,6 +2354,7 @@
   author_names: Leippold, Markus*; Diggelmann, Thomas
   author_emails: markus.leippold@bf.uzh.ch*; thomas.diggelmann@student.ethz.ch
   authors: Markus Leippold (University of Zurich); Thomas Diggelmann (ETH Zurich)
+  slideslive_id: '38942112'
   cmt_id: 142
   is_spotlight: false
   id: 67
@@ -2325,6 +2392,7 @@
     (CTFC); Pelagy Moudio (University of California Berkeley); Jordi Garcia-Gonzalo
     (CTFC); Marta C. González (Berkeley); Zuo-Jun Shen (University of California,
     Berkeley)
+  slideslive_id: '38942107'
   cmt_id: 144
   is_spotlight: false
   id: 68
@@ -2346,6 +2414,7 @@
   author_names: Leippold, Markus*; Varini, Francesco Saverio
   author_emails: markus.leippold@bf.uzh.ch*; fvarini@student.ethz.ch
   authors: Markus Leippold (University of Zurich); Francesco Saverio Varini (ETH)
+  slideslive_id: '38942108'
   cmt_id: 145
   is_spotlight: false
   id: 69
@@ -2390,6 +2459,7 @@
     (University of Oxford); Piotr Bilinski (University of Warsaw / University of Oxford);
     Alfredo Kalaitzis (University of Oxford); Matthew Chantry (University of Oxford);
     Duncan Watson-Parris (University of Oxford)
+  slideslive_id: '38942105'
   cmt_id: 146
   is_spotlight: false
   id: 70
@@ -2423,6 +2493,7 @@
     (University of West Attica); Nikolaos Doulamis (National Technical University
     of Athens); Anastasios Doulamis (Technical University of Crete); Eftychios Protopapadakis
     (National Technical University of Athens)
+  slideslive_id: '38942103'
   cmt_id: 148
   is_spotlight: false
   id: 71
@@ -2457,6 +2528,7 @@
   authors: Cristobal Pais (University of California Berkeley); Alejandro Miranda (University
     of Chile); Jaime Carrasco (University of Chile); Zuo-Jun Shen (University of California,
     Berkeley)
+  slideslive_id: '38942101'
   cmt_id: 150
   is_spotlight: false
   id: 72
@@ -2490,6 +2562,7 @@
   author_names: Chen, Thomas Y*
   author_emails: thomasyutaochen@gmail.com*
   authors: Thomas Y Chen (The Academy for Mathematics, Science, and Engineering)
+  slideslive_id: '38942181'
   cmt_id: 159
   is_spotlight: true
   id: 73
@@ -2522,6 +2595,7 @@
     thabang.mashinini@ibm.com; cwatson@us.ibm.com
   authors: Etienne E Vos (IBM); Ashley Gritzman (IBM); Sibusisiwe Makhanya (IBM Research);
     Thabang Mashinini (IBM); Campbell Watson (IBM)
+  slideslive_id: '38942098'
   cmt_id: 160
   is_spotlight: false
   id: 74
@@ -2553,6 +2627,7 @@
   author_names: Hülsmann, Jonas*; Steinke, Florian
   author_emails: jonas.huelsmann@eins.tu-darmstadt.de*; florian.steinke@eins.tu-darmstadt.de
   authors: Jonas Hülsmann (TU Darmstadt); Florian Steinke (TU Darmstadt)
+  slideslive_id: '38942199'
   cmt_id: 9
   is_spotlight: false
   id: 75
@@ -2586,6 +2661,7 @@
   author_names: Tilbury, Kyle*; Hoey, Jesse
   author_emails: ktilbury@uwaterloo.ca*; jhoey@cs.uwaterloo.ca
   authors: Kyle Tilbury (University of Waterloo); Jesse Hoey (University of Waterloo)
+  slideslive_id: '38942198'
   cmt_id: 22
   is_spotlight: false
   id: 76
@@ -2615,6 +2691,7 @@
   author_emails: saraelmekkaoui@research.emi.ac.ma*; loubna_benabbou@uqar.ca; berrado@emi.ac.ma
   authors: Sara El Mekkaoui (EMI Engineering School); Loubna Benabou (UQAR); Abdelaziz
     Berrado (EMI Engineering School)
+  slideslive_id: '38942183'
   cmt_id: 27
   is_spotlight: false
   id: 77
@@ -2646,6 +2723,7 @@
   authors: Christopher Briggs (Keele University); Zhong Fan (Keele University); Peter
     Andras (Keele University, School of Computing and Mathematics, Newcastle-under-Lyme,
     UK)
+  slideslive_id: '38942173'
   cmt_id: 36
   is_spotlight: false
   id: 78
@@ -2678,6 +2756,7 @@
     Daniel@gmail.com
   authors: Anthony Faustine (University College Dublin); Lucas Pereira (ITI, LARSyS,
     Técnico Lisboa); Loubna Benabou (UQAR); Daniel  Ngondya (The University of Dodoma)
+  slideslive_id: '38942171'
   cmt_id: 39
   is_spotlight: false
   id: 79
@@ -2707,6 +2786,7 @@
   authors: Irwin H McNeely (Carnegie Mellon University); Kimberly Wood (Mississippi
     State University); Niccolo Dalmasso (Carnegie Mellon University); Ann Lee (Carnegie
     Mellon University)
+  slideslive_id: '38942193'
   cmt_id: 46
   is_spotlight: true
   id: 80
@@ -2740,6 +2820,7 @@
   author_emails: kim_grace2@bah.com*; Poworoznek_Evan@bah.com; susanne.e.craig@nasa.gov
   authors: Grace E Kim (Booz Allen Hamilton); Evan Poworoznek (NASA GSFC); Susanne
     Craig (NASA GSFC)
+  slideslive_id: '38942163'
   cmt_id: 50
   is_spotlight: false
   id: 81
@@ -2769,6 +2850,7 @@
   author_emails: ltomasel@andrew.cmu.edu*; cotyj@andrew.cmu.edu; annlee@cmu.edu
   authors: Lorenzo Tomaselli (Carnegie Mellon University); Coty Jen (Carnegie Mellon
     University); Ann Lee (Carnegie Mellon University)
+  slideslive_id: '38942191'
   cmt_id: 51
   is_spotlight: true
   id: 82
@@ -2803,6 +2885,7 @@
   authors: Niccolo Dalmasso (Carnegie Mellon University); Galen Vincent (Carnegie
     Mellon University); Dorit Hammerling (Colorado School of Mines); Ann Lee (Carnegie
     Mellon University)
+  slideslive_id: '38942164'
   cmt_id: 52
   is_spotlight: false
   id: 83
@@ -2835,6 +2918,7 @@
   author_names: Kruitwagen, Lucas*
   author_emails: lucas.kruitwagen@smithschool.ox.ac.uk*
   authors: Lucas Kruitwagen (University of Oxford)
+  slideslive_id: '38942161'
   cmt_id: 54
   is_spotlight: false
   id: 84
@@ -2864,6 +2948,7 @@
   author_names: Ramesh, Venkatesh*; Singh, Digvijay
   author_emails: venkatesh@hyperverge.co*; digvijay@hyperverge.co
   authors: Venkatesh Ramesh (HyperVerge); Digvijay Singh (HyperVerge)
+  slideslive_id: '38942158'
   cmt_id: 57
   is_spotlight: false
   id: 85
@@ -2894,6 +2979,7 @@
     São Paulo); Ernest J Pokropek (Warsaw University of Techology); Willa Potosnak
     (Duquesne University); Salomey Osei (African Master's of Machine Intelligence(AMMI-GH));
     Björn Lütjens (MIT)
+  slideslive_id: '38942144'
   cmt_id: 87
   is_spotlight: false
   id: 86
@@ -2926,6 +3012,7 @@
   author_emails: Jenniferhobbs08@gmail.com*; ivan@intelinair.com; nhovakim@illinois.edu
   authors: Jennifer Hobbs (IntelinAir); Ivan A Dozier (IntelinAir); Naira Hovakimyan
     (UIUC)
+  slideslive_id: '38942142'
   cmt_id: 89
   is_spotlight: false
   id: 87
@@ -2963,6 +3050,7 @@
   author_names: Hampton, Lelia*
   author_emails: lhampto4@scmail.spelman.edu*
   authors: Lelia Hampton (Massachusetts Institute of Technology)
+  slideslive_id: '38942138'
   cmt_id: 95
   is_spotlight: false
   id: 88
@@ -2999,6 +3087,7 @@
   authors: Alejandro Coca-Castro (Kings College London); Aaron Golden (NUI Galway);
     Louis Reymondin (The Alliance of Bioversity International and the International
     Center for Tropical Agriculture)
+  slideslive_id: '38942135'
   cmt_id: 103
   is_spotlight: false
   id: 89
@@ -3037,6 +3126,7 @@
   authors: Maria João Sousa (IDMEC, Instituto Superior Técnico, Universidade de Lisboa);
     Alexandra Moutinho (IDMEC, Instituto Superior Técnico, Universidade de Lisboa);
     Miguel Almeida (ADAI, University of Coimbra)
+  slideslive_id: '38942128'
   cmt_id: 110
   is_spotlight: false
   id: 90
@@ -3078,6 +3168,7 @@
     Christopher V Rackauckas (Massachusetts Institute of Technology); Bryce Meredig
     (Citrine Informatics); Viral Shah (Julia Computing); Venkat Viswanathan (Carnegie
     Mellon University)
+  slideslive_id: '38942125'
   cmt_id: 118
   is_spotlight: false
   id: 91
@@ -3102,6 +3193,7 @@
   author_names: Wang, Amy H*; Donti, Priya L
   author_emails: amy.h.wang760@gmail.com*; pdonti@cs.cmu.edu
   authors: Amy H Wang (Western University); Priya L Donti (Carnegie Mellon University)
+  slideslive_id: '38942124'
   cmt_id: 119
   is_spotlight: false
   id: 92
@@ -3139,6 +3231,7 @@
     (Univ. Nantes); Alejandro Maass (CMM, U. Chile); Pablo Marquet (PUC); Jacques
     Sainte-Marie (Inria); Julien Salomin (Inria); Marc Schoenauer (INRIA); Michele
     Sebag (LRI, CNRS, France)
+  slideslive_id: '38942110'
   cmt_id: 143
   is_spotlight: false
   id: 93
@@ -3173,6 +3266,7 @@
   author_emails: t.christoudias@cyi.ac.cy*; mihalis.a.nicolaou@gmail.com
   authors: Theodoros  Christoudias (Cyprus Institute); Mihalis A  Nicolaou (Cyprus
     Institute)
+  slideslive_id: '38942100'
   cmt_id: 153
   is_spotlight: false
   id: 94
