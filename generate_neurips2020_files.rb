@@ -2,12 +2,23 @@ require 'pdf/reader'
 require 'roo'
 require 'roo-xls'
 require 'yaml'
+require 'set'
 require 'fileutils'
 require 'csv'
 
 workshop = 'neurips2020'
 submissions = "raw_workshop_files/#{workshop}/Papers.xml"
 cameraready = "raw_workshop_files/#{workshop}/CameraReadySubmissions"
+
+sl_link_file = "raw_workshop_files/#{workshop}/slideslive_links.csv"
+sl_id_file = "raw_workshop_files/#{workshop}/slideslive_unique_ids.csv"
+sl_unique_ids = Set.new(File.read(sl_id_file).strip.split("\n").map(&:strip))
+
+titles_to_slideslive = CSV.read(sl_link_file, headers: true).each_with_object({}) do |row, h|
+  next unless sl_unique_ids.include?(row['Unique ID'])
+  t = row['Title'].sub('Spotlight: ', '')
+  h[t.strip.downcase] = row['SlidesLive link'].strip.split("/").last
+end
 
 papers = []
 export = Roo::Excel2003XML.new(submissions)
@@ -31,6 +42,12 @@ parsed.each do |p|
 
   fields.each do |field|
     paper_data[field.downcase.gsub(/[^\w]+/, '_').gsub(/_+$/,'')] = p[field]
+  end
+
+  if sl_id = titles_to_slideslive[p['Paper Title'].downcase.strip]
+    paper_data['slideslive_id'] = sl_id
+  else
+    puts "couldn't find slides for #{p['Paper Title']}"
   end
 
   paper_data['cmt_id'] = paper_data.delete('paper_id').to_i
