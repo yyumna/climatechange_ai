@@ -24,7 +24,7 @@ og_image_height: 327
 ***
 
 <center> <h3>Announcements</h3> </center>
-* To participate fully in the workshop, including interactive poster sessions and live Q&A with speakers, register until **7 Dec 2020, 6 PM PST** at <a href='https://neurips.cc/Register/view-registration' target='_blank'>neurips.cc/Register/view-registration</a>.
+* To participate fully in the workshop, including interactive poster sessions and live Q&A with speakers register at <a href='https://neurips.cc/Register/view-registration' target='_blank'>neurips.cc/Register/view-registration</a>.
 * Keynotes and spotlight talks will be accessible via a free livestream. Check back here for livestreaming info on the day of the workshop (Dec 11).
 
 ***
