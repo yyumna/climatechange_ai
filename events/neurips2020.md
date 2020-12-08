@@ -216,6 +216,120 @@ Click the links below for information about each submission, including the paper
 <a href="https://mila.quebec/en/yoshua-bengio/" target="_blank">Yoshua Bengio (Mila)</a> <br>
 \* Denotes co-lead organizers
 
+## Program Committee
+
+Abdulrahman Ahmed (Cairo University)<br>
+Alberto Chapchap (Visia Investments)<br>
+Alexandra Puchko (Western Washington University)<br>
+Alexandre Lacoste (Element AI)<br>
+Amelia Taylor (University of Malawi, The Polytechnic)<br>
+Andrew Ross (Harvard University)<br>
+Aneesh Rangnekar (Rochester Institute of Technology)<br>
+Anthony Ortiz (Microsoft)<br>
+Arijit Patra (University of Oxford)<br>
+Armi Tiihonen (Massachusetts Institute of Technology)<br>
+Arvind Mohan (Los Alamos National Laboratory)<br>
+Ashesh Chattopadhyay (Rice University)<br>
+Ashley Pilipiszyn (Stanford University)<br>
+Bill Cai (Massachusetts Institute of Technology)<br>
+Björn Lütjens (Massachussets Institute of Technology)<br>
+Brian Hutchinson (Western Washington University)<br>
+Caleb Robinson (Georgia Institute of Technology)<br>
+Christian Schroeder de Witt (University of Oxford)<br>
+Claire Monteleoni (University of Colorado Boulder)<br>
+Clement DUHART (MIT Media Lab)<br>
+Conrad Foley (Deep Planet)<br>
+Dali  Wang (ORNL)<br>
+Daniel Kofman (Telecom ParisTech)<br>
+Daniel Livescu (Los Alamos National Laboratory )<br>
+Dara Farrell (Graduate of University of Washington)<br>
+David Rolnick (McGill University, Mila)<br>
+Deval Pandya (Shell Global solutions)<br>
+di wu (McGill)<br>
+Diego Kiedansk (Telecom ParisTech)<br>
+Duncan Watson-Parris (University of Oxford)<br>
+Fabrizio Falasca (Georgia Institute of Technology)<br>
+FELIPE OVIEDO (MIT)<br>
+Felix Laumann (Imperial College London)<br>
+Femke van Geffen (FU Berlin)<br>
+Filip Tolovski (Fraunhofer Heinrich-Hertz-Institut )<br>
+Fred Otieno (IBM)<br>
+Frederik Gerzer (fortiss)<br>
+Frederik Kratzert (LIT AI Lab, Institute for Machine Learning, Johannes Kepler University Linz, Austria)<br>
+Gavin Portwood (Los Alamos National Lab)<br>
+Gege Wen (Stanford University)<br>
+Genevieve Flaspohler (MIT)<br>
+Hari Prasanna Das  (UC Berkeley )<br>
+Henning Schwabe (Private)<br>
+Hovig Bayandorian ()<br>
+Ioannis C. Konstantakopoulos (UC Berkeley)<br>
+Isaac Waweru (IBM)<br>
+Jan Drgona (Pacific Northwest National Laboratory)<br>
+Jefferson Sankara (Lori Systems)<br>
+Jeremy Irvin (Stanford)<br>
+Jigar Doshi (Wadhwani AI)<br>
+Jingfan Wang (Stanford University)<br>
+Johan Mathe (Frog Labs)<br>
+John Platt (Google)<br>
+Jonathan Fürst (NEC Laboratories Europe)<br>
+Joris Guerin (ENSAM)<br>
+Joyjit Chatterjee (University of Hull)<br>
+Julius von Kügelgen (MPI for Intelligent Systems, Tübingen & University of Cambridge)<br>
+K. Shankari (UC Berkeley)<br>
+Kalai Ramea (PARC)<br>
+Kate Duffy (Northeastern University)<br>
+Kelly Kochanski (University of Colorado Boulder)<br>
+Kevin McCloskey (Google)<br>
+Kidane Degefa (Haramaya University)<br>
+Konstantin Klemmer (University of Warwick)<br>
+Kris Sankaran (University of Wisconsin-Madison)<br>
+Lauren Kuntz (Gaiascope)<br>
+Lea Boche (EPRI)<br>
+Lexie Yang (Oak ridge national laboratoy)<br>
+Linda Petrini (Google)<br>
+loubna benabbou (EMI Engineering School, Mohammed V University in Rabat.)<br>
+Lucas Kruitwagen (University of Oxford)<br>
+Lucas Liebenwein (Massachusetts Institute of Technology)<br>
+Lucas Spangher (U.C. Berkeley)<br>
+Lynn Kaack (ETH Zurich)<br>
+Martin Gauch (University of Waterloo)<br>
+Mayur Mudigonda (UC Berkeley)<br>
+Melrose Roderick (Carnegie Mellon University)<br>
+Michael Howland (Stanford University)<br>
+Miguel Molina-Solana (Imperial College London)<br>
+Mohammad Mahdi Kamani (The Pennsylvania State University)<br>
+Neel Guha (Stanford University)<br>
+Niccolo Dalmasso (Carnegie Mellon University)<br>
+Nikola Milojevic-Dupont (Mercator Research Institute on Global Commons and Climate Change (MCC))<br>
+Olivia Mendivil Ramos (Cold Spring Harbor Laboratory)<br>
+Pedram  Hassanzadeh (Rice University)<br>
+Priya Donti (Carnegie Mellon University)<br>
+Rajesh Sankaran (Argonne National Lab)<br>
+Robin Dunn (Carnegie Mellon University)<br>
+Ruben Glatt (LLNL)<br>
+Sadegh Farhang (The Pennsylvania State University)<br>
+Sam Skillman (Descartes Labs)<br>
+Sandip Agarwal (IISER Bhopal)<br>
+Sasha Luccioni (Mila)<br>
+Saumya Sinha (University of Colorado, Boulder)<br>
+Shamindra Shrotriya (Carnegie Mellon University)<br>
+Shruti Kulkarni (Indian Institute of Science (IISc))<br>
+Simona Santamaria (ETH Zurich)<br>
+Sookyung Kim (Lawrence Livermore National Laboratory)<br>
+Sophie Giffard-Roisin (University of Colorado Boulder)<br>
+Soukayna Mouatadid (University of Toronto)<br>
+Stephan Rasp (Technical University of Munich)<br>
+Tianle Yuan (NASA)<br>
+Valentina Zantedeschi (GE Global Research)<br>
+Victor Schmidt (Mila)<br>
+Victoria Preston (MIT)<br>
+Xin Hou (WeBank)<br>
+Ydo Wexler (Amperon)<br>
+Yimeng Min (Mila)<br>
+Yue Hu (Vanderbilt University)<br>
+Yumna Yusuf (City University London)<br>
+Zhecheng Wang (Stanford University)<br>
+
 ## Grants
 
 ### NeurIPS Registration Grants
