@@ -38,6 +38,7 @@
     Motors Global Research and Development); Michael Cruse (Siemens Digital Industries
     Software); Ganesh Venkatesan (Siemens Digital Industries Software)
   slideslive_id: '38942179'
+  slideslive_speaker: Alok Warey
   cmt_id: 5
   poster_sessions:
   - 16:00-17:00 UTC
@@ -77,6 +78,7 @@
   authors: Galina Alova (University of Oxford); Philipp Trotter (University of Oxford);
     Alex Money (University of Oxford)
   slideslive_id: '38942177'
+  slideslive_speaker: Galina Alova
   cmt_id: 11
   poster_sessions:
   - 13:00-14:00 UTC
@@ -114,6 +116,7 @@
   authors: Gonzague Henri (Total); Tanguy Levent (Ecole Polytechnique); Avishai Halev
     (Total, UC Davis); Reda ALAMI (Total R&D); Philippe Cordier (Total S.A.)
   slideslive_id: '38942178'
+  slideslive_speaker: Gonzague Henri
   cmt_id: 13
   poster_sessions:
   - 16:00-17:00 UTC
@@ -144,6 +147,7 @@
   author_emails: adrien.le-coz@edf.fr*; tahar-t.nabil@edf.fr; francois.courtot@edf.fr
   authors: Adrien Le Coz (EDF); Tahar Nabil (EDF); Francois Courtot (EDF)
   slideslive_id: '38942176'
+  slideslive_speaker: Adrien Le Coz
   cmt_id: 17
   poster_sessions:
   - 13:00-14:00 UTC
@@ -184,6 +188,7 @@
     Cambridge); Jean-Francois Mercure (University of Exeter); Matthew Forshaw (Newcastle
     University); A. Stephen McGough (Newcastle University)
   slideslive_id: '38942175'
+  slideslive_speaker: Alexander Kell
   cmt_id: 18
   poster_sessions:
   - 13:00-14:00 UTC
@@ -225,6 +230,7 @@
     Ram Rajagopal (Stanford University); Andrew Ng (Stanford University); David J
     Gagne (National Center for Atmospheric Research)
   slideslive_id: '38942174'
+  slideslive_speaker: Eric Zelikman
   cmt_id: 19
   poster_sessions:
   - 20:00-21:00 UTC
@@ -261,6 +267,7 @@
     Department of Computer Science, CHair X Data Science); Heiko Paeth (University
     of Würzburg); Andreas Hotho (Universitat Wurzburg)
   slideslive_id: '38942195'
+  slideslive_speaker: Michael Steininger
   cmt_id: 24
   poster_sessions:
   - 13:00-14:00 UTC
@@ -299,6 +306,7 @@
   authors: Quentin Paletta (University of Cambridge); Joan Lasenby (University of
     Cambridge)
   slideslive_id: '38942197'
+  slideslive_speaker: Quentin Paletta
   cmt_id: 25
   poster_sessions:
   - 13:00-14:00 UTC
@@ -328,6 +336,7 @@
     Ltd.); Marcel Neuhausler (ISS Technology Innovation Lab); Linus M. Scheibenreif
     (University of St. Gallen); Damian Borth (University of St. Gallen)
   slideslive_id: '38942196'
+  slideslive_speaker: Michael Mommert
   cmt_id: 26
   poster_sessions:
   - 13:00-14:00 UTC
@@ -362,6 +371,7 @@
   author_emails: hess@pik-potsdam.de*; boers@pik-potsdam.de
   authors: Philipp Hess (Free University Berlin); Niklas Boers (Free University Berlin)
   slideslive_id: '38942180'
+  slideslive_speaker: Philipp Hess
   cmt_id: 28
   poster_sessions:
   - 13:00-14:00 UTC
@@ -403,6 +413,7 @@
     (Google); Wanda Czerwinski (Google); Alok Talekar (Google); Colin McCormick (Georgetown
     University)
   slideslive_id: '38942194'
+  slideslive_speaker: Heather Couture
   cmt_id: 29
   poster_sessions:
   - 13:00-14:00 UTC
@@ -437,6 +448,7 @@
   author_emails: gael.kamdemdeteyou@gmail.com*
   authors: Gael Kamdem De Teyou (Huawei)
   slideslive_id: '38942202'
+  slideslive_speaker: Gael Kamdem De Teyou
   cmt_id: 32
   poster_sessions:
   - 20:00-21:00 UTC
@@ -467,6 +479,7 @@
   author_emails: dskinner@mit.edu*; rmaulik@anl.gov
   authors: Dominic J Skinner (MIT); Romit Maulik (Argonne National Laboratory)
   slideslive_id: '38942201'
+  slideslive_speaker: Dominic Skinner
   cmt_id: 33
   poster_sessions:
   - 20:00-21:00 UTC
@@ -503,6 +516,7 @@
   authors: Yahya Hasan Al Lawati (Queen Mary University of London); Jack Kelly (Open
     Climate Fix); Dan Stowell (Queen Mary University of London)
   slideslive_id: '38942172'
+  slideslive_speaker: Yahya Al Lawati
   cmt_id: 37
   poster_sessions:
   - 13:00-14:00 UTC
@@ -543,6 +557,7 @@
   authors: Tomas Langer (Intuition Machines); Natalia Fedorova (Max Planck Institute
     for Evolutionary Anthropology); Ron Hagensieker (Osir.io)
   slideslive_id: '38942170'
+  slideslive_speaker: Tomas Langer
   cmt_id: 41
   poster_sessions:
   - 16:00-17:00 UTC
@@ -576,6 +591,7 @@
   authors: Luis M Mejia Mendoza (University of Toronto); Alan Aspuru-Guzik (Harvard
     University); Martha Flores Leonar (University of Toronto)
   slideslive_id: '38942169'
+  slideslive_speaker: Luis Mendoza
   cmt_id: 43
   poster_sessions:
   - 16:00-17:00 UTC
@@ -607,6 +623,7 @@
   author_emails: shahine.bouabid@lmh.ox.ac.uk*; jev@cervest.earth
   authors: Shahine Bouabid (University of Oxford); Jevgenij Gamper (Cervest Ltd.)
   slideslive_id: '38942168'
+  slideslive_speaker: Shahine Bouabid
   cmt_id: 45
   poster_sessions:
   - 13:00-14:00 UTC
@@ -648,6 +665,7 @@
     University of Beirut); Michael Hayes (University of Nebraska-Lincoln); Tsegaye
     Tadesse (University of Nebraska-Lincoln)
   slideslive_id: '38942166'
+  slideslive_speaker: Beichen Zhang
   cmt_id: 47
   poster_sessions:
   - 16:00-17:00 UTC
@@ -681,6 +699,7 @@
   authors: Pranoy Panda (Indian Institute of Technology, Hyderabad); Martin Barczyk
     (University of Alberta); Jen Beverly (University of Alberta)
   slideslive_id: '38942165'
+  slideslive_speaker: Martin Barczyk
   cmt_id: 48
   poster_sessions:
   - 13:00-14:00 UTC
@@ -723,6 +742,7 @@
     of Illinois at Chicago); Jingfan Wang (Stanford University); Arvind Ravikumar
     (Harrisburg University)
   slideslive_id: '38942192'
+  slideslive_speaker: Jiayang Wang
   cmt_id: 49
   poster_sessions:
   - 13:00-14:00 UTC
@@ -758,6 +778,7 @@
   author_emails: Wang.Zhou@ibm.com*; kleinl@us.ibm.com
   authors: Wang Zhou (IBM Research); Levente Klein (IBM Research)
   slideslive_id: '38942159'
+  slideslive_speaker: Wang Zhou
   cmt_id: 55
   poster_sessions:
   - 16:00-17:00 UTC
@@ -800,6 +821,7 @@
     Elsworth (Descartes Labs); Kemen Austin (RTI International); Andrew Ng (Stanford
     University)
   slideslive_id: '38942160'
+  slideslive_speaker: Jeremy Irvin
   cmt_id: 56
   poster_sessions:
   - 20:00-21:00 UTC
@@ -844,6 +866,7 @@
     San Diego); Curt Schurgers (University of California San Diego); Astrid  Hsu (University
     of California San Diego); Octavio  Aburto (University of California San Diego)
   slideslive_id: '38942157'
+  slideslive_speaker: Dillon Hicks
   cmt_id: 58
   poster_sessions:
   - 20:00-21:00 UTC
@@ -876,6 +899,7 @@
   authors: Benjamin Choi (Stanford University); Alex Nutkiewicz (Stanford University);
     Rishee Jain (Stanford University)
   slideslive_id: '38942156'
+  slideslive_speaker: Ben Choi
   cmt_id: 60
   poster_sessions:
   - 20:00-21:00 UTC
@@ -905,6 +929,7 @@
   author_emails: thomas.falconer.19@ucl.ac.uk*; letif.mones@invenialabs.co.uk
   authors: Thomas Falconer (University College London); Letif Mones (Invenia Labs)
   slideslive_id: '38942155'
+  slideslive_speaker: Thomas Falconer
   cmt_id: 63
   poster_sessions:
   - 20:00-21:00 UTC
@@ -946,6 +971,7 @@
     (nam.R); Stéphane GAIFFAS (nam.R; LPSM (Université de Paris)); Emmanuel BACRY
     (nam.R; CEREMADE (Université Paris Dauphine, PSL))
   slideslive_id: '38942154'
+  slideslive_speaker: Daniel De Barros Soares
   cmt_id: 65
   poster_sessions:
   - 16:00-17:00 UTC
@@ -985,6 +1011,7 @@
   authors: Dylan Radovic (Imperial College London); Lucas Kruitwagen (University of
     Oxford); Christian Schroeder de Witt (University of Oxford)
   slideslive_id: '38942153'
+  slideslive_speaker: Dylan Radovic
   cmt_id: 67
   poster_sessions:
   - 16:00-17:00 UTC
@@ -1019,6 +1046,7 @@
   authors: Matteo Bohm (Sapienza University of Rome); Mirco Nanni (ISTI-CNR Pisa,
     Italy); Luca Pappalardo (ISTI)
   slideslive_id: '38942152'
+  slideslive_speaker: Matteo Bohm
   cmt_id: 68
   poster_sessions:
   - 13:00-14:00 UTC
@@ -1058,6 +1086,7 @@
     Catherine L Nakalembe (University of Maryland); Inbal Becker-Reshef (University
     of Maryland)
   slideslive_id: '38942151'
+  slideslive_speaker: Gabriel Tseng
   cmt_id: 71
   poster_sessions:
   - 13:00-14:00 UTC
@@ -1098,6 +1127,7 @@
     Carolina Institute for Climate Studies); Peter Manshausen (University of Oxford);
     Duncan Watson-Parris (University of Oxford)
   slideslive_id: '38942150'
+  slideslive_speaker: Paula Harder
   cmt_id: 73
   poster_sessions:
   - 13:00-14:00 UTC
@@ -1132,6 +1162,7 @@
   authors: Sasha Luccioni (Mila); Emi Baylor (McGill); Nicolas Duchene (Universite
     de Montreal)
   slideslive_id: '38942149'
+  slideslive_speaker: Sasha Luccioni
   cmt_id: 74
   poster_sessions:
   - 16:00-17:00 UTC
@@ -1168,6 +1199,7 @@
   authors: SONU DILEEP (Colorado State University); Daniel Zimmerle (Colorado State
     University); Ross Beveridge (CSU); Timothy Vaughn (Colorado State University)
   slideslive_id: '38942148'
+  slideslive_speaker: Sonu Dileep
   cmt_id: 81
   poster_sessions:
   - 16:00-17:00 UTC
@@ -1212,6 +1244,7 @@
     Reading); Russell McKenna (University of Aberdeen); Armin Ardone (Karlsruhe Institut
     für Technologie); Wolf Fichtner (Karlsruhe Institute of Technology)
   slideslive_id: '38942147'
+  slideslive_speaker: Max Kleinebrahm
   cmt_id: 82
   poster_sessions:
   - 13:00-14:00 UTC
@@ -1244,6 +1277,7 @@
   authors: Veda Sunkara (Cloud to Street); Matthew Purri (Rutgers University); Bertrand
     Le Saux (European Space Agency (ESA)); Jennifer Adams (European Space Agency (ESA))
   slideslive_id: '38942146'
+  slideslive_speaker: Veda Sunkara
   cmt_id: 83
   poster_sessions:
   - 20:00-21:00 UTC
@@ -1279,6 +1313,7 @@
   author_emails: sjdoyle46@gmail.com*; a.borovykh@imperial.ac.uk
   authors: Shannon Doyle (UvA); Anastasia Borovykh (Imperial College London)
   slideslive_id: '38942145'
+  slideslive_speaker: Shannon Doyle
   cmt_id: 85
   poster_sessions: []
   is_spotlight: false
@@ -1315,6 +1350,7 @@
     of Victoria); Alexandra Branzan Albu (University of Victoria); Rodney Rountree
     (University of Victoria); Fabio De Leo Cabrera (Ocean Networks Canada)
   slideslive_id: '38942143'
+  slideslive_speaker: Declan Gd McIntosh
   cmt_id: 88
   poster_sessions:
   - 20:00-21:00 UTC
@@ -1354,6 +1390,7 @@
     (University of Oxford); David Vazquez (Element AI); Ross Young (Element AI); Ed
     Davey (Global Witness); Alexandre Lacoste (Element AI)
   slideslive_id: '38942141'
+  slideslive_speaker: Issam Hadj Laradji
   cmt_id: 90
   poster_sessions:
   - 16:00-17:00 UTC
@@ -1400,6 +1437,7 @@
     of Oxford); Duncan Watson-Parris (University of Oxford); Piotr Bilinski (University
     of Warsaw / University of Oxford)
   slideslive_id: '38942190'
+  slideslive_speaker: Catherine Tong
   cmt_id: 91
   poster_sessions:
   - 13:00-14:00 UTC
@@ -1438,6 +1476,7 @@
     Philipp Kunze (Fraunhofer ISE); Aditya Kovvali (Fraunhofer ISE); Alexandra Woernhoer
     (Fraunhofer ISE); Stefan Rein (Fraunhofer ISE)
   slideslive_id: '38942140'
+  slideslive_speaker: Matthias Demant
   cmt_id: 92
   poster_sessions:
   - 16:00-17:00 UTC
@@ -1465,6 +1504,7 @@
   authors: Somya Sharma (U. Minnesota); Deepak Ray (University of Minnesota); Snigdhansu
     Chatterjee (University of Minnesota)
   slideslive_id: '38942200'
+  slideslive_speaker: Somya Sharma
   cmt_id: 93
   poster_sessions:
   - 16:00-17:00 UTC
@@ -1490,6 +1530,7 @@
   authors: Jan Drgona (Pacific Northwest National Laboratory); Aaron R Tuor (Pacific
     Northwest National Laboratory); Vikas Chandan (PNNL); Draguna Vrabie (PNNL)
   slideslive_id: '38942139'
+  slideslive_speaker: Jan Drgona
   cmt_id: 94
   poster_sessions:
   - 13:00-14:00 UTC
@@ -1526,6 +1567,7 @@
     Water Management Institute); Rachel von Gnechten (International Water Management
     Institute)
   slideslive_id: '38942097'
+  slideslive_speaker: Ancil Crayton
   cmt_id: 96
   poster_sessions:
   - 13:00-14:00 UTC
@@ -1558,6 +1600,7 @@
   author_emails: igodfrie@brandeis.edu*
   authors: Isaac Godfried (CoronaWhy)
   slideslive_id: '38942137'
+  slideslive_speaker: Isaac Godfried
   cmt_id: 97
   poster_sessions: []
   is_spotlight: false
@@ -1598,6 +1641,7 @@
     GmbH); Akhil Mathur (Nokia Bell Labs); Nicholas Lane (University of Cambridge
     and Samsung AI)
   slideslive_id: '38942136'
+  slideslive_speaker: Xinchi Qiu
   cmt_id: 99
   poster_sessions:
   - 16:00-17:00 UTC
@@ -1637,6 +1681,7 @@
   authors: Tristan C Ballard (Sust Global, Stanford University); Gopal  Erinjippurath
     (Sust Global)
   slideslive_id: '38942189'
+  slideslive_speaker: Tristan C Ballard
   cmt_id: 101
   poster_sessions:
   - 16:00-17:00 UTC
@@ -1676,6 +1721,7 @@
     Weinhardt (Karlsruhe Institute of Technology); Dirk Neumann (Universität Freiburg);
     Ram Rajagopal (Stanford University)
   slideslive_id: '38942188'
+  slideslive_speaker: Kevin Mayer
   cmt_id: 104
   poster_sessions:
   - 13:00-14:00 UTC
@@ -1713,6 +1759,7 @@
   authors: Bright Aboh (African Institute for Mathematical Sciences); Alphonse  Mutabazi
     (UN Environment Program)
   slideslive_id: '38942133'
+  slideslive_speaker: Bright Aboh
   cmt_id: 105
   poster_sessions:
   - 13:00-14:00 UTC
@@ -1770,6 +1817,7 @@
     Institute for Biogeochemistry, Jena; Michael Stifel Center Jena for Data-Driven
     and Simulation Science, Jena)
   slideslive_id: '38942132'
+  slideslive_speaker: Christian Requena-Mesa
   cmt_id: 106
   poster_sessions:
   - 13:00-14:00 UTC
@@ -1805,6 +1853,7 @@
   author_emails: yasnara@nuevaschool.org*
   authors: Yash Narayan (The Nueva School)
   slideslive_id: '38942131'
+  slideslive_speaker: Yash Narayan
   cmt_id: 107
   poster_sessions:
   - 16:00-17:00 UTC
@@ -1844,6 +1893,7 @@
     Perkins (Vulcan, Inc.); Oliver Watt-Meyer (Vulcan, Inc.); Christopher S. Bretherton
     (Vulcan, Inc.)
   slideslive_id: '38942129'
+  slideslive_speaker: Noah Brenowitz
   cmt_id: 109
   poster_sessions: []
   is_spotlight: false
@@ -1889,6 +1939,7 @@
     Defense Fund); Ritesh Gautam (Environmental Defense Fund); Rob Jackson (Stanford
     University); Andrew Ng (Stanford University)
   slideslive_id: '38942187'
+  slideslive_speaker: Hao Sheng
   cmt_id: 111
   poster_sessions:
   - 20:00-21:00 UTC
@@ -1925,6 +1976,7 @@
   author_emails: mehrler@uvic.ca*; nernst@uvic.ca
   authors: Matthew Ehrler (University of Victoria); Neil Ernst (University of Victoria)
   slideslive_id: '38942130'
+  slideslive_speaker: Matthew Ehrler
   cmt_id: 112
   poster_sessions:
   - 20:00-21:00 UTC
@@ -1970,6 +2022,7 @@
     Berkeley National Lab); Val Hendrix (Lawrence Berkeley National Lab); Charuleka
     Varadharajan (Lawrence Berkeley National Lab)
   slideslive_id: '38942127'
+  slideslive_speaker: Helen Weierbach
   cmt_id: 114
   poster_sessions:
   - 16:00-17:00 UTC
@@ -2009,6 +2062,7 @@
     Erik Young (Trout Unlimited); Pietro Perona (California Institute of Technology);
     Grant Van Horn (Cornell University)
   slideslive_id: '38942126'
+  slideslive_speaker: Peter Kulits
   cmt_id: 116
   poster_sessions:
   - 16:00-17:00 UTC
@@ -2046,6 +2100,7 @@
   authors: Yuhao Nie (Stanford University); Ahmed S Zamzam (The National Renewable
     Energy Laboratory); Adam Brandt (Stanford University)
   slideslive_id: '38942123'
+  slideslive_speaker: Yuhao Nie
   cmt_id: 121
   poster_sessions:
   - 16:00-17:00 UTC
@@ -2082,6 +2137,7 @@
     Khattar (University of California at Berkeley); Akaash Tawade (University of California
     at Berkeley); Costas J. Spanos (University of California at Berkeley)
   slideslive_id: '38942122'
+  slideslive_speaker: Lucas Spangher
   cmt_id: 122
   poster_sessions: []
   is_spotlight: false
@@ -2119,6 +2175,7 @@
     Wisconsin-Madison); Juan M Lavista Ferres (Microsoft); Mir A Matin (International
     Center for Integrated Mountain Development); Yoshua Bengio (Mila)
   slideslive_id: '38942186'
+  slideslive_speaker: Kris Sankaran
   cmt_id: 124
   poster_sessions:
   - 13:00-14:00 UTC
@@ -2154,6 +2211,7 @@
   authors: Aqsa Naeem (Stanford University); Sally Benson (Stanford University); Jacques
     de Chalendar (Stanford University)
   slideslive_id: '38942184'
+  slideslive_speaker: Aqsa Naeem
   cmt_id: 125
   poster_sessions:
   - 16:00-17:00 UTC
@@ -2187,6 +2245,7 @@
   authors: Campbell Watson (IBM); Chulin Wang (Northwestern University); Tim Lynar
     (University of New South Wales); Komminist  Weldemariam (IBM Research)
   slideslive_id: '38942120'
+  slideslive_speaker: Campbell D Watson
   cmt_id: 126
   poster_sessions:
   - 16:00-17:00 UTC
@@ -2224,6 +2283,7 @@
   author_emails: linshi@stanford.edu*; ntruongv@stanford.edu
   authors: Lin Shi (Stanford University); Nhi Truong Vu (Stanford University)
   slideslive_id: '38942119'
+  slideslive_speaker: Lin Shi
   cmt_id: 128
   poster_sessions:
   - 20:00-21:00 UTC
@@ -2273,6 +2333,7 @@
     University); Brian Hutchinson (Western Washington University); Ben Kravitz (Indiana
     University); Claudia Tebaldi (Joint Global Change Research Institute)
   slideslive_id: '38942118'
+  slideslive_speaker: Brian Hutchinson
   cmt_id: 130
   poster_sessions:
   - 20:00-21:00 UTC
@@ -2307,6 +2368,7 @@
     Católica San Pablo); Ricardo Zarate (Instituto de Investigaciones de la Amazonía
     Peruana); Erwin Dianderas (Instituto de Investigaciones de la Amazonía Peruana)
   slideslive_id: '38942185'
+  slideslive_speaker: Gerson Vizcarra Aguilar
   cmt_id: 131
   poster_sessions:
   - 13:00-14:00 UTC
@@ -2343,6 +2405,7 @@
   authors: Marta Skreta (University of Toronto); Sasha Luccioni (Mila); David Rolnick
     (McGill University, Mila)
   slideslive_id: '38942182'
+  slideslive_speaker: Marta Skreta
   cmt_id: 132
   poster_sessions:
   - 20:00-21:00 UTC
@@ -2383,6 +2446,7 @@
   authors: Will Hawkins (UC Berkeley); Weixin Wu (UC Berkeley); Sonal Thakkar (UC
     Berkeley); Puya Vahabi (UC Berkeley); Alberto Todeschini (UC Berkeley)
   slideslive_id: '38942115'
+  slideslive_speaker: Will Hawkins
   cmt_id: 134
   poster_sessions:
   - 20:00-21:00 UTC
@@ -2422,6 +2486,7 @@
     Aummul Baneen Manasawala (UC Berkeley); Tanya Veeravalli (UC Berkeley); Huihan
     Liu (UC Berkeley); Costas J. Spanos (University of California at Berkeley)
   slideslive_id: '38942114'
+  slideslive_speaker: Hari Prasanna Das
   cmt_id: 135
   poster_sessions:
   - 16:00-17:00 UTC
@@ -2465,6 +2530,7 @@
     Ananya Kumar (Stanford University); Fereshte Khani (Stanford); Tengyu Ma (Stanford
     University); Percy Liang (Stanford University)
   slideslive_id: '38942113'
+  slideslive_speaker: Robert Jones
   cmt_id: 141
   poster_sessions:
   - 16:00-17:00 UTC
@@ -2540,6 +2606,7 @@
     (CTFC); Marta C. González (Berkeley); Zuo-Jun Shen (University of California,
     Berkeley)
   slideslive_id: '38942107'
+  slideslive_speaker: Cristobal Pais
   cmt_id: 144
   poster_sessions:
   - 16:00-17:00 UTC
@@ -2564,6 +2631,7 @@
   author_emails: markus.leippold@bf.uzh.ch*; fvarini@student.ethz.ch
   authors: Markus Leippold (University of Zurich); Francesco Saverio Varini (ETH)
   slideslive_id: '38942108'
+  slideslive_speaker: Markus Leippold
   cmt_id: 145
   poster_sessions:
   - 16:00-17:00 UTC
@@ -2611,6 +2679,7 @@
     Alfredo Kalaitzis (University of Oxford); Matthew Chantry (University of Oxford);
     Duncan Watson-Parris (University of Oxford)
   slideslive_id: '38942105'
+  slideslive_speaker: Valentina Zantedeschi
   cmt_id: 146
   poster_sessions:
   - 13:00-14:00 UTC
@@ -2648,6 +2717,7 @@
     of Athens); Anastasios Doulamis (Technical University of Crete); Eftychios Protopapadakis
     (National Technical University of Athens)
   slideslive_id: '38942103'
+  slideslive_speaker: Maria Kaselimi
   cmt_id: 148
   poster_sessions:
   - 16:00-17:00 UTC
@@ -2686,6 +2756,7 @@
     of Chile); Jaime Carrasco (University of Chile); Zuo-Jun Shen (University of California,
     Berkeley)
   slideslive_id: '38942101'
+  slideslive_speaker: Cristobal Pais
   cmt_id: 150
   poster_sessions: []
   is_spotlight: false
@@ -2721,6 +2792,7 @@
   author_emails: thomasyutaochen@gmail.com*
   authors: Thomas Y Chen (The Academy for Mathematics, Science, and Engineering)
   slideslive_id: '38942181'
+  slideslive_speaker: Thomas Chen
   cmt_id: 159
   poster_sessions:
   - 20:00-21:00 UTC
@@ -2756,6 +2828,7 @@
   authors: Etienne E Vos (IBM); Ashley Gritzman (IBM); Sibusisiwe Makhanya (IBM Research);
     Thabang Mashinini (IBM); Campbell Watson (IBM)
   slideslive_id: '38942098'
+  slideslive_speaker: Etienne Vos
   cmt_id: 160
   poster_sessions:
   - 13:00-14:00 UTC
@@ -2790,6 +2863,7 @@
   author_emails: jonas.huelsmann@eins.tu-darmstadt.de*; florian.steinke@eins.tu-darmstadt.de
   authors: Jonas Hülsmann (TU Darmstadt); Florian Steinke (TU Darmstadt)
   slideslive_id: '38942199'
+  slideslive_speaker: Jonas Hülsmann
   cmt_id: 9
   poster_sessions:
   - 13:00-14:00 UTC
@@ -2826,6 +2900,7 @@
   author_emails: ktilbury@uwaterloo.ca*; jhoey@cs.uwaterloo.ca
   authors: Kyle Tilbury (University of Waterloo); Jesse Hoey (University of Waterloo)
   slideslive_id: '38942198'
+  slideslive_speaker: Kyle Tilbury
   cmt_id: 22
   poster_sessions:
   - 16:00-17:00 UTC
@@ -2858,6 +2933,7 @@
   authors: Sara El Mekkaoui (EMI Engineering School); Loubna Benabou (UQAR); Abdelaziz
     Berrado (EMI Engineering School)
   slideslive_id: '38942183'
+  slideslive_speaker: Sara El Mekkaoui
   cmt_id: 27
   poster_sessions:
   - 13:00-14:00 UTC
@@ -2894,6 +2970,7 @@
     Andras (Keele University, School of Computing and Mathematics, Newcastle-under-Lyme,
     UK)
   slideslive_id: '38942173'
+  slideslive_speaker: Chris Briggs
   cmt_id: 36
   poster_sessions:
   - 13:00-14:00 UTC
@@ -2929,6 +3006,7 @@
   authors: Anthony Faustine (University College Dublin); Lucas Pereira (ITI, LARSyS,
     Técnico Lisboa); Loubna Benabou (UQAR); Daniel  Ngondya (The University of Dodoma)
   slideslive_id: '38942171'
+  slideslive_speaker: Anthony Faustine
   cmt_id: 39
   poster_sessions: []
   is_spotlight: false
@@ -2960,6 +3038,7 @@
     State University); Niccolo Dalmasso (Carnegie Mellon University); Ann Lee (Carnegie
     Mellon University)
   slideslive_id: '38942193'
+  slideslive_speaker: Irwin McNeely
   cmt_id: 46
   poster_sessions:
   - 16:00-17:00 UTC
@@ -2996,6 +3075,7 @@
   authors: Grace E Kim (Booz Allen Hamilton); Evan Poworoznek (NASA GSFC); Susanne
     Craig (NASA GSFC)
   slideslive_id: '38942163'
+  slideslive_speaker: Grace Kim
   cmt_id: 50
   poster_sessions:
   - 16:00-17:00 UTC
@@ -3029,6 +3109,7 @@
   authors: Lorenzo Tomaselli (Carnegie Mellon University); Coty Jen (Carnegie Mellon
     University); Ann Lee (Carnegie Mellon University)
   slideslive_id: '38942191'
+  slideslive_speaker: Lorenzo Tomaselli
   cmt_id: 51
   poster_sessions:
   - 16:00-17:00 UTC
@@ -3066,6 +3147,7 @@
     Mellon University); Dorit Hammerling (Colorado School of Mines); Ann Lee (Carnegie
     Mellon University)
   slideslive_id: '38942164'
+  slideslive_speaker: Nic Dalmasso
   cmt_id: 52
   poster_sessions:
   - 16:00-17:00 UTC
@@ -3101,6 +3183,7 @@
   author_emails: lucas.kruitwagen@smithschool.ox.ac.uk*
   authors: Lucas Kruitwagen (University of Oxford)
   slideslive_id: '38942161'
+  slideslive_speaker: Lucas Kruitwagen
   cmt_id: 54
   poster_sessions:
   - 13:00-14:00 UTC
@@ -3134,6 +3217,7 @@
   author_emails: venkatesh@hyperverge.co*; digvijay@hyperverge.co
   authors: Venkatesh Ramesh (HyperVerge); Digvijay Singh (HyperVerge)
   slideslive_id: '38942158'
+  slideslive_speaker: Venkatesh Ramesh
   cmt_id: 57
   poster_sessions:
   - 13:00-14:00 UTC
@@ -3167,6 +3251,7 @@
     (Duquesne University); Salomey Osei (African Master's of Machine Intelligence(AMMI-GH));
     Björn Lütjens (MIT)
   slideslive_id: '38942144'
+  slideslive_speaker: Salva Rühling Cachay
   cmt_id: 87
   poster_sessions:
   - 16:00-17:00 UTC
@@ -3202,6 +3287,7 @@
   authors: Jennifer Hobbs (IntelinAir); Ivan A Dozier (IntelinAir); Naira Hovakimyan
     (UIUC)
   slideslive_id: '38942142'
+  slideslive_speaker: Jennifer Hobbs
   cmt_id: 89
   poster_sessions:
   - 16:00-17:00 UTC
@@ -3243,6 +3329,7 @@
   author_emails: lhampto4@scmail.spelman.edu*
   authors: Lelia Hampton (Massachusetts Institute of Technology)
   slideslive_id: '38942138'
+  slideslive_speaker: Lelia Hampton
   cmt_id: 95
   poster_sessions:
   - 16:00-17:00 UTC
@@ -3282,6 +3369,7 @@
     Louis Reymondin (The Alliance of Bioversity International and the International
     Center for Tropical Agriculture)
   slideslive_id: '38942135'
+  slideslive_speaker: Alejandro Coca-Castro
   cmt_id: 103
   poster_sessions:
   - 16:00-17:00 UTC
@@ -3323,6 +3411,7 @@
     Alexandra Moutinho (IDMEC, Instituto Superior Técnico, Universidade de Lisboa);
     Miguel Almeida (ADAI, University of Coimbra)
   slideslive_id: '38942128'
+  slideslive_speaker: Maria João Sousa
   cmt_id: 110
   poster_sessions:
   - 13:00-14:00 UTC
@@ -3368,6 +3457,7 @@
     (Citrine Informatics); Viral Shah (Julia Computing); Venkat Viswanathan (Carnegie
     Mellon University)
   slideslive_id: '38942125'
+  slideslive_speaker: Rachel Kurchin
   cmt_id: 118
   poster_sessions:
   - 16:00-17:00 UTC
@@ -3396,6 +3486,7 @@
   author_emails: amy.h.wang760@gmail.com*; pdonti@cs.cmu.edu
   authors: Amy H Wang (Western University); Priya L Donti (Carnegie Mellon University)
   slideslive_id: '38942124'
+  slideslive_speaker: Amy Wang
   cmt_id: 119
   poster_sessions:
   - 13:00-14:00 UTC
@@ -3437,6 +3528,7 @@
     Sainte-Marie (Inria); Julien Salomin (Inria); Marc Schoenauer (INRIA); Michele
     Sebag (LRI, CNRS, France)
   slideslive_id: '38942110'
+  slideslive_speaker: Luis Martí
   cmt_id: 143
   poster_sessions:
   - 20:00-21:00 UTC
@@ -3474,6 +3566,7 @@
   authors: Theodoros  Christoudias (Cyprus Institute); Mihalis A  Nicolaou (Cyprus
     Institute)
   slideslive_id: '38942100'
+  slideslive_speaker: Mihalis Nicolaou
   cmt_id: 153
   poster_sessions:
   - 13:00-14:00 UTC

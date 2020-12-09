@@ -128,8 +128,10 @@ Events will be taking place digitally on December 11. The schedule is available 
   <tr class='remote-workshop-table-subrow'>
   <td>
     {% if rr.paper_id %}
-    <a href="/papers/neurips2020/{{ rr.paper_id }}" target="_blank">
-      {{rr.row_text}}
+    {% assign idx = rr.paper_id | minus: 1 %}
+    {% assign p = site.data.neurips2020_papers[idx] %}
+    <a href="/papers/neurips2020/{{ p.id }}" target="_blank">
+      ({{p.id}}) {{p.slideslive_speaker}}, "{{p.paper_title}}"
     </a>
     {% else %}
     {{rr.row_text}}

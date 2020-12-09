@@ -14,10 +14,23 @@ sl_link_file = "raw_workshop_files/#{workshop}/slideslive_links.csv"
 sl_id_file = "raw_workshop_files/#{workshop}/slideslive_unique_ids.csv"
 sl_unique_ids = Set.new(File.read(sl_id_file).strip.split("\n").map(&:strip))
 
+sl_to_speaker = {}
+
 titles_to_slideslive = CSV.read(sl_link_file, headers: true).each_with_object({}) do |row, h|
   next unless sl_unique_ids.include?(row['Unique ID'])
   t = row['Title'].sub('Spotlight: ', '')
-  h[t.strip.downcase] = row['SlidesLive link'].strip.split("/").last
+  sl = row['SlidesLive link'].strip.split("/").last
+  h[t.strip.downcase] = sl
+  speaker = row['Speakers'].to_s.strip.split(', ').first.sub('Climate Change Ai', '')
+  if speaker != ''
+    sl_to_speaker[sl] = speaker
+  end
+end
+
+cmt_to_speaker = {}
+
+CSV.read("raw_workshop_files/#{workshop}/spotlights.tsv", col_sep: "\t").each do |row|
+  cmt_to_speaker[row[0].to_i] = row[3].strip
 end
 
 sess_file = "raw_workshop_files/#{workshop}/poster_sessions.csv"
@@ -52,8 +65,10 @@ parsed.each do |p|
   end
 
   if sl_id = titles_to_slideslive[p['Paper Title'].downcase.strip]
-    unless p['Paper ID'].to_i == 142
+    cmt_id = p['Paper ID'].to_i
+    unless cmt_id == 142
       paper_data['slideslive_id'] = sl_id
+      paper_data['slideslive_speaker'] = cmt_to_speaker[cmt_id] || sl_to_speaker[sl_id]
     end
   else
     puts "couldn't find slides for #{p['Paper Title']}"
