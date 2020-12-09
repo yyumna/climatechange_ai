@@ -51,6 +51,7 @@
     hour: 14
     minute: 0
   desc: <i>Poster session</i>
+  more: replace_with_papers_in_session|13:00-14:00 UTC
 - utc1:
     year: 2020
     month: 12
@@ -90,6 +91,7 @@
     hour: 17
     minute: 15
   desc: <i>Poster session</i>
+  more: replace_with_papers_in_session|16:00-17:00 UTC
 - utc1:
     year: 2020
     month: 12
@@ -142,6 +144,8 @@
     hour: 21
     minute: 0
   desc: <i>Poster session</i>
+  more: replace_with_papers_in_session|20:00-21:00 UTC
+
 - utc1:
     year: 2020
     month: 12

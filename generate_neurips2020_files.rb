@@ -20,6 +20,13 @@ titles_to_slideslive = CSV.read(sl_link_file, headers: true).each_with_object({}
   h[t.strip.downcase] = row['SlidesLive link'].strip.split("/").last
 end
 
+sess_file = "raw_workshop_files/#{workshop}/poster_sessions.csv"
+
+cmt_ids_to_sessions = CSV.read(sess_file, headers: true).each_with_object({}) do |row, h|
+  sessions = row['Which poster session(s) will you present at?'].to_s.gsub(/\s\([^\)]+\)/, '').split(", ")
+  h[row['CMT Paper ID'].to_i] = sessions
+end
+
 papers = []
 export = Roo::Excel2003XML.new(submissions)
 sheet = export.sheet(0)
@@ -45,12 +52,17 @@ parsed.each do |p|
   end
 
   if sl_id = titles_to_slideslive[p['Paper Title'].downcase.strip]
-    paper_data['slideslive_id'] = sl_id
+    unless p['Paper ID'].to_i == 142
+      paper_data['slideslive_id'] = sl_id
+    end
   else
     puts "couldn't find slides for #{p['Paper Title']}"
   end
 
   paper_data['cmt_id'] = paper_data.delete('paper_id').to_i
+
+  paper_data['poster_sessions'] = cmt_ids_to_sessions[paper_data['cmt_id']] || []
+
   paper_data['is_spotlight'] = p['Status'].include?('Spotlight')
 
   # Manual formatting fixes :/
