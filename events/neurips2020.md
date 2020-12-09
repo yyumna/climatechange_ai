@@ -25,7 +25,8 @@ og_image_height: 443
 
 <center> <h3>Announcements</h3> </center>
 * To participate fully in the workshop, including interactive poster sessions and live Q&A with speakers, register at <a href='https://neurips.cc/Register/view-registration' target='_blank'>neurips.cc/Register/view-registration</a>. <b>(Note: Registration deadline extended through December 13)</b>
-* Keynotes and spotlight talks will be accessible via a free livestream. Check back here for livestreaming info on the day of the workshop (Dec 11).
+* Keynotes and spotlight talks will be accessible via a free livestream. 
+* See [below](#schedule) for a full schedule and info on how to participate.
 
 ***
 
@@ -61,6 +62,10 @@ NeurIPS is one of the premier conferences on machine learning, and includes a wi
 ## Schedule 
 
 Events will be taking place digitally on December 11. The schedule is available below and via this <a href="https://calendar.google.com/calendar/u/0/embed?src=4co2em5jvl946rndcn1evvqeh0@group.calendar.google.com&ctz=GMT&mode=AGENDA" target="_blank">online calendar</a>. You can subscribe to this calendar using the following links: <a href="https://calendar.google.com/calendar/u/6?cid=NGNvMmVtNWp2bDk0NnJuZGNuMWV2dnFlaDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">Google Calendar</a>, <a href="https://calendar.google.com/calendar/ical/4co2em5jvl946rndcn1evvqeh0%40group.calendar.google.com/public/basic.ics" target="_blank">iCal</a>.
+<ul>
+<li>All talks can be viewed for free via the <a href="" target="_blank">livestream</a>. Registered participants can also ask questions via the <a href="https://neurips2020.rocket.chat/channel/tackling-climate-change-with-ml-99" target="_blank">NeurIPS 2020 Rocket.Chat</a> (channel: #tackling-climate-change-with-ml-99).</li>
+<li>Poster sessions and the end-of-day reception will take place in our <a href="http://climatechange.ai/neurips2020-poster-session">online space</a> on Gather.town. (Registration is required to attend.)</li>
+</ul>
 
 <table class='remote-workshop-table'>
   <thead>
@@ -99,7 +104,9 @@ Events will be taking place digitally on December 11. The schedule is available 
     {% assign session = r.more | split: "|" | last %}
     {% assign tracks = "Papers Proposals" | split: " " %}
 
-    <p>Posters presented in this slot are listed below.</p>
+    <p>Posters presented in this slot are listed below. All poster sessions will take place in our
+    <a href="http://climatechange.ai/neurips2020-poster-session" target="_blank">online space</a> on Gather.town.
+    (Registration is required to attend.)</p>
 
     {% for track in tracks %}
       <p>{{track}} track:</p>
