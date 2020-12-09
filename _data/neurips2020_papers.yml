@@ -39,6 +39,8 @@
     Software); Ganesh Venkatesan (Siemens Digital Industries Software)
   slideslive_id: '38942179'
   cmt_id: 5
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 1
   next_paper_id: 2
@@ -76,6 +78,8 @@
     Alex Money (University of Oxford)
   slideslive_id: '38942177'
   cmt_id: 11
+  poster_sessions:
+  - 13:00-14:00 UTC
   is_spotlight: false
   id: 2
   prev_paper_id: 1
@@ -111,6 +115,8 @@
     (Total, UC Davis); Reda ALAMI (Total R&D); Philippe Cordier (Total S.A.)
   slideslive_id: '38942178'
   cmt_id: 13
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 3
   prev_paper_id: 2
@@ -139,6 +145,8 @@
   authors: Adrien Le Coz (EDF); Tahar Nabil (EDF); Francois Courtot (EDF)
   slideslive_id: '38942176'
   cmt_id: 17
+  poster_sessions:
+  - 13:00-14:00 UTC
   is_spotlight: false
   id: 4
   prev_paper_id: 3
@@ -177,6 +185,8 @@
     University); A. Stephen McGough (Newcastle University)
   slideslive_id: '38942175'
   cmt_id: 18
+  poster_sessions:
+  - 13:00-14:00 UTC
   is_spotlight: false
   id: 5
   prev_paper_id: 4
@@ -216,6 +226,8 @@
     Gagne (National Center for Atmospheric Research)
   slideslive_id: '38942174'
   cmt_id: 19
+  poster_sessions:
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 6
   prev_paper_id: 5
@@ -250,6 +262,9 @@
     of Würzburg); Andreas Hotho (Universitat Wurzburg)
   slideslive_id: '38942195'
   cmt_id: 24
+  poster_sessions:
+  - 13:00-14:00 UTC
+  - 16:00-17:00 UTC
   is_spotlight: true
   id: 7
   prev_paper_id: 6
@@ -285,6 +300,10 @@
     Cambridge)
   slideslive_id: '38942197'
   cmt_id: 25
+  poster_sessions:
+  - 13:00-14:00 UTC
+  - 16:00-17:00 UTC
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 8
   prev_paper_id: 7
@@ -310,6 +329,8 @@
     (University of St. Gallen); Damian Borth (University of St. Gallen)
   slideslive_id: '38942196'
   cmt_id: 26
+  poster_sessions:
+  - 13:00-14:00 UTC
   is_spotlight: false
   id: 9
   prev_paper_id: 8
@@ -342,6 +363,8 @@
   authors: Philipp Hess (Free University Berlin); Niklas Boers (Free University Berlin)
   slideslive_id: '38942180'
   cmt_id: 28
+  poster_sessions:
+  - 13:00-14:00 UTC
   is_spotlight: false
   id: 10
   prev_paper_id: 9
@@ -381,6 +404,10 @@
     University)
   slideslive_id: '38942194'
   cmt_id: 29
+  poster_sessions:
+  - 13:00-14:00 UTC
+  - 16:00-17:00 UTC
+  - 20:00-21:00 UTC
   is_spotlight: true
   id: 11
   prev_paper_id: 10
@@ -411,6 +438,8 @@
   authors: Gael Kamdem De Teyou (Huawei)
   slideslive_id: '38942202'
   cmt_id: 32
+  poster_sessions:
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 12
   prev_paper_id: 11
@@ -439,6 +468,8 @@
   authors: Dominic J Skinner (MIT); Romit Maulik (Argonne National Laboratory)
   slideslive_id: '38942201'
   cmt_id: 33
+  poster_sessions:
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 13
   prev_paper_id: 12
@@ -473,6 +504,8 @@
     Climate Fix); Dan Stowell (Queen Mary University of London)
   slideslive_id: '38942172'
   cmt_id: 37
+  poster_sessions:
+  - 13:00-14:00 UTC
   is_spotlight: false
   id: 14
   prev_paper_id: 13
@@ -511,6 +544,8 @@
     for Evolutionary Anthropology); Ron Hagensieker (Osir.io)
   slideslive_id: '38942170'
   cmt_id: 41
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 15
   prev_paper_id: 14
@@ -542,6 +577,8 @@
     University); Martha Flores Leonar (University of Toronto)
   slideslive_id: '38942169'
   cmt_id: 43
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 16
   prev_paper_id: 15
@@ -571,6 +608,9 @@
   authors: Shahine Bouabid (University of Oxford); Jevgenij Gamper (Cervest Ltd.)
   slideslive_id: '38942168'
   cmt_id: 45
+  poster_sessions:
+  - 13:00-14:00 UTC
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 17
   prev_paper_id: 16
@@ -609,6 +649,9 @@
     Tadesse (University of Nebraska-Lincoln)
   slideslive_id: '38942166'
   cmt_id: 47
+  poster_sessions:
+  - 16:00-17:00 UTC
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 18
   prev_paper_id: 17
@@ -639,6 +682,8 @@
     (University of Alberta); Jen Beverly (University of Alberta)
   slideslive_id: '38942165'
   cmt_id: 48
+  poster_sessions:
+  - 13:00-14:00 UTC
   is_spotlight: false
   id: 19
   prev_paper_id: 18
@@ -679,6 +724,10 @@
     (Harrisburg University)
   slideslive_id: '38942192'
   cmt_id: 49
+  poster_sessions:
+  - 13:00-14:00 UTC
+  - 16:00-17:00 UTC
+  - 20:00-21:00 UTC
   is_spotlight: true
   id: 20
   prev_paper_id: 19
@@ -710,6 +759,8 @@
   authors: Wang Zhou (IBM Research); Levente Klein (IBM Research)
   slideslive_id: '38942159'
   cmt_id: 55
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 21
   prev_paper_id: 20
@@ -750,6 +801,8 @@
     University)
   slideslive_id: '38942160'
   cmt_id: 56
+  poster_sessions:
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 22
   prev_paper_id: 21
@@ -792,6 +845,8 @@
     of California San Diego); Octavio  Aburto (University of California San Diego)
   slideslive_id: '38942157'
   cmt_id: 58
+  poster_sessions:
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 23
   prev_paper_id: 22
@@ -822,6 +877,8 @@
     Rishee Jain (Stanford University)
   slideslive_id: '38942156'
   cmt_id: 60
+  poster_sessions:
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 24
   prev_paper_id: 23
@@ -849,6 +906,8 @@
   authors: Thomas Falconer (University College London); Letif Mones (Invenia Labs)
   slideslive_id: '38942155'
   cmt_id: 63
+  poster_sessions:
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 25
   prev_paper_id: 24
@@ -888,6 +947,8 @@
     (nam.R; CEREMADE (Université Paris Dauphine, PSL))
   slideslive_id: '38942154'
   cmt_id: 65
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 26
   prev_paper_id: 25
@@ -925,6 +986,9 @@
     Oxford); Christian Schroeder de Witt (University of Oxford)
   slideslive_id: '38942153'
   cmt_id: 67
+  poster_sessions:
+  - 16:00-17:00 UTC
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 27
   prev_paper_id: 26
@@ -956,6 +1020,8 @@
     Italy); Luca Pappalardo (ISTI)
   slideslive_id: '38942152'
   cmt_id: 68
+  poster_sessions:
+  - 13:00-14:00 UTC
   is_spotlight: false
   id: 28
   prev_paper_id: 27
@@ -993,6 +1059,8 @@
     of Maryland)
   slideslive_id: '38942151'
   cmt_id: 71
+  poster_sessions:
+  - 13:00-14:00 UTC
   is_spotlight: false
   id: 29
   prev_paper_id: 28
@@ -1031,6 +1099,9 @@
     Duncan Watson-Parris (University of Oxford)
   slideslive_id: '38942150'
   cmt_id: 73
+  poster_sessions:
+  - 13:00-14:00 UTC
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 30
   prev_paper_id: 29
@@ -1062,6 +1133,8 @@
     de Montreal)
   slideslive_id: '38942149'
   cmt_id: 74
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 31
   prev_paper_id: 30
@@ -1096,6 +1169,8 @@
     University); Ross Beveridge (CSU); Timothy Vaughn (Colorado State University)
   slideslive_id: '38942148'
   cmt_id: 81
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 32
   prev_paper_id: 31
@@ -1138,6 +1213,9 @@
     für Technologie); Wolf Fichtner (Karlsruhe Institute of Technology)
   slideslive_id: '38942147'
   cmt_id: 82
+  poster_sessions:
+  - 13:00-14:00 UTC
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 33
   prev_paper_id: 32
@@ -1167,6 +1245,8 @@
     Le Saux (European Space Agency (ESA)); Jennifer Adams (European Space Agency (ESA))
   slideslive_id: '38942146'
   cmt_id: 83
+  poster_sessions:
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 34
   prev_paper_id: 33
@@ -1200,6 +1280,7 @@
   authors: Shannon Doyle (UvA); Anastasia Borovykh (Imperial College London)
   slideslive_id: '38942145'
   cmt_id: 85
+  poster_sessions: []
   is_spotlight: false
   id: 35
   prev_paper_id: 34
@@ -1235,6 +1316,8 @@
     (University of Victoria); Fabio De Leo Cabrera (Ocean Networks Canada)
   slideslive_id: '38942143'
   cmt_id: 88
+  poster_sessions:
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 36
   prev_paper_id: 35
@@ -1272,6 +1355,8 @@
     Davey (Global Witness); Alexandre Lacoste (Element AI)
   slideslive_id: '38942141'
   cmt_id: 90
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 37
   prev_paper_id: 36
@@ -1316,6 +1401,8 @@
     of Warsaw / University of Oxford)
   slideslive_id: '38942190'
   cmt_id: 91
+  poster_sessions:
+  - 13:00-14:00 UTC
   is_spotlight: true
   id: 38
   prev_paper_id: 37
@@ -1352,6 +1439,8 @@
     (Fraunhofer ISE); Stefan Rein (Fraunhofer ISE)
   slideslive_id: '38942140'
   cmt_id: 92
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 39
   prev_paper_id: 38
@@ -1377,6 +1466,8 @@
     Chatterjee (University of Minnesota)
   slideslive_id: '38942200'
   cmt_id: 93
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: true
   id: 40
   prev_paper_id: 39
@@ -1400,6 +1491,9 @@
     Northwest National Laboratory); Vikas Chandan (PNNL); Draguna Vrabie (PNNL)
   slideslive_id: '38942139'
   cmt_id: 94
+  poster_sessions:
+  - 13:00-14:00 UTC
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 41
   prev_paper_id: 40
@@ -1433,6 +1527,8 @@
     Institute)
   slideslive_id: '38942097'
   cmt_id: 96
+  poster_sessions:
+  - 13:00-14:00 UTC
   is_spotlight: false
   id: 42
   prev_paper_id: 41
@@ -1463,6 +1559,7 @@
   authors: Isaac Godfried (CoronaWhy)
   slideslive_id: '38942137'
   cmt_id: 97
+  poster_sessions: []
   is_spotlight: false
   id: 43
   prev_paper_id: 42
@@ -1502,6 +1599,8 @@
     and Samsung AI)
   slideslive_id: '38942136'
   cmt_id: 99
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 44
   prev_paper_id: 43
@@ -1539,6 +1638,8 @@
     (Sust Global)
   slideslive_id: '38942189'
   cmt_id: 101
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: true
   id: 45
   prev_paper_id: 44
@@ -1576,6 +1677,8 @@
     Ram Rajagopal (Stanford University)
   slideslive_id: '38942188'
   cmt_id: 104
+  poster_sessions:
+  - 13:00-14:00 UTC
   is_spotlight: true
   id: 46
   prev_paper_id: 45
@@ -1611,6 +1714,8 @@
     (UN Environment Program)
   slideslive_id: '38942133'
   cmt_id: 105
+  poster_sessions:
+  - 13:00-14:00 UTC
   is_spotlight: false
   id: 47
   prev_paper_id: 46
@@ -1666,6 +1771,10 @@
     and Simulation Science, Jena)
   slideslive_id: '38942132'
   cmt_id: 106
+  poster_sessions:
+  - 13:00-14:00 UTC
+  - 16:00-17:00 UTC
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 48
   prev_paper_id: 47
@@ -1697,6 +1806,8 @@
   authors: Yash Narayan (The Nueva School)
   slideslive_id: '38942131'
   cmt_id: 107
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 49
   prev_paper_id: 48
@@ -1734,6 +1845,7 @@
     (Vulcan, Inc.)
   slideslive_id: '38942129'
   cmt_id: 109
+  poster_sessions: []
   is_spotlight: false
   id: 50
   prev_paper_id: 49
@@ -1778,6 +1890,8 @@
     University); Andrew Ng (Stanford University)
   slideslive_id: '38942187'
   cmt_id: 111
+  poster_sessions:
+  - 20:00-21:00 UTC
   is_spotlight: true
   id: 51
   prev_paper_id: 50
@@ -1812,6 +1926,8 @@
   authors: Matthew Ehrler (University of Victoria); Neil Ernst (University of Victoria)
   slideslive_id: '38942130'
   cmt_id: 112
+  poster_sessions:
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 52
   prev_paper_id: 51
@@ -1855,6 +1971,8 @@
     Varadharajan (Lawrence Berkeley National Lab)
   slideslive_id: '38942127'
   cmt_id: 114
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 53
   prev_paper_id: 52
@@ -1892,6 +2010,9 @@
     Grant Van Horn (Cornell University)
   slideslive_id: '38942126'
   cmt_id: 116
+  poster_sessions:
+  - 16:00-17:00 UTC
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 54
   prev_paper_id: 53
@@ -1926,6 +2047,8 @@
     Energy Laboratory); Adam Brandt (Stanford University)
   slideslive_id: '38942123'
   cmt_id: 121
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 55
   prev_paper_id: 54
@@ -1960,6 +2083,7 @@
     at Berkeley); Costas J. Spanos (University of California at Berkeley)
   slideslive_id: '38942122'
   cmt_id: 122
+  poster_sessions: []
   is_spotlight: false
   id: 56
   prev_paper_id: 55
@@ -1996,6 +2120,8 @@
     Center for Integrated Mountain Development); Yoshua Bengio (Mila)
   slideslive_id: '38942186'
   cmt_id: 124
+  poster_sessions:
+  - 13:00-14:00 UTC
   is_spotlight: true
   id: 57
   prev_paper_id: 56
@@ -2029,6 +2155,8 @@
     de Chalendar (Stanford University)
   slideslive_id: '38942184'
   cmt_id: 125
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: true
   id: 58
   prev_paper_id: 57
@@ -2060,6 +2188,8 @@
     (University of New South Wales); Komminist  Weldemariam (IBM Research)
   slideslive_id: '38942120'
   cmt_id: 126
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 59
   prev_paper_id: 58
@@ -2095,6 +2225,8 @@
   authors: Lin Shi (Stanford University); Nhi Truong Vu (Stanford University)
   slideslive_id: '38942119'
   cmt_id: 128
+  poster_sessions:
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 60
   prev_paper_id: 59
@@ -2142,6 +2274,8 @@
     University); Claudia Tebaldi (Joint Global Change Research Institute)
   slideslive_id: '38942118'
   cmt_id: 130
+  poster_sessions:
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 61
   prev_paper_id: 60
@@ -2174,6 +2308,9 @@
     Peruana); Erwin Dianderas (Instituto de Investigaciones de la Amazonía Peruana)
   slideslive_id: '38942185'
   cmt_id: 131
+  poster_sessions:
+  - 13:00-14:00 UTC
+  - 16:00-17:00 UTC
   is_spotlight: true
   id: 62
   prev_paper_id: 61
@@ -2207,6 +2344,8 @@
     (McGill University, Mila)
   slideslive_id: '38942182'
   cmt_id: 132
+  poster_sessions:
+  - 20:00-21:00 UTC
   is_spotlight: true
   id: 63
   prev_paper_id: 62
@@ -2245,6 +2384,8 @@
     Berkeley); Puya Vahabi (UC Berkeley); Alberto Todeschini (UC Berkeley)
   slideslive_id: '38942115'
   cmt_id: 134
+  poster_sessions:
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 64
   prev_paper_id: 63
@@ -2282,6 +2423,8 @@
     Liu (UC Berkeley); Costas J. Spanos (University of California at Berkeley)
   slideslive_id: '38942114'
   cmt_id: 135
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 65
   prev_paper_id: 64
@@ -2323,6 +2466,9 @@
     University); Percy Liang (Stanford University)
   slideslive_id: '38942113'
   cmt_id: 141
+  poster_sessions:
+  - 16:00-17:00 UTC
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 66
   prev_paper_id: 65
@@ -2355,6 +2501,8 @@
   author_emails: markus.leippold@bf.uzh.ch*; thomas.diggelmann@student.ethz.ch
   authors: Markus Leippold (University of Zurich); Thomas Diggelmann (ETH Zurich)
   cmt_id: 142
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 67
   prev_paper_id: 66
@@ -2393,6 +2541,8 @@
     Berkeley)
   slideslive_id: '38942107'
   cmt_id: 144
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 68
   prev_paper_id: 67
@@ -2415,6 +2565,8 @@
   authors: Markus Leippold (University of Zurich); Francesco Saverio Varini (ETH)
   slideslive_id: '38942108'
   cmt_id: 145
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 69
   prev_paper_id: 68
@@ -2460,6 +2612,9 @@
     Duncan Watson-Parris (University of Oxford)
   slideslive_id: '38942105'
   cmt_id: 146
+  poster_sessions:
+  - 13:00-14:00 UTC
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 70
   prev_paper_id: 69
@@ -2494,6 +2649,9 @@
     (National Technical University of Athens)
   slideslive_id: '38942103'
   cmt_id: 148
+  poster_sessions:
+  - 16:00-17:00 UTC
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 71
   prev_paper_id: 70
@@ -2529,6 +2687,7 @@
     Berkeley)
   slideslive_id: '38942101'
   cmt_id: 150
+  poster_sessions: []
   is_spotlight: false
   id: 72
   prev_paper_id: 71
@@ -2563,6 +2722,8 @@
   authors: Thomas Y Chen (The Academy for Mathematics, Science, and Engineering)
   slideslive_id: '38942181'
   cmt_id: 159
+  poster_sessions:
+  - 20:00-21:00 UTC
   is_spotlight: true
   id: 73
   prev_paper_id: 72
@@ -2596,6 +2757,8 @@
     Thabang Mashinini (IBM); Campbell Watson (IBM)
   slideslive_id: '38942098'
   cmt_id: 160
+  poster_sessions:
+  - 13:00-14:00 UTC
   is_spotlight: false
   id: 74
   prev_paper_id: 73
@@ -2628,6 +2791,8 @@
   authors: Jonas Hülsmann (TU Darmstadt); Florian Steinke (TU Darmstadt)
   slideslive_id: '38942199'
   cmt_id: 9
+  poster_sessions:
+  - 13:00-14:00 UTC
   is_spotlight: false
   id: 75
   prev_paper_id: 74
@@ -2662,6 +2827,8 @@
   authors: Kyle Tilbury (University of Waterloo); Jesse Hoey (University of Waterloo)
   slideslive_id: '38942198'
   cmt_id: 22
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 76
   prev_paper_id: 75
@@ -2692,6 +2859,10 @@
     Berrado (EMI Engineering School)
   slideslive_id: '38942183'
   cmt_id: 27
+  poster_sessions:
+  - 13:00-14:00 UTC
+  - 16:00-17:00 UTC
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 77
   prev_paper_id: 76
@@ -2724,6 +2895,8 @@
     UK)
   slideslive_id: '38942173'
   cmt_id: 36
+  poster_sessions:
+  - 13:00-14:00 UTC
   is_spotlight: false
   id: 78
   prev_paper_id: 77
@@ -2757,6 +2930,7 @@
     Técnico Lisboa); Loubna Benabou (UQAR); Daniel  Ngondya (The University of Dodoma)
   slideslive_id: '38942171'
   cmt_id: 39
+  poster_sessions: []
   is_spotlight: false
   id: 79
   prev_paper_id: 78
@@ -2787,6 +2961,8 @@
     Mellon University)
   slideslive_id: '38942193'
   cmt_id: 46
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: true
   id: 80
   prev_paper_id: 79
@@ -2821,6 +2997,9 @@
     Craig (NASA GSFC)
   slideslive_id: '38942163'
   cmt_id: 50
+  poster_sessions:
+  - 16:00-17:00 UTC
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 81
   prev_paper_id: 80
@@ -2851,6 +3030,8 @@
     University); Ann Lee (Carnegie Mellon University)
   slideslive_id: '38942191'
   cmt_id: 51
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: true
   id: 82
   prev_paper_id: 81
@@ -2886,6 +3067,8 @@
     Mellon University)
   slideslive_id: '38942164'
   cmt_id: 52
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 83
   prev_paper_id: 82
@@ -2919,6 +3102,9 @@
   authors: Lucas Kruitwagen (University of Oxford)
   slideslive_id: '38942161'
   cmt_id: 54
+  poster_sessions:
+  - 13:00-14:00 UTC
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 84
   prev_paper_id: 83
@@ -2949,6 +3135,8 @@
   authors: Venkatesh Ramesh (HyperVerge); Digvijay Singh (HyperVerge)
   slideslive_id: '38942158'
   cmt_id: 57
+  poster_sessions:
+  - 13:00-14:00 UTC
   is_spotlight: false
   id: 85
   prev_paper_id: 84
@@ -2980,6 +3168,8 @@
     Björn Lütjens (MIT)
   slideslive_id: '38942144'
   cmt_id: 87
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 86
   prev_paper_id: 85
@@ -3013,6 +3203,9 @@
     (UIUC)
   slideslive_id: '38942142'
   cmt_id: 89
+  poster_sessions:
+  - 16:00-17:00 UTC
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 87
   prev_paper_id: 86
@@ -3051,6 +3244,8 @@
   authors: Lelia Hampton (Massachusetts Institute of Technology)
   slideslive_id: '38942138'
   cmt_id: 95
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 88
   prev_paper_id: 87
@@ -3088,6 +3283,8 @@
     Center for Tropical Agriculture)
   slideslive_id: '38942135'
   cmt_id: 103
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 89
   prev_paper_id: 88
@@ -3127,6 +3324,9 @@
     Miguel Almeida (ADAI, University of Coimbra)
   slideslive_id: '38942128'
   cmt_id: 110
+  poster_sessions:
+  - 13:00-14:00 UTC
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 90
   prev_paper_id: 89
@@ -3169,6 +3369,9 @@
     Mellon University)
   slideslive_id: '38942125'
   cmt_id: 118
+  poster_sessions:
+  - 16:00-17:00 UTC
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 91
   prev_paper_id: 90
@@ -3194,6 +3397,9 @@
   authors: Amy H Wang (Western University); Priya L Donti (Carnegie Mellon University)
   slideslive_id: '38942124'
   cmt_id: 119
+  poster_sessions:
+  - 13:00-14:00 UTC
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 92
   prev_paper_id: 91
@@ -3232,6 +3438,8 @@
     Sebag (LRI, CNRS, France)
   slideslive_id: '38942110'
   cmt_id: 143
+  poster_sessions:
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 93
   prev_paper_id: 92
@@ -3267,6 +3475,8 @@
     Institute)
   slideslive_id: '38942100'
   cmt_id: 153
+  poster_sessions:
+  - 13:00-14:00 UTC
   is_spotlight: false
   id: 94
   prev_paper_id: 93
