@@ -90,10 +90,35 @@ Events will be taking place digitally on December 11. The schedule is available 
   {{r.desc | strip_newlines | strip }}
   {% endif %}
   {% if r.more.size > 0 %}
+
   <details>
   <summary>Details: (click to expand)</summary>
-  {{ r.more | strip_newlines | strip }}
+
+  {% if r.more contains "replace_with_papers_in_session" %}
+
+    {% assign session = r.more | split: "|" | last %}
+    {% assign tracks = "Papers Proposals" | split: " " %}
+
+    <p>Posters being presented in this slot are listed below.</p>
+
+    {% for track in tracks %}
+      <p>{{track}} track:</p>
+      <ul>
+        {% for p in site.data.neurips2020_papers %}
+          {% if p.q1_track == track and p.poster_sessions contains session %}
+            <li><a href='/papers/neurips2020/{{p.id}}' target='_blank'>({{p.id}}) {{p.paper_title}}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    {% endfor %}
+
+  {% else %}
+
+    {{ r.more | strip_newlines | strip }}
+
+  {% endif %}
   </details>
+
   {% endif %}
   </td>
   </tr>
