@@ -176,6 +176,8 @@ Click the links below for information about each submission, including the paper
   <thead><tr>
   <th>Title</th>
   <th>Authors</th>
+  <th>Poster Session</th>
+
   </tr></thead>
   
   <tbody>
@@ -191,6 +193,9 @@ Click the links below for information about each submission, including the paper
   {% endif %}
   </td>
   <td>{{ p.authors }}</td>
+  <td style='white-space: nowrap'>
+    {{ p.poster_sessions | join: ",<br>" }}
+  </td>
   </tr>
   {% endif %}
   {% endfor %}
