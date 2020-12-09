@@ -99,7 +99,7 @@ Events will be taking place digitally on December 11. The schedule is available 
     {% assign session = r.more | split: "|" | last %}
     {% assign tracks = "Papers Proposals" | split: " " %}
 
-    <p>Posters being presented in this slot are listed below.</p>
+    <p>Posters presented in this slot are listed below.</p>
 
     {% for track in tracks %}
       <p>{{track}} track:</p>
