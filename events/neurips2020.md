@@ -104,7 +104,9 @@ Events will be taking place digitally on December 11. The schedule is available 
     {% assign session = r.more | split: "|" | last %}
     {% assign tracks = "Papers Proposals" | split: " " %}
 
-    <p>Posters presented in this slot are listed below.</p>
+    <p>Posters presented in this slot are listed below. All poster sessions will take place in our
+    <a href="http://climatechange.ai/neurips2020-poster-session" target="_blank">online space</a> on Gather.town.
+    (Registration is required to attend.)</p>
 
     {% for track in tracks %}
       <p>{{track}} track:</p>
