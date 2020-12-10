@@ -18,6 +18,7 @@ Congratuations to our 2020 mingle bingo champions! If you're looking to play, yo
 <a href='/events/neurips2020/mingle-bingo-card' target='_blank'>here</a> 🙂
 
 <section id='bingo'>
+<em>Loading&hellip;</em>
 </section>
 
 <script type='text/javascript'>
@@ -26,6 +27,7 @@ Congratuations to our 2020 mingle bingo champions! If you're looking to play, yo
     f.src = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQaYCqTYv3iRrOuT1WjhSplo2bX4chtTx_6gIwaq1q20KBaQ77HOlbTOU1-jTrQWDThy8N9LRf6kewh/pubhtml?gid=891296099&single=true&widget=false&headers=false&chrome=false"; 
     f.width = '100%'; 
     f.height = 400;
-    $('#bingo').append(f);
+    f.style = 'border: 2px solid #ccc; border-left-width: 1px';
+    $('#bingo').html(f);
   });
 </script>
