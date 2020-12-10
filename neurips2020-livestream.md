@@ -52,15 +52,16 @@ description: 'NeurIPS 2020 Livestream: Tackling Climate Change with Machine Lear
   </div>
 </div>
 
-<script>
-export function setCookie(cname, cvalue, exdays) {
+<script type='text/javascript'>
+
+function setCookie(cname, cvalue, exdays) {
   var d = new Date();
   d.setTime(d.getTime() + (exdays*24*60*60*1000));
   var expires = "expires="+ d.toUTCString();
   document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
 }
 
-export function getCookie(cname) {
+function getCookie(cname) {
   var name = cname + "=";
   var decodedCookie = decodeURIComponent(document.cookie);
   var ca = decodedCookie.split(';');
@@ -90,4 +91,5 @@ $(document).ready(() => {
     closeModal();
   }
 });
+
 </script>
