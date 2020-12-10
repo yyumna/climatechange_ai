@@ -14,10 +14,8 @@ og_image_height: 443
   <a class='button' href='#about-the-workshop'>About</a>
   <a class='button' href='#schedule'>Schedule</a>
   <a class='button' href='#accepted-works'>Accepted Works</a>
+  <a class='button' href='#poster-sessions'>Poster Sessions</a>
   <a class='button' href='#organizers'>Organizers</a>
-  <a class='button' href='#grants'><s>Grants</s></a>
-  <a class='button' href='#call-for-submissions'><s>Submit</s></a>
-  <a class='button' href='#submission-mentorship-program'><s>Mentorship</s></a>
   <a class='button' href='#frequently-asked-questions'>FAQ</a>
 </div>
 
@@ -27,6 +25,8 @@ og_image_height: 443
 * To participate fully in the workshop, including interactive poster sessions and live Q&A with speakers, register at <a href='https://neurips.cc/Register/view-registration' target='_blank'>neurips.cc/Register/view-registration</a>. <b>(Note: Registration deadline extended through December 13)</b>
 * Keynotes and spotlight talks will be accessible via a free livestream. 
 * See [below](#schedule) for a full schedule and info on how to participate.
+* All attending the poster session are warmly invited to play Mingle Bingo. More information [here](#mingle-bingo).
+
 
 ***
 
@@ -238,6 +238,48 @@ Click the links below for information about each submission, including the paper
   </tbody>
 </table>
 {% endfor %}
+
+## Poster session
+
+### Overview
+Our poster sessions use the Gather.town platform, an interactive virtual world which attendees can navigate as 8-bit characters. For a full description, see this [tutorial](https://gather.town/docs), but here are the basics:
+
+- The poster session is set up in a virtual space, much like a physical poster session, with posters placed in designated areas across the space and plenty of room for informal conversation.
+- You can use the arrow keys to walk anywhere you like in the space with your customizable avatar.
+- You can have a video call with anyone near your avatar. As you approach someone, their video will appear on your screen.
+- Each poster is prominently numbered on the map in one of the two poster rooms. These numbers are visible on the minimap (which you can access from the bottom bar) to aid navigation, and correspond to the poster numbers on our website. 
+- Around each poster is a rectangle which marks a private conversation area, meaning that everyone in that area is part of the same video conversation. There are also private conversation areas around the tables in other rooms.
+- At least one author of each poster should be present at at least one poster session. See the schedule [above](#schedule).
+- To view a poster, walk up to the corresponding podium (which looks like <img height="30px" src="https://i.imgur.com/vP9YRNh.png"/>) and press the “x” button. This will bring up the poster’s webpage (also below), which includes slides describing the work and in many cases a recorded video or workshop paper.
+- There is a “CCAI Corner” in the top room. This is a space where conference organizers, speakers, and members of CCAI are available to talk with attendees in a larger group (we will also be circulating and enjoying the show!).
+
+### Pro tips
+You can press “g” to walk through other people like a ghost.
+Click on the minimap in the bottom bar to see the whole space, including poster numbers and explanation of the contents of other rooms.
+You can see who else is in the session in the left panel (click the “participants” button, which looks like two abstract people). You can click on someone there and select “locate” to trace a path directly to them.
+There is also a chat functionality that you can access via the left panel (click on the message icon). You can use the chat to direct message other participants, message everyone you can see (“nearby”), or message absolutely everyone in the room (“everyone”).
+
+### Mingle Bingo
+Part of the fun of coming to conferences is meeting exciting new people!
+
+As an icebreaker, we are introducing Mingle Bingo. To play, [download our bingo card](https://www.climatechange.ai/events/neurips2020/mingle-bingo-card), which has a grid of 25 things that might describe different conference attendees (e.g. “Works in agriculture”, “Uses computer vision” , or “From South America”). 
+
+Instructions:
+- When you meet someone who checks a box, fill in their name on the card.
+
+- Five boxes in a row (horizontally, vertically, or diagonally) is Bingo.
+
+- If you fill in all 25 boxes, you’ve got Super-Bingo.
+
+- If you have Bingo or Super-Bingo, you can submit your filled-in card [here](https://forms.gle/9F6gbwb5gQAZq3Q99) and we will list
+you as one of the [TCCML bingo winners](https://www.climatechange.ai/events/neurips2020/mingle-bingo-winners)! (The winners list will display name, institution, and type of bingo only)
+
+- You can edit your submission any time, so feel free to submit a card with Bingo and keep going for Super-Bingo.
+
+The bingo card should be fillable in most PDF readers but we will accept cards in any format (e.g. feel free to print it out and send a picture of a handwritten card).
+
+Google account sign-in is required to submit a card using the main form due to the file upload but if you don’t have a Google account, just email your card to us at climatechangeai.neurips2020@gmail.com and we will add you to the winner list!
+
 
 
 ## Sponsors
