@@ -140,7 +140,7 @@
     month: 12
     day: 11
     hour: 17
-    minute: 15
+    minute: 00
   desc: <i>Poster session</i>
   more: replace_with_papers_in_session|16:00-17:00 UTC
 - utc1:
@@ -148,7 +148,7 @@
     month: 12
     day: 11
     hour: 17
-    minute: 15
+    minute: 00
   utc2:
     year: 2020
     month: 12
@@ -236,7 +236,7 @@
     month: 12
     day: 11
     hour: 21
-    minute: 15
+    minute: 00
   desc: <i>Poster session</i>
   more: replace_with_papers_in_session|20:00-21:00 UTC
 
@@ -245,7 +245,7 @@
     month: 12
     day: 11
     hour: 21
-    minute: 15
+    minute: 00
   utc2:
     year: 2020
     month: 12
@@ -285,7 +285,7 @@
     month: 12
     day: 11
     hour: 22
-    minute: 45
+    minute: 50
   desc: Vinod Khosla (Khosla Ventures) <i>(Fireside chat)</i>
   more: |-
     Tune in via the <a href="http://climatechange.ai/neurips2020-livestream" target="_blank">livestream</a> 
@@ -310,7 +310,7 @@
     month: 12
     day: 11
     hour: 22
-    minute: 45
+    minute: 50
   utc2:
     year: 2020
     month: 12
