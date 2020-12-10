@@ -33,7 +33,7 @@ og_image_height: 443
 This workshop is focused on impactful uses of machine learning in reducing and responding to climate change, and is intended to be a venue for discourse between experts in machine learning and other fields. 
 <ul>
 <li><b><a href='#schedule'>Main workshop</a></b> (Dec 11)</li>
-<li><b><a href='#side-event'>Side event: Monitoring climate impact</a></b> (Dec 14)</li>
+<li><b><a href='#side-event'>Side event: Monitoring the Climate Crisis with AI, Satellites and Drones</a></b> (Dec 14)</li>
 </ul>
 
 Many in the ML community wish to take action on climate change, but are unsure of the pathways through which they can have the most impact. This workshop will highlight work that demonstrates that, while no silver bullet, **ML can be an invaluable tool both in reducing greenhouse gas emissions and in helping society adapt to the effects of climate change**. Climate change is a complex problem, for which action takes many forms - from theoretical advances to deployment of new technology. Many of these actions represent high-impact opportunities for real-world change, and are simultaneously interesting academic research problems.
@@ -192,7 +192,9 @@ $(document).ready(function() {
 
 ## Side Event
 
-### Monitoring Climate Impact (Dec 14)
+### Monitoring the Climate Crisis with AI, Satellites and Drones (Dec 14)
+
+**9 am UTC via Zoom**
 
 We will hold a special side event on Dec 14 that will feature talks and socials with prominent speakers in industry and academia to discuss how artificial intelligence and remote sensing can be used to monitor global carbon impact - and to allow for new levels of trust and accountability between governments, companies and projects internationally. More information coming soon!
 
