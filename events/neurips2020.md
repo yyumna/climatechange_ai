@@ -14,7 +14,7 @@ og_image_height: 443
   <a class='button' href='#about-the-workshop'>About</a>
   <a class='button' href='#schedule'>Schedule</a>
   <a class='button' href='#accepted-works'>Accepted Works</a>
-  <a class='button' href='#poster-sessions'>Poster Sessions</a>
+  <a class='button' href='#poster-session'>Poster Sessions</a>
   <a class='button' href='#organizers'>Organizers</a>
   <a class='button' href='#frequently-asked-questions'>FAQ</a>
 </div>
@@ -106,7 +106,7 @@ Events will be taking place digitally on December 11. The schedule is available 
 
     <p>Posters presented in this slot are listed below. All poster sessions will take place in our
     <a href="http://climatechange.ai/neurips2020-poster-session" target="_blank">online space</a> on Gather.town.
-    (Registration is required to attend.)</p>
+    (Registration is required to attend.). Learn more about our poster sessions <a href="http://climatechange.ai/events/neurips2020#poster-session">here</a>.</p>
 
     {% for track in tracks %}
       <p>{{track}} track:</p>
@@ -241,6 +241,8 @@ Click the links below for information about each submission, including the paper
 
 ## Poster session
 
+All poster sessions will take place in our [online space](http://climatechange.ai/neurips2020-poster-session) on Gather.town. (Registration is required to attend.).
+
 ### Overview
 Our poster sessions use the Gather.town platform, an interactive virtual world which attendees can navigate as 8-bit characters. For a full description, see this [tutorial](https://gather.town/docs), but here are the basics:
 
@@ -278,7 +280,7 @@ you as one of the [TCCML bingo winners](https://www.climatechange.ai/events/neur
 
 The bingo card should be fillable in most PDF readers but we will accept cards in any format (e.g. feel free to print it out and send a picture of a handwritten card).
 
-Google account sign-in is required to submit a card using the main form due to the file upload but if you don’t have a Google account, just email your card to us at climatechangeai.neurips2020@gmail.com and we will add you to the winner list!
+Google account sign-in is required to submit a card using the main form due to the file upload but if you don’t have a Google account, just email your card to us at [climatechangeai.neurips2020@gmail.com]() and we will add you to the winner list!
 
 
 
