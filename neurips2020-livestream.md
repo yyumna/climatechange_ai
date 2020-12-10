@@ -4,7 +4,90 @@ title: 'Climate Change AI'
 description: 'NeurIPS 2020 Livestream: Tackling Climate Change with Machine Learning'
 ---
 
-<br/>
-<h2>Check back here on December 11th for the livestream!</h2>
-<br/>
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="/events/neurips2020">NeurIPS 2020 Workshop</a></li>
+    <li class='is-active'><a href="#" aria-current="page">Livestream</a></li>
+  </ul>
+</nav>
+<hr>
 
+<h2>Livestream</h2>
+
+<p>If the embedded livestream is not working, you can also try a <a href='https://slideslive.com/38947095' target='_blank'>direct link</a>.</p>
+
+<div id="presentation-embed-38947095"></div>
+
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38947095', {
+        presentationId: '38947095',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
+
+<h2>Chatroom</h2>
+
+<p>Note that joining the live chat requires <a href='https://neurips.cc/Register/view-registration' target='_blank'>NeurIPS registration</a>.</p>
+
+<iframe frameborder="0" src="https://neurips2020.rocket.chat/channel/tackling-climate-change-with-ml-99?layout=embedded" width="100%" height="600px" style="display: block"></iframe>
+
+<div class="modal is-active">
+  <div class="modal-background"></div>
+  <div class="modal-card">
+  <header class="modal-card-head">
+    <p class="modal-card-title">Sign in</p>
+  </header>
+  <section class="modal-card-body">
+    <p>Thanks for attending the workshop! Please take a few seconds to sign in.</p>
+
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeCmdFvcMkyAo90jmozISPcS81RepHrqBBRQH34dlPmHssACg/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0" style="border: 1px solid #ccc; padding-top: 1rem;">Loading…</iframe>
+
+  </section>
+  <footer class="modal-card-foot">
+    <button class="button is-success close-button">View Livestream</button>
+  </footer>
+  </div>
+</div>
+
+<script>
+export function setCookie(cname, cvalue, exdays) {
+  var d = new Date();
+  d.setTime(d.getTime() + (exdays*24*60*60*1000));
+  var expires = "expires="+ d.toUTCString();
+  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+export function getCookie(cname) {
+  var name = cname + "=";
+  var decodedCookie = decodeURIComponent(document.cookie);
+  var ca = decodedCookie.split(';');
+  for(var i = 0; i <ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+  return "";
+}
+
+$(document).ready(() => {
+  function closeModal() {
+    $('.modal').removeClass('is-active');
+    setCookie('closed-2020-modal', true);
+  }
+
+  $('.modal-background').click(closeModal);
+
+  $('.close-button').click(closeModal);
+
+  if (getCookie('closed-2020-modal')) {
+    closeModal();
+  }
+});
+</script>
