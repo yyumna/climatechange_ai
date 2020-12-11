@@ -1602,7 +1602,8 @@
   slideslive_id: '38942137'
   slideslive_speaker: Isaac Godfried
   cmt_id: 97
-  poster_sessions: []
+  poster_sessions:
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 43
   prev_paper_id: 42
@@ -1895,7 +1896,8 @@
   slideslive_id: '38942129'
   slideslive_speaker: Noah Brenowitz
   cmt_id: 109
-  poster_sessions: []
+  poster_sessions:
+  - 20:00-21:00 UTC
   is_spotlight: false
   id: 50
   prev_paper_id: 49
@@ -2139,7 +2141,8 @@
   slideslive_id: '38942122'
   slideslive_speaker: Lucas Spangher
   cmt_id: 122
-  poster_sessions: []
+  poster_sessions:
+  - 20:00-21:00 UTC 
   is_spotlight: false
   id: 56
   prev_paper_id: 55
@@ -2758,7 +2761,8 @@
   slideslive_id: '38942101'
   slideslive_speaker: Cristobal Pais
   cmt_id: 150
-  poster_sessions: []
+  poster_sessions:
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 72
   prev_paper_id: 71
