@@ -1315,7 +1315,9 @@
   slideslive_id: '38942145'
   slideslive_speaker: Shannon Doyle
   cmt_id: 85
-  poster_sessions: []
+  poster_sessions:
+  - 13:00-14:00 UTC
+  - 16:00-17:00 UTC
   is_spotlight: false
   id: 35
   prev_paper_id: 34
@@ -3012,7 +3014,8 @@
   slideslive_id: '38942171'
   slideslive_speaker: Anthony Faustine
   cmt_id: 39
-  poster_sessions: []
+  poster_sessions:
+  - 13:00-14:00 UTC
   is_spotlight: false
   id: 79
   prev_paper_id: 78
