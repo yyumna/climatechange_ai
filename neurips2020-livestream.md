@@ -56,6 +56,10 @@ og_image_height: 443
   </div>
 </div>
 
+<h2>Poster sessions</h2>
+<p>Our poster sessions will be held in our <a href='http://climatechange.ai/neurips2020-poster-session' target='_blank'>online space</a> and will include a game of <a href='https://www.climatechange.ai/events/neurips2020#mingle-bingo' target='_blank'>Mingle Bingo</a>. More information <a href='https://www.climatechange.ai/events/neurips2020#poster-session' target='_blank'>here</a>.</p>
+<p>Note that joining our poster session requires <a href='https://neurips.cc/Register/view-registration' target='_blank'>NeurIPS registration</a>.</p>
+
 <script type='text/javascript'>
 
 function setCookie(cname, cvalue, exdays) {
