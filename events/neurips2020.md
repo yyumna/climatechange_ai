@@ -226,7 +226,9 @@ Click the links below for information about each submission, including the paper
   <tr>
   <td>
   <a href="/papers/neurips2020/{{ p.id }}">({{ p.id }}) {{ p.paper_title }}</a>
-  {% if p.is_best_paper %}
+  {% if p.award %}
+  <span class='tag best-paper'>{{ p.award }}</span>
+  {% elsif p.is_best_paper %}
   <span class='tag best-paper'>Best Paper Award</span>
   {% elsif p.is_best_proposal %}
   <span class='tag best-paper'>Best Proposal Award</span>

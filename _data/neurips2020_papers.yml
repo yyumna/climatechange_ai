@@ -273,6 +273,7 @@
   - 13:00-14:00 UTC
   - 16:00-17:00 UTC
   is_spotlight: true
+  award: "Best ML Innovation"
   id: 7
   prev_paper_id: 6
   next_paper_id: 8
@@ -420,6 +421,7 @@
   - 16:00-17:00 UTC
   - 20:00-21:00 UTC
   is_spotlight: true
+  award: "Best Pathway to Impact"
   id: 11
   prev_paper_id: 10
   next_paper_id: 12
@@ -749,6 +751,7 @@
   - 16:00-17:00 UTC
   - 20:00-21:00 UTC
   is_spotlight: true
+  award: "Overall Best Paper"
   id: 20
   prev_paper_id: 19
   next_paper_id: 21

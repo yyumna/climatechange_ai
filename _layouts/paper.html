@@ -46,7 +46,9 @@ layout: default
   {% if p.q1_track %}
     ({{ p.q1_track }} Track)
   {% endif %}
-  {% if p.is_best_paper %}
+  {% if p.award %}
+    <span class='badge'>{{ p.award }}</span>
+  {% elsif p.is_best_paper %}
     <span class='badge'>Best Paper Award</span>
   {% elsif p.is_best_proposal %}
     <span class='badge'>Best Proposal Award</span>
