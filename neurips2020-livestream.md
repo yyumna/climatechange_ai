@@ -45,7 +45,7 @@ og_image_height: 443
     <p class="modal-card-title">Sign in</p>
   </header>
   <section class="modal-card-body">
-    <p>Thanks for attending the workshop! Please take a few seconds to sign in.</p>
+    <p>Thanks for attending the workshop! Please take a few seconds to tell us a bit about yourself.</p>
 
     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeCmdFvcMkyAo90jmozISPcS81RepHrqBBRQH34dlPmHssACg/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0" style="border: 1px solid #ccc; padding-top: 1rem;">Loading…</iframe>
 
