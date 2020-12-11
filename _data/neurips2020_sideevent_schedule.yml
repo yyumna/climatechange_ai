@@ -1,0 +1,87 @@
+---
+- utc1:
+    year: 2020
+    month: 12
+    day: 14
+    hour: 9
+    minute: 0
+  utc2:
+    year: 2020
+    month: 12
+    day: 14
+    hour: 9
+    minute: 05
+  desc: Welcome and opening remarks
+- utc1:
+    year: 2020
+    month: 12
+    day: 14
+    hour: 9
+    minute: 05
+  utc2:
+    year: 2020
+    month: 12
+    day: 14
+    hour: 9
+    minute: 20
+  desc: Susan Graham (Dendra Systems) <i>(Invited talk)</i>
+  more: |-
+    <p>
+        <strong>Dr Susan Graham</strong> is the CEO and co-founder of Dendra Systems, leading a team building the most powerful tools for ecosystem restoration today. Dendra Systems restores the world’s native forests through a combination of data ecology, analytics and aerial seeding. Dendra enables site coordinators to better manage and maintain their land across a range of industries, whether it’s through identifying weeds, erosion, fauna populations and much more. Our high-resolution imagery offers a never-before-seen picture of a land holding, right down to a single blade of grass, and our easy-to-use analytics engine helps diagnose problems and create targeted action plans for best-in-class environmental management.  We work with forward-thinking partners who want to make confident decisions for their lands, and believe strongly in enabling the best conditions for ongoing stewardship of our natural world. Dr Graham graduated from the University of Oxford with a PhD in Biomedical Engineering in 2015. For her work as an entrepreneur Dr Graham was named on the Forbes 30 Under 30 list for industry in Europe in 2017.
+    </p>
+- utc1:
+    year: 2020
+    month: 12
+    day: 14
+    hour: 9
+    minute: 20
+  utc2:
+    year: 2020
+    month: 12
+    day: 14
+    hour: 10
+    minute: 20
+  desc: "AI for Carbon Monitoring: Opportunities and Challenges <i>(Panel discussion)</i>"
+  more: |-
+    <p>
+      Join us for a panel discussion on the opportunities and challenges of
+      artificial intelligence and remote sensing for monitoring global climate
+      impact.
+    </p>
+    <p>
+      Panelists: Dr. Susan Graham (Dendra Systems), Prof. Xiaoxiang Zhu
+        (Technical University of Munich), Matthew Grey (ClimateTRACE).
+    </p>
+- utc1:
+    year: 2020
+    month: 12
+    day: 14
+    hour: 10
+    minute: 20
+  utc2:
+    year: 2020
+    month: 12
+    day: 14
+    hour: 10
+    minute: 50
+  desc: Xiaoxiang Zhu (Technical University of Munich) <i>(Invited talk)</i>
+  more: |-
+    <p>
+        <strong>Dr. Xiaoxiang Zhu</strong> is the Professor for Signal Processing in Earth Observation at the Technical University of Munich, heads the Department "Earth Observation Data Science" at the German Aerospace Center and since May, she is also the Director of the Munich Future AI Lab "AI4EO". The research of Professor Zhu focuses on signal processing and data science in earth observation. Geo-information derived from Earth observation satellite data is indispensable for many scientific, governmental and planning tasks. Furthermore, Earth observation has arrived in the Big Data era with ESA's Sentinel satellites and NewSpace companies. Professor Zhu develops innovative machine learning methods and big data analytics solutions to extract highly accurate large scale geo-information from big EO data. These show, for example, not only three-dimensional structures of buildings, settlement types, population density, but also their evolutions over time. Her team aims at tackling societal grand challenges, e.g. UN’s SDGs, thus, works on solutions that can scale up for global applications, with a particular focus on the developing world. 
+    </p>
+- utc1:
+    year: 2020
+    month: 12
+    day: 14
+    hour: 10
+    minute: 50
+  utc2:
+    year: 2020
+    month: 12
+    day: 14
+    hour: 11
+    minute: 20
+  desc: Matthew Gray (ClimateTRACE) <i>(Invited talk)</i>
+  more: |-
+    <p><strong>Matt Gray</strong> is director and co-founder at Energy and Clean Air Analytics (ECAA). ECAA is a founding member of Climate TRACE, where we are responsible for tracking emissions from power generation and heavy industry sectors, including iron and steel, cement, chemicals and petrochemicals. The Climate TRACE coalition is building a tool that will use artificial intelligence, satellite image processing, machine learning, and other remote sensing technologies to monitor worldwide greenhouse gas (GHG) emissions. The coalition aims to track human-caused emissions to specific sources in real time—independently and publicly. Matt has over a decade of energy financial experience. Matt started his financial career at Credit Suisse and more recently worked at Jefferies, an American investment bank, where he was the head of European carbon and power research. Matt was also a consultant to the International Energy Agency and a managing director and co-head of the power &amp; utilities team at Carbon Tracker which he started in 2016. 
+    </p>
