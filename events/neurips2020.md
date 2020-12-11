@@ -196,9 +196,9 @@ $(document).ready(function() {
 
 ### Monitoring the Climate Crisis with AI, Satellites and Drones (Dec 14)
 
-**9 am UTC via Zoom**
+**9 am UTC via Zoom. Register [here](https://www.climatechange.ai/events/neurips2020/monitoring)!**
 
-We will hold a special side event on Dec 14 that will feature talks and socials with prominent speakers in industry and academia to discuss how artificial intelligence and remote sensing can be used to monitor global carbon impact - and to allow for new levels of trust and accountability between governments, companies and projects internationally. More information coming soon!
+We will hold a special side event on Dec 14 that will feature talks and socials with prominent speakers in industry and academia to discuss how artificial intelligence and remote sensing can be used to monitor global carbon impact - and to allow for new levels of trust and accountability between governments, companies and projects internationally. Stay tuned!
 
 ## Accepted Works
 
