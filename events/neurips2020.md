@@ -243,7 +243,7 @@ Click the links below for information about each submission, including the paper
 
 ## Poster sessions
 
-All poster sessions will take place in our [online space](/neurips2020-poster-session){:target="_blank"} on Gather.town. (Registration is required to attend.).
+All poster sessions will take place in our [online space](/neurips2020-poster-session){:target="_blank"} on Gather.town. (Registration is required to attend.) All attending the poster session are warmly invited to play [Mingle Bingo](#mingle-bingo).
 
 ### Overview
 Our poster sessions use the Gather.town platform, an interactive virtual world which attendees can navigate as 8-bit characters. For a full description, see this [tutorial](https://gather.town/docs), but here are the basics:
