@@ -36,7 +36,7 @@ og_image_height: 443
 
 <p>Note that joining the live chat requires <a href='https://neurips.cc/Register/view-registration' target='_blank'>NeurIPS registration</a>. To access the chat, you may first need to log in through the <a href="https://neurips.cc/virtual/2020/protected/workshop_16155.html" target="_blank">NeurIPS virtual site</a>.</p>
 
-<p>If the embedded chat is not working, you can also try a <a href='https://neurips.cc/virtual/2020/protected/workshop_16155.html' target='_blank'>direct link</a>.</p>
+<p>If the embedded chat is not working, you can also try a <a href='https://neurips2020.rocket.chat/channel/tackling-climate-change-with-ml-99' target='_blank'>direct link</a>.</p>
 
 <iframe frameborder="0" src="https://neurips2020.rocket.chat/channel/tackling-climate-change-with-ml-99?layout=embedded" width="100%" height="600px" style="display: block"></iframe>
 
