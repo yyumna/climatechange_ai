@@ -156,6 +156,48 @@ Events will be taking place digitally on December 11. The schedule is available 
   </tbody>
 </table>
 
+## Side Event
+
+### Monitoring the Climate Crisis with AI, Satellites and Drones (Dec 14)
+
+**9 am UTC via Zoom. Register [here](https://www.climatechange.ai/events/neurips2020/monitoring)!**
+
+We will hold a special side event on Dec 14 that will feature talks and socials with prominent speakers in industry and academia to discuss how artificial intelligence and remote sensing can be used to monitor global carbon impact - and to allow for new levels of trust and accountability between governments, companies and projects internationally.
+
+<table class='remote-workshop-table'>
+  <thead>
+  <tr>
+    <th>Time (UTC)</th>
+    <th>Time (<span class='fill-local-tz'>Local</span>)</th>
+    <th>Event</th>
+  </tr>
+  </thead>
+
+  <tbody>
+  {% for r in site.data.neurips2020_sideevent_schedule %}
+    <tr class='range-row' data-d1='{{ r.utc1 | jsonify }}' data-d2='{{ r.utc2 | jsonify }}'>
+      <td class='fill-utc'> </td>
+      <td class='fill-local'> </td>
+      <td>
+        {% if r.url %}
+          <a href="{{ r.url }}" target="_blank">{{r.desc | strip_newlines | strip }}</a>
+        {% else %}
+          {{r.desc | strip_newlines | strip }}
+        {% endif %}
+
+        {% if r.more.size > 0 %}
+          <details>
+            <summary>Details: (click to expand)</summary>
+            {{ r.more | strip_newlines | strip }}
+          </details>
+        {% endif %}
+      </td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+
+
 <script src="https://cdn.jsdelivr.net/npm/luxon@1.23.0/build/global/luxon.min.js"></script>
 <script>
 $(document).ready(function() {
@@ -193,14 +235,6 @@ $(document).ready(function() {
   });
 });
 </script>
-
-## Side Event
-
-### Monitoring the Climate Crisis with AI, Satellites and Drones (Dec 14)
-
-**9 am UTC via Zoom. Register [here](https://www.climatechange.ai/events/neurips2020/monitoring)!**
-
-We will hold a special side event on Dec 14 that will feature talks and socials with prominent speakers in industry and academia to discuss how artificial intelligence and remote sensing can be used to monitor global carbon impact - and to allow for new levels of trust and accountability between governments, companies and projects internationally. Stay tuned!
 
 ## Accepted Works
 
