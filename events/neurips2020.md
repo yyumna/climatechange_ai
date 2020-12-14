@@ -160,7 +160,7 @@ Events will be taking place digitally on December 11. The schedule is available 
 
 ### Monitoring the Climate Crisis with AI, Satellites and Drones (Dec 14)
 
-**9 am UTC via Zoom. Register [here](https://www.climatechange.ai/events/neurips2020/monitoring)!**
+**9 am UTC via Zoom. Join our Zoom call [here](https://elementai.zoom.us/j/96207297223?pwd=R1NVQTk2SHNkY2pUWlp2QUwrOFNTQT09)!**
 
 We will hold a special side event on Dec 14 that will feature talks and socials with prominent speakers in industry and academia to discuss how artificial intelligence and remote sensing can be used to monitor global carbon impact - and to allow for new levels of trust and accountability between governments, companies and projects internationally.
 
