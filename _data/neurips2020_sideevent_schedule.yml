@@ -40,7 +40,7 @@
     month: 12
     day: 14
     hour: 10
-    minute: 20
+    minute: 00
   desc: "AI for Carbon Monitoring: Opportunities and Challenges <i>(Panel discussion)</i>"
   more: |-
     <p>
@@ -57,13 +57,13 @@
     month: 12
     day: 14
     hour: 10
-    minute: 20
+    minute: 00
   utc2:
     year: 2020
     month: 12
     day: 14
     hour: 10
-    minute: 50
+    minute: 30
   desc: Xiaoxiang Zhu (Technical University of Munich) <i>(Invited talk)</i>
   more: |-
     <p>
@@ -74,13 +74,13 @@
     month: 12
     day: 14
     hour: 10
-    minute: 50
+    minute: 30
   utc2:
     year: 2020
     month: 12
     day: 14
     hour: 11
-    minute: 20
+    minute: 00
   desc: Matthew Gray (ClimateTRACE) <i>(Invited talk)</i>
   more: |-
     <p><strong>Matt Gray</strong> is director and co-founder at Energy and Clean Air Analytics (ECAA). ECAA is a founding member of Climate TRACE, where we are responsible for tracking emissions from power generation and heavy industry sectors, including iron and steel, cement, chemicals and petrochemicals. The Climate TRACE coalition is building a tool that will use artificial intelligence, satellite image processing, machine learning, and other remote sensing technologies to monitor worldwide greenhouse gas (GHG) emissions. The coalition aims to track human-caused emissions to specific sources in real time—independently and publicly. Matt has over a decade of energy financial experience. Matt started his financial career at Credit Suisse and more recently worked at Jefferies, an American investment bank, where he was the head of European carbon and power research. Matt was also a consultant to the International Energy Agency and a managing director and co-head of the power &amp; utilities team at Carbon Tracker which he started in 2016. 
