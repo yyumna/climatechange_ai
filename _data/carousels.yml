@@ -1,9 +1,6 @@
 - title: 'News and events'
   entries:
-    - title: Attend our virtual workshop at NeurIPS 2020
-      image: /images/neurips2019_attendees.jpg
-      url: /events/neurips2020
-    - title: Attend a CCAI virtual happy hour (next on Dec. 16th)
+    - title: Attend a CCAI virtual happy hour (next on Jan. 6th)
       url: /events/happy_hour
     - title: Check out the CCAI community events calendar
       image: /images/core_team_zoom.png
@@ -24,8 +21,8 @@
     - title: Contribute to our wishlist of critical datasets
       image: /images/wishlist_img.jpg
       url: https://docs.google.com/document/d/1E1vhuGNiUWUbij8WxqNbTfytxfyaS9LnaBEdx58KQQc/edit
-    - title: Browse recorded talks from our workshop at ICLR 2020
-      image: /images/ICLR_workshop_preview.png
+    - title: Browse papers and recorded talks from our workshop at NeurIPS 2020
+      image: /images/NeurIPS2020_preview_copy4.png
       url: /events/iclr2020
     - title: Join the conversation on our discussion forum
       url: https://forum.climatechange.ai/

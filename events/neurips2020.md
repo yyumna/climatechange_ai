@@ -11,65 +11,34 @@ og_image_height: 443
 <h1>NeurIPS 2020 Workshop <br> Tackling Climate Change with Machine Learning</h1>
 
 <div class='buttons'>
-  <a class='button' href='#about-the-workshop'>About</a>
-  <a class='button' href='#schedule'>Schedule</a>
-  <a class='button' href='#accepted-works'>Accepted Works</a>
-  <a class='button' href='#poster-sessions'>Poster Sessions</a>
+  <a class='button' href='#about'>About</a>
+  <a class='button' href='#schedule-and-recordings'>Schedule and Recordings</a>
+  <a class='button' href='#accepted-works'>Posters</a>
+  <a class='button' href='#sponsors'>Sponsors</a>
   <a class='button' href='#organizers'>Organizers</a>
+  <a class='button' href='#call-for-submissions'><s>Submit</s></a>
   <a class='button' href='#frequently-asked-questions'>FAQ</a>
 </div>
 
-***
-
-<center> <h3>Participation Info</h3> </center>
-* **Schedule:** See [below](#schedule) for a full workshop schedule.
-* **Talks:** All talks can be viewed for free via the <a href="/neurips2020-livestream" target="_blank">livestream</a>.
-* **Q&A**:  Registered participants can ask questions via the <a href="https://neurips2020.rocket.chat/channel/tackling-climate-change-with-ml-99" target="_blank">NeurIPS 2020 Rocket.Chat</a> (channel: #tackling-climate-change-with-ml-99). To access the chat, you may first need to log in through the <a href="https://neurips.cc/virtual/2020/protected/workshop_16155.html" target="_blank">NeurIPS virtual site</a>.
-* **Poster sessions:** Poster sessions and the end-of-day reception will take place in our <a href="/neurips2020-poster-session" target="_blank">online space</a> on Gather.town; see [below](#poster-sessions) for more info on how to use Gather.town. All attending the poster session are warmly invited to play [Mingle Bingo](#mingle-bingo). (Registration is required to attend.)
-* **Registration** (for full participation): To participate in poster sessions and live Q&A with speakers, register at <a href='https://neurips.cc/Register/view-registration' target='_blank'>neurips.cc/Register/view-registration</a>.
-* **Helpdesk:** If you are having trouble accessing the sessions or have any day-of questions, please email the workshop organizing team at <a href="mailto:climatechangeai.neurips2020@gmail.com" target="_blank">climatechangeai.neurips2020@gmail.com</a>.
-
-***
-
-This workshop is focused on impactful uses of machine learning in reducing and responding to climate change, and is intended to be a venue for discourse between experts in machine learning and other fields. 
+This workshop is focused on impactful uses of machine learning in reducing and responding to climate change, and is intended to be a venue for discourse between experts in machine learning and other fields. Recordings are available at the links below:
 <ul>
-<li><b><a href='#schedule'>Main workshop</a></b> (Dec 11)</li>
+<li><b><a href='#schedule-and-recordings'>Main workshop</a></b> (Dec 11)</li>
 <li><b><a href='#side-event'>Side event: Monitoring the Climate Crisis with AI, Satellites and Drones</a></b> (Dec 14)</li>
 </ul>
 
+## About
+
 Many in the ML community wish to take action on climate change, but are unsure of the pathways through which they can have the most impact. This workshop will highlight work that demonstrates that, while no silver bullet, **ML can be an invaluable tool both in reducing greenhouse gas emissions and in helping society adapt to the effects of climate change**. Climate change is a complex problem, for which action takes many forms - from theoretical advances to deployment of new technology. Many of these actions represent high-impact opportunities for real-world change, and are simultaneously interesting academic research problems.
 
-## About NeurIPS
+This workshop was held as part of the Conference on Neural Information Processing Systems (NeurIPS), one of the premier conferences on machine learning, which draws a wide audience of researchers and practitioners in academia, industry, and related fields.
 
-NeurIPS is one of the premier conferences on machine learning, and includes a wide audience of researchers and practitioners in academia, industry, and related fields. It is possible to attend the workshop without either presenting at or attending the main NeurIPS conference.
+## Schedule and Recordings
 
-## About the Workshop
+The main workshop took place digitally on December 11, and the side event took place on December 14. The schedule is available below, with links to recordings, papers, and slides.
 
- - **Date:** December 11
- - **Location:**  Virtual  
- - ~~**[Mentorship program](#submission-mentorship-program) application deadline:** August 25~~
- - ~~**Paper/Proposal submission deadline:** October 6, Anywhere on Earth~~
- - ~~**Notification:**  October 30~~
- - ~~**Grants application deadline:**  November 20~~
- - **Submission website:** <https://cmt3.research.microsoft.com/CCAINeurIPS2020>
- - **Contact:** <climatechangeai.neurips2020@gmail.com>
- 
-## Keynote Speakers
-**Jennifer Chayes** (UC Berkeley)  
-**Rose Mwebaza** (UN Climate Technology Centre & Network)  
-**Vinod Khosla** (Khosla Ventures)  
-**Zico Kolter** (Carnegie Mellon University)  
+### Main Workshop
 
-## Schedule 
-
-Events will be taking place digitally on December 11. The schedule is available below and via this <a href="https://calendar.google.com/calendar/u/0/embed?src=4co2em5jvl946rndcn1evvqeh0@group.calendar.google.com&ctz=GMT&mode=AGENDA" target="_blank">online calendar</a>. You can subscribe to this calendar using the following links: <a href="https://calendar.google.com/calendar/u/6?cid=NGNvMmVtNWp2bDk0NnJuZGNuMWV2dnFlaDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank">Google Calendar</a>, <a href="https://calendar.google.com/calendar/ical/4co2em5jvl946rndcn1evvqeh0%40group.calendar.google.com/public/basic.ics" target="_blank">iCal</a>.
-<ul>
-<li><b>Talks:</b> All talks can be viewed for free via the <a href="/neurips2020-livestream" target="_blank">livestream</a>.</li>
-<li><b>Q&A:</b> Registered participants can ask questions via the <a href="https://neurips2020.rocket.chat/channel/tackling-climate-change-with-ml-99" target="_blank">NeurIPS 2020 Rocket.Chat</a> (channel: #tackling-climate-change-with-ml-99). To access the chat, you may first need to log in through the <a href="https://neurips.cc/virtual/2020/protected/workshop_16155.html" target="_blank">NeurIPS virtual site</a>.</li>
-<li><b>Poster sessions:</b> Poster sessions and the end-of-day reception will take place in our <a href="/neurips2020-poster-session" target="_blank">online space</a> on Gather.town; see <a href="#poster-sessions">below</a> for more info on how to use Gather.town. All attending the poster session are warmly invited to play <a href="#mingle-bingo">Mingle Bingo</a>. (Registration is required to attend.)</li>
-<li><b>Registration:</b> (for full participation): To participate in poster sessions and live Q&A with speakers, register at <a href='https://neurips.cc/Register/view-registration' target='_blank'>neurips.cc/Register/view-registration</a>.</li>
-<li><b>Helpdesk:</b> If you are having trouble accessing the sessions or have any day-of questions, please email the workshop organizing team at <a href="mailto:climatechangeai.neurips2020@gmail.com" target="_blank">climatechangeai.neurips2020@gmail.com</a>.</li>
-</ul>
+The main workshop day (Dec. 11) featured 94 posters and spotlight pesentations, along with 12 invited speakers and panelists highlighting pathways to impact in policy and the private sector, and poster sessions via Gather.town.
 
 <table class='remote-workshop-table'>
   <thead>
@@ -108,9 +77,7 @@ Events will be taking place digitally on December 11. The schedule is available 
     {% assign session = r.more | split: "|" | last %}
     {% assign tracks = "Papers Proposals" | split: " " %}
 
-    <p>Posters presented in this slot are listed below. All poster sessions will take place in our
-    <a href="/neurips2020-poster-session" target="_blank">online space</a> on Gather.town.
-    (Registration is required to attend.) Learn more about our poster sessions <a href="#poster-sessions">here</a>, and consider participating in <a href="#mingle-bingo">Mingle Bingo</a>.</p>
+    <p>Posters presented in this slot are listed below.</p>
 
     {% for track in tracks %}
       <p>{{track}} track:</p>
@@ -156,13 +123,9 @@ Events will be taking place digitally on December 11. The schedule is available 
   </tbody>
 </table>
 
-## Side Event
+### Side Event
 
-### Monitoring the Climate Crisis with AI, Satellites and Drones (Dec 14)
-
-**9 am UTC via Zoom. Join our Zoom call [here](https://elementai.zoom.us/j/96207297223?pwd=R1NVQTk2SHNkY2pUWlp2QUwrOFNTQT09)!**
-
-We will hold a special side event on Dec 14 that will feature talks and socials with prominent speakers in industry and academia to discuss how artificial intelligence and remote sensing can be used to monitor global carbon impact - and to allow for new levels of trust and accountability between governments, companies and projects internationally.
+Our side event on "Monitoring the Climate Crisis with AI, Satellites and Drones" (Dec. 14) featured talks and socials with prominent speakers in industry and academia to discuss how artificial intelligence and remote sensing can be used to monitor global carbon impact - and allow for new levels of trust and accountability between governments, companies, and projects internationally.
 
 <table class='remote-workshop-table'>
   <thead>
@@ -240,7 +203,7 @@ $(document).ready(function() {
 
 Works were submitted to one of two tracks: [Papers](#Papers) or [Proposals](#Proposals). 
 
-Click the links below for information about each submission, including the paper itself, slides, and videos (coming soon).
+Click the links below for information about each submission, including slides, videos, and papers.
 
 {% assign tracks = "Papers Proposals" | split: " " %}
 {% for track in tracks %}
@@ -278,51 +241,6 @@ Click the links below for information about each submission, including the paper
   </tbody>
 </table>
 {% endfor %}
-
-## Poster sessions
-
-All poster sessions will take place in our [online space](/neurips2020-poster-session){:target="_blank"} on Gather.town. (Registration is required to attend.) All attending the poster session are warmly invited to play [Mingle Bingo](#mingle-bingo).
-
-### Overview
-Our poster sessions use the Gather.town platform, an interactive virtual world which attendees can navigate as 8-bit characters. For a full description, see this [tutorial](https://gather.town/docs), but here are the basics:
-
-- The poster session is set up in a virtual space, much like a physical poster session, with posters placed in designated areas across the space and plenty of room for informal conversation.
-- You can use the arrow keys to walk anywhere you like in the space with your customizable avatar.
-- You can have a video call with anyone near your avatar. As you approach someone, their video will appear on your screen.
-- Each poster is prominently numbered on the map in one of the two poster rooms. These numbers are visible on the minimap (which you can access from the bottom bar) to aid navigation, and correspond to the poster numbers on our website. 
-- Around each poster is a rectangle which marks a private conversation area, meaning that everyone in that area is part of the same video conversation. There are also private conversation areas around the tables in other rooms.
-- At least one author of each poster should be present at at least one poster session. See the schedule [above](#schedule).
-- To view a poster, walk up to the corresponding podium (which looks like <img height="30px" src="https://i.imgur.com/vP9YRNh.png"/>) and press the “x” button. This will bring up the poster’s webpage (also below), which includes slides describing the work and in many cases a recorded video or workshop paper.
-- There is a “CCAI Corner” in the top room. This is a space where conference organizers, speakers, and members of CCAI are available to talk with attendees in a larger group (we will also be circulating and enjoying the show!).
-
-### Pro tips
-You can press “g” to walk through other people like a ghost.
-Click on the minimap in the bottom bar to see the whole space, including poster numbers and explanation of the contents of other rooms.
-You can see who else is in the session in the left panel (click the “participants” button, which looks like two abstract people). You can click on someone there and select “locate” to trace a path directly to them.
-There is also a chat functionality that you can access via the left panel (click on the message icon). You can use the chat to direct message other participants, message everyone you can see (“nearby”), or message absolutely everyone in the room (“everyone”).
-
-### Mingle Bingo
-Part of the fun of coming to conferences is meeting exciting new people!
-
-As an icebreaker, we are introducing Mingle Bingo. To play, [download our bingo card](/events/neurips2020/mingle-bingo-card){:target="_blank"}, which has a grid of 25 things that might describe different conference attendees (e.g. “Works in agriculture”, “Uses computer vision” , or “From South America”). 
-
-Instructions:
-- When you meet someone who checks a box, fill in their name on the card.
-
-- Five boxes in a row (horizontally, vertically, or diagonally) is Bingo.
-
-- If you fill in all 25 boxes, you’ve got Super-Bingo.
-
-- If you have Bingo or Super-Bingo, you can submit your filled-in card [here](https://forms.gle/9F6gbwb5gQAZq3Q99) and we will list
-you as one of the [TCCML bingo winners](/events/neurips2020/mingle-bingo-winners){:target="_blank"}! (The winners list will display name, institution, and type of bingo only)
-
-- You can edit your submission any time, so feel free to submit a card with Bingo and keep going for Super-Bingo.
-
-The bingo card should be fillable in most PDF readers but we will accept cards in any format (e.g. feel free to print it out and send a picture of a handwritten card).
-
-Google account sign-in is required to submit a card using the main form due to the file upload but if you don’t have a Google account, just email your card to us at [climatechangeai.neurips2020@gmail.com]() and we will add you to the winner list!
-
-
 
 ## Sponsors
 ![Microsoft logo](/images/microsoft.png)
@@ -455,20 +373,13 @@ Yue Hu (Vanderbilt University)<br>
 Yumna Yusuf (City University London)<br>
 Zhecheng Wang (Stanford University)<br>
 
-## Grants
-
-### NeurIPS Registration Grants
-
-Although conference fees have been significantly reduced, if cost is still a burden, then please apply for financial assistance [here](https://docs.google.com/forms/d/e/1FAIpQLSft_c2HuQCCW2s861Brc0np-PfnEIHy9WXf_XGWMsQFgUPqWw/viewform?usp=sf_link). CCAI will do our best to meet financial assistance needs for the NeurIPS registration fee. The application deadline is **November 20th, 2020**. 
-
-Participants may also apply for registration grants through the main NeurIPS conference. Applications can be submitted [here](https://neurips.cc/Surveys/49) through November 27.
-
-### Data Grants
-
-Given the COVID-19 pandemic and the virtual nature of NeurIPS this year, CCAI is offering Data Grants to participants who have limited access to the internet. The application deadline is **November 20th, 2020**. Please apply here [here](https://docs.google.com/forms/d/e/1FAIpQLScrj7BFMUIB1-IDja9jwUsCEF6FnnKaK3MUBiHGWOvV5Pq4Eg/viewform).
-
+***
 
 ## Call for Submissions
+
+<b>Deadline:</b> October 6, Anywhere on Earth<br>
+<b>Notification:</b> October 30 <br>
+<b>Submission website:</b> <a href="https://cmt3.research.microsoft.com/CCAINeurIPS2020" target="_blank">https://cmt3.research.microsoft.com/CCAINeurIPS2020</a>
 
 We invite submissions of short papers using machine learning to address problems in climate mitigation, adaptation, and science, including but not limited to the following topics:
  - Agriculture
@@ -540,7 +451,22 @@ Tackling climate change requires translating ideas into action. The guidelines b
 
 - **Convey the big picture:** Ultimately, the goal of Climate Change AI is to "empower work that meaningfully addresses the climate crisis." Try to make sure that from the beginning, you contextualize your method and its impacts in terms of this objective.
 
+## Grants
+
+### NeurIPS Registration Grants
+
+Although conference fees have been significantly reduced, if cost is still a burden, then please apply for financial assistance [here](https://docs.google.com/forms/d/e/1FAIpQLSft_c2HuQCCW2s861Brc0np-PfnEIHy9WXf_XGWMsQFgUPqWw/viewform?usp=sf_link). CCAI will do our best to meet financial assistance needs for the NeurIPS registration fee. The application deadline is November 20th, 2020. 
+
+Participants may also apply for registration grants through the main NeurIPS conference. Applications can be submitted [here](https://neurips.cc/Surveys/49) through November 27.
+
+### Data Grants
+
+Given the COVID-19 pandemic and the virtual nature of NeurIPS this year, CCAI is offering Data Grants to participants who have limited access to the internet. The application deadline is November 20th, 2020. Please apply here [here](https://docs.google.com/forms/d/e/1FAIpQLScrj7BFMUIB1-IDja9jwUsCEF6FnnKaK3MUBiHGWOvV5Pq4Eg/viewform).
+
+
 ## Submission Mentorship Program
+
+<b>Deadline:</b> August 25
 
 We are hosting a mentorship program to facilitate exchange between potential workshop submitters and experts working in topic areas relevant to the workshop. The goal of this program is to foster cross-disciplinary collaborations and ultimately increase the quality and potential impact of submitted work. See also [this video](https://www.youtube.com/watch?v=aZnsLrL0CQ8) explaining the program.
 
@@ -559,12 +485,12 @@ We suggest that after the mentor-mentee matching is made, a first (physical or d
 
 ### Application
 
-~~Applications are due by August 25.~~
+Applications are due by August 25.
 
 #### Mentee application
 
-~~Mentees should apply via the mentorship program CMT site: <https://cmt3.research.microsoft.com/CCAIMNeurIPS2020><br>
-(After logging in, click the "create new submission" button to start your application.)~~
+Mentees should apply via the mentorship program CMT site: <https://cmt3.research.microsoft.com/CCAIMNeurIPS2020><br>
+(After logging in, click the "create new submission" button to start your application.)
 
 In the application, mentees will be asked to answer questions describing their project, their project's relevance to climate change and machine learning, and the areas on which they are looking for feedback.
 
@@ -576,7 +502,7 @@ Important instructions:
 
 #### Mentor application
 
-~~Mentors should apply via the following Google form: <https://forms.gle/g2xyFkvh9A5LouoZA>~~
+Mentors should apply via the following Google form: <https://forms.gle/g2xyFkvh9A5LouoZA>
 
 We suggest that mentor applicants have at least 3 years of research or industry experience in climate change and/or machine learning.
 
@@ -625,7 +551,50 @@ To help answer these and other questions, we held a webinar on Thursday, August 
 * How to prepare a successful submission for the workshop.
 * Our mentorship program (applications due August 25), which will pair applicants from a variety of backgrounds with experienced mentors to help improve their submission.
 
+## Poster sessions
 
+All poster sessions will take place in our online space on Gather.town. (Registration is required to attend.) All attending the poster session are warmly invited to play [Mingle Bingo](#mingle-bingo).
+
+### Overview
+Our poster sessions use the Gather.town platform, an interactive virtual world which attendees can navigate as 8-bit characters. For a full description, see this [tutorial](https://gather.town/docs), but here are the basics:
+
+- The poster session is set up in a virtual space, much like a physical poster session, with posters placed in designated areas across the space and plenty of room for informal conversation.
+- You can use the arrow keys to walk anywhere you like in the space with your customizable avatar.
+- You can have a video call with anyone near your avatar. As you approach someone, their video will appear on your screen.
+- Each poster is prominently numbered on the map in one of the two poster rooms. These numbers are visible on the minimap (which you can access from the bottom bar) to aid navigation, and correspond to the poster numbers on our website. 
+- Around each poster is a rectangle which marks a private conversation area, meaning that everyone in that area is part of the same video conversation. There are also private conversation areas around the tables in other rooms.
+- At least one author of each poster should be present at at least one poster session. See the schedule [above](#schedule).
+- To view a poster, walk up to the corresponding podium (which looks like <img height="30px" src="https://i.imgur.com/vP9YRNh.png"/>) and press the “x” button. This will bring up the poster’s webpage (also above), which includes slides describing the work and in many cases a recorded video or workshop paper.
+- There is a “CCAI Corner” in the top room. This is a space where conference organizers, speakers, and members of CCAI are available to talk with attendees in a larger group (we will also be circulating and enjoying the show!).
+
+### Pro tips
+You can press “g” to walk through other people like a ghost.
+Click on the minimap in the bottom bar to see the whole space, including poster numbers and explanation of the contents of other rooms.
+You can see who else is in the session in the left panel (click the “participants” button, which looks like two abstract people). You can click on someone there and select “locate” to trace a path directly to them.
+There is also a chat functionality that you can access via the left panel (click on the message icon). You can use the chat to direct message other participants, message everyone you can see (“nearby”), or message absolutely everyone in the room (“everyone”).
+
+### Mingle Bingo
+Part of the fun of coming to conferences is meeting exciting new people!
+
+As an icebreaker, we are introducing Mingle Bingo. To play, [download our bingo card](/events/neurips2020/mingle-bingo-card){:target="_blank"}, which has a grid of 25 things that might describe different conference attendees (e.g. “Works in agriculture”, “Uses computer vision” , or “From South America”). 
+
+Instructions:
+- When you meet someone who checks a box, fill in their name on the card.
+
+- Five boxes in a row (horizontally, vertically, or diagonally) is Bingo.
+
+- If you fill in all 25 boxes, you’ve got Super-Bingo.
+
+- If you have Bingo or Super-Bingo, you can submit your filled-in card [here](https://forms.gle/9F6gbwb5gQAZq3Q99) and we will list
+you as one of the [TCCML bingo winners](/events/neurips2020/mingle-bingo-winners){:target="_blank"}! (The winners list will display name, institution, and type of bingo only)
+
+- You can edit your submission any time, so feel free to submit a card with Bingo and keep going for Super-Bingo.
+
+The bingo card should be fillable in most PDF readers but we will accept cards in any format (e.g. feel free to print it out and send a picture of a handwritten card).
+
+Google account sign-in is required to submit a card using the main form due to the file upload but if you don’t have a Google account, just email your card to us at [climatechangeai.neurips2020@gmail.com]() and we will add you to the winner list!
+
+***
 
 ## Frequently Asked Questions
 
