@@ -36,7 +36,12 @@ This workshop was held as part of the Conference on Neural Information Processin
 
 The main workshop took place digitally on December 11, and the side event took place on December 14. The schedule is available below, with links to recordings, papers, and slides.
 
-### Main Workshop
+<h3 id='main-workshop'>
+  Main Workshop
+  <a class="tag is-info" href="https://slideslive.com/38947095/tackling-climate-change-with-ml" target="_blank">
+    Full Recording
+  </a>
+</h3>
 
 The main workshop day (Dec. 11) featured 94 posters and spotlight pesentations, along with 12 invited speakers and panelists highlighting pathways to impact in policy and the private sector, and poster sessions via Gather.town.
 
@@ -44,7 +49,7 @@ The main workshop day (Dec. 11) featured 94 posters and spotlight pesentations, 
   <thead>
   <tr>
   <th>Time (UTC)</th>
-  <th>Time (<span class='fill-local-tz'>Local</span>)</th>
+  <!--<th>Time (<span class='fill-local-tz'>Local</span>)</th>-->
   <th>Event</th>
   </tr>
   </thead>
@@ -55,10 +60,10 @@ The main workshop day (Dec. 11) featured 94 posters and spotlight pesentations, 
 
   {% if r.subrows %}
   <td class='fill-utc' rowspan="{{ r.subrows.size | plus: 1 }}"> </td>
-  <td class='fill-local' rowspan="{{ r.subrows.size | plus: 1 }}"> </td>
+  <!--<td class='fill-local' rowspan="{{ r.subrows.size | plus: 1 }}"> </td>-->
   {% else %}
   <td class='fill-utc'> </td>
-  <td class='fill-local'> </td>
+  <!--<td class='fill-local'> </td>-->
   {% endif %}
 
   <td>
@@ -123,7 +128,12 @@ The main workshop day (Dec. 11) featured 94 posters and spotlight pesentations, 
   </tbody>
 </table>
 
-### Side Event
+<h3 id="side-event">
+  Side Event
+  <a class="tag is-info" href="https://www.youtube.com/watch?v=oAsIGo2BjRk&ab_channel=ClimateChangeAI" target="_blank">
+    Full Recording
+  </a>
+</h3>
 
 Our side event on "Monitoring the Climate Crisis with AI, Satellites and Drones" (Dec. 14) featured talks and socials with prominent speakers in industry and academia to discuss how artificial intelligence and remote sensing can be used to monitor global carbon impact - and allow for new levels of trust and accountability between governments, companies, and projects internationally.
 
@@ -131,7 +141,7 @@ Our side event on "Monitoring the Climate Crisis with AI, Satellites and Drones"
   <thead>
   <tr>
     <th>Time (UTC)</th>
-    <th>Time (<span class='fill-local-tz'>Local</span>)</th>
+    <!--<th>Time (<span class='fill-local-tz'>Local</span>)</th>-->
     <th>Event</th>
   </tr>
   </thead>
@@ -140,7 +150,7 @@ Our side event on "Monitoring the Climate Crisis with AI, Satellites and Drones"
   {% for r in site.data.neurips2020_sideevent_schedule %}
     <tr class='range-row' data-d1='{{ r.utc1 | jsonify }}' data-d2='{{ r.utc2 | jsonify }}'>
       <td class='fill-utc'> </td>
-      <td class='fill-local'> </td>
+      <!--<td class='fill-local'> </td>-->
       <td>
         {% if r.url %}
           <a href="{{ r.url }}" target="_blank">{{r.desc | strip_newlines | strip }}</a>
@@ -179,15 +189,15 @@ $(document).ready(function() {
     return `${h1} - ${h2}`;
   }
 
-  for (let el of Array.from(document.getElementsByClassName('fill-local-tz'))) {
-    el.innerText = tzShort;
-  }
+  //for (let el of Array.from(document.getElementsByClassName('fill-local-tz'))) {
+  //  el.innerText = tzShort;
+  //}
 
   for (let tr of Array.from(document.getElementsByClassName('range-row'))) {
     const t1 = parseDate(tr.getAttribute("data-d1"));
     const t2 = parseDate(tr.getAttribute("data-d2"));
     tr.querySelector('.fill-utc').innerText = formatRange(t1, t2, 'utc');
-    tr.querySelector('.fill-local').innerText = formatRange(t1, t2, tz);
+    //tr.querySelector('.fill-local').innerText = formatRange(t1, t2, tz);
   }
 
   $('details').each((i, el) => {
@@ -213,7 +223,7 @@ Click the links below for information about each submission, including slides, v
   <thead><tr>
   <th>Title</th>
   <th>Authors</th>
-  <th>Poster Session</th>
+  <!--<th>Poster Session</th>-->
 
   </tr></thead>
   
@@ -232,9 +242,9 @@ Click the links below for information about each submission, including slides, v
   {% endif %}
   </td>
   <td>{{ p.authors }}</td>
-  <td style='white-space: nowrap'>
-    {{ p.poster_sessions | join: ",<br>" }}
-  </td>
+  <!--<td style='white-space: nowrap'>-->
+    <!--{{ p.poster_sessions | join: ",<br>" }}-->
+  <!--</td>-->
   </tr>
   {% endif %}
   {% endfor %}
