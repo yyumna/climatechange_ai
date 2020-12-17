@@ -259,6 +259,12 @@ Click the links below for information about each submission, including slides, v
 <a href="https://mila.quebec/en/yoshua-bengio/" target="_blank">Yoshua Bengio (Mila)</a> <br>
 \* Denotes co-lead organizers
 
+## Side Event Co-organizers
+
+<a href="https://www.kasiatokarska.com/" target="_blank">Kasia Tokarska (ETH Zürich)</a> <br>
+<a href="https://www.linkedin.com/in/mariajoaosousa/" target="_blank">Maria João Sousa (IST, ULisboa)</a> <br>
+<a href="https://www.linkedin.com/in/isabelletingzon/" target="_blank">Isabelle Tingzon (Thinking Machines Data Science)</a> <br>
+
 ## Program Committee
 
 Abdulrahman Ahmed (Cairo University)<br>
