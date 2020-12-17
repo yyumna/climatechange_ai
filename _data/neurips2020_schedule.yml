@@ -12,14 +12,7 @@
     hour: 11
     minute: 35
   desc: Welcome and opening remarks
-  more: |-
-    Join us for an overview of the space of climate change and machine learning, 
-    as well as for more info on the logistics of the workshop.<br><br>
-
-    Tune in via the <a href="/neurips2020-livestream" target="_blank">livestream</a> 
-    on the day of the workshop. Registered participants can also ask questions via the 
-    <a href="https://neurips2020.rocket.chat/channel/tackling-climate-change-with-ml-99" target="_blank">NeurIPS 2020 Rocket.Chat</a> 
-    (channel: #tackling-climate-change-with-ml-99).
+  url: https://slideslive.com/38947095/tackling-climate-change-with-ml?time=2049s
 - utc1:
     year: 2020
     month: 12
@@ -32,14 +25,9 @@
     day: 11
     hour: 12
     minute: 0
-  desc: Rose Mwebaza (UN Climate Technology Centre & Network) <i>(Invited talk)</i>
+  desc: 'Rose Mwebaza: <a href="https://slideslive.com/38947095/tackling-climate-change-with-ml?time=3828s" target="_blank">The Role of CTCN in Climate Technology Innovation</a> <i>(Invited talk)</i>'
   more: |-
-    Tune in via the <a href="/neurips2020-livestream" target="_blank">livestream</a> 
-    on the day of the workshop.
-
-    <p>
-        <strong>Dr. Rose Mwebaza</strong> is the Director of the Climate Technology Centre & Network (CTCN), the implementation arm of the UN Framework Convention on Climate Change Technology Mechanism. She served previously as Chief Natural Resources Officer at the African Development Bank. Dr. Mwebaza holds a PhD in Environment and Natural Resource Governance from Macquarie University, Sydney, Australia; a Master’s Degree in International Comparative Law from the University of Florida, U.S.A; and a Bachelor of Law Degree (LL.B, Hons.) from Makerere University, Kampala, Uganda. She is a former Carl Duisberg Research fellow at the World Conservation Union (IUCN) and a founding member of the Network for African Women Environmentalists. She has over 20 years of experience on a wide range of climate change, environment and sustainable development issues.
-    </p>
+    <strong>Speaker bio:</strong> Dr. Rose Mwebaza is the Director of the Climate Technology Centre & Network (CTCN), the implementation arm of the UN Framework Convention on Climate Change Technology Mechanism. She served previously as Chief Natural Resources Officer at the African Development Bank. Dr. Mwebaza holds a PhD in Environment and Natural Resource Governance from Macquarie University, Sydney, Australia; a Master’s Degree in International Comparative Law from the University of Florida, U.S.A; and a Bachelor of Law Degree (LL.B, Hons.) from Makerere University, Kampala, Uganda. She is a former Carl Duisberg Research fellow at the World Conservation Union (IUCN) and a founding member of the Network for African Women Environmentalists. She has over 20 years of experience on a wide range of climate change, environment and sustainable development issues.
 - utc1:
     year: 2020
     month: 12
@@ -52,9 +40,8 @@
     day: 11
     hour: 13
     minute: 0
-  desc: <i>Spotlight talks</i>
-  more: |-
-    Tune in for talks from selected poster presenters via the <a href="/neurips2020-livestream" target="_blank">livestream</a>. 
+  desc: Spotlight talks
+  url: https://slideslive.com/38947095/tackling-climate-change-with-ml?time=5273s
   subrows:
     - paper_id: 7
     - paper_id: 46
@@ -73,7 +60,7 @@
     day: 11
     hour: 14
     minute: 0
-  desc: <i>Poster session</i>
+  desc: Poster session
   more: replace_with_papers_in_session|13:00-14:00 UTC
 - utc1:
     year: 2020
@@ -87,9 +74,8 @@
     day: 11
     hour: 15
     minute: 0
-  desc: <i>Spotlight talks</i>
-  more: |-
-    Tune in for talks from selected poster presenters via the <a href="/neurips2020-livestream" target="_blank">livestream</a>. 
+  desc: Spotlight talks
+  url: https://slideslive.com/38947095/tackling-climate-change-with-ml?time=12564s
   subrows:
     - paper_id: 62
     - paper_id: 58
@@ -108,18 +94,14 @@
     day: 11
     hour: 16
     minute: 0
-  desc: Climate Change and ML - The Role of Public Policy <i>(Panel discussion)</i>
+  desc: "Panel: Climate Change and ML - The Role of Public Policy"
+  url: https://slideslive.com/38947095/tackling-climate-change-with-ml?time=16169s
   more: |-
     Join us for a panel discussion on pathways to impact via public policy 
     for work in climate change and machine learning.<br><br>
 
     Panelists: Dr. Moustapha Cissé (Google AI), Pete Clutton-Brock (Radiance International),
     Dr. Angel Hsu (Yale, UNC), Dr. Dava Newman (MIT), James Rattling Leaf, Sr. (GEO).<br><br>
-
-    Tune in via the <a href="/neurips2020-livestream" target="_blank">livestream</a> 
-    on the day of the workshop. Registered participants can also ask questions via the 
-    <a href="https://neurips2020.rocket.chat/channel/tackling-climate-change-with-ml-99" target="_blank">NeurIPS 2020 Rocket.Chat</a> 
-    (channel: #tackling-climate-change-with-ml-99).<br><br>
 
     Panelist bios:
     <ul>
@@ -141,7 +123,7 @@
     day: 11
     hour: 17
     minute: 00
-  desc: <i>Poster session</i>
+  desc: Poster session
   more: replace_with_papers_in_session|16:00-17:00 UTC
 - utc1:
     year: 2020
@@ -155,22 +137,15 @@
     day: 11
     hour: 18
     minute: 0
-  desc: Zico Kolter (Carnegie Mellon University) <i>(Invited talk)</i>
+  desc: 'Zico Kolter: <a href="https://slideslive.com/38947095/tackling-climate-change-with-ml?time=23971s" target="_blank">Actually end-to-end: Expanding the scope of ML via differentiable optimization and beyond</a> <i>(Invited talk)</i>'
   more: |-
-    Tune in via the <a href="/neurips2020-livestream" target="_blank">livestream</a> 
-    on the day of the workshop. Registered participants can also ask questions via the 
-    <a href="https://neurips2020.rocket.chat/channel/tackling-climate-change-with-ml-99" target="_blank">NeurIPS 2020 Rocket.Chat</a> 
-    (channel: #tackling-climate-change-with-ml-99).
-
-    <p>
-        <strong>Dr. Zico Kolter</strong> is an Associate Professor in the Computer Science Department at Carnegie Mellon University, 
+    <strong>Speaker bio:</strong> Dr. Zico Kolter is an Associate Professor in the Computer Science Department at Carnegie Mellon University, 
         and also serves as chief scientist of AI research for the Bosch Center for Artificial Intelligence. 
         His work spans the intersection of machine learning and optimization, with a large focus on developing 
         more robust and rigorous methods in deep learning. In addition, he has worked in a number of application 
         areas, highlighted by work on sustainability and smart energy systems. He is a recipient of the DARPA Young 
         Faculty Award, a Sloan Fellowship, and best paper awards at NeurIPS, ICML (honorable mention), IJCAI, KDD, 
         and PESGM.  
-    </p>
 - utc1:
     year: 2020
     month: 12
@@ -183,26 +158,21 @@
     day: 11
     hour: 19
     minute: 0
-  desc: Climate Change and ML in the Private Sector <i>(Panel discussion)</i>
+  desc: "Panel: Climate Change and ML in the Private Sector"
+  url: https://slideslive.com/38947095/tackling-climate-change-with-ml?time=27112s
   more: |-
     Join us for a panel discussion on pathways to impact via the private sector 
     for work in climate change and machine learning.<br><br>
 
-    Panelists: Dr. Anima Anandkumar (Caltech, NVIDIA), Dr. Lea Boche (EPRI), 
-    Dr. Tom Boussie (Activate), Andrew Cottam (Restor Foundation), Dr. Aisha Walcott (IBM Research)<br><br>
-
-    Tune in via the <a href="/neurips2020-livestream" target="_blank">livestream</a> 
-    on the day of the workshop. Registered participants can also ask questions via the 
-    <a href="https://neurips2020.rocket.chat/channel/tackling-climate-change-with-ml-99" target="_blank">NeurIPS 2020 Rocket.Chat</a> 
-    (channel: #tackling-climate-change-with-ml-99).<br><br>
+    Panelists: Dr. Lea Boche (EPRI), 
+    Dr. Tom Boussie (Activate), Andrew Cottam (Restor Foundation), Dr. Aisha Walcott-Bryant (IBM Research)<br><br>
 
     Panelist bios:
     <ul>
-        <li><strong>Dr. Anima Anandkumar</strong> is a Bren Professor at Caltech and Director of ML Research at NVIDIA. She was previously a Principal Scientist at Amazon Web Services. She has received several honors such as Alfred. P. Sloan Fellowship, NSF Career Award, Young investigator awards from DoD, and Faculty Fellowships from Microsoft, Google, Facebook, and Adobe. She is part of the World Economic Forum's Expert Network. She is passionate about designing principled AI algorithms and applying them in interdisciplinary applications. Her research focus is on unsupervised AI, optimization, and tensor methods.</li>
         <li><strong>Dr. Lea Boche</strong> is the Technical Leader of the Generation Sector at the Electric Power Research Institute (EPRI), a non-profit organization which conducts research, development, and demonstration projects focused on electricity generation and delivery. Prior to this role, Dr. Boche served as a technical leader for AI at EPRI. Dr. Boche earned her Doctor of Engineering in Power Plant Optimization and a diplom in Energy and Process Engineering from Technische Universität Berlin.</li>
         <li><strong>Dr. Tom Boussie</strong> serves as managing director of technology at Activate-Cyclotron Road, a fellowship program based out of Berkeley Lab focused on empowering science innovators to advance their ideas from concept to viable first product. A number of climate change focused fellows have gone through Cyclotron Road, including Terrafuse, Opus12, and Noon Energy. Dr. Boussie works closely with the fellows, providing guidance as they translate research into impact through a start-up landscape. Prior to this role, Dr. Boussie co-founded Rennovia, which developed catalytic process technologies for bio-based chemical manufacturing. Dr. Boussie earned his PhD in Chemistry from UC Berkeley.</li>
         <li><strong>Andrew Cottam</strong> is the CTO of Restor, an open data platform of ecological insights for the global restoration movement. He has worked for over 15 years in the fields of biodiversity information systems, GIS and policy-relevant analyses – firstly for the UK government advisors on nature conservation (JNCC) and then for the UNEP-World Conservation Monitoring Centre as Head of GIS. He has worked with many international NGOs (Wetlands International, IUCN, Birdlife International and others) and in 2011 won the ESRI Society for Conservation Award for Best Interactive Web Map for the Critical Site Network Tool. His specialist areas are global species analyses, biodiversity reporting and interactive web mapping. Andrew holds a Masters Degree in Conservation Biology from the Durrell Institute of Conservation and Ecology in Canterbury, Kent, UK.</li>
-        <li><strong>Dr. Aisha Walcott</strong> is a research scientist and manager at IBM Research Africa - Nairobi, Kenya. She leads a team of researcher scientists and engineers in the development of novel innovations in the Future of Health and Climate. She and her team leverage AI, Blockchain, and other technologies to create solutions in Water Access and Management, Health Systems transformation, and Population Health, particularly for developing and emerging countries. She has a deep passion for AI innovations that improve Global Health. When Dr. Walcott joined the IBM Research Africa lab, she led the research efforts to improve mobility and transportation in developing cities. The aim was to provide significant and impactful value-added services that ease the movement of people, goods, and services in Africa. She and her team developed innovative intelligent transportation systems data capture methods and analytical tools, to provide computational understanding about the local driving and infrastructure context. Dr. Walcott earned her PhD in the Electrical Engineering and Computer Science Department at MIT in robotics, as a member of the Computer Science and Artificial Intelligent lab (CSAIL).</li>
+        <li><strong>Dr. Aisha Walcott-Bryant</strong> is a research scientist and manager at IBM Research Africa - Nairobi, Kenya. She leads a team of researcher scientists and engineers in the development of novel innovations in the Future of Health and Climate. She and her team leverage AI, Blockchain, and other technologies to create solutions in Water Access and Management, Health Systems transformation, and Population Health, particularly for developing and emerging countries. She has a deep passion for AI innovations that improve Global Health. When Dr. Walcott-Bryant joined the IBM Research Africa lab, she led the research efforts to improve mobility and transportation in developing cities. The aim was to provide significant and impactful value-added services that ease the movement of people, goods, and services in Africa. She and her team developed innovative intelligent transportation systems data capture methods and analytical tools, to provide computational understanding about the local driving and infrastructure context. Dr. Walcott-Bryant earned her PhD in the Electrical Engineering and Computer Science Department at MIT in robotics, as a member of the Computer Science and Artificial Intelligent lab (CSAIL).</li>
     </ul>
 - utc1:
     year: 2020
@@ -216,9 +186,8 @@
     day: 11
     hour: 20
     minute: 0
-  desc: <i>Spotlight talks</i>
-  more: |-
-    Tune in for talks from selected poster presenters via the <a href="/neurips2020-livestream" target="_blank">livestream</a>. 
+  desc: Spotlight talks
+  url: https://slideslive.com/38947095/tackling-climate-change-with-ml?time=30556s
   subrows:
     - paper_id: 57
     - paper_id: 82
@@ -237,7 +206,7 @@
     day: 11
     hour: 21
     minute: 00
-  desc: <i>Poster session</i>
+  desc: Poster session
   more: replace_with_papers_in_session|20:00-21:00 UTC
 
 - utc1:
@@ -252,15 +221,9 @@
     day: 11
     hour: 22
     minute: 0
-  desc: Jennifer Chayes (UC Berkeley) <i>(Invited talk)</i>
+  desc: 'Jennifer Chayes: <a href="https://slideslive.com/38947095/tackling-climate-change-with-ml?time=37935s" target="_blank">ML & Data Science for a Sustainable Future</a> <i>(Invited talk)</i>'
   more: |-
-    Tune in via the <a href="/neurips2020-livestream" target="_blank">livestream</a> 
-    on the day of the workshop. Registered participants can also ask questions via the 
-    <a href="https://neurips2020.rocket.chat/channel/tackling-climate-change-with-ml-99" target="_blank">NeurIPS 2020 Rocket.Chat</a> 
-    (channel: #tackling-climate-change-with-ml-99).
-
-    <p>
-        <strong>Dr. Jennifer Chayes</strong> is Associate Provost of the Division of Computing, Data Science, and Society, and 
+        <strong>Speaker bio:</strong> Dr. Jennifer Chayes is Associate Provost of the Division of Computing, Data Science, and Society, and 
         Dean of the School of Information. She is Professor of EECS, Mathematics, Statistics, and the School of 
         Information. Before joining Berkeley, she was at Microsoft for over 20 years, where she was Technical 
         Fellow, and founder and managing director of three interdisciplinary labs: Microsoft Research New 
@@ -273,7 +236,6 @@
         Institute Women of Vision Leadership Award, the John von Neumann Award of the Society for Industrial and 
         Applied Mathematics, and an honorary doctorate from Leiden University. She is a member of the American 
         Academy of Arts and Sciences and the National Academy of Sciences.
-    </p>
 - utc1:
     year: 2020
     month: 12
@@ -286,15 +248,9 @@
     day: 11
     hour: 22
     minute: 50
-  desc: Vinod Khosla (Khosla Ventures) <i>(Fireside chat)</i>
-  more: |-
-    Tune in via the <a href="/neurips2020-livestream" target="_blank">livestream</a> 
-    on the day of the workshop. Registered participants can also ask questions via the 
-    <a href="https://neurips2020.rocket.chat/channel/tackling-climate-change-with-ml-99" target="_blank">NeurIPS 2020 Rocket.Chat</a> 
-    (channel: #tackling-climate-change-with-ml-99).
-
-    <p>
-        <strong>Vinod Khosla</strong> is an entrepreneur and venture capitalist. He is the founder of Khosla Ventures, 
+  desc: 'Vinod Khosla: <a href="https://slideslive.com/38947095/tackling-climate-change-with-ml?time=41461s" target="_blank">AI: Can it be a climate changer?</a> <i>(Invited talk)</i>'
+  more: |-    
+    <strong>Speaker bio:</strong> Vinod Khosla is an entrepreneur and venture capitalist. He is the founder of Khosla Ventures, 
         a VC firm focused on energy and technology companies with a particular interest in big problems 
         amenable to technology solutions - such as climate change. Khosla Ventures has invested in technologies 
         across the climate and energy space, ranging from battery technologies to plant-based meats and bioplastics. 
@@ -304,7 +260,6 @@
         approach to the environment. Khosla holds a bachelor’s degree in electrical engineering from 
         the Indian Institute of Technology (IIT), a master’s degree in biomedical engineering from 
         Carnegie Mellon University and an MBA from Stanford University.
-    </p>
 - utc1:
     year: 2020
     month: 12
@@ -318,11 +273,7 @@
     hour: 23
     minute: 15
   desc: Closing remarks and awards
-  more: |-
-    Join us for some closing remarks, calls to action, and an announcement of best paper awards!<br><br>
-
-    Tune in via the <a href="/neurips2020-livestream" target="_blank">livestream</a> 
-    on the day of the workshop.
+  url: https://slideslive.com/38947095/tackling-climate-change-with-ml?time=44903s
 - utc1:
     year: 2020
     month: 12
@@ -336,7 +287,3 @@
     hour: 0
     minute: 0
   desc: Poster reception
-  more: |-
-    Mingle with other workshop participants in our 
-    <a href="/neurips2020-poster-session" target="_blank">online space</a> on Gather.town! 
-    (Registration is required to attend.)
