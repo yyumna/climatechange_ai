@@ -2,10 +2,12 @@ Climate change is one of the greatest problems society has ever faced, with incr
 
 ## Running the site locally
 
+1. Ensure [git](https://git-scm.com/) is installed
 1. Ensure [ruby](https://www.ruby-lang.org/en/downloads/) is installed
-2. `gem install bundler`
-3. `bundle install`
-4. `git submodule update --init --recursive`
-5. `gem install bundler`
-6. `bundle exec jekyll serve`, wait ~20 seconds
-7. visit `localhost:4000`
+1. Ensure [bundler](https://bundler.io/) is installed for downloading Ruby dependencies (run `gem install bundler` if not)
+1. Clone this repository and `cd` into it (e.g. `git clone https://github.com/climatechange-ai/climatechange_ai.git && cd climatechange_ai`)
+1. Run `git submodule update --init --recursive` to get additional files stored in a Git submodule
+1. Run `bundle install` to install Ruby library dependencies
+1. Run `bundle exec jekyll serve` to build and locally serve the site, wait ~20 seconds
+1. Visit `localhost:4000` in your web browser to test out the site locally!
+1. Make any changes to files you want to test, then wait for the site to rebuild (should take ~10 seconds for each change)
