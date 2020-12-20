@@ -57,10 +57,6 @@
       image_url: images/people/jeremyirvin_400x400.jpg
       name: Jeremy Irvin
       affiliation: Stanford University
-    - website_url: https://www.linkedin.com/in/mariajoaosousa/
-      image_url: images/people/mariajoaosousa_400x400.jpg
-      name: Maria João Sousa
-      affiliation: IST, ULisboa
     - image_url: images/people/johnkieffer_400x400.jpg
       name: John Kieffer
       affiliation: University of Pittsburgh
@@ -94,9 +90,10 @@
       image_url: images/people/keltonminor_400x400.jpg
       name: Kelton Minor
       affiliation: UCPH, UC Berkeley
-    - image_url: images/people/felipeoviedo_400x400.jpg
+    - website_url: https://www.microsoft.com/en-us/research/people/juoviedo/
+      image_url: images/people/felipeoviedo_400x400.jpg
       name: Felipe Oviedo
-      affiliation: Microsoft AI for Good
+      affiliation: Microsoft AI for Good, MIT
     - website_url: https://genp.github.io
       image_url: images/people/genevievepatterson_400x400.jpg
       name: Geneviève Patterson
@@ -109,6 +106,10 @@
       image_url: images/people/krissankaran_400x400.jpg
       name: Kris Sankaran
       affiliation: UW Madison
+    - website_url: https://www.linkedin.com/in/mariajoaosousa/
+      image_url: images/people/mariajoaosousa_400x400.jpg
+      name: Maria João Sousa
+      affiliation: IST, ULisboa
     - website_url: https://sites.google.com/view/katherinestapleton
       image_url: images/people/katherinestapleton_400x400.jpg
       name: Katherine Stapleton
