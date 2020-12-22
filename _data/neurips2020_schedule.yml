@@ -27,7 +27,9 @@
     minute: 0
   desc: 'Rose Mwebaza: <a href="https://slideslive.com/38947095/tackling-climate-change-with-ml?time=3828s" target="_blank">The Role of CTCN in Climate Technology Innovation</a> <i>(Invited talk)</i>'
   more: |-
-    <strong>Speaker bio:</strong> Dr. Rose Mwebaza is the Director of the Climate Technology Centre & Network (CTCN), the implementation arm of the UN Framework Convention on Climate Change Technology Mechanism. She served previously as Chief Natural Resources Officer at the African Development Bank. Dr. Mwebaza holds a PhD in Environment and Natural Resource Governance from Macquarie University, Sydney, Australia; a Master’s Degree in International Comparative Law from the University of Florida, U.S.A; and a Bachelor of Law Degree (LL.B, Hons.) from Makerere University, Kampala, Uganda. She is a former Carl Duisberg Research fellow at the World Conservation Union (IUCN) and a founding member of the Network for African Women Environmentalists. She has over 20 years of experience on a wide range of climate change, environment and sustainable development issues.
+    <p><strong>Summary:</strong>  Dr. Rose Mwebaza provides an overview of the activities within the Climate Technology Centre & Network (CTCN) and how multiple stakeholders can leverage the UNFCCC framework to bridge research and application.</p>
+
+    <p><strong>Speaker bio:</strong> Dr. Rose Mwebaza is the Director of the Climate Technology Centre & Network (CTCN), the implementation arm of the UN Framework Convention on Climate Change Technology Mechanism. She served previously as Chief Natural Resources Officer at the African Development Bank. Dr. Mwebaza holds a PhD in Environment and Natural Resource Governance from Macquarie University, Sydney, Australia; a Master’s Degree in International Comparative Law from the University of Florida, U.S.A; and a Bachelor of Law Degree (LL.B, Hons.) from Makerere University, Kampala, Uganda. She is a former Carl Duisberg Research fellow at the World Conservation Union (IUCN) and a founding member of the Network for African Women Environmentalists. She has over 20 years of experience on a wide range of climate change, environment and sustainable development issues.</p>
 - utc1:
     year: 2020
     month: 12
@@ -139,13 +141,16 @@
     minute: 0
   desc: 'Zico Kolter: <a href="https://slideslive.com/38947095/tackling-climate-change-with-ml?time=23971s" target="_blank">Actually end-to-end: Expanding the scope of ML via differentiable optimization and beyond</a> <i>(Invited talk)</i>'
   more: |-
-    <strong>Speaker bio:</strong> Dr. Zico Kolter is an Associate Professor in the Computer Science Department at Carnegie Mellon University, 
+    
+    <p><strong>Summary:</strong> Dr. Zico Kolter provides a roadmap towards truly end-to-end learning, with a focus on applications in the electricity sector. He discusses techniques to integrate decision analysis into deep neural networks.</p>
+
+    <p><strong>Speaker bio:</strong> Dr. Zico Kolter is an Associate Professor in the Computer Science Department at Carnegie Mellon University, 
         and also serves as chief scientist of AI research for the Bosch Center for Artificial Intelligence. 
         His work spans the intersection of machine learning and optimization, with a large focus on developing 
         more robust and rigorous methods in deep learning. In addition, he has worked in a number of application 
         areas, highlighted by work on sustainability and smart energy systems. He is a recipient of the DARPA Young 
         Faculty Award, a Sloan Fellowship, and best paper awards at NeurIPS, ICML (honorable mention), IJCAI, KDD, 
-        and PESGM.  
+        and PESGM.</p> 
 - utc1:
     year: 2020
     month: 12
@@ -223,7 +228,9 @@
     minute: 0
   desc: 'Jennifer Chayes: <a href="https://slideslive.com/38947095/tackling-climate-change-with-ml?time=37935s" target="_blank">ML & Data Science for a Sustainable Future</a> <i>(Invited talk)</i>'
   more: |-
-        <strong>Speaker bio:</strong> Dr. Jennifer Chayes is Associate Provost of the Division of Computing, Data Science, and Society, and 
+        <p><strong>Summary:</strong> Dr. Jennifer Chayes highlights ongoing work at UC Berkeley at the intersection of climate change and AI, ML, and data science, from ecology to materials science to economics and beyond.</p>
+
+        <p><strong>Speaker bio:</strong> Dr. Jennifer Chayes is Associate Provost of the Division of Computing, Data Science, and Society, and 
         Dean of the School of Information. She is Professor of EECS, Mathematics, Statistics, and the School of 
         Information. Before joining Berkeley, she was at Microsoft for over 20 years, where she was Technical 
         Fellow, and founder and managing director of three interdisciplinary labs: Microsoft Research New 
@@ -235,7 +242,7 @@
         received numerous awards for both leadership and scientific contributions, including the Anita Borg 
         Institute Women of Vision Leadership Award, the John von Neumann Award of the Society for Industrial and 
         Applied Mathematics, and an honorary doctorate from Leiden University. She is a member of the American 
-        Academy of Arts and Sciences and the National Academy of Sciences.
+        Academy of Arts and Sciences and the National Academy of Sciences.</p>
 - utc1:
     year: 2020
     month: 12
@@ -250,7 +257,10 @@
     minute: 50
   desc: 'Vinod Khosla: <a href="https://slideslive.com/38947095/tackling-climate-change-with-ml?time=41461s" target="_blank">AI: Can it be a climate changer?</a> <i>(Invited talk)</i>'
   more: |-    
-    <strong>Speaker bio:</strong> Vinod Khosla is an entrepreneur and venture capitalist. He is the founder of Khosla Ventures, 
+
+    <p><strong>Summary:</strong> Vinod Khosla urges the machine learning community to focus on those hard, unsolved, and high-risk technological problems that could make a serious dent in climate change mitigation. He identifies twelve such problems for which entrepreneurial "instigators" will be needed, and explores the role of AI in addressing some of the associated challenges.</p>
+
+    <p><strong>Speaker bio:</strong> Vinod Khosla is an entrepreneur and venture capitalist. He is the founder of Khosla Ventures, 
         a VC firm focused on energy and technology companies with a particular interest in big problems 
         amenable to technology solutions - such as climate change. Khosla Ventures has invested in technologies 
         across the climate and energy space, ranging from battery technologies to plant-based meats and bioplastics. 
@@ -259,7 +269,7 @@
         passionate about scaling energy sources, social entrepreneurship, and promoting a pragmatic 
         approach to the environment. Khosla holds a bachelor’s degree in electrical engineering from 
         the Indian Institute of Technology (IIT), a master’s degree in biomedical engineering from 
-        Carnegie Mellon University and an MBA from Stanford University.
+        Carnegie Mellon University and an MBA from Stanford University.</p>
 - utc1:
     year: 2020
     month: 12
